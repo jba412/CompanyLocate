@@ -6,7 +6,7 @@ var array = [
     rank_change: "0.0",
     revenue: "572754.0",
     profit: "13673.0",
-    num. of employees: "2300000.0",
+    num_of_employees: "2300000.0",
     sector: "Retailing",
     city: "Bentonville",
     state: "AR",
@@ -18,7 +18,7 @@ var array = [
     CEO: "C. Douglas McMillon",
     Website: "https://www.stock.walmart.com",
     Ticker: "WMT",
-    Market Cap: "352037"
+    market_cap: "352037"
   },
   {
     company: "Amazon",
@@ -26,7 +26,7 @@ var array = [
     rank_change: "0.0",
     revenue: "469822.0",
     profit: "33364.0",
-    num. of employees: "1608000.0",
+    num_of_employees: "1608000.0",
     sector: "Retailing",
     city: "Seattle",
     state: "WA",
@@ -38,7 +38,7 @@ var array = [
     CEO: "Andrew R. Jassy",
     Website: "www.amazon.com",
     Ticker: "AMZN",
-    Market Cap: "1202717"
+    market_cap: "1202717"
   },
   {
     company: "Apple",
@@ -46,7 +46,7 @@ var array = [
     rank_change: "0.0",
     revenue: "365817.0",
     profit: "94680.0",
-    num. of employees: "154000.0",
+    num_of_employees: "154000.0",
     sector: "Technology",
     city: "Cupertino",
     state: "CA",
@@ -58,7 +58,7 @@ var array = [
     CEO: "Timothy D. Cook",
     Website: "www.apple.com",
     Ticker: "AAPL",
-    Market Cap: "2443962"
+    market_cap: "2443962"
   },
   {
     company: "CVS Health",
@@ -66,7 +66,7 @@ var array = [
     rank_change: "0.0",
     revenue: "292111.0",
     profit: "7910.0",
-    num. of employees: "258000.0",
+    num_of_employees: "258000.0",
     sector: "Health Care",
     city: "Woonsocket",
     state: "RI",
@@ -78,7 +78,7 @@ var array = [
     CEO: "Karen Lynch",
     Website: "https://www.cvshealth.com",
     Ticker: "CVS",
-    Market Cap: "125204"
+    market_cap: "125204"
   },
   {
     company: "UnitedHealth Group",
@@ -86,7 +86,7 @@ var array = [
     rank_change: "0.0",
     revenue: "287597.0",
     profit: "17285.0",
-    num. of employees: "350000.0",
+    num_of_employees: "350000.0",
     sector: "Health Care",
     city: "Minnetonka",
     state: "MN",
@@ -98,7 +98,7 @@ var array = [
     CEO: "Andrew P. Witty",
     Website: "www.unitedhealthgroup.com",
     Ticker: "UNH",
-    Market Cap: "500468"
+    market_cap: "500468"
   },
   {
     company: "Exxon Mobil",
@@ -106,7 +106,7 @@ var array = [
     rank_change: "4.0",
     revenue: "285640.0",
     profit: "23040.0",
-    num. of employees: "63000.0",
+    num_of_employees: "63000.0",
     sector: "Energy",
     city: "Irving",
     state: "TX",
@@ -118,7 +118,7 @@ var array = [
     CEO: "Darren W. Woods",
     Website: "www.exxonmobil.com",
     Ticker: "XOM",
-    Market Cap: "371841"
+    market_cap: "371841"
   },
   {
     company: "Berkshire Hathaway",
@@ -126,7 +126,7 @@ var array = [
     rank_change: "-1.0",
     revenue: "276094.0",
     profit: "89795.0",
-    num. of employees: "372000.0",
+    num_of_employees: "372000.0",
     sector: "Financials",
     city: "Omaha",
     state: "NE",
@@ -138,7 +138,7 @@ var array = [
     CEO: "Warren E. Buffett",
     Website: "www.berkshirehathaway.com",
     Ticker: "BRKA",
-    Market Cap: "625468"
+    market_cap: "625468"
   },
   {
     company: "Alphabet",
@@ -146,7 +146,7 @@ var array = [
     rank_change: "1.0",
     revenue: "257637.0",
     profit: "76033.0",
-    num. of employees: "156500.0",
+    num_of_employees: "156500.0",
     sector: "Technology",
     city: "Mountain View",
     state: "CA",
@@ -158,7 +158,7 @@ var array = [
     CEO: "Sundar Pichai",
     Website: "https://www.abc.xyz",
     Ticker: "GOOGL",
-    Market Cap: "1309359"
+    market_cap: "1309359"
   },
   {
     company: "McKesson",
@@ -166,7 +166,7 @@ var array = [
     rank_change: "-2.0",
     revenue: "238228.0",
     profit: "-4539.0",
-    num. of employees: "67500.0",
+    num_of_employees: "67500.0",
     sector: "Health Care",
     city: "Irving",
     state: "TX",
@@ -178,7 +178,7 @@ var array = [
     CEO: "Brian S. Tyler",
     Website: "www.mckesson.com",
     Ticker: "MCK",
-    Market Cap: "47377"
+    market_cap: "47377"
   },
   {
     company: "AmerisourceBergen",
@@ -186,7 +186,7 @@ var array = [
     rank_change: "-2.0",
     revenue: "213988.8",
     profit: "1539.9",
-    num. of employees: "40000.0",
+    num_of_employees: "40000.0",
     sector: "Health Care",
     city: "Conshohocken",
     state: "PA",
@@ -198,7 +198,7 @@ var array = [
     CEO: "Steven H. Collis",
     Website: "www.amerisourcebergen.com",
     Ticker: "ABC",
-    Market Cap: "29972"
+    market_cap: "29972"
   },
   {
     company: "Costco Wholesale",
@@ -206,7 +206,7 @@ var array = [
     rank_change: "1.0",
     revenue: "195929.0",
     profit: "5007.0",
-    num. of employees: "288000.0",
+    num_of_employees: "288000.0",
     sector: "Retailing",
     city: "Issaquah",
     state: "WA",
@@ -218,7 +218,7 @@ var array = [
     CEO: "W. Craig Jelinek",
     Website: "www.costco.com",
     Ticker: "COST",
-    Market Cap: "230443"
+    market_cap: "230443"
   },
   {
     company: "Cigna",
@@ -226,7 +226,7 @@ var array = [
     rank_change: "1.0",
     revenue: "174078.0",
     profit: "5365.0",
-    num. of employees: "72963.0",
+    num_of_employees: "72963.0",
     sector: "Health Care",
     city: "Bloomfield",
     state: "CT",
@@ -238,7 +238,7 @@ var array = [
     CEO: "David Cordani",
     Website: "https://www.cigna.com",
     Ticker: "CI",
-    Market Cap: "88459"
+    market_cap: "88459"
   },
   {
     company: "AT&T",
@@ -246,7 +246,7 @@ var array = [
     rank_change: "-2.0",
     revenue: "168864.0",
     profit: "20081.0",
-    num. of employees: "202600.0",
+    num_of_employees: "202600.0",
     sector: "Telecommunications",
     city: "Dallas",
     state: "TX",
@@ -258,7 +258,7 @@ var array = [
     CEO: "John T. Stankey",
     Website: "www.att.com",
     Ticker: "T",
-    Market Cap: "148907"
+    market_cap: "148907"
   },
   {
     company: "Microsoft",
@@ -266,7 +266,7 @@ var array = [
     rank_change: "1.0",
     revenue: "168088.0",
     profit: "61271.0",
-    num. of employees: "181000.0",
+    num_of_employees: "181000.0",
     sector: "Technology",
     city: "Redmond",
     state: "WA",
@@ -278,7 +278,7 @@ var array = [
     CEO: "Satya Nadella",
     Website: "www.microsoft.com",
     Ticker: "MSFT",
-    Market Cap: "1941033"
+    market_cap: "1941033"
   },
   {
     company: "Cardinal Health",
@@ -286,7 +286,7 @@ var array = [
     rank_change: "-1.0",
     revenue: "162467.0",
     profit: "611.0",
-    num. of employees: "46827.0",
+    num_of_employees: "46827.0",
     sector: "Health Care",
     city: "Dublin",
     state: "OH",
@@ -298,7 +298,7 @@ var array = [
     CEO: "Jason Hollar",
     Website: "www.cardinalhealth.com",
     Ticker: "CAH",
-    Market Cap: "15169"
+    market_cap: "15169"
   },
   {
     company: "Chevron",
@@ -306,7 +306,7 @@ var array = [
     rank_change: "11.0",
     revenue: "162465.0",
     profit: "15625.0",
-    num. of employees: "42595.0",
+    num_of_employees: "42595.0",
     sector: "Energy",
     city: "San Ramon",
     state: "CA",
@@ -318,7 +318,7 @@ var array = [
     CEO: "Michael K. Wirth",
     Website: "www.chevron.com",
     Ticker: "CVX",
-    Market Cap: "284132"
+    market_cap: "284132"
   },
   {
     company: "Home Depot",
@@ -326,7 +326,7 @@ var array = [
     rank_change: "1.0",
     revenue: "151157.0",
     profit: "16433.0",
-    num. of employees: "490600.0",
+    num_of_employees: "490600.0",
     sector: "Retailing",
     city: "Atlanta",
     state: "GA",
@@ -338,7 +338,7 @@ var array = [
     CEO: "Edward P. Decker",
     Website: "www.homedepot.com",
     Ticker: "HD",
-    Market Cap: "308152"
+    market_cap: "308152"
   },
   {
     company: "Walgreens Boots Alliance",
@@ -346,7 +346,7 @@ var array = [
     rank_change: "-2.0",
     revenue: "148579.0",
     profit: "2542.0",
-    num. of employees: "258500.0",
+    num_of_employees: "258500.0",
     sector: "Food & Drug Stores",
     city: "Deerfield",
     state: "IL",
@@ -358,7 +358,7 @@ var array = [
     CEO: "Roz Brewer",
     Website: "www.walgreensbootsalliance.com",
     Ticker: "WBA",
-    Market Cap: "33360"
+    market_cap: "33360"
   },
   {
     company: "Marathon Petroleum",
@@ -366,7 +366,7 @@ var array = [
     rank_change: "13.0",
     revenue: "141032.0",
     profit: "9738.0",
-    num. of employees: "17700.0",
+    num_of_employees: "17700.0",
     sector: "Energy",
     city: "Findlay",
     state: "OH",
@@ -378,7 +378,7 @@ var array = [
     CEO: "Michael J. Hennigan",
     Website: "www.marathonpetroleum.com",
     Ticker: "MPC",
-    Market Cap: "47526"
+    market_cap: "47526"
   },
   {
     company: "Elevance Health",
@@ -386,7 +386,7 @@ var array = [
     rank_change: "3.0",
     revenue: "138639.0",
     profit: "6104.0",
-    num. of employees: "98200.0",
+    num_of_employees: "98200.0",
     sector: "Health Care",
     city: "Indianapolis",
     state: "IN",
@@ -398,7 +398,7 @@ var array = [
     CEO: "Gail K. Boudreaux",
     Website: "www.elevancehealth.com",
     Ticker: "ELV",
-    Market Cap: "119923"
+    market_cap: "119923"
   },
   {
     company: "Kroger",
@@ -406,7 +406,7 @@ var array = [
     rank_change: "-4.0",
     revenue: "137888.0",
     profit: "1655.0",
-    num. of employees: "420000.0",
+    num_of_employees: "420000.0",
     sector: "Food & Drug Stores",
     city: "Cincinnati",
     state: "OH",
@@ -418,7 +418,7 @@ var array = [
     CEO: "W. Rodney McMullen",
     Website: "www.thekrogerco.com",
     Ticker: "KR",
-    Market Cap: "33846"
+    market_cap: "33846"
   },
   {
     company: "Ford Motor",
@@ -426,7 +426,7 @@ var array = [
     rank_change: "-1.0",
     revenue: "136341.0",
     profit: "17937.0",
-    num. of employees: "183000.0",
+    num_of_employees: "183000.0",
     sector: "Motor Vehicles & Parts",
     city: "Dearborn",
     state: "MI",
@@ -438,7 +438,7 @@ var array = [
     CEO: "James D. Farley Jr.",
     Website: "www.ford.com",
     Ticker: "F",
-    Market Cap: "50609"
+    market_cap: "50609"
   },
   {
     company: "Verizon Communications",
@@ -446,7 +446,7 @@ var array = [
     rank_change: "-3.0",
     revenue: "133613.0",
     profit: "22065.0",
-    num. of employees: "118400.0",
+    num_of_employees: "118400.0",
     sector: "Telecommunications",
     city: "New York",
     state: "NY",
@@ -458,7 +458,7 @@ var array = [
     CEO: "Hans E. Vestberg",
     Website: "www.verizon.com",
     Ticker: "VZ",
-    Market Cap: "211872"
+    market_cap: "211872"
   },
   {
     company: "JPMorgan Chase",
@@ -466,7 +466,7 @@ var array = [
     rank_change: "-5.0",
     revenue: "127202.0",
     profit: "48334.0",
-    num. of employees: "271025.0",
+    num_of_employees: "271025.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -478,7 +478,7 @@ var array = [
     CEO: "James Dimon",
     Website: "www.jpmorganchase.com",
     Ticker: "JPM",
-    Market Cap: "336469"
+    market_cap: "336469"
   },
   {
     company: "General Motors",
@@ -486,7 +486,7 @@ var array = [
     rank_change: "-3.0",
     revenue: "127004.0",
     profit: "10019.0",
-    num. of employees: "157000.0",
+    num_of_employees: "157000.0",
     sector: "Motor Vehicles & Parts",
     city: "Detroit",
     state: "MI",
@@ -498,7 +498,7 @@ var array = [
     CEO: "Mary T. Barra",
     Website: "www.gm.com",
     Ticker: "GM",
-    Market Cap: "50156"
+    market_cap: "50156"
   },
   {
     company: "Centene",
@@ -506,7 +506,7 @@ var array = [
     rank_change: "-2.0",
     revenue: "125982.0",
     profit: "1347.0",
-    num. of employees: "72500.0",
+    num_of_employees: "72500.0",
     sector: "Health Care",
     city: "St. Louis",
     state: "MO",
@@ -518,7 +518,7 @@ var array = [
     CEO: "Sarah M. London",
     Website: "www.centene.com",
     Ticker: "CNC",
-    Market Cap: "53429"
+    market_cap: "53429"
   },
   {
     company: "Meta Platforms",
@@ -526,7 +526,7 @@ var array = [
     rank_change: "7.0",
     revenue: "117929.0",
     profit: "39370.0",
-    num. of employees: "71970.0",
+    num_of_employees: "71970.0",
     sector: "Technology",
     city: "Menlo Park",
     state: "CA",
@@ -538,7 +538,7 @@ var array = [
     CEO: "Mark Zuckerberg",
     Website: "https://investor.fb.com",
     Ticker: "META",
-    Market Cap: "475718"
+    market_cap: "475718"
   },
   {
     company: "Comcast",
@@ -546,7 +546,7 @@ var array = [
     rank_change: "-2.0",
     revenue: "116385.0",
     profit: "14159.0",
-    num. of employees: "189000.0",
+    num_of_employees: "189000.0",
     sector: "Telecommunications",
     city: "Philadelphia",
     state: "PA",
@@ -558,7 +558,7 @@ var array = [
     CEO: "Brian L. Roberts",
     Website: "www.comcastcorporation.com",
     Ticker: "CMCSA",
-    Market Cap: "185069"
+    market_cap: "185069"
   },
   {
     company: "Phillips 66",
@@ -566,7 +566,7 @@ var array = [
     rank_change: "19.0",
     revenue: "114852.0",
     profit: "1317.0",
-    num. of employees: "14000.0",
+    num_of_employees: "14000.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -578,7 +578,7 @@ var array = [
     CEO: "Mark E. Lashier",
     Website: "www.phillips66.com",
     Ticker: "PSX",
-    Market Cap: "41091"
+    market_cap: "41091"
   },
   {
     company: "Valero Energy",
@@ -586,7 +586,7 @@ var array = [
     rank_change: "23.0",
     revenue: "108332.0",
     profit: "930.0",
-    num. of employees: "9804.0",
+    num_of_employees: "9804.0",
     sector: "Energy",
     city: "San Antonio",
     state: "TX",
@@ -598,7 +598,7 @@ var array = [
     CEO: "Joseph W. Gorder",
     Website: "www.valero.com",
     Ticker: "VLO",
-    Market Cap: "44376"
+    market_cap: "44376"
   },
   {
     company: "Dell Technologies",
@@ -606,7 +606,7 @@ var array = [
     rank_change: "-3.0",
     revenue: "106995.0",
     profit: "5563.0",
-    num. of employees: "133000.0",
+    num_of_employees: "133000.0",
     sector: "Technology",
     city: "Round Rock",
     state: "TX",
@@ -618,7 +618,7 @@ var array = [
     CEO: "Michael S. Dell",
     Website: "www.delltechnologies.com",
     Ticker: "DELL",
-    Market Cap: "32568"
+    market_cap: "32568"
   },
   {
     company: "Target",
@@ -626,7 +626,7 @@ var array = [
     rank_change: "-2.0",
     revenue: "106005.0",
     profit: "6946.0",
-    num. of employees: "450000.0",
+    num_of_employees: "450000.0",
     sector: "Retailing",
     city: "Minneapolis",
     state: "MN",
@@ -638,7 +638,7 @@ var array = [
     CEO: "Brian C. Cornell",
     Website: "www.target.com",
     Ticker: "TGT",
-    Market Cap: "71112"
+    market_cap: "71112"
   },
   {
     company: "Fannie Mae",
@@ -646,7 +646,7 @@ var array = [
     rank_change: "-8.0",
     revenue: "101543.0",
     profit: "22176.0",
-    num. of employees: "7400.0",
+    num_of_employees: "7400.0",
     sector: "Financials",
     city: "Washington",
     state: "DC",
@@ -658,7 +658,7 @@ var array = [
     CEO: "David C. Benson",
     Website: "www.fanniemae.com",
     Ticker: "FNMA",
-    Market Cap: "3961"
+    market_cap: "3961"
   },
   {
     company: "United Parcel Service",
@@ -666,7 +666,7 @@ var array = [
     rank_change: "1.0",
     revenue: "97287.0",
     profit: "12890.0",
-    num. of employees: "400945.0",
+    num_of_employees: "400945.0",
     sector: "Transportation",
     city: "Atlanta",
     state: "GA",
@@ -678,7 +678,7 @@ var array = [
     CEO: "Carol B. TomÃ©",
     Website: "www.ups.com",
     Ticker: "UPS",
-    Market Cap: "162355"
+    market_cap: "162355"
   },
   {
     company: "Lowe's",
@@ -686,7 +686,7 @@ var array = [
     rank_change: "-4.0",
     revenue: "96250.0",
     profit: "8442.0",
-    num. of employees: "270000.0",
+    num_of_employees: "270000.0",
     sector: "Retailing",
     city: "Mooresville",
     state: "NC",
@@ -698,7 +698,7 @@ var array = [
     CEO: "Marvin R. Ellison",
     Website: "www.lowes.com",
     Ticker: "LOW",
-    Market Cap: "120655"
+    market_cap: "120655"
   },
   {
     company: "Bank of America",
@@ -706,7 +706,7 @@ var array = [
     rank_change: "-7.0",
     revenue: "93851.0",
     profit: "31978.0",
-    num. of employees: "208248.0",
+    num_of_employees: "208248.0",
     sector: "Financials",
     city: "Charlotte",
     state: "NC",
@@ -718,7 +718,7 @@ var array = [
     CEO: "Brian T. Moynihan",
     Website: "www.bankofamerica.com",
     Ticker: "BAC",
-    Market Cap: "268697"
+    market_cap: "268697"
   },
   {
     company: "Johnson & Johnson",
@@ -726,7 +726,7 @@ var array = [
     rank_change: "-1.0",
     revenue: "93775.0",
     profit: "20878.0",
-    num. of employees: "141700.0",
+    num_of_employees: "141700.0",
     sector: "Health Care",
     city: "New Brunswick",
     state: "NJ",
@@ -738,7 +738,7 @@ var array = [
     CEO: "Joaquin Duato",
     Website: "www.jnj.com",
     Ticker: "JNJ",
-    Market Cap: "451785"
+    market_cap: "451785"
   },
   {
     company: "Archer Daniels Midland",
@@ -746,7 +746,7 @@ var array = [
     rank_change: "13.0",
     revenue: "85249.0",
     profit: "2709.0",
-    num. of employees: "39979.0",
+    num_of_employees: "39979.0",
     sector: "Food, Beverages & Tobacco",
     city: "Chicago",
     state: "IL",
@@ -758,7 +758,7 @@ var array = [
     CEO: "Juan R. Luciano",
     Website: "www.adm.com",
     Ticker: "ADM",
-    Market Cap: "41545"
+    market_cap: "41545"
   },
   {
     company: "FedEx",
@@ -766,7 +766,7 @@ var array = [
     rank_change: "6.0",
     revenue: "83959.0",
     profit: "5231.0",
-    num. of employees: "484000.0",
+    num_of_employees: "484000.0",
     sector: "Transportation",
     city: "Memphis",
     state: "TN",
@@ -778,7 +778,7 @@ var array = [
     CEO: "Rajesh Subramaniam",
     Website: "www.fedex.com",
     Ticker: "FDX",
-    Market Cap: "58577"
+    market_cap: "58577"
   },
   {
     company: "Humana",
@@ -786,7 +786,7 @@ var array = [
     rank_change: "1.0",
     revenue: "83064.0",
     profit: "2933.0",
-    num. of employees: "95500.0",
+    num_of_employees: "95500.0",
     sector: "Health Care",
     city: "Louisville",
     state: "KY",
@@ -798,7 +798,7 @@ var array = [
     CEO: "Bruce D. Broussard",
     Website: "www.humana.com",
     Ticker: "HUM",
-    Market Cap: "62653"
+    market_cap: "62653"
   },
   {
     company: "Wells Fargo",
@@ -806,7 +806,7 @@ var array = [
     rank_change: "-4.0",
     revenue: "82407.0",
     profit: "21548.0",
-    num. of employees: "247848.0",
+    num_of_employees: "247848.0",
     sector: "Financials",
     city: "San Francisco",
     state: "CA",
@@ -818,7 +818,7 @@ var array = [
     CEO: "Charles W. Scharf",
     Website: "www.wellsfargo.com",
     Ticker: "WFC",
-    Market Cap: "162606"
+    market_cap: "162606"
   },
   {
     company: "State Farm Insurance",
@@ -826,7 +826,7 @@ var array = [
     rank_change: "-3.0",
     revenue: "82224.7",
     profit: "1280.9",
-    num. of employees: "53586.0",
+    num_of_employees: "53586.0",
     sector: "Financials",
     city: "Bloomington",
     state: "IL",
@@ -838,7 +838,7 @@ var array = [
     CEO: "Michael L. Tipsord",
     Website: "www.statefarm.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Pfizer",
@@ -846,7 +846,7 @@ var array = [
     rank_change: "34.0",
     revenue: "81288.0",
     profit: "21979.0",
-    num. of employees: "79000.0",
+    num_of_employees: "79000.0",
     sector: "Health Care",
     city: "New York",
     state: "NY",
@@ -858,7 +858,7 @@ var array = [
     CEO: "Albert Bourla",
     Website: "www.pfizer.com",
     Ticker: "PFE",
-    Market Cap: "288232"
+    market_cap: "288232"
   },
   {
     company: "Citigroup",
@@ -866,7 +866,7 @@ var array = [
     rank_change: "-11.0",
     revenue: "79865.0",
     profit: "21952.0",
-    num. of employees: "221768.0",
+    num_of_employees: "221768.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -878,7 +878,7 @@ var array = [
     CEO: "Jane Fraser",
     Website: "www.citigroup.com",
     Ticker: "C",
-    Market Cap: "100976"
+    market_cap: "100976"
   },
   {
     company: "PepsiCo",
@@ -886,7 +886,7 @@ var array = [
     rank_change: "-1.0",
     revenue: "79474.0",
     profit: "7618.0",
-    num. of employees: "309000.0",
+    num_of_employees: "309000.0",
     sector: "Food, Beverages & Tobacco",
     city: "Purchase",
     state: "NY",
@@ -898,7 +898,7 @@ var array = [
     CEO: "Ramon L. Laguarta",
     Website: "www.pepsico.com",
     Ticker: "PEP",
-    Market Cap: "234697"
+    market_cap: "234697"
   },
   {
     company: "Intel",
@@ -906,7 +906,7 @@ var array = [
     rank_change: "-6.0",
     revenue: "79024.0",
     profit: "19868.0",
-    num. of employees: "121100.0",
+    num_of_employees: "121100.0",
     sector: "Technology",
     city: "Santa Clara",
     state: "CA",
@@ -918,7 +918,7 @@ var array = [
     CEO: "Patrick P. Gelsinger",
     Website: "www.intel.com",
     Ticker: "INTC",
-    Market Cap: "164460"
+    market_cap: "164460"
   },
   {
     company: "Procter & Gamble",
@@ -926,7 +926,7 @@ var array = [
     rank_change: "-4.0",
     revenue: "76118.0",
     profit: "14306.0",
-    num. of employees: "101000.0",
+    num_of_employees: "101000.0",
     sector: "Household Products",
     city: "Cincinnati",
     state: "OH",
@@ -938,7 +938,7 @@ var array = [
     CEO: "Jon R. Moeller",
     Website: "www.pg.com",
     Ticker: "PG",
-    Market Cap: "345595"
+    market_cap: "345595"
   },
   {
     company: "General Electric",
@@ -946,7 +946,7 @@ var array = [
     rank_change: "-10.0",
     revenue: "74196.0",
     profit: "-6520.0",
-    num. of employees: "168000.0",
+    num_of_employees: "168000.0",
     sector: "Industrials",
     city: "Boston",
     state: "MA",
@@ -958,7 +958,7 @@ var array = [
     CEO: "H. Lawrence Culp Jr.",
     Website: "www.ge.com",
     Ticker: "GE",
-    Market Cap: "73458"
+    market_cap: "73458"
   },
   {
     company: "IBM",
@@ -966,7 +966,7 @@ var array = [
     rank_change: "-7.0",
     revenue: "72344.0",
     profit: "5743.0",
-    num. of employees: "297800.0",
+    num_of_employees: "297800.0",
     sector: "Technology",
     city: "Armonk",
     state: "NY",
@@ -978,7 +978,7 @@ var array = [
     CEO: "Arvind Krishna",
     Website: "https://www.ibm.com",
     Ticker: "IBM",
-    Market Cap: "107307"
+    market_cap: "107307"
   },
   {
     company: "MetLife",
@@ -986,7 +986,7 @@ var array = [
     rank_change: "-4.0",
     revenue: "71080.0",
     profit: "6554.0",
-    num. of employees: "43000.0",
+    num_of_employees: "43000.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -998,7 +998,7 @@ var array = [
     CEO: "Michel A. Khalaf",
     Website: "www.metlife.com",
     Ticker: "MET",
-    Market Cap: "49443"
+    market_cap: "49443"
   },
   {
     company: "Prudential Financial",
@@ -1006,7 +1006,7 @@ var array = [
     rank_change: "4.0",
     revenue: "70934.0",
     profit: "7724.0",
-    num. of employees: "40916.0",
+    num_of_employees: "40916.0",
     sector: "Financials",
     city: "Newark",
     state: "NJ",
@@ -1018,7 +1018,7 @@ var array = [
     CEO: "Charles F. Lowrey",
     Website: "www.prudential.com",
     Ticker: "PRU",
-    Market Cap: "35689"
+    market_cap: "35689"
   },
   {
     company: "Albertsons",
@@ -1026,7 +1026,7 @@ var array = [
     rank_change: "0.0",
     revenue: "69690.4",
     profit: "850.2",
-    num. of employees: "300000.0",
+    num_of_employees: "300000.0",
     sector: "Food & Drug Stores",
     city: "Boise",
     state: "ID",
@@ -1038,7 +1038,7 @@ var array = [
     CEO: "Vivek Sankaran",
     Website: "www.albertsonscompanies.com",
     Ticker: "ACI",
-    Market Cap: "14087"
+    market_cap: "14087"
   },
   {
     company: "Walt Disney",
@@ -1046,7 +1046,7 @@ var array = [
     rank_change: "-3.0",
     revenue: "67418.0",
     profit: "1995.0",
-    num. of employees: "171000.0",
+    num_of_employees: "171000.0",
     sector: "Media",
     city: "Burbank",
     state: "CA",
@@ -1058,7 +1058,7 @@ var array = [
     CEO: "Robert A. Chapek",
     Website: "www.thewaltdisneycompany.com",
     Ticker: "DIS",
-    Market Cap: "181438"
+    market_cap: "181438"
   },
   {
     company: "Energy Transfer",
@@ -1066,7 +1066,7 @@ var array = [
     rank_change: "27.0",
     revenue: "67417.0",
     profit: "5470.0",
-    num. of employees: "12558.0",
+    num_of_employees: "12558.0",
     sector: "Energy",
     city: "Dallas",
     state: "TX",
@@ -1078,7 +1078,7 @@ var array = [
     CEO: "Thomas E. Long/Marshall S. McCrea III",
     Website: "www.energytransfer.com",
     Ticker: "ET",
-    Market Cap: "32182"
+    market_cap: "32182"
   },
   {
     company: "Lockheed Martin",
@@ -1086,7 +1086,7 @@ var array = [
     rank_change: "-6.0",
     revenue: "67044.0",
     profit: "6315.0",
-    num. of employees: "114000.0",
+    num_of_employees: "114000.0",
     sector: "Aerospace & Defense",
     city: "Bethesda",
     state: "MD",
@@ -1098,7 +1098,7 @@ var array = [
     CEO: "James D. Taiclet Jr.",
     Website: "www.lockheedmartin.com",
     Ticker: "LMT",
-    Market Cap: "103510"
+    market_cap: "103510"
   },
   {
     company: "Freddie Mac",
@@ -1106,7 +1106,7 @@ var array = [
     rank_change: "-9.0",
     revenue: "65898.0",
     profit: "12109.0",
-    num. of employees: "7301.0",
+    num_of_employees: "7301.0",
     sector: "Financials",
     city: "McLean",
     state: "VA",
@@ -1118,7 +1118,7 @@ var array = [
     CEO: "Michael J. DeVito",
     Website: "www.freddiemac.com",
     Ticker: "FMCC",
-    Market Cap: "2055"
+    market_cap: "2055"
   },
   {
     company: "Goldman Sachs Group",
@@ -1126,7 +1126,7 @@ var array = [
     rank_change: "2.0",
     revenue: "64989.0",
     profit: "21635.0",
-    num. of employees: "43900.0",
+    num_of_employees: "43900.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -1138,7 +1138,7 @@ var array = [
     CEO: "David M. Solomon",
     Website: "www.goldmansachs.com",
     Ticker: "GS",
-    Market Cap: "113877"
+    market_cap: "113877"
   },
   {
     company: "Raytheon Technologies",
@@ -1146,7 +1146,7 @@ var array = [
     rank_change: "-1.0",
     revenue: "64388.0",
     profit: "3864.0",
-    num. of employees: "174000.0",
+    num_of_employees: "174000.0",
     sector: "Aerospace & Defense",
     city: "Waltham",
     state: "MA",
@@ -1158,7 +1158,7 @@ var array = [
     CEO: "Gregory J. Hayes",
     Website: "www.rtx.com",
     Ticker: "RTX",
-    Market Cap: "139531"
+    market_cap: "139531"
   },
   {
     company: "HP",
@@ -1166,7 +1166,7 @@ var array = [
     rank_change: "-3.0",
     revenue: "63487.0",
     profit: "6503.0",
-    num. of employees: "51000.0",
+    num_of_employees: "51000.0",
     sector: "Technology",
     city: "Palo Alto",
     state: "CA",
@@ -1178,7 +1178,7 @@ var array = [
     CEO: "Enrique J. Lores",
     Website: "www.hp.com",
     Ticker: "HPQ",
-    Market Cap: "33951"
+    market_cap: "33951"
   },
   {
     company: "Boeing",
@@ -1186,7 +1186,7 @@ var array = [
     rank_change: "-6.0",
     revenue: "62286.0",
     profit: "-4202.0",
-    num. of employees: "142000.0",
+    num_of_employees: "142000.0",
     sector: "Aerospace & Defense",
     city: "Chicago",
     state: "IL",
@@ -1198,7 +1198,7 @@ var array = [
     CEO: "David L. Calhoun",
     Website: "www.boeing.com",
     Ticker: "BA",
-    Market Cap: "92372"
+    market_cap: "92372"
   },
   {
     company: "Morgan Stanley",
@@ -1206,7 +1206,7 @@ var array = [
     rank_change: "0.0",
     revenue: "61121.0",
     profit: "15034.0",
-    num. of employees: "74814.0",
+    num_of_employees: "74814.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -1218,7 +1218,7 @@ var array = [
     CEO: "James P. Gorman",
     Website: "www.morganstanley.com",
     Ticker: "MS",
-    Market Cap: "142829"
+    market_cap: "142829"
   },
   {
     company: "HCA Healthcare",
@@ -1226,7 +1226,7 @@ var array = [
     rank_change: "0.0",
     revenue: "58752.0",
     profit: "6956.0",
-    num. of employees: "244000.0",
+    num_of_employees: "244000.0",
     sector: "Health Care",
     city: "Nashville",
     state: "TN",
@@ -1238,7 +1238,7 @@ var array = [
     CEO: "Samuel N. Hazen",
     Website: "www.hcahealthcare.com",
     Ticker: "HCA",
-    Market Cap: "52649"
+    market_cap: "52649"
   },
   {
     company: "AbbVie",
@@ -1246,7 +1246,7 @@ var array = [
     rank_change: "5.0",
     revenue: "56197.0",
     profit: "11542.0",
-    num. of employees: "50000.0",
+    num_of_employees: "50000.0",
     sector: "Health Care",
     city: "North Chicago",
     state: "IL",
@@ -1258,7 +1258,7 @@ var array = [
     CEO: "Richard A. Gonzalez",
     Website: "www.abbvie.com",
     Ticker: "ABBV",
-    Market Cap: "264607"
+    market_cap: "264607"
   },
   {
     company: "Dow",
@@ -1266,7 +1266,7 @@ var array = [
     rank_change: "18.0",
     revenue: "54968.0",
     profit: "6311.0",
-    num. of employees: "35700.0",
+    num_of_employees: "35700.0",
     sector: "Chemicals",
     city: "Midland",
     state: "MI",
@@ -1278,7 +1278,7 @@ var array = [
     CEO: "James R. Fitterling",
     Website: "www.dow.com",
     Ticker: "DOW",
-    Market Cap: "38189"
+    market_cap: "38189"
   },
   {
     company: "Tesla",
@@ -1286,7 +1286,7 @@ var array = [
     rank_change: "35.0",
     revenue: "53823.0",
     profit: "5519.0",
-    num. of employees: "99290.0",
+    num_of_employees: "99290.0",
     sector: "Motor Vehicles & Parts",
     city: "Austin",
     state: "TX",
@@ -1298,7 +1298,7 @@ var array = [
     CEO: "Elon Musk",
     Website: "www.tesla.com",
     Ticker: "TSLA",
-    Market Cap: "763395"
+    market_cap: "763395"
   },
   {
     company: "Allstate",
@@ -1306,7 +1306,7 @@ var array = [
     rank_change: "4.0",
     revenue: "53228.0",
     profit: "1599.0",
-    num. of employees: "54500.0",
+    num_of_employees: "54500.0",
     sector: "Financials",
     city: "Northbrook",
     state: "IL",
@@ -1318,7 +1318,7 @@ var array = [
     CEO: "Thomas J. Wilson",
     Website: "www.allstate.com",
     Ticker: "ALL",
-    Market Cap: "33721"
+    market_cap: "33721"
   },
   {
     company: "American International Group",
@@ -1326,7 +1326,7 @@ var array = [
     rank_change: "5.0",
     revenue: "52057.0",
     profit: "9388.0",
-    num. of employees: "36600.0",
+    num_of_employees: "36600.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -1338,7 +1338,7 @@ var array = [
     CEO: "Peter S. Zaffino",
     Website: "www.aig.com",
     Ticker: "AIG",
-    Market Cap: "40988"
+    market_cap: "40988"
   },
   {
     company: "Best Buy",
@@ -1346,7 +1346,7 @@ var array = [
     rank_change: "-2.0",
     revenue: "51761.0",
     profit: "2454.0",
-    num. of employees: "81375.0",
+    num_of_employees: "81375.0",
     sector: "Retailing",
     city: "Richfield",
     state: "MN",
@@ -1358,7 +1358,7 @@ var array = [
     CEO: "Corie S. Barry",
     Website: "www.investors.bestbuy.com",
     Ticker: "BBY",
-    Market Cap: "17106"
+    market_cap: "17106"
   },
   {
     company: "Charter Communications",
@@ -1366,7 +1366,7 @@ var array = [
     rank_change: "-5.0",
     revenue: "51682.0",
     profit: "4654.0",
-    num. of employees: "93700.0",
+    num_of_employees: "93700.0",
     sector: "Telecommunications",
     city: "Stamford",
     state: "CT",
@@ -1378,7 +1378,7 @@ var array = [
     CEO: "Thomas M. Rutledge",
     Website: "www.charter.com",
     Ticker: "CHTR",
-    Market Cap: "89514"
+    market_cap: "89514"
   },
   {
     company: "Sysco",
@@ -1386,7 +1386,7 @@ var array = [
     rank_change: "-10.0",
     revenue: "51297.8",
     profit: "524.2",
-    num. of employees: "57710.0",
+    num_of_employees: "57710.0",
     sector: "Wholesalers",
     city: "Houston",
     state: "TX",
@@ -1398,7 +1398,7 @@ var array = [
     CEO: "Kevin P. Hourican",
     Website: "www.sysco.com",
     Ticker: "SYY",
-    Market Cap: "44508"
+    market_cap: "44508"
   },
   {
     company: "Merck",
@@ -1406,7 +1406,7 @@ var array = [
     rank_change: "-6.0",
     revenue: "51216.0",
     profit: "13049.0",
-    num. of employees: "67500.0",
+    num_of_employees: "67500.0",
     sector: "Health Care",
     city: "Kenilworth",
     state: "NJ",
@@ -1418,7 +1418,7 @@ var array = [
     CEO: "Robert Davis",
     Website: "https://www.merck.com",
     Ticker: "MRK",
-    Market Cap: "218166"
+    market_cap: "218166"
   },
   {
     company: "New York Life Insurance",
@@ -1426,7 +1426,7 @@ var array = [
     rank_change: "-5.0",
     revenue: "51198.5",
     profit: "277.1",
-    num. of employees: "14344.0",
+    num_of_employees: "14344.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -1438,7 +1438,7 @@ var array = [
     CEO: "Craig DeSanto",
     Website: "www.newyorklife.com",
     Ticker: "",
-    Market Cap: "-"
+    market_cap: "-"
   },
   {
     company: "Caterpillar",
@@ -1446,7 +1446,7 @@ var array = [
     rank_change: "5.0",
     revenue: "50971.0",
     profit: "6489.0",
-    num. of employees: "107700.0",
+    num_of_employees: "107700.0",
     sector: "Industrials",
     city: "Deerfield",
     state: "IL",
@@ -1458,7 +1458,7 @@ var array = [
     CEO: "D. James Umpleby III",
     Website: "www.caterpillar.com",
     Ticker: "CAT",
-    Market Cap: "95735"
+    market_cap: "95735"
   },
   {
     company: "Cisco Systems",
@@ -1466,7 +1466,7 @@ var array = [
     rank_change: "-11.0",
     revenue: "49818.0",
     profit: "10591.0",
-    num. of employees: "79500.0",
+    num_of_employees: "79500.0",
     sector: "Technology",
     city: "San Jose",
     state: "CA",
@@ -1478,7 +1478,7 @@ var array = [
     CEO: "Charles H. Robbins",
     Website: "www.cisco.com",
     Ticker: "CSCO",
-    Market Cap: "182327"
+    market_cap: "182327"
   },
   {
     company: "TJX",
@@ -1486,7 +1486,7 @@ var array = [
     rank_change: "22.0",
     revenue: "48550.0",
     profit: "3282.8",
-    num. of employees: "340000.0",
+    num_of_employees: "340000.0",
     sector: "Retailing",
     city: "Framingham",
     state: "MA",
@@ -1498,7 +1498,7 @@ var array = [
     CEO: "Ernie L. Herrman",
     Website: "www.tjx.com",
     Ticker: "TJX",
-    Market Cap: "73403"
+    market_cap: "73403"
   },
   {
     company: "Publix Super Markets",
@@ -1506,7 +1506,7 @@ var array = [
     rank_change: "-7.0",
     revenue: "48393.9",
     profit: "4412.2",
-    num. of employees: "232000.0",
+    num_of_employees: "232000.0",
     sector: "Food & Drug Stores",
     city: "Lakeland",
     state: "FL",
@@ -1518,7 +1518,7 @@ var array = [
     CEO: "Randall T. Jones Sr.",
     Website: "www.publix.com",
     Ticker: "",
-    Market Cap: "-"
+    market_cap: "-"
   },
   {
     company: "ConocoPhillips",
@@ -1526,7 +1526,7 @@ var array = [
     rank_change: "79.0",
     revenue: "48349.0",
     profit: "8079.0",
-    num. of employees: "9900.0",
+    num_of_employees: "9900.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -1538,7 +1538,7 @@ var array = [
     CEO: "Ryan M. Lance",
     Website: "www.conocophillips.com",
     Ticker: "COP",
-    Market Cap: "114444"
+    market_cap: "114444"
   },
   {
     company: "Liberty Mutual Insurance Group",
@@ -1546,7 +1546,7 @@ var array = [
     rank_change: "-7.0",
     revenue: "48200.0",
     profit: "3068.0",
-    num. of employees: "45000.0",
+    num_of_employees: "45000.0",
     sector: "Financials",
     city: "Boston",
     state: "MA",
@@ -1558,7 +1558,7 @@ var array = [
     CEO: "David H. Long",
     Website: "www.libertymutual.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Progressive",
@@ -1566,7 +1566,7 @@ var array = [
     rank_change: "-5.0",
     revenue: "47702.0",
     profit: "3350.9",
-    num. of employees: "49077.0",
+    num_of_employees: "49077.0",
     sector: "Financials",
     city: "Mayfield Village",
     state: "OH",
@@ -1578,7 +1578,7 @@ var array = [
     CEO: "Susan Patricia Griffith",
     Website: "www.progressive.com",
     Ticker: "PGR",
-    Market Cap: "65485"
+    market_cap: "65485"
   },
   {
     company: "Nationwide",
@@ -1586,7 +1586,7 @@ var array = [
     rank_change: "-4.0",
     revenue: "47376.0",
     profit: "1617.2",
-    num. of employees: "24134.0",
+    num_of_employees: "24134.0",
     sector: "Financials",
     city: "Columbus",
     state: "OH",
@@ -1598,7 +1598,7 @@ var array = [
     CEO: "Kirt A. Walker",
     Website: "www.nationwide.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Tyson Foods",
@@ -1606,7 +1606,7 @@ var array = [
     rank_change: "-8.0",
     revenue: "47049.0",
     profit: "3047.0",
-    num. of employees: "137000.0",
+    num_of_employees: "137000.0",
     sector: "Food, Beverages & Tobacco",
     city: "Springdale",
     state: "AR",
@@ -1618,7 +1618,7 @@ var array = [
     CEO: "Donnie D. King",
     Website: "www.tysonfoods.com",
     Ticker: "TSN",
-    Market Cap: "30189"
+    market_cap: "30189"
   },
   {
     company: "Bristol-Myers Squibb",
@@ -1626,7 +1626,7 @@ var array = [
     rank_change: "-7.0",
     revenue: "46385.0",
     profit: "6994.0",
-    num. of employees: "32200.0",
+    num_of_employees: "32200.0",
     sector: "Health Care",
     city: "New York",
     state: "NY",
@@ -1638,7 +1638,7 @@ var array = [
     CEO: "Giovanni Caforio",
     Website: "www.bms.com",
     Ticker: "BMY",
-    Market Cap: "155720"
+    market_cap: "155720"
   },
   {
     company: "Nike",
@@ -1646,7 +1646,7 @@ var array = [
     rank_change: "2.0",
     revenue: "44538.0",
     profit: "5727.0",
-    num. of employees: "73300.0",
+    num_of_employees: "73300.0",
     sector: "Apparel",
     city: "Beaverton",
     state: "OR",
@@ -1658,7 +1658,7 @@ var array = [
     CEO: "John J. Donahoe II",
     Website: "www.nike.com",
     Ticker: "NKE",
-    Market Cap: "171840"
+    market_cap: "171840"
   },
   {
     company: "Deere",
@@ -1666,7 +1666,7 @@ var array = [
     rank_change: "4.0",
     revenue: "44024.0",
     profit: "5963.0",
-    num. of employees: "75550.0",
+    num_of_employees: "75550.0",
     sector: "Industrials",
     city: "Moline",
     state: "IL",
@@ -1678,7 +1678,7 @@ var array = [
     CEO: "John C. May",
     Website: "www.deere.com",
     Ticker: "DE",
-    Market Cap: "95233"
+    market_cap: "95233"
   },
   {
     company: "American Express",
@@ -1686,7 +1686,7 @@ var array = [
     rank_change: "-2.0",
     revenue: "43663.0",
     profit: "8060.0",
-    num. of employees: "64000.0",
+    num_of_employees: "64000.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -1698,7 +1698,7 @@ var array = [
     CEO: "Stephen J. Squeri",
     Website: "www.americanexpress.com",
     Ticker: "AXP",
-    Market Cap: "111287"
+    market_cap: "111287"
   },
   {
     company: "Abbott Laboratories",
@@ -1706,7 +1706,7 @@ var array = [
     rank_change: "3.0",
     revenue: "43075.0",
     profit: "7071.0",
-    num. of employees: "113000.0",
+    num_of_employees: "113000.0",
     sector: "Health Care",
     city: "Abbott Park",
     state: "IL",
@@ -1718,7 +1718,7 @@ var array = [
     CEO: "Robert B. Ford",
     Website: "www.abbott.com",
     Ticker: "ABT",
-    Market Cap: "192481"
+    market_cap: "192481"
   },
   {
     company: "StoneX Group",
@@ -1726,7 +1726,7 @@ var array = [
     rank_change: "-29.0",
     revenue: "42534.2",
     profit: "116.3",
-    num. of employees: "3242.0",
+    num_of_employees: "3242.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -1738,7 +1738,7 @@ var array = [
     CEO: "Sean M. O&#039;Connor",
     Website: "www.stonex.com",
     Ticker: "SNEX",
-    Market Cap: "1699"
+    market_cap: "1699"
   },
   {
     company: "Plains GP Holdings",
@@ -1746,7 +1746,7 @@ var array = [
     rank_change: "39.0",
     revenue: "42078.0",
     profit: "60.0",
-    num. of employees: "4100.0",
+    num_of_employees: "4100.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -1758,7 +1758,7 @@ var array = [
     CEO: "Wilfred C.W. Chiang",
     Website: "www.plains.com",
     Ticker: "PAGP",
-    Market Cap: "2131"
+    market_cap: "2131"
   },
   {
     company: "Enterprise Products Partners",
@@ -1766,7 +1766,7 @@ var array = [
     rank_change: "16.0",
     revenue: "40806.9",
     profit: "4637.7",
-    num. of employees: "6911.0",
+    num_of_employees: "6911.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -1778,7 +1778,7 @@ var array = [
     CEO: "A. James Teague/W. Randall Fowler",
     Website: "www.enterpriseproducts.com",
     Ticker: "EPD",
-    Market Cap: "55122"
+    market_cap: "55122"
   },
   {
     company: "TIAA",
@@ -1786,7 +1786,7 @@ var array = [
     rank_change: "-11.0",
     revenue: "40526.4",
     profit: "4060.7",
-    num. of employees: "15065.0",
+    num_of_employees: "15065.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -1798,7 +1798,7 @@ var array = [
     CEO: "Thasunda Brown Duckett",
     Website: "www.tiaa.org",
     Ticker: "",
-    Market Cap: "-"
+    market_cap: "-"
   },
   {
     company: "Oracle",
@@ -1806,7 +1806,7 @@ var array = [
     rank_change: "-11.0",
     revenue: "40479.0",
     profit: "13746.0",
-    num. of employees: "132000.0",
+    num_of_employees: "132000.0",
     sector: "Technology",
     city: "Austin",
     state: "TX",
@@ -1818,7 +1818,7 @@ var array = [
     CEO: "Safra A. Catz",
     Website: "www.oracle.com",
     Ticker: "ORCL",
-    Market Cap: "192514"
+    market_cap: "192514"
   },
   {
     company: "Thermo Fisher Scientific",
@@ -1826,7 +1826,7 @@ var array = [
     rank_change: "3.0",
     revenue: "39211.0",
     profit: "7725.0",
-    num. of employees: "129000.0",
+    num_of_employees: "129000.0",
     sector: "Technology",
     city: "Waltham",
     state: "MA",
@@ -1838,7 +1838,7 @@ var array = [
     CEO: "Marc Casper",
     Website: "https://www.thermofisher.com",
     Ticker: "TMO",
-    Market Cap: "202645"
+    market_cap: "202645"
   },
   {
     company: "Coca-Cola",
@@ -1846,7 +1846,7 @@ var array = [
     rank_change: "0.0",
     revenue: "38655.0",
     profit: "9771.0",
-    num. of employees: "79000.0",
+    num_of_employees: "79000.0",
     sector: "Food, Beverages & Tobacco",
     city: "Atlanta",
     state: "GA",
@@ -1858,7 +1858,7 @@ var array = [
     CEO: "James R. Quincey",
     Website: "www.coca-colacompany.com",
     Ticker: "KO",
-    Market Cap: "271069"
+    market_cap: "271069"
   },
   {
     company: "General Dynamics",
@@ -1866,7 +1866,7 @@ var array = [
     rank_change: "-10.0",
     revenue: "38469.0",
     profit: "3257.0",
-    num. of employees: "103100.0",
+    num_of_employees: "103100.0",
     sector: "Aerospace & Defense",
     city: "Reston",
     state: "VA",
@@ -1878,7 +1878,7 @@ var array = [
     CEO: "Phebe N. Novakovic",
     Website: "www.gd.com",
     Ticker: "GD",
-    Market Cap: "59618"
+    market_cap: "59618"
   },
   {
     company: "CHS",
@@ -1886,7 +1886,7 @@ var array = [
     rank_change: "8.0",
     revenue: "38448.0",
     profit: "554.0",
-    num. of employees: "9941.0",
+    num_of_employees: "9941.0",
     sector: "Food, Beverages & Tobacco",
     city: "Inver Grove Heights",
     state: "MN",
@@ -1898,7 +1898,7 @@ var array = [
     CEO: "Jay D. Debertin",
     Website: "www.chsinc.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "USAA",
@@ -1906,7 +1906,7 @@ var array = [
     rank_change: "-9.0",
     revenue: "37469.6",
     profit: "3300.0",
-    num. of employees: "37335.0",
+    num_of_employees: "37335.0",
     sector: "Financials",
     city: "San Antonio",
     state: "TX",
@@ -1918,7 +1918,7 @@ var array = [
     CEO: "Wayne Peacock",
     Website: "www.usaa.com",
     Ticker: "",
-    Market Cap: "-"
+    market_cap: "-"
   },
   {
     company: "Northwestern Mutual",
@@ -1926,7 +1926,7 @@ var array = [
     rank_change: "-7.0",
     revenue: "36751.2",
     profit: "977.8",
-    num. of employees: "7585.0",
+    num_of_employees: "7585.0",
     sector: "Financials",
     city: "Milwaukee",
     state: "WI",
@@ -1938,7 +1938,7 @@ var array = [
     CEO: "John E. Schlifske",
     Website: "www.northwesternmutual.com",
     Ticker: "",
-    Market Cap: "-"
+    market_cap: "-"
   },
   {
     company: "Nucor",
@@ -1946,7 +1946,7 @@ var array = [
     rank_change: "51.0",
     revenue: "36483.9",
     profit: "6827.5",
-    num. of employees: "28800.0",
+    num_of_employees: "28800.0",
     sector: "Materials",
     city: "Charlotte",
     state: "NC",
@@ -1958,7 +1958,7 @@ var array = [
     CEO: "Leon J. Topalian",
     Website: "www.nucor.com",
     Ticker: "NUE",
-    Market Cap: "31183"
+    market_cap: "31183"
   },
   {
     company: "Exelon",
@@ -1966,7 +1966,7 @@ var array = [
     rank_change: "-7.0",
     revenue: "36347.0",
     profit: "1706.0",
-    num. of employees: "31518.0",
+    num_of_employees: "31518.0",
     sector: "Energy",
     city: "Chicago",
     state: "IL",
@@ -1978,7 +1978,7 @@ var array = [
     CEO: "Christopher M. Crane",
     Website: "www.exeloncorp.com",
     Ticker: "EXC",
-    Market Cap: "42832"
+    market_cap: "42832"
   },
   {
     company: "Massachusetts Mutual Life Insurance",
@@ -1986,7 +1986,7 @@ var array = [
     rank_change: "23.0",
     revenue: "35899.5",
     profit: "319.3",
-    num. of employees: "10052.0",
+    num_of_employees: "10052.0",
     sector: "Financials",
     city: "Springfield",
     state: "MA",
@@ -1998,7 +1998,7 @@ var array = [
     CEO: "Roger W. Crandall",
     Website: "www.massmutual.com",
     Ticker: "",
-    Market Cap: "-"
+    market_cap: "-"
   },
   {
     company: "Northrop Grumman",
@@ -2006,7 +2006,7 @@ var array = [
     rank_change: "-15.0",
     revenue: "35667.0",
     profit: "7005.0",
-    num. of employees: "88000.0",
+    num_of_employees: "88000.0",
     sector: "Aerospace & Defense",
     city: "Falls Church",
     state: "VA",
@@ -2018,7 +2018,7 @@ var array = [
     CEO: "Kathy J. Warden",
     Website: "www.northropgrumman.com",
     Ticker: "NOC",
-    Market Cap: "71099"
+    market_cap: "71099"
   },
   {
     company: "3M",
@@ -2026,7 +2026,7 @@ var array = [
     rank_change: "-6.0",
     revenue: "35355.0",
     profit: "5921.0",
-    num. of employees: "95000.0",
+    num_of_employees: "95000.0",
     sector: "Chemicals",
     city: "St. Paul",
     state: "MN",
@@ -2038,7 +2038,7 @@ var array = [
     CEO: "Michael F. Roman",
     Website: "www.3m.com",
     Ticker: "MMM",
-    Market Cap: "75190"
+    market_cap: "75190"
   },
   {
     company: "Travelers",
@@ -2046,7 +2046,7 @@ var array = [
     rank_change: "-5.0",
     revenue: "34816.0",
     profit: "3662.0",
-    num. of employees: "30492.0",
+    num_of_employees: "30492.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -2058,7 +2058,7 @@ var array = [
     CEO: "Alan D. Schnitzer",
     Website: "www.travelers.com",
     Ticker: "TRV",
-    Market Cap: "37998"
+    market_cap: "37998"
   },
   {
     company: "Arrow Electronics",
@@ -2066,7 +2066,7 @@ var array = [
     rank_change: "-2.0",
     revenue: "34477.0",
     profit: "1108.2",
-    num. of employees: "20700.0",
+    num_of_employees: "20700.0",
     sector: "Wholesalers",
     city: "Centennial",
     state: "CO",
@@ -2078,7 +2078,7 @@ var array = [
     CEO: "Sean J. Kerins",
     Website: "www.arrow.com",
     Ticker: "ARW",
-    Market Cap: "7851"
+    market_cap: "7851"
   },
   {
     company: "Honeywell International",
@@ -2086,7 +2086,7 @@ var array = [
     rank_change: "-11.0",
     revenue: "34392.0",
     profit: "5542.0",
-    num. of employees: "99000.0",
+    num_of_employees: "99000.0",
     sector: "Industrials",
     city: "Charlotte",
     state: "NC",
@@ -2098,7 +2098,7 @@ var array = [
     CEO: "Darius E. Adamczyk",
     Website: "www.honeywell.com",
     Ticker: "HON",
-    Market Cap: "120646"
+    market_cap: "120646"
   },
   {
     company: "Dollar General",
@@ -2106,7 +2106,7 @@ var array = [
     rank_change: "-15.0",
     revenue: "34220.4",
     profit: "2399.2",
-    num. of employees: "163000.0",
+    num_of_employees: "163000.0",
     sector: "Retailing",
     city: "Goodlettsville",
     state: "TN",
@@ -2118,7 +2118,7 @@ var array = [
     CEO: "Jeffery C. Owen",
     Website: "www.dollargeneral.com",
     Ticker: "DG",
-    Market Cap: "55694"
+    market_cap: "55694"
   },
   {
     company: "Qualcomm",
@@ -2126,7 +2126,7 @@ var array = [
     rank_change: "17.0",
     revenue: "33566.0",
     profit: "9043.0",
-    num. of employees: "45000.0",
+    num_of_employees: "45000.0",
     sector: "Technology",
     city: "San Diego",
     state: "CA",
@@ -2138,7 +2138,7 @@ var array = [
     CEO: "Cristiano Amon",
     Website: "https://www.qualcomm.com",
     Ticker: "QCOM",
-    Market Cap: "126877"
+    market_cap: "126877"
   },
   {
     company: "Capital One Financial",
@@ -2146,7 +2146,7 @@ var array = [
     rank_change: "-9.0",
     revenue: "32033.0",
     profit: "12390.0",
-    num. of employees: "50767.0",
+    num_of_employees: "50767.0",
     sector: "Financials",
     city: "McLean",
     state: "VA",
@@ -2158,7 +2158,7 @@ var array = [
     CEO: "Richard D. Fairbank",
     Website: "www.capitalone.com",
     Ticker: "COF",
-    Market Cap: "44423"
+    market_cap: "44423"
   },
   {
     company: "TD Synnex",
@@ -2166,7 +2166,7 @@ var array = [
     rank_change: "8.0",
     revenue: "31614.2",
     profit: "395.1",
-    num. of employees: "27000.0",
+    num_of_employees: "27000.0",
     sector: "Wholesalers",
     city: "Fremont",
     state: "CA",
@@ -2178,7 +2178,7 @@ var array = [
     CEO: "Richard T. Hume",
     Website: "www.tdsynnex.com",
     Ticker: "SNX",
-    Market Cap: "9174"
+    market_cap: "9174"
   },
   {
     company: "Philip Morris International",
@@ -2186,7 +2186,7 @@ var array = [
     rank_change: "-9.0",
     revenue: "31405.0",
     profit: "9109.0",
-    num. of employees: "69600.0",
+    num_of_employees: "69600.0",
     sector: "Food, Beverages & Tobacco",
     city: "New York",
     state: "NY",
@@ -2198,7 +2198,7 @@ var array = [
     CEO: "Jacek Olczak",
     Website: "www.pmi.com",
     Ticker: "PM",
-    Market Cap: "141727"
+    market_cap: "141727"
   },
   {
     company: "World Fuel Services",
@@ -2206,7 +2206,7 @@ var array = [
     rank_change: "36.0",
     revenue: "31337.0",
     profit: "73.7",
-    num. of employees: "4414.0",
+    num_of_employees: "4414.0",
     sector: "Energy",
     city: "Miami",
     state: "FL",
@@ -2218,7 +2218,7 @@ var array = [
     CEO: "Michael J. Kasbar",
     Website: "www.wfscorp.com",
     Ticker: "INT",
-    Market Cap: "1427"
+    market_cap: "1427"
   },
   {
     company: "Performance Food Group",
@@ -2226,7 +2226,7 @@ var array = [
     rank_change: "2.0",
     revenue: "30398.9",
     profit: "40.7",
-    num. of employees: "22885.0",
+    num_of_employees: "22885.0",
     sector: "Wholesalers",
     city: "Richmond",
     state: "VA",
@@ -2238,7 +2238,7 @@ var array = [
     CEO: "George L. Holm",
     Website: "www.pfgc.com",
     Ticker: "PFGC",
-    Market Cap: "7818"
+    market_cap: "7818"
   },
   {
     company: "Delta Air Lines",
@@ -2246,7 +2246,7 @@ var array = [
     rank_change: "65.0",
     revenue: "29899.0",
     profit: "280.0",
-    num. of employees: "83000.0",
+    num_of_employees: "83000.0",
     sector: "Transportation",
     city: "Atlanta",
     state: "GA",
@@ -2258,7 +2258,7 @@ var array = [
     CEO: "Edward H. Bastian",
     Website: "www.delta.com",
     Ticker: "DAL",
-    Market Cap: "20903"
+    market_cap: "20903"
   },
   {
     company: "American Airlines Group",
@@ -2266,7 +2266,7 @@ var array = [
     rank_change: "60.0",
     revenue: "29882.0",
     profit: "-1993.0",
-    num. of employees: "123400.0",
+    num_of_employees: "123400.0",
     sector: "Transportation",
     city: "Fort Worth",
     state: "TX",
@@ -2278,7 +2278,7 @@ var array = [
     CEO: "Robert D. Isom",
     Website: "www.aa.com",
     Ticker: "AAL",
-    Market Cap: "9847"
+    market_cap: "9847"
   },
   {
     company: "Netflix",
@@ -2286,7 +2286,7 @@ var array = [
     rank_change: "0.0",
     revenue: "29697.8",
     profit: "5116.2",
-    num. of employees: "11300.0",
+    num_of_employees: "11300.0",
     sector: "Media",
     city: "Los Gatos",
     state: "CA",
@@ -2298,7 +2298,7 @@ var array = [
     CEO: "Ted Sarandos/Reed Hastings",
     Website: "www.netflix.com",
     Ticker: "NFLX",
-    Market Cap: "89579"
+    market_cap: "89579"
   },
   {
     company: "Paramount Global",
@@ -2306,7 +2306,7 @@ var array = [
     rank_change: "-7.0",
     revenue: "29579.0",
     profit: "4543.0",
-    num. of employees: "25115.0",
+    num_of_employees: "25115.0",
     sector: "Media",
     city: "New York",
     state: "NY",
@@ -2318,7 +2318,7 @@ var array = [
     CEO: "Robert M. Bakish",
     Website: "www.paramount.com",
     Ticker: "PARA",
-    Market Cap: "16383"
+    market_cap: "16383"
   },
   {
     company: "US Foods Holding",
@@ -2326,7 +2326,7 @@ var array = [
     rank_change: "11.0",
     revenue: "29487.0",
     profit: "164.0",
-    num. of employees: "28000.0",
+    num_of_employees: "28000.0",
     sector: "Wholesalers",
     city: "Rosemont",
     state: "IL",
@@ -2338,7 +2338,7 @@ var array = [
     CEO: "Andrew Iacobucci",
     Website: "www.usfoods.com",
     Ticker: "USFD",
-    Market Cap: "7335"
+    market_cap: "7335"
   },
   {
     company: "Danaher",
@@ -2346,7 +2346,7 @@ var array = [
     rank_change: "12.0",
     revenue: "29453.0",
     profit: "6433.0",
-    num. of employees: "79000.0",
+    num_of_employees: "79000.0",
     sector: "Health Care",
     city: "Washington",
     state: "DC",
@@ -2358,7 +2358,7 @@ var array = [
     CEO: "Rainer Blair",
     Website: "https://www.danaher.com",
     Ticker: "DHR",
-    Market Cap: "189085"
+    market_cap: "189085"
   },
   {
     company: "Jabil",
@@ -2366,7 +2366,7 @@ var array = [
     rank_change: "-15.0",
     revenue: "29285.0",
     profit: "696.0",
-    num. of employees: "238000.0",
+    num_of_employees: "238000.0",
     sector: "Technology",
     city: "St. Petersburg",
     state: "FL",
@@ -2378,7 +2378,7 @@ var array = [
     CEO: "Mark T. Mondello",
     Website: "www.jabil.com",
     Ticker: "JBL",
-    Market Cap: "7554"
+    market_cap: "7554"
   },
   {
     company: "Starbucks",
@@ -2386,7 +2386,7 @@ var array = [
     rank_change: "5.0",
     revenue: "29060.6",
     profit: "4199.3",
-    num. of employees: "383000.0",
+    num_of_employees: "383000.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Seattle",
     state: "WA",
@@ -2398,7 +2398,7 @@ var array = [
     CEO: "Howard D. Schultz",
     Website: "www.starbucks.com",
     Ticker: "SBUX",
-    Market Cap: "94677"
+    market_cap: "94677"
   },
   {
     company: "Mondelez International",
@@ -2406,7 +2406,7 @@ var array = [
     rank_change: "-13.0",
     revenue: "28720.0",
     profit: "4300.0",
-    num. of employees: "79000.0",
+    num_of_employees: "79000.0",
     sector: "Food, Beverages & Tobacco",
     city: "Chicago",
     state: "IL",
@@ -2418,7 +2418,7 @@ var array = [
     CEO: "Dirk Van de Put",
     Website: "www.mondelezinternational.com",
     Ticker: "MDLZ",
-    Market Cap: "85001"
+    market_cap: "85001"
   },
   {
     company: "Eli Lilly",
@@ -2426,7 +2426,7 @@ var array = [
     rank_change: "-4.0",
     revenue: "28318.4",
     profit: "5581.7",
-    num. of employees: "35238.0",
+    num_of_employees: "35238.0",
     sector: "Health Care",
     city: "Indianapolis",
     state: "IN",
@@ -2438,7 +2438,7 @@ var array = [
     CEO: "David A. Ricks",
     Website: "https://www.lilly.com",
     Ticker: "LLY",
-    Market Cap: "272723.6"
+    market_cap: "272723.6"
   },
   {
     company: "Hewlett Packard Enterprise",
@@ -2446,7 +2446,7 @@ var array = [
     rank_change: "-17.0",
     revenue: "27784.0",
     profit: "3427.0",
-    num. of employees: "60400.0",
+    num_of_employees: "60400.0",
     sector: "Technology",
     city: "Houston",
     state: "TX",
@@ -2458,7 +2458,7 @@ var array = [
     CEO: "Antonio F. Neri",
     Website: "https://www.hpe.com",
     Ticker: "HPE",
-    Market Cap: "21725.3"
+    market_cap: "21725.3"
   },
   {
     company: "D.R. Horton",
@@ -2466,7 +2466,7 @@ var array = [
     rank_change: "24.0",
     revenue: "27774.2",
     profit: "4175.8",
-    num. of employees: "11788.0",
+    num_of_employees: "11788.0",
     sector: "Engineering & Construction",
     city: "Arlington",
     state: "TX",
@@ -2478,7 +2478,7 @@ var array = [
     CEO: "David Auld",
     Website: "https://www.drhorton.com",
     Ticker: "DHI",
-    Market Cap: "24313"
+    market_cap: "24313"
   },
   {
     company: "Molina Healthcare",
@@ -2486,7 +2486,7 @@ var array = [
     rank_change: "30.0",
     revenue: "27771.0",
     profit: "659.0",
-    num. of employees: "14000.0",
+    num_of_employees: "14000.0",
     sector: "Health Care",
     city: "Long Beach",
     state: "CA",
@@ -2498,7 +2498,7 @@ var array = [
     CEO: "Joseph M. Zubretsky",
     Website: "https://www.molinahealthcare.com",
     Ticker: "MOH",
-    Market Cap: "19572.9"
+    market_cap: "19572.9"
   },
   {
     company: "CBRE Group",
@@ -2506,7 +2506,7 @@ var array = [
     rank_change: "-4.0",
     revenue: "27746.0",
     profit: "1836.6",
-    num. of employees: "105000.0",
+    num_of_employees: "105000.0",
     sector: "Financials",
     city: "Dallas",
     state: "TX",
@@ -2518,7 +2518,7 @@ var array = [
     CEO: "Robert E. Sulentic",
     Website: "https://www.cbre.com",
     Ticker: "CBRE",
-    Market Cap: "30414.2"
+    market_cap: "30414.2"
   },
   {
     company: "Micron Technology",
@@ -2526,7 +2526,7 @@ var array = [
     rank_change: "8.0",
     revenue: "27705.0",
     profit: "5861.0",
-    num. of employees: "43000.0",
+    num_of_employees: "43000.0",
     sector: "Technology",
     city: "Boise",
     state: "ID",
@@ -2538,7 +2538,7 @@ var array = [
     CEO: "Sanjay Mehrotra",
     Website: "https://www.micron.com",
     Ticker: "MU",
-    Market Cap: "86977.2"
+    market_cap: "86977.2"
   },
   {
     company: "Broadcom",
@@ -2546,7 +2546,7 @@ var array = [
     rank_change: "-7.0",
     revenue: "27450.0",
     profit: "6736.0",
-    num. of employees: "20000.0",
+    num_of_employees: "20000.0",
     sector: "Technology",
     city: "San Jose",
     state: "CA",
@@ -2558,7 +2558,7 @@ var array = [
     CEO: "Hock E. Tan",
     Website: "https://www.broadcom.com",
     Ticker: "AVGO",
-    Market Cap: "257086.5"
+    market_cap: "257086.5"
   },
   {
     company: "Gilead Sciences",
@@ -2566,7 +2566,7 @@ var array = [
     rank_change: "-13.0",
     revenue: "27305.0",
     profit: "6225.0",
-    num. of employees: "14400.0",
+    num_of_employees: "14400.0",
     sector: "Health Care",
     city: "Foster City",
     state: "CA",
@@ -2578,7 +2578,7 @@ var array = [
     CEO: "Daniel P. O&#039;Day",
     Website: "https://www.gilead.com",
     Ticker: "GILD",
-    Market Cap: "74656.5"
+    market_cap: "74656.5"
   },
   {
     company: "PBF Energy",
@@ -2586,7 +2586,7 @@ var array = [
     rank_change: "73.0",
     revenue: "27253.4",
     profit: "231.0",
-    num. of employees: "3418.0",
+    num_of_employees: "3418.0",
     sector: "Energy",
     city: "Parsippany",
     state: "NJ",
@@ -2598,7 +2598,7 @@ var array = [
     CEO: "Thomas J. Nimbley",
     Website: "https://www.pbfenergy.com",
     Ticker: "PBF",
-    Market Cap: "2932.6"
+    market_cap: "2932.6"
   },
   {
     company: "Lennar",
@@ -2606,7 +2606,7 @@ var array = [
     rank_change: "-2.0",
     revenue: "27130.7",
     profit: "4430.1",
-    num. of employees: "10753.0",
+    num_of_employees: "10753.0",
     sector: "Engineering & Construction",
     city: "Miami",
     state: "FL",
@@ -2618,7 +2618,7 @@ var array = [
     CEO: "Jonathan M. Jaffe/Richard Beckwitt",
     Website: "https://www.lennar.com",
     Ticker: "LEN",
-    Market Cap: "23413"
+    market_cap: "23413"
   },
   {
     company: "United Natural Foods",
@@ -2626,7 +2626,7 @@ var array = [
     rank_change: "-25.0",
     revenue: "26992.0",
     profit: "149.0",
-    num. of employees: "28300.0",
+    num_of_employees: "28300.0",
     sector: "Wholesalers",
     city: "Providence",
     state: "RI",
@@ -2638,7 +2638,7 @@ var array = [
     CEO: "Sandy Douglas",
     Website: "https://www.unfi.com",
     Ticker: "UNFI",
-    Market Cap: "2409.3"
+    market_cap: "2409.3"
   },
   {
     company: "NRG Energy",
@@ -2646,7 +2646,7 @@ var array = [
     rank_change: "200.0",
     revenue: "26989.0",
     profit: "2187.0",
-    num. of employees: "6635.0",
+    num_of_employees: "6635.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -2658,7 +2658,7 @@ var array = [
     CEO: "Mauricio Gutierrez",
     Website: "https://www.nrg.com",
     Ticker: "NRG",
-    Market Cap: "9855"
+    market_cap: "9855"
   },
   {
     company: "Nvidia",
@@ -2666,7 +2666,7 @@ var array = [
     rank_change: "50.0",
     revenue: "26914.0",
     profit: "9752.0",
-    num. of employees: "22473.0",
+    num_of_employees: "22473.0",
     sector: "Technology",
     city: "Santa Clara",
     state: "CA",
@@ -2678,7 +2678,7 @@ var array = [
     CEO: "Jensen Huang",
     Website: "https://www.nvidia.com",
     Ticker: "NVDA",
-    Market Cap: "296011"
+    market_cap: "296011"
   },
   {
     company: "Occidental Petroleum",
@@ -2686,7 +2686,7 @@ var array = [
     rank_change: "48.0",
     revenue: "26772.0",
     profit: "2322.0",
-    num. of employees: "11678.0",
+    num_of_employees: "11678.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -2698,7 +2698,7 @@ var array = [
     CEO: "Vicki A. Hollub",
     Website: "https://www.oxy.com",
     Ticker: "OXY",
-    Market Cap: "53160.2"
+    market_cap: "53160.2"
   },
   {
     company: "Salesforce",
@@ -2706,7 +2706,7 @@ var array = [
     rank_change: "1.0",
     revenue: "26492.0",
     profit: "1444.0",
-    num. of employees: "73541.0",
+    num_of_employees: "73541.0",
     sector: "Technology",
     city: "San Francisco",
     state: "CA",
@@ -2718,7 +2718,7 @@ var array = [
     CEO: "Marc R. Benioff/Bret Taylor",
     Website: "https://www.salesforce.com",
     Ticker: "CRM",
-    Market Cap: "210196.8"
+    market_cap: "210196.8"
   },
   {
     company: "Dollar Tree",
@@ -2726,7 +2726,7 @@ var array = [
     rank_change: "-26.0",
     revenue: "26321.2",
     profit: "1327.9",
-    num. of employees: "136226.0",
+    num_of_employees: "136226.0",
     sector: "Retailing",
     city: "Chesapeake",
     state: "VA",
@@ -2738,7 +2738,7 @@ var array = [
     CEO: "Michael A. Witynski",
     Website: "https://www.dollartree.com",
     Ticker: "DLTR",
-    Market Cap: "36051.4"
+    market_cap: "36051.4"
   },
   {
     company: "KKR",
@@ -2746,7 +2746,7 @@ var array = [
     rank_change: "178.0",
     revenue: "26141.3",
     profit: "4666.5",
-    num. of employees: "3238.0",
+    num_of_employees: "3238.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -2758,7 +2758,7 @@ var array = [
     CEO: "Joseph Y. Bae/Scott C. Nuttall",
     Website: "https://www.kkr.com",
     Ticker: "KKR",
-    Market Cap: "51542.9"
+    market_cap: "51542.9"
   },
   {
     company: "Kraft Heinz",
@@ -2766,7 +2766,7 @@ var array = [
     rank_change: "-29.0",
     revenue: "26042.0",
     profit: "1012.0",
-    num. of employees: "36000.0",
+    num_of_employees: "36000.0",
     sector: "Food, Beverages & Tobacco",
     city: "Chicago",
     state: "IL",
@@ -2778,7 +2778,7 @@ var array = [
     CEO: "Miguel Patricio",
     Website: "https://www.kraftheinzcompany.com",
     Ticker: "KHC",
-    Market Cap: "48248.6"
+    market_cap: "48248.6"
   },
   {
     company: "Amgen",
@@ -2786,7 +2786,7 @@ var array = [
     rank_change: "-28.0",
     revenue: "25979.0",
     profit: "5893.0",
-    num. of employees: "24200.0",
+    num_of_employees: "24200.0",
     sector: "Health Care",
     city: "Thousand Oaks",
     state: "CA",
@@ -2798,7 +2798,7 @@ var array = [
     CEO: "Robert A. Bradway",
     Website: "https://www.amgen.com",
     Ticker: "AMGN",
-    Market Cap: "134700.8"
+    market_cap: "134700.8"
   },
   {
     company: "AutoNation",
@@ -2806,7 +2806,7 @@ var array = [
     rank_change: "4.0",
     revenue: "25844.0",
     profit: "1373.0",
-    num. of employees: "22200.0",
+    num_of_employees: "22200.0",
     sector: "Retailing",
     city: "Fort Lauderdale",
     state: "FL",
@@ -2818,7 +2818,7 @@ var array = [
     CEO: "Michael M. Manley",
     Website: "https://www.autonation.com",
     Ticker: "AN",
-    Market Cap: "6111.4"
+    market_cap: "6111.4"
   },
   {
     company: "Penske Automotive Group",
@@ -2826,7 +2826,7 @@ var array = [
     rank_change: "1.0",
     revenue: "25554.7",
     profit: "1187.8",
-    num. of employees: "24797.0",
+    num_of_employees: "24797.0",
     sector: "Retailing",
     city: "Bloomfield Hills",
     state: "MI",
@@ -2838,7 +2838,7 @@ var array = [
     CEO: "Roger S. Penske",
     Website: "https://www.penskeautomotive.com",
     Ticker: "PAG",
-    Market Cap: "7196.7"
+    market_cap: "7196.7"
   },
   {
     company: "PayPal",
@@ -2846,7 +2846,7 @@ var array = [
     rank_change: "-9.0",
     revenue: "25371.0",
     profit: "4169.0",
-    num. of employees: "30900.0",
+    num_of_employees: "30900.0",
     sector: "Business Services",
     city: "San Jose",
     state: "CA",
@@ -2858,7 +2858,7 @@ var array = [
     CEO: "Daniel Schulman",
     Website: "https://www.paypal.com",
     Ticker: "PYPL",
-    Market Cap: "99538"
+    market_cap: "99538"
   },
   {
     company: "Macy's",
@@ -2866,7 +2866,7 @@ var array = [
     rank_change: "20.0",
     revenue: "25292.0",
     profit: "1430.0",
-    num. of employees: "88857.0",
+    num_of_employees: "88857.0",
     sector: "Retailing",
     city: "New York",
     state: "NY",
@@ -2878,7 +2878,7 @@ var array = [
     CEO: "Jeffrey Gennette",
     Website: "https://www.macysinc.com",
     Ticker: "M",
-    Market Cap: "7123.2"
+    market_cap: "7123.2"
   },
   {
     company: "Duke Energy",
@@ -2886,7 +2886,7 @@ var array = [
     rank_change: "-19.0",
     revenue: "24677.0",
     profit: "3908.0",
-    num. of employees: "27605.0",
+    num_of_employees: "27605.0",
     sector: "Energy",
     city: "Charlotte",
     state: "NC",
@@ -2898,7 +2898,7 @@ var array = [
     CEO: "Lynn J. Good",
     Website: "https://www.duke-energy.com",
     Ticker: "DUK",
-    Market Cap: "85967"
+    market_cap: "85967"
   },
   {
     company: "United Airlines Holdings",
@@ -2906,7 +2906,7 @@ var array = [
     rank_change: "54.0",
     revenue: "24634.0",
     profit: "-1964.0",
-    num. of employees: "84100.0",
+    num_of_employees: "84100.0",
     sector: "Transportation",
     city: "Chicago",
     state: "IL",
@@ -2918,7 +2918,7 @@ var array = [
     CEO: "J. Scott Kirby",
     Website: "https://www.united.com",
     Ticker: "UAL",
-    Market Cap: "15049.7"
+    market_cap: "15049.7"
   },
   {
     company: "Visa",
@@ -2926,7 +2926,7 @@ var array = [
     rank_change: "-14.0",
     revenue: "24105.0",
     profit: "12311.0",
-    num. of employees: "21500.0",
+    num_of_employees: "21500.0",
     sector: "Business Services",
     city: "San Francisco",
     state: "CA",
@@ -2938,7 +2938,7 @@ var array = [
     CEO: "Alfred F. Kelly Jr.",
     Website: "https://www.visa.com",
     Ticker: "V",
-    Market Cap: "480022.5"
+    market_cap: "480022.5"
   },
   {
     company: "Rite Aid",
@@ -2946,7 +2946,7 @@ var array = [
     rank_change: "-16.0",
     revenue: "24043.4",
     profit: "-90.9",
-    num. of employees: "50000.0",
+    num_of_employees: "50000.0",
     sector: "Food & Drug Stores",
     city: "Camp Hill",
     state: "PA",
@@ -2958,7 +2958,7 @@ var array = [
     CEO: "Heyward Donigan",
     Website: "https://www.riteaid.com",
     Ticker: "RAD",
-    Market Cap: "488.1"
+    market_cap: "488.1"
   },
   {
     company: "Cummins",
@@ -2966,7 +2966,7 @@ var array = [
     rank_change: "1.0",
     revenue: "24021.0",
     profit: "2131.0",
-    num. of employees: "59900.0",
+    num_of_employees: "59900.0",
     sector: "Industrials",
     city: "Columbus",
     state: "IN",
@@ -2978,7 +2978,7 @@ var array = [
     CEO: "Jennifer Rumsey",
     Website: "https://www.cummins.com",
     Ticker: "CMI",
-    Market Cap: "29140.9"
+    market_cap: "29140.9"
   },
   {
     company: "U.S. Bancorp",
@@ -2986,7 +2986,7 @@ var array = [
     rank_change: "-37.0",
     revenue: "23714.0",
     profit: "7963.0",
-    num. of employees: "68796.0",
+    num_of_employees: "68796.0",
     sector: "Financials",
     city: "Minneapolis",
     state: "MN",
@@ -2998,7 +2998,7 @@ var array = [
     CEO: "Andrew J. Cecere",
     Website: "https://www.usbank.com",
     Ticker: "USB",
-    Market Cap: "78929.8"
+    market_cap: "78929.8"
   },
   {
     company: "Paccar",
@@ -3006,7 +3006,7 @@ var array = [
     rank_change: "8.0",
     revenue: "23522.3",
     profit: "1852.1",
-    num. of employees: "28500.0",
+    num_of_employees: "28500.0",
     sector: "Motor Vehicles & Parts",
     city: "Bellevue",
     state: "WA",
@@ -3018,7 +3018,7 @@ var array = [
     CEO: "R. Preston Feight",
     Website: "https://www.paccar.com",
     Ticker: "PCAR",
-    Market Cap: "29101"
+    market_cap: "29101"
   },
   {
     company: "McDonald's",
@@ -3026,7 +3026,7 @@ var array = [
     rank_change: "5.0",
     revenue: "23222.9",
     profit: "7545.2",
-    num. of employees: "200000.0",
+    num_of_employees: "200000.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Chicago",
     state: "IL",
@@ -3038,7 +3038,7 @@ var array = [
     CEO: "Christopher J. Kempczinski",
     Website: "https://www.investor.mcdonalds.com",
     Ticker: "MCD",
-    Market Cap: "183873.6"
+    market_cap: "183873.6"
   },
   {
     company: "Southern",
@@ -3046,7 +3046,7 @@ var array = [
     rank_change: "-7.0",
     revenue: "23113.0",
     profit: "2393.0",
-    num. of employees: "27164.0",
+    num_of_employees: "27164.0",
     sector: "Energy",
     city: "Atlanta",
     state: "GA",
@@ -3058,7 +3058,7 @@ var array = [
     CEO: "Thomas A. Fanning",
     Website: "https://www.southerncompany.com",
     Ticker: "SO",
-    Market Cap: "76877"
+    market_cap: "76877"
   },
   {
     company: "C.H. Robinson Worldwide",
@@ -3066,7 +3066,7 @@ var array = [
     rank_change: "37.0",
     revenue: "23102.1",
     profit: "844.2",
-    num. of employees: "16877.0",
+    num_of_employees: "16877.0",
     sector: "Transportation",
     city: "Eden Prairie",
     state: "MN",
@@ -3078,7 +3078,7 @@ var array = [
     CEO: "Robert C. Biesterfeld Jr.",
     Website: "https://www.chrobinson.com",
     Ticker: "CHRW",
-    Market Cap: "13855.8"
+    market_cap: "13855.8"
   },
   {
     company: "Truist Financial",
@@ -3086,7 +3086,7 @@ var array = [
     rank_change: "-36.0",
     revenue: "23064.0",
     profit: "6440.0",
-    num. of employees: "51462.0",
+    num_of_employees: "51462.0",
     sector: "Financials",
     city: "Charlotte",
     state: "NC",
@@ -3098,7 +3098,7 @@ var array = [
     CEO: "William H. Rogers Jr.",
     Website: "https://www.truist.com",
     Ticker: "TFC",
-    Market Cap: "75353.9"
+    market_cap: "75353.9"
   },
   {
     company: "Applied Materials",
@@ -3106,7 +3106,7 @@ var array = [
     rank_change: "20.0",
     revenue: "23063.0",
     profit: "5888.0",
-    num. of employees: "27000.0",
+    num_of_employees: "27000.0",
     sector: "Technology",
     city: "Santa Clara",
     state: "CA",
@@ -3118,7 +3118,7 @@ var array = [
     CEO: "Gary E. Dickerson",
     Website: "https://www.appliedmaterials.com",
     Ticker: "AMAT",
-    Market Cap: "116431.4"
+    market_cap: "116431.4"
   },
   {
     company: "Freeport-McMoRan",
@@ -3126,7 +3126,7 @@ var array = [
     rank_change: "58.0",
     revenue: "22845.0",
     profit: "4306.0",
-    num. of employees: "24700.0",
+    num_of_employees: "24700.0",
     sector: "Energy",
     city: "Phoenix",
     state: "AZ",
@@ -3138,7 +3138,7 @@ var array = [
     CEO: "Richard C. Adkerson",
     Website: "https://www.fcx.com",
     Ticker: "FCX",
-    Market Cap: "72360.8"
+    market_cap: "72360.8"
   },
   {
     company: "Lithia Motors",
@@ -3146,7 +3146,7 @@ var array = [
     rank_change: "73.0",
     revenue: "22831.7",
     profit: "1060.0",
-    num. of employees: "21150.0",
+    num_of_employees: "21150.0",
     sector: "Retailing",
     city: "Medford",
     state: "OR",
@@ -3158,7 +3158,7 @@ var array = [
     CEO: "Bryan DeBoer",
     Website: "https://www.lithiainvestorrelations.com",
     Ticker: "LAD",
-    Market Cap: "5678"
+    market_cap: "5678"
   },
   {
     company: "Blackstone",
@@ -3166,7 +3166,7 @@ var array = [
     rank_change: "295.0",
     revenue: "22577.1",
     profit: "5857.4",
-    num. of employees: "3795.0",
+    num_of_employees: "3795.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -3178,7 +3178,7 @@ var array = [
     CEO: "Stephen A. Schwarzman",
     Website: "https://www.blackstone.com",
     Ticker: "BX",
-    Market Cap: "88907.2"
+    market_cap: "88907.2"
   },
   {
     company: "Hartford Financial Services Group",
@@ -3186,7 +3186,7 @@ var array = [
     rank_change: "-18.0",
     revenue: "22390.0",
     profit: "2365.0",
-    num. of employees: "18100.0",
+    num_of_employees: "18100.0",
     sector: "Financials",
     city: "Hartford",
     state: "CT",
@@ -3198,7 +3198,7 @@ var array = [
     CEO: "Christopher J. Swift",
     Website: "https://www.thehartford.com",
     Ticker: "HIG",
-    Market Cap: "23815.6"
+    market_cap: "23815.6"
   },
   {
     company: "Aflac",
@@ -3206,7 +3206,7 @@ var array = [
     rank_change: "-30.0",
     revenue: "22106.0",
     profit: "4325.0",
-    num. of employees: "12447.0",
+    num_of_employees: "12447.0",
     sector: "Financials",
     city: "Columbus",
     state: "GA",
@@ -3218,7 +3218,7 @@ var array = [
     CEO: "Daniel P. Amos",
     Website: "https://www.aflac.com",
     Ticker: "AFL",
-    Market Cap: "41812.8"
+    market_cap: "41812.8"
   },
   {
     company: "Whirlpool",
@@ -3226,7 +3226,7 @@ var array = [
     rank_change: "-8.0",
     revenue: "21985.0",
     profit: "1783.0",
-    num. of employees: "69000.0",
+    num_of_employees: "69000.0",
     sector: "Industrials",
     city: "Benton Harbor",
     state: "MI",
@@ -3238,7 +3238,7 @@ var array = [
     CEO: "Marc R. Bitzer",
     Website: "https://www.whirlpoolcorp.com",
     Ticker: "WHR",
-    Market Cap: "10101.2"
+    market_cap: "10101.2"
   },
   {
     company: "Union Pacific",
@@ -3246,7 +3246,7 @@ var array = [
     rank_change: "-10.0",
     revenue: "21804.0",
     profit: "6523.0",
-    num. of employees: "32124.0",
+    num_of_employees: "32124.0",
     sector: "Transportation",
     city: "Omaha",
     state: "NE",
@@ -3258,7 +3258,7 @@ var array = [
     CEO: "Lance M. Fritz",
     Website: "https://www.up.com",
     Ticker: "UNP",
-    Market Cap: "171681.6"
+    market_cap: "171681.6"
   },
   {
     company: "International Paper",
@@ -3266,7 +3266,7 @@ var array = [
     rank_change: "-23.0",
     revenue: "21780.0",
     profit: "1752.0",
-    num. of employees: "38200.0",
+    num_of_employees: "38200.0",
     sector: "Materials",
     city: "Memphis",
     state: "TN",
@@ -3278,7 +3278,7 @@ var array = [
     CEO: "Mark S. Sutton",
     Website: "https://www.internationalpaper.com",
     Ticker: "IP",
-    Market Cap: "17301.1"
+    market_cap: "17301.1"
   },
   {
     company: "Altria Group",
@@ -3286,7 +3286,7 @@ var array = [
     rank_change: "-27.0",
     revenue: "21111.0",
     profit: "2475.0",
-    num. of employees: "6000.0",
+    num_of_employees: "6000.0",
     sector: "Food, Beverages & Tobacco",
     city: "Richmond",
     state: "VA",
@@ -3298,7 +3298,7 @@ var array = [
     CEO: "William F. Gifford Jr.",
     Website: "https://www.altria.com",
     Ticker: "MO",
-    Market Cap: "94951.7"
+    market_cap: "94951.7"
   },
   {
     company: "CDW",
@@ -3306,7 +3306,7 @@ var array = [
     rank_change: "-5.0",
     revenue: "20820.8",
     profit: "988.6",
-    num. of employees: "13900.0",
+    num_of_employees: "13900.0",
     sector: "Technology",
     city: "Lincolnshire",
     state: "IL",
@@ -3318,7 +3318,7 @@ var array = [
     CEO: "Christine A. Leahy",
     Website: "https://www.cdw.com",
     Ticker: "CDW",
-    Market Cap: "24140.2"
+    market_cap: "24140.2"
   },
   {
     company: "ManpowerGroup",
@@ -3326,7 +3326,7 @@ var array = [
     rank_change: "-2.0",
     revenue: "20724.4",
     profit: "382.4",
-    num. of employees: "30000.0",
+    num_of_employees: "30000.0",
     sector: "Business Services",
     city: "Milwaukee",
     state: "WI",
@@ -3338,7 +3338,7 @@ var array = [
     CEO: "Jonas Prising",
     Website: "https://www.manpowergroup.com",
     Ticker: "MAN",
-    Market Cap: "5025.6"
+    market_cap: "5025.6"
   },
   {
     company: "PG&E",
@@ -3346,7 +3346,7 @@ var array = [
     rank_change: "-8.0",
     revenue: "20642.0",
     profit: "-102.0",
-    num. of employees: "26000.0",
+    num_of_employees: "26000.0",
     sector: "Energy",
     city: "San Francisco",
     state: "CA",
@@ -3358,7 +3358,7 @@ var array = [
     CEO: "Patricia K. Poppe",
     Website: "https://www.pgecorp.com",
     Ticker: "PCG",
-    Market Cap: "29433.7"
+    market_cap: "29433.7"
   },
   {
     company: "Carrier Global",
@@ -3366,7 +3366,7 @@ var array = [
     rank_change: "2.0",
     revenue: "20613.0",
     profit: "1664.0",
-    num. of employees: "58000.0",
+    num_of_employees: "58000.0",
     sector: "Industrials",
     city: "Palm Beach Gardens",
     state: "FL",
@@ -3378,7 +3378,7 @@ var array = [
     CEO: "David L. Gitlin",
     Website: "https://www.corporate.carrier.com",
     Ticker: "CARR",
-    Market Cap: "39127.4"
+    market_cap: "39127.4"
   },
   {
     company: "Baker Hughes",
@@ -3386,7 +3386,7 @@ var array = [
     rank_change: "-30.0",
     revenue: "20502.0",
     profit: "-219.0",
-    num. of employees: "54000.0",
+    num_of_employees: "54000.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -3398,7 +3398,7 @@ var array = [
     CEO: "Lorenzo Simonelli",
     Website: "https://www.bakerhughes.com",
     Ticker: "BKR",
-    Market Cap: "37410.2"
+    market_cap: "37410.2"
   },
   {
     company: "Cleveland-Cliffs",
@@ -3406,7 +3406,7 @@ var array = [
     rank_change: "0.0",
     revenue: "20444.0",
     profit: "2988.0",
-    num. of employees: "26000.0",
+    num_of_employees: "26000.0",
     sector: "Materials",
     city: "Cleveland",
     state: "OH",
@@ -3418,7 +3418,7 @@ var array = [
     CEO: "C. Lourenco Goncalves",
     Website: "https://www.clevelandcliffs.com",
     Ticker: "CLF",
-    Market Cap: "16891.2"
+    market_cap: "16891.2"
   },
   {
     company: "United States Steel",
@@ -3426,7 +3426,7 @@ var array = [
     rank_change: "138.0",
     revenue: "20275.0",
     profit: "4174.0",
-    num. of employees: "24540.0",
+    num_of_employees: "24540.0",
     sector: "Materials",
     city: "Pittsburgh",
     state: "PA",
@@ -3438,7 +3438,7 @@ var array = [
     CEO: "David B. Burritt",
     Website: "https://www.ussteel.com",
     Ticker: "X",
-    Market Cap: "9832.3"
+    market_cap: "9832.3"
   },
   {
     company: "Becton Dickinson",
@@ -3446,7 +3446,7 @@ var array = [
     rank_change: "4.0",
     revenue: "20248.0",
     profit: "2092.0",
-    num. of employees: "75000.0",
+    num_of_employees: "75000.0",
     sector: "Health Care",
     city: "Franklin Lakes",
     state: "NJ",
@@ -3458,7 +3458,7 @@ var array = [
     CEO: "Thomas E. Polen",
     Website: "https://www.bd.com",
     Ticker: "BDX",
-    Market Cap: "75749.1"
+    market_cap: "75749.1"
   },
   {
     company: "CarMax",
@@ -3466,7 +3466,7 @@ var array = [
     rank_change: "-38.0",
     revenue: "20092.1",
     profit: "746.9",
-    num. of employees: "26889.0",
+    num_of_employees: "26889.0",
     sector: "Retailing",
     city: "Richmond",
     state: "VA",
@@ -3478,7 +3478,7 @@ var array = [
     CEO: "William D. Nash",
     Website: "www.carmax.com",
     Ticker: "KMX",
-    Market Cap: "15305"
+    market_cap: "15305"
   },
   {
     company: "Sherwin-Williams",
@@ -3486,7 +3486,7 @@ var array = [
     rank_change: "-13.0",
     revenue: "19944.6",
     profit: "1864.4",
-    num. of employees: "61626.0",
+    num_of_employees: "61626.0",
     sector: "Chemicals",
     city: "Cleveland",
     state: "OH",
@@ -3498,7 +3498,7 @@ var array = [
     CEO: "John G. Morikis",
     Website: "https://www.sherwin-williams.com",
     Ticker: "SHW",
-    Market Cap: "65037.9"
+    market_cap: "65037.9"
   },
   {
     company: "Builders FirstSource",
@@ -3506,7 +3506,7 @@ var array = [
     rank_change: "174.0",
     revenue: "19893.9",
     profit: "1725.4",
-    num. of employees: "28000.0",
+    num_of_employees: "28000.0",
     sector: "Materials",
     city: "Dallas",
     state: "TX",
@@ -3518,7 +3518,7 @@ var array = [
     CEO: "David Flitman",
     Website: "https://www.bldr.com",
     Ticker: "BLDR",
-    Market Cap: "9205"
+    market_cap: "9205"
   },
   {
     company: "Marsh & McLennan",
@@ -3526,7 +3526,7 @@ var array = [
     rank_change: "-2.0",
     revenue: "19820.0",
     profit: "3143.0",
-    num. of employees: "83000.0",
+    num_of_employees: "83000.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -3538,7 +3538,7 @@ var array = [
     CEO: "Daniel S. Glaser",
     Website: "https://www.marshmclennan.com",
     Ticker: "MMC",
-    Market Cap: "85681.3"
+    market_cap: "85681.3"
   },
   {
     company: "PNC Financial Services Group",
@@ -3546,7 +3546,7 @@ var array = [
     rank_change: "-58.0",
     revenue: "19698.0",
     profit: "5674.0",
-    num. of employees: "58547.0",
+    num_of_employees: "58547.0",
     sector: "Financials",
     city: "Pittsburgh",
     state: "PA",
@@ -3558,7 +3558,7 @@ var array = [
     CEO: "William S. Demchak",
     Website: "https://www.pnc.com",
     Ticker: "PNC",
-    Market Cap: "77203.4"
+    market_cap: "77203.4"
   },
   {
     company: "Lumen Technologies",
@@ -3566,7 +3566,7 @@ var array = [
     rank_change: "-40.0",
     revenue: "19687.0",
     profit: "2033.0",
-    num. of employees: "36000.0",
+    num_of_employees: "36000.0",
     sector: "Telecommunications",
     city: "Monroe",
     state: "LA",
@@ -3578,7 +3578,7 @@ var array = [
     CEO: "Jeffrey K. Storey",
     Website: "https://www.lumen.com",
     Ticker: "LUMN",
-    Market Cap: "11533.4"
+    market_cap: "11533.4"
   },
   {
     company: "Avnet",
@@ -3586,7 +3586,7 @@ var array = [
     rank_change: "-12.0",
     revenue: "19534.7",
     profit: "193.1",
-    num. of employees: "14500.0",
+    num_of_employees: "14500.0",
     sector: "Wholesalers",
     city: "Phoenix",
     state: "AZ",
@@ -3598,7 +3598,7 @@ var array = [
     CEO: "Philip R. Gallagher",
     Website: "https://www.avnet.com",
     Ticker: "AVT",
-    Market Cap: "4016.9"
+    market_cap: "4016.9"
   },
   {
     company: "Tenet Healthcare",
@@ -3606,7 +3606,7 @@ var array = [
     rank_change: "-14.0",
     revenue: "19485.0",
     profit: "914.0",
-    num. of employees: "88968.0",
+    num_of_employees: "88968.0",
     sector: "Health Care",
     city: "Dallas",
     state: "TX",
@@ -3618,7 +3618,7 @@ var array = [
     CEO: "Saumya Sutaria",
     Website: "https://www.tenethealth.com",
     Ticker: "THC",
-    Market Cap: "9387.6"
+    market_cap: "9387.6"
   },
   {
     company: "Kimberly-Clark",
@@ -3626,7 +3626,7 @@ var array = [
     rank_change: "-24.0",
     revenue: "19440.0",
     profit: "1814.0",
-    num. of employees: "45000.0",
+    num_of_employees: "45000.0",
     sector: "Household Products",
     city: "Irving",
     state: "TX",
@@ -3638,7 +3638,7 @@ var array = [
     CEO: "Michael D. Hsu",
     Website: "https://www.kimberly-clark.com",
     Ticker: "KMB",
-    Market Cap: "41496.1"
+    market_cap: "41496.1"
   },
   {
     company: "Kohl's",
@@ -3646,7 +3646,7 @@ var array = [
     rank_change: "12.0",
     revenue: "19433.0",
     profit: "938.0",
-    num. of employees: "67000.0",
+    num_of_employees: "67000.0",
     sector: "Retailing",
     city: "Menomonee Falls",
     state: "WI",
@@ -3658,7 +3658,7 @@ var array = [
     CEO: "Michelle D. Gass",
     Website: "https://www.kohls.com",
     Ticker: "KSS",
-    Market Cap: "7774.6"
+    market_cap: "7774.6"
   },
   {
     company: "BlackRock",
@@ -3666,7 +3666,7 @@ var array = [
     rank_change: "8.0",
     revenue: "19374.0",
     profit: "5901.0",
-    num. of employees: "18400.0",
+    num_of_employees: "18400.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -3678,7 +3678,7 @@ var array = [
     CEO: "Laurence D. Fink",
     Website: "https://www.blackrock.com",
     Ticker: "BLK",
-    Market Cap: "116186.2"
+    market_cap: "116186.2"
   },
   {
     company: "Jones Lang LaSalle",
@@ -3686,7 +3686,7 @@ var array = [
     rank_change: "1.0",
     revenue: "19367.0",
     profit: "961.6",
-    num. of employees: "98200.0",
+    num_of_employees: "98200.0",
     sector: "Financials",
     city: "Chicago",
     state: "IL",
@@ -3698,7 +3698,7 @@ var array = [
     CEO: "Christian Ulbrich",
     Website: "https://www.jll.com",
     Ticker: "JLL",
-    Market Cap: "11945.5"
+    market_cap: "11945.5"
   },
   {
     company: "Lear",
@@ -3706,7 +3706,7 @@ var array = [
     rank_change: "-7.0",
     revenue: "19263.1",
     profit: "373.9",
-    num. of employees: "160100.0",
+    num_of_employees: "160100.0",
     sector: "Motor Vehicles & Parts",
     city: "Southfield",
     state: "MI",
@@ -3718,7 +3718,7 @@ var array = [
     CEO: "Raymond E. Scott",
     Website: "https://www.lear.com",
     Ticker: "LEA",
-    Market Cap: "8513.1"
+    market_cap: "8513.1"
   },
   {
     company: "Lincoln National",
@@ -3726,7 +3726,7 @@ var array = [
     rank_change: "-15.0",
     revenue: "19230.0",
     profit: "1405.0",
-    num. of employees: "10848.0",
+    num_of_employees: "10848.0",
     sector: "Financials",
     city: "Radnor",
     state: "PA",
@@ -3738,7 +3738,7 @@ var array = [
     CEO: "Ellen G. Cooper",
     Website: "https://www.lfg.com",
     Ticker: "LNC",
-    Market Cap: "11271.6"
+    market_cap: "11271.6"
   },
   {
     company: "Charles Schwab",
@@ -3746,7 +3746,7 @@ var array = [
     rank_change: "63.0",
     revenue: "18996.0",
     profit: "5855.0",
-    num. of employees: "33400.0",
+    num_of_employees: "33400.0",
     sector: "Financials",
     city: "Westlake",
     state: "TX",
@@ -3758,7 +3758,7 @@ var array = [
     CEO: "Walter W. Bettinger II",
     Website: "https://www.aboutschwab.com",
     Ticker: "SCHW",
-    Market Cap: "159675.9"
+    market_cap: "159675.9"
   },
   {
     company: "Ross Stores",
@@ -3766,7 +3766,7 @@ var array = [
     rank_change: "53.0",
     revenue: "18916.2",
     profit: "1722.6",
-    num. of employees: "100000.0",
+    num_of_employees: "100000.0",
     sector: "Retailing",
     city: "Dublin",
     state: "CA",
@@ -3778,7 +3778,7 @@ var array = [
     CEO: "Barbara Rentler",
     Website: "https://www.rossstores.com",
     Ticker: "ROST",
-    Market Cap: "31741.7"
+    market_cap: "31741.7"
   },
   {
     company: "Mastercard",
@@ -3786,7 +3786,7 @@ var array = [
     rank_change: "11.0",
     revenue: "18884.0",
     profit: "8687.0",
-    num. of employees: "24000.0",
+    num_of_employees: "24000.0",
     sector: "Business Services",
     city: "Purchase",
     state: "NY",
@@ -3798,7 +3798,7 @@ var array = [
     CEO: "Michael Miebach",
     Website: "https://www.mastercard.com",
     Ticker: "MA",
-    Market Cap: "349330.5"
+    market_cap: "349330.5"
   },
   {
     company: "Genuine Parts",
@@ -3806,7 +3806,7 @@ var array = [
     rank_change: "-18.0",
     revenue: "18870.5",
     profit: "898.8",
-    num. of employees: "52000.0",
+    num_of_employees: "52000.0",
     sector: "Wholesalers",
     city: "Atlanta",
     state: "GA",
@@ -3818,7 +3818,7 @@ var array = [
     CEO: "Paul D. Donahue",
     Website: "https://www.genpt.com",
     Ticker: "GPC",
-    Market Cap: "17888.1"
+    market_cap: "17888.1"
   },
   {
     company: "WestRock",
@@ -3826,7 +3826,7 @@ var array = [
     rank_change: "-22.0",
     revenue: "18746.1",
     profit: "838.3",
-    num. of employees: "49900.0",
+    num_of_employees: "49900.0",
     sector: "Materials",
     city: "Atlanta",
     state: "GA",
@@ -3838,7 +3838,7 @@ var array = [
     CEO: "David B. Sewell",
     Website: "https://www.westrock.com",
     Ticker: "WRK",
-    Market Cap: "12379"
+    market_cap: "12379"
   },
   {
     company: "EOG Resources",
@@ -3846,7 +3846,7 @@ var array = [
     rank_change: "92.0",
     revenue: "18642.0",
     profit: "4664.0",
-    num. of employees: "2800.0",
+    num_of_employees: "2800.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -3858,7 +3858,7 @@ var array = [
     CEO: "Ezra Y. Yacob",
     Website: "https://www.eogresources.com",
     Ticker: "EOG",
-    Market Cap: "69796"
+    market_cap: "69796"
   },
   {
     company: "Cognizant Technology Solutions",
@@ -3866,7 +3866,7 @@ var array = [
     rank_change: "-9.0",
     revenue: "18507.0",
     profit: "2137.0",
-    num. of employees: "330600.0",
+    num_of_employees: "330600.0",
     sector: "Technology",
     city: "Teaneck",
     state: "NJ",
@@ -3878,7 +3878,7 @@ var array = [
     CEO: "Brian Humphries",
     Website: "https://www.cognizant.com",
     Ticker: "CTSH",
-    Market Cap: "47035"
+    market_cap: "47035"
   },
   {
     company: "Moderna",
@@ -3886,7 +3886,7 @@ var array = [
     rank_change: "0.0",
     revenue: "18471.0",
     profit: "12202.0",
-    num. of employees: "2700.0",
+    num_of_employees: "2700.0",
     sector: "Health Care",
     city: "Cambridge",
     state: "MA",
@@ -3898,7 +3898,7 @@ var array = [
     CEO: "Stephane Bancel",
     Website: "https://www.modernatx.com",
     Ticker: "MRNA",
-    Market Cap: "69424.3"
+    market_cap: "69424.3"
   },
   {
     company: "Steel Dynamics",
@@ -3906,7 +3906,7 @@ var array = [
     rank_change: "123.0",
     revenue: "18408.9",
     profit: "3214.1",
-    num. of employees: "10640.0",
+    num_of_employees: "10640.0",
     sector: "Materials",
     city: "Fort Wayne",
     state: "IN",
@@ -3918,7 +3918,7 @@ var array = [
     CEO: "Mark D. Millett",
     Website: "https://www.steeldynamics.com",
     Ticker: "STLD",
-    Market Cap: "15811.5"
+    market_cap: "15811.5"
   },
   {
     company: "HF Sinclair",
@@ -3926,7 +3926,7 @@ var array = [
     rank_change: "82.0",
     revenue: "18389.1",
     profit: "558.3",
-    num. of employees: "4208.0",
+    num_of_employees: "4208.0",
     sector: "Energy",
     city: "Dallas",
     state: "TX",
@@ -3938,7 +3938,7 @@ var array = [
     CEO: "Michael C. Jennings",
     Website: "https://www.hfsinclair.com",
     Ticker: "DINO",
-    Market Cap: "8895.8"
+    market_cap: "8895.8"
   },
   {
     company: "Texas Instruments",
@@ -3946,7 +3946,7 @@ var array = [
     rank_change: "12.0",
     revenue: "18344.0",
     profit: "7769.0",
-    num. of employees: "31000.0",
+    num_of_employees: "31000.0",
     sector: "Technology",
     city: "Dallas",
     state: "TX",
@@ -3958,7 +3958,7 @@ var array = [
     CEO: "Richard K. Templeton",
     Website: "https://www.ti.com",
     Ticker: "TXN",
-    Market Cap: "169329.6"
+    market_cap: "169329.6"
   },
   {
     company: "Emerson Electric",
@@ -3966,7 +3966,7 @@ var array = [
     rank_change: "-18.0",
     revenue: "18236.0",
     profit: "2303.0",
-    num. of employees: "86700.0",
+    num_of_employees: "86700.0",
     sector: "Industrials",
     city: "St. Louis",
     state: "MO",
@@ -3978,7 +3978,7 @@ var array = [
     CEO: "S. L. Karsanbhai",
     Website: "https://www.emerson.com",
     Ticker: "EMR",
-    Market Cap: "58241.7"
+    market_cap: "58241.7"
   },
   {
     company: "WESCO International",
@@ -3986,7 +3986,7 @@ var array = [
     rank_change: "45.0",
     revenue: "18217.5",
     profit: "465.4",
-    num. of employees: "18000.0",
+    num_of_employees: "18000.0",
     sector: "Wholesalers",
     city: "Pittsburgh",
     state: "PA",
@@ -3998,7 +3998,7 @@ var array = [
     CEO: "John J. Engel",
     Website: "https://www.wesco.com",
     Ticker: "WCC",
-    Market Cap: "6598.5"
+    market_cap: "6598.5"
   },
   {
     company: "General Mills",
@@ -4006,7 +4006,7 @@ var array = [
     rank_change: "-32.0",
     revenue: "18127.0",
     profit: "2339.8",
-    num. of employees: "35000.0",
+    num_of_employees: "35000.0",
     sector: "Food, Beverages & Tobacco",
     city: "Minneapolis",
     state: "MN",
@@ -4018,7 +4018,7 @@ var array = [
     CEO: "Jeffrey L. Harmening",
     Website: "https://www.generalmills.com",
     Ticker: "GIS",
-    Market Cap: "40781.8"
+    market_cap: "40781.8"
   },
   {
     company: "Tenneco",
@@ -4026,7 +4026,7 @@ var array = [
     rank_change: "-3.0",
     revenue: "18035.0",
     profit: "35.0",
-    num. of employees: "71000.0",
+    num_of_employees: "71000.0",
     sector: "Motor Vehicles & Parts",
     city: "Lake Forest",
     state: "IL",
@@ -4038,7 +4038,7 @@ var array = [
     CEO: "Brian J. Kesseler",
     Website: "https://www.tenneco.com",
     Ticker: "TEN",
-    Market Cap: "1523"
+    market_cap: "1523"
   },
   {
     company: "Waste Management",
@@ -4046,7 +4046,7 @@ var array = [
     rank_change: "-1.0",
     revenue: "17931.0",
     profit: "1816.0",
-    num. of employees: "48500.0",
+    num_of_employees: "48500.0",
     sector: "Business Services",
     city: "Houston",
     state: "TX",
@@ -4058,7 +4058,7 @@ var array = [
     CEO: "James C. Fish Jr.",
     Website: "https://www.wm.com",
     Ticker: "WM",
-    Market Cap: "65802.8"
+    market_cap: "65802.8"
   },
   {
     company: "Viatris",
@@ -4066,7 +4066,7 @@ var array = [
     rank_change: "50.0",
     revenue: "17886.3",
     profit: "-1269.1",
-    num. of employees: "37000.0",
+    num_of_employees: "37000.0",
     sector: "Health Care",
     city: "Canonsburg",
     state: "PA",
@@ -4078,7 +4078,7 @@ var array = [
     CEO: "Michael Goettler",
     Website: "https://www.viatris.com",
     Ticker: "VTRS",
-    Market Cap: "13160.2"
+    market_cap: "13160.2"
   },
   {
     company: "DISH Network",
@@ -4086,7 +4086,7 @@ var array = [
     rank_change: "-8.0",
     revenue: "17881.1",
     profit: "2410.6",
-    num. of employees: "14500.0",
+    num_of_employees: "14500.0",
     sector: "Telecommunications",
     city: "Englewood",
     state: "CO",
@@ -4098,7 +4098,7 @@ var array = [
     CEO: "W. Erik Carlson",
     Website: "https://www.dish.com",
     Ticker: "DISH",
-    Market Cap: "16743.1"
+    market_cap: "16743.1"
   },
   {
     company: "L3Harris Technologies",
@@ -4106,7 +4106,7 @@ var array = [
     rank_change: "-43.0",
     revenue: "17814.0",
     profit: "1846.0",
-    num. of employees: "47000.0",
+    num_of_employees: "47000.0",
     sector: "Aerospace & Defense",
     city: "Melbourne",
     state: "FL",
@@ -4118,7 +4118,7 @@ var array = [
     CEO: "Christopher E. Kubasik",
     Website: "https://www.l3harris.com",
     Ticker: "LHX",
-    Market Cap: "47969.6"
+    market_cap: "47969.6"
   },
   {
     company: "DXC Technology",
@@ -4126,7 +4126,7 @@ var array = [
     rank_change: "-55.0",
     revenue: "17729.0",
     profit: "-149.0",
-    num. of employees: "134000.0",
+    num_of_employees: "134000.0",
     sector: "Technology",
     city: "Tysons",
     state: "VA",
@@ -4138,7 +4138,7 @@ var array = [
     CEO: "Michael J. Salvino",
     Website: "https://www.dxc.technology",
     Ticker: "DXC",
-    Market Cap: "7977.3"
+    market_cap: "7977.3"
   },
   {
     company: "Block",
@@ -4146,7 +4146,7 @@ var array = [
     rank_change: "115.0",
     revenue: "17661.2",
     profit: "166.3",
-    num. of employees: "8521.0",
+    num_of_employees: "8521.0",
     sector: "Business Services",
     city: "San Francisco",
     state: "CA",
@@ -4158,7 +4158,7 @@ var array = [
     CEO: "Jack Dorsey",
     Website: "https://www.block.xyz",
     Ticker: "SQ",
-    Market Cap: "78655.9"
+    market_cap: "78655.9"
   },
   {
     company: "Goodyear Tire & Rubber",
@@ -4166,7 +4166,7 @@ var array = [
     rank_change: "37.0",
     revenue: "17478.0",
     profit: "764.0",
-    num. of employees: "72000.0",
+    num_of_employees: "72000.0",
     sector: "Motor Vehicles & Parts",
     city: "Akron",
     state: "OH",
@@ -4178,7 +4178,7 @@ var array = [
     CEO: "Richard J. Kramer",
     Website: "https://www.goodyear.com",
     Ticker: "GT",
-    Market Cap: "4029.3"
+    market_cap: "4029.3"
   },
   {
     company: "Uber Technologies",
@@ -4186,7 +4186,7 @@ var array = [
     rank_change: "71.0",
     revenue: "17455.0",
     profit: "-496.0",
-    num. of employees: "29300.0",
+    num_of_employees: "29300.0",
     sector: "Technology",
     city: "San Francisco",
     state: "CA",
@@ -4198,7 +4198,7 @@ var array = [
     CEO: "Dara Khosrowshahi",
     Website: "https://www.uber.com",
     Ticker: "UBER",
-    Market Cap: "69753"
+    market_cap: "69753"
   },
   {
     company: "Colgate-Palmolive",
@@ -4206,7 +4206,7 @@ var array = [
     rank_change: "-23.0",
     revenue: "17421.0",
     profit: "2166.0",
-    num. of employees: "33800.0",
+    num_of_employees: "33800.0",
     sector: "Household Products",
     city: "New York",
     state: "NY",
@@ -4218,7 +4218,7 @@ var array = [
     CEO: "Noel R. Wallace",
     Website: "https://www.colgatepalmolive.com",
     Ticker: "CL",
-    Market Cap: "63742.2"
+    market_cap: "63742.2"
   },
   {
     company: "Stanley Black & Decker",
@@ -4226,7 +4226,7 @@ var array = [
     rank_change: "-3.0",
     revenue: "17252.7",
     profit: "1689.2",
-    num. of employees: "71300.0",
+    num_of_employees: "71300.0",
     sector: "Household Products",
     city: "New Britain",
     state: "CT",
@@ -4238,7 +4238,7 @@ var array = [
     CEO: "Donald Allan Jr.",
     Website: "https://www.stanleyblackanddecker.com",
     Ticker: "SWK",
-    Market Cap: "22843.3"
+    market_cap: "22843.3"
   },
   {
     company: "DuPont",
@@ -4246,7 +4246,7 @@ var array = [
     rank_change: "-69.0",
     revenue: "17160.0",
     profit: "6467.0",
-    num. of employees: "28000.0",
+    num_of_employees: "28000.0",
     sector: "Chemicals",
     city: "Wilmington",
     state: "DE",
@@ -4258,7 +4258,7 @@ var array = [
     CEO: "Edward D. Breen",
     Website: "https://www.dupont.com",
     Ticker: "DD",
-    Market Cap: "37739.7"
+    market_cap: "37739.7"
   },
   {
     company: "Stryker",
@@ -4266,7 +4266,7 @@ var array = [
     rank_change: "-2.0",
     revenue: "17108.0",
     profit: "1994.0",
-    num. of employees: "46000.0",
+    num_of_employees: "46000.0",
     sector: "Health Care",
     city: "Kalamazoo",
     state: "MI",
@@ -4278,7 +4278,7 @@ var array = [
     CEO: "Kevin A. Lobo",
     Website: "https://www.stryker.com",
     Ticker: "SYK",
-    Market Cap: "100978.1"
+    market_cap: "100978.1"
   },
   {
     company: "NextEra Energy",
@@ -4286,7 +4286,7 @@ var array = [
     rank_change: "-49.0",
     revenue: "17069.0",
     profit: "3573.0",
-    num. of employees: "15000.0",
+    num_of_employees: "15000.0",
     sector: "Energy",
     city: "Juno Beach",
     state: "FL",
@@ -4298,7 +4298,7 @@ var array = [
     CEO: "John W. Ketchum",
     Website: "https://www.nexteraenergy.com",
     Ticker: "NEE",
-    Market Cap: "166264.1"
+    market_cap: "166264.1"
   },
   {
     company: "Targa Resources",
@@ -4306,7 +4306,7 @@ var array = [
     rank_change: "148.0",
     revenue: "16949.8",
     profit: "71.2",
-    num. of employees: "2430.0",
+    num_of_employees: "2430.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -4318,7 +4318,7 @@ var array = [
     CEO: "Matthew J. Meloy",
     Website: "https://www.targaresources.com",
     Ticker: "TRGP",
-    Market Cap: "17243.8"
+    market_cap: "17243.8"
   },
   {
     company: "Western Digital",
@@ -4326,7 +4326,7 @@ var array = [
     rank_change: "-35.0",
     revenue: "16922.0",
     profit: "821.0",
-    num. of employees: "65600.0",
+    num_of_employees: "65600.0",
     sector: "Technology",
     city: "San Jose",
     state: "CA",
@@ -4338,7 +4338,7 @@ var array = [
     CEO: "David V. Goeckeler",
     Website: "https://www.westerndigital.com",
     Ticker: "WDC",
-    Market Cap: "15536.4"
+    market_cap: "15536.4"
   },
   {
     company: "PPG Industries",
@@ -4346,7 +4346,7 @@ var array = [
     rank_change: "2.0",
     revenue: "16802.0",
     profit: "1439.0",
-    num. of employees: "49300.0",
+    num_of_employees: "49300.0",
     sector: "Chemicals",
     city: "Pittsburgh",
     state: "PA",
@@ -4358,7 +4358,7 @@ var array = [
     CEO: "Michael H. McGarry",
     Website: "https://www.ppg.com",
     Ticker: "PPG",
-    Market Cap: "30951.9"
+    market_cap: "30951.9"
   },
   {
     company: "American Electric Power",
@@ -4366,7 +4366,7 @@ var array = [
     rank_change: "-15.0",
     revenue: "16792.0",
     profit: "2488.1",
-    num. of employees: "16688.0",
+    num_of_employees: "16688.0",
     sector: "Energy",
     city: "Columbus",
     state: "OH",
@@ -4378,7 +4378,7 @@ var array = [
     CEO: "Nicholas K. Akins",
     Website: "https://www.aep.com",
     Ticker: "AEP",
-    Market Cap: "50338.6"
+    market_cap: "50338.6"
   },
   {
     company: "Gap",
@@ -4386,7 +4386,7 @@ var array = [
     rank_change: "1.0",
     revenue: "16670.0",
     profit: "256.0",
-    num. of employees: "97000.0",
+    num_of_employees: "97000.0",
     sector: "Retailing",
     city: "San Francisco",
     state: "CA",
@@ -4398,7 +4398,7 @@ var array = [
     CEO: "Bobby L. Martin",
     Website: "https://www.gapinc.com",
     Ticker: "GPS",
-    Market Cap: "5206.6"
+    market_cap: "5206.6"
   },
   {
     company: "BJ&#8217;s Wholesale Club",
@@ -4406,7 +4406,7 @@ var array = [
     rank_change: "-23.0",
     revenue: "16667.3",
     profit: "426.7",
-    num. of employees: "34000.0",
+    num_of_employees: "34000.0",
     sector: "Retailing",
     city: "Westborough",
     state: "MA",
@@ -4418,7 +4418,7 @@ var array = [
     CEO: "Robert W. Eddy",
     Website: "https://www.bjs.com",
     Ticker: "BJ",
-    Market Cap: "9146.9"
+    market_cap: "9146.9"
   },
   {
     company: "Reinsurance Group of America",
@@ -4426,7 +4426,7 @@ var array = [
     rank_change: "-15.0",
     revenue: "16658.0",
     profit: "617.0",
-    num. of employees: "3500.0",
+    num_of_employees: "3500.0",
     sector: "Financials",
     city: "Chesterfield",
     state: "MO",
@@ -4438,7 +4438,7 @@ var array = [
     CEO: "Anna Manning",
     Website: "https://www.rgare.com",
     Ticker: "RGA",
-    Market Cap: "7354.6"
+    market_cap: "7354.6"
   },
   {
     company: "Kinder Morgan",
@@ -4446,7 +4446,7 @@ var array = [
     rank_change: "39.0",
     revenue: "16610.0",
     profit: "1784.0",
-    num. of employees: "10529.0",
+    num_of_employees: "10529.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -4458,7 +4458,7 @@ var array = [
     CEO: "Steven J. Kean",
     Website: "https://www.kindermorgan.com",
     Ticker: "KMI",
-    Market Cap: "42878.1"
+    market_cap: "42878.1"
   },
   {
     company: "Oneok",
@@ -4466,7 +4466,7 @@ var array = [
     rank_change: "127.0",
     revenue: "16540.3",
     profit: "1499.7",
-    num. of employees: "2847.0",
+    num_of_employees: "2847.0",
     sector: "Energy",
     city: "Tulsa",
     state: "OK",
@@ -4478,7 +4478,7 @@ var array = [
     CEO: "Pierce H. Norton II",
     Website: "https://www.oneok.com",
     Ticker: "OKE",
-    Market Cap: "31516"
+    market_cap: "31516"
   },
   {
     company: "Expeditors Intl. of Washington",
@@ -4486,7 +4486,7 @@ var array = [
     rank_change: "74.0",
     revenue: "16523.5",
     profit: "1415.5",
-    num. of employees: "19070.0",
+    num_of_employees: "19070.0",
     sector: "Transportation",
     city: "Seattle",
     state: "WA",
@@ -4498,7 +4498,7 @@ var array = [
     CEO: "Jeffrey Musser",
     Website: "https://www.expeditors.com",
     Ticker: "EXPD",
-    Market Cap: "15051"
+    market_cap: "15051"
   },
   {
     company: "Advanced Micro Devices",
@@ -4506,7 +4506,7 @@ var array = [
     rank_change: "83.0",
     revenue: "16434.0",
     profit: "3162.0",
-    num. of employees: "15500.0",
+    num_of_employees: "15500.0",
     sector: "Technology",
     city: "Santa Clara",
     state: "CA",
@@ -4518,7 +4518,7 @@ var array = [
     CEO: "Lisa Su",
     Website: "https://www.amd.com",
     Ticker: "AMD",
-    Market Cap: "93566"
+    market_cap: "93566"
   },
   {
     company: "Fiserv",
@@ -4526,7 +4526,7 @@ var array = [
     rank_change: "-22.0",
     revenue: "16226.0",
     profit: "1334.0",
-    num. of employees: "44000.0",
+    num_of_employees: "44000.0",
     sector: "Business Services",
     city: "Brookfield",
     state: "WI",
@@ -4538,7 +4538,7 @@ var array = [
     CEO: "Frank J. Bisignano",
     Website: "https://www.fiserv.com",
     Ticker: "FISV",
-    Market Cap: "66132.8"
+    market_cap: "66132.8"
   },
   {
     company: "EstÃ©e Lauder",
@@ -4546,7 +4546,7 @@ var array = [
     rank_change: "-15.0",
     revenue: "16215.0",
     profit: "2870.0",
-    num. of employees: "53320.0",
+    num_of_employees: "53320.0",
     sector: "Household Products",
     city: "New York",
     state: "NY",
@@ -4558,7 +4558,7 @@ var array = [
     CEO: "Fabrizio Freda",
     Website: "https://www.elcompanies.com",
     Ticker: "EL",
-    Market Cap: "97672.1"
+    market_cap: "97672.1"
   },
   {
     company: "Bank of New York Mellon",
@@ -4566,7 +4566,7 @@ var array = [
     rank_change: "-49.0",
     revenue: "16158.0",
     profit: "3759.0",
-    num. of employees: "49100.0",
+    num_of_employees: "49100.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -4578,7 +4578,7 @@ var array = [
     CEO: "Robin Vince",
     Website: "https://www.bnymellon.com",
     Ticker: "BK",
-    Market Cap: "40056.7"
+    market_cap: "40056.7"
   },
   {
     company: "Laboratory Corp. of America",
@@ -4586,7 +4586,7 @@ var array = [
     rank_change: "-12.0",
     revenue: "16120.9",
     profit: "2377.3",
-    num. of employees: "71725.0",
+    num_of_employees: "71725.0",
     sector: "Health Care",
     city: "Burlington",
     state: "NC",
@@ -4598,7 +4598,7 @@ var array = [
     CEO: "Adam H. Schechter",
     Website: "https://www.labcorp.com",
     Ticker: "LH",
-    Market Cap: "24625.8"
+    market_cap: "24625.8"
   },
   {
     company: "Regeneron Pharmaceuticals",
@@ -4606,7 +4606,7 @@ var array = [
     rank_change: "123.0",
     revenue: "16071.7",
     profit: "8075.3",
-    num. of employees: "10368.0",
+    num_of_employees: "10368.0",
     sector: "Health Care",
     city: "Tarrytown",
     state: "NY",
@@ -4618,7 +4618,7 @@ var array = [
     CEO: "Leonard Schleifer",
     Website: "https://www.regeneron.com",
     Ticker: "REGN",
-    Market Cap: "80226"
+    market_cap: "80226"
   },
   {
     company: "Land O'Lakes",
@@ -4626,7 +4626,7 @@ var array = [
     rank_change: "-13.0",
     revenue: "15916.4",
     profit: "287.4",
-    num. of employees: "9000.0",
+    num_of_employees: "9000.0",
     sector: "Food, Beverages & Tobacco",
     city: "Arden Hills",
     state: "MN",
@@ -4638,7 +4638,7 @@ var array = [
     CEO: "Beth E. Ford",
     Website: "https://www.landolakesinc.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Cheniere Energy",
@@ -4646,7 +4646,7 @@ var array = [
     rank_change: "95.0",
     revenue: "15864.0",
     profit: "-2343.0",
-    num. of employees: "1550.0",
+    num_of_employees: "1550.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -4658,7 +4658,7 @@ var array = [
     CEO: "Jack A. Fusco",
     Website: "https://www.cheniere.com",
     Ticker: "LNG",
-    Market Cap: "35272.3"
+    market_cap: "35272.3"
   },
   {
     company: "Southwest Airlines",
@@ -4666,7 +4666,7 @@ var array = [
     rank_change: "102.0",
     revenue: "15790.0",
     profit: "977.0",
-    num. of employees: "55093.0",
+    num_of_employees: "55093.0",
     sector: "Transportation",
     city: "Dallas",
     state: "TX",
@@ -4678,7 +4678,7 @@ var array = [
     CEO: "Robert E. Jordan",
     Website: "https://www.southwest.com",
     Ticker: "LUV",
-    Market Cap: "27129.3"
+    market_cap: "27129.3"
   },
   {
     company: "Adobe",
@@ -4686,7 +4686,7 @@ var array = [
     rank_change: "-1.0",
     revenue: "15785.0",
     profit: "4822.0",
-    num. of employees: "25988.0",
+    num_of_employees: "25988.0",
     sector: "Technology",
     city: "San Jose",
     state: "CA",
@@ -4698,7 +4698,7 @@ var array = [
     CEO: "Shantanu Narayen",
     Website: "https://www.adobe.com",
     Ticker: "ADBE",
-    Market Cap: "215280.5"
+    market_cap: "215280.5"
   },
   {
     company: "Synchrony Financial",
@@ -4706,7 +4706,7 @@ var array = [
     rank_change: "-49.0",
     revenue: "15752.0",
     profit: "4221.0",
-    num. of employees: "18000.0",
+    num_of_employees: "18000.0",
     sector: "Financials",
     city: "Stamford",
     state: "CT",
@@ -4718,7 +4718,7 @@ var array = [
     CEO: "Brian D. Doubles",
     Website: "https://www.synchronyfinancial.com",
     Ticker: "SYF",
-    Market Cap: "18145.5"
+    market_cap: "18145.5"
   },
   {
     company: "Corteva",
@@ -4726,7 +4726,7 @@ var array = [
     rank_change: "-23.0",
     revenue: "15655.0",
     profit: "1759.0",
-    num. of employees: "21000.0",
+    num_of_employees: "21000.0",
     sector: "Food, Beverages & Tobacco",
     city: "Indianapolis",
     state: "IN",
@@ -4738,7 +4738,7 @@ var array = [
     CEO: "Charles V. Magro",
     Website: "https://www.corteva.com",
     Ticker: "CTVA",
-    Market Cap: "41774.9"
+    market_cap: "41774.9"
   },
   {
     company: "Fidelity National Financial",
@@ -4746,7 +4746,7 @@ var array = [
     rank_change: "50.0",
     revenue: "15643.0",
     profit: "2422.0",
-    num. of employees: "28290.0",
+    num_of_employees: "28290.0",
     sector: "Financials",
     city: "Jacksonville",
     state: "FL",
@@ -4758,7 +4758,7 @@ var array = [
     CEO: "Michael Nolan",
     Website: "https://www.fnf.com",
     Ticker: "FNF",
-    Market Cap: "10569"
+    market_cap: "10569"
   },
   {
     company: "DTE Energy",
@@ -4766,7 +4766,7 @@ var array = [
     rank_change: "11.0",
     revenue: "15369.0",
     profit: "907.0",
-    num. of employees: "10300.0",
+    num_of_employees: "10300.0",
     sector: "Energy",
     city: "Detroit",
     state: "MI",
@@ -4778,7 +4778,7 @@ var array = [
     CEO: "Gerardo Norcia",
     Website: "https://www.dteenergy.com",
     Ticker: "DTE",
-    Market Cap: "25614.6"
+    market_cap: "25614.6"
   },
   {
     company: "Murphy USA",
@@ -4786,7 +4786,7 @@ var array = [
     rank_change: "82.0",
     revenue: "15318.8",
     profit: "396.9",
-    num. of employees: "10430.0",
+    num_of_employees: "10430.0",
     sector: "Retailing",
     city: "El Dorado",
     state: "AR",
@@ -4798,7 +4798,7 @@ var array = [
     CEO: "R. Andrew Clyde",
     Website: "https://www.murphyusa.com",
     Ticker: "MUSA",
-    Market Cap: "4888.6"
+    market_cap: "4888.6"
   },
   {
     company: "Halliburton",
@@ -4806,7 +4806,7 @@ var array = [
     rank_change: "-30.0",
     revenue: "15295.0",
     profit: "1457.0",
-    num. of employees: "40000.0",
+    num_of_employees: "40000.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -4818,7 +4818,7 @@ var array = [
     CEO: "Jeffrey A. Miller",
     Website: "https://www.halliburton.com",
     Ticker: "HAL",
-    Market Cap: "34028.9"
+    market_cap: "34028.9"
   },
   {
     company: "Automatic Data Processing",
@@ -4826,7 +4826,7 @@ var array = [
     rank_change: "-34.0",
     revenue: "15005.4",
     profit: "2598.5",
-    num. of employees: "56000.0",
+    num_of_employees: "56000.0",
     sector: "Business Services",
     city: "Roseland",
     state: "NJ",
@@ -4838,7 +4838,7 @@ var array = [
     CEO: "Carlos A. Rodriguez",
     Website: "https://www.adp.com",
     Ticker: "ADP",
-    Market Cap: "95577.1"
+    market_cap: "95577.1"
   },
   {
     company: "Edison International",
@@ -4846,7 +4846,7 @@ var array = [
     rank_change: "-17.0",
     revenue: "14905.0",
     profit: "759.0",
-    num. of employees: "13003.0",
+    num_of_employees: "13003.0",
     sector: "Energy",
     city: "Rosemead",
     state: "CA",
@@ -4858,7 +4858,7 @@ var array = [
     CEO: "Pedro J. Pizarro",
     Website: "https://www.edisoninvestor.com",
     Ticker: "EIX",
-    Market Cap: "26693.8"
+    market_cap: "26693.8"
   },
   {
     company: "BorgWarner",
@@ -4866,7 +4866,7 @@ var array = [
     rank_change: "51.0",
     revenue: "14838.0",
     profit: "537.0",
-    num. of employees: "49300.0",
+    num_of_employees: "49300.0",
     sector: "Motor Vehicles & Parts",
     city: "Auburn Hills",
     state: "MI",
@@ -4878,7 +4878,7 @@ var array = [
     CEO: "Frederic B. Lissalde",
     Website: "https://www.borgwarner.com",
     Ticker: "BWA",
-    Market Cap: "9335"
+    market_cap: "9335"
   },
   {
     company: "Nordstrom",
@@ -4886,7 +4886,7 @@ var array = [
     rank_change: "44.0",
     revenue: "14789.0",
     profit: "178.0",
-    num. of employees: "72000.0",
+    num_of_employees: "72000.0",
     sector: "Retailing",
     city: "Seattle",
     state: "WA",
@@ -4898,7 +4898,7 @@ var array = [
     CEO: "Erik B. Nordstrom",
     Website: "https://www.nordstrom.com",
     Ticker: "JWN",
-    Market Cap: "4321.3"
+    market_cap: "4321.3"
   },
   {
     company: "Loews",
@@ -4906,7 +4906,7 @@ var array = [
     rank_change: "-7.0",
     revenue: "14657.0",
     profit: "1578.0",
-    num. of employees: "10340.0",
+    num_of_employees: "10340.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -4918,7 +4918,7 @@ var array = [
     CEO: "James S. Tisch",
     Website: "https://www.loews.com",
     Ticker: "L",
-    Market Cap: "15971.3"
+    market_cap: "15971.3"
   },
   {
     company: "Guardian Life Ins. Co. of America",
@@ -4926,7 +4926,7 @@ var array = [
     rank_change: "-20.0",
     revenue: "14647.8",
     profit: "288.8",
-    num. of employees: "9150.0",
+    num_of_employees: "9150.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -4938,7 +4938,7 @@ var array = [
     CEO: "Andrew J. McMahon",
     Website: "https://www.guardianlife.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Pioneer Natural Resources",
@@ -4946,7 +4946,7 @@ var array = [
     rank_change: "180.0",
     revenue: "14643.0",
     profit: "2118.0",
-    num. of employees: "1932.0",
+    num_of_employees: "1932.0",
     sector: "Energy",
     city: "Irving",
     state: "TX",
@@ -4958,7 +4958,7 @@ var array = [
     CEO: "Scott D. Sheffield",
     Website: "https://www.pxd.com",
     Ticker: "PXD",
-    Market Cap: "60728.3"
+    market_cap: "60728.3"
   },
   {
     company: "AutoZone",
@@ -4966,7 +4966,7 @@ var array = [
     rank_change: "-11.0",
     revenue: "14629.6",
     profit: "2170.3",
-    num. of employees: "85050.0",
+    num_of_employees: "85050.0",
     sector: "Retailing",
     city: "Memphis",
     state: "TN",
@@ -4978,7 +4978,7 @@ var array = [
     CEO: "William C. Rhodes III",
     Website: "https://www.autozone.com",
     Ticker: "AZO",
-    Market Cap: "40582.6"
+    market_cap: "40582.6"
   },
   {
     company: "Lam Research",
@@ -4986,7 +4986,7 @@ var array = [
     rank_change: "54.0",
     revenue: "14626.2",
     profit: "3908.5",
-    num. of employees: "14100.0",
+    num_of_employees: "14100.0",
     sector: "Technology",
     city: "Fremont",
     state: "CA",
@@ -4998,7 +4998,7 @@ var array = [
     CEO: "Timothy M. Archer",
     Website: "https://www.lamresearch.com",
     Ticker: "LRCX",
-    Market Cap: "74996.7"
+    market_cap: "74996.7"
   },
   {
     company: "American Family Insurance Group",
@@ -5006,7 +5006,7 @@ var array = [
     rank_change: "-19.0",
     revenue: "14611.9",
     profit: "734.5",
-    num. of employees: "13590.0",
+    num_of_employees: "13590.0",
     sector: "Financials",
     city: "Madison",
     state: "WI",
@@ -5018,7 +5018,7 @@ var array = [
     CEO: "William Westrate",
     Website: "https://www.amfam.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Illinois Tool Works",
@@ -5026,7 +5026,7 @@ var array = [
     rank_change: "-12.0",
     revenue: "14455.0",
     profit: "2694.0",
-    num. of employees: "45000.0",
+    num_of_employees: "45000.0",
     sector: "Industrials",
     city: "Glenview",
     state: "IL",
@@ -5038,7 +5038,7 @@ var array = [
     CEO: "E. Scott Santi",
     Website: "https://www.itw.com",
     Ticker: "ITW",
-    Market Cap: "65311.9"
+    market_cap: "65311.9"
   },
   {
     company: "Parker-Hannifin",
@@ -5046,7 +5046,7 @@ var array = [
     rank_change: "-30.0",
     revenue: "14347.6",
     profit: "1746.1",
-    num. of employees: "54640.0",
+    num_of_employees: "54640.0",
     sector: "Industrials",
     city: "Cleveland",
     state: "OH",
@@ -5058,7 +5058,7 @@ var array = [
     CEO: "Thomas L. Williams",
     Website: "https://www.parker.com",
     Ticker: "PH",
-    Market Cap: "36456.8"
+    market_cap: "36456.8"
   },
   {
     company: "Otis Worldwide",
@@ -5066,7 +5066,7 @@ var array = [
     rank_change: "-18.0",
     revenue: "14298.0",
     profit: "1246.0",
-    num. of employees: "70000.0",
+    num_of_employees: "70000.0",
     sector: "Industrials",
     city: "Farmington",
     state: "CT",
@@ -5078,7 +5078,7 @@ var array = [
     CEO: "Judith F. Marks",
     Website: "https://www.otis.com",
     Ticker: "OTIS",
-    Market Cap: "32700.9"
+    market_cap: "32700.9"
   },
   {
     company: "Omnicom Group",
@@ -5086,7 +5086,7 @@ var array = [
     rank_change: "-26.0",
     revenue: "14289.4",
     profit: "1407.8",
-    num. of employees: "71700.0",
+    num_of_employees: "71700.0",
     sector: "Business Services",
     city: "New York",
     state: "NY",
@@ -5098,7 +5098,7 @@ var array = [
     CEO: "John D. Wren",
     Website: "https://www.omnicomgroup.com",
     Ticker: "OMC",
-    Market Cap: "17565.7"
+    market_cap: "17565.7"
   },
   {
     company: "Principal Financial",
@@ -5106,7 +5106,7 @@ var array = [
     rank_change: "-50.0",
     revenue: "14262.7",
     profit: "1710.6",
-    num. of employees: "18600.0",
+    num_of_employees: "18600.0",
     sector: "Financials",
     city: "Des Moines",
     state: "IA",
@@ -5118,7 +5118,7 @@ var array = [
     CEO: "Daniel J. Houston",
     Website: "https://www.principal.com",
     Ticker: "PFG",
-    Market Cap: "19176.7"
+    market_cap: "19176.7"
   },
   {
     company: "Dominion Energy",
@@ -5126,7 +5126,7 @@ var array = [
     rank_change: "-64.0",
     revenue: "14218.0",
     profit: "3288.0",
-    num. of employees: "17100.0",
+    num_of_employees: "17100.0",
     sector: "Energy",
     city: "Richmond",
     state: "VA",
@@ -5138,7 +5138,7 @@ var array = [
     CEO: "Robert M. Blue",
     Website: "https://www.dominionenergy.com",
     Ticker: "D",
-    Market Cap: "68883"
+    market_cap: "68883"
   },
   {
     company: "Kellogg",
@@ -5146,7 +5146,7 @@ var array = [
     rank_change: "-36.0",
     revenue: "14181.0",
     profit: "1488.0",
-    num. of employees: "31000.0",
+    num_of_employees: "31000.0",
     sector: "Food, Beverages & Tobacco",
     city: "Battle Creek",
     state: "MI",
@@ -5158,7 +5158,7 @@ var array = [
     CEO: "Steven A. Cahillane",
     Website: "https://www.kelloggcompany.com",
     Ticker: "K",
-    Market Cap: "21890.2"
+    market_cap: "21890.2"
   },
   {
     company: "Fluor",
@@ -5166,7 +5166,7 @@ var array = [
     rank_change: "-63.0",
     revenue: "14156.8",
     profit: "-440.2",
-    num. of employees: "40582.0",
+    num_of_employees: "40582.0",
     sector: "Engineering & Construction",
     city: "Irving",
     state: "TX",
@@ -5178,7 +5178,7 @@ var array = [
     CEO: "David E. Constable",
     Website: "https://www.fluor.com",
     Ticker: "FLR",
-    Market Cap: "4051.7"
+    market_cap: "4051.7"
   },
   {
     company: "AECOM",
@@ -5186,7 +5186,7 @@ var array = [
     rank_change: "-71.0",
     revenue: "14112.4",
     profit: "173.2",
-    num. of employees: "51000.0",
+    num_of_employees: "51000.0",
     sector: "Engineering & Construction",
     city: "Dallas",
     state: "TX",
@@ -5198,7 +5198,7 @@ var array = [
     CEO: "W. Troy Rudd",
     Website: "https://www.aecom.com",
     Ticker: "ACM",
-    Market Cap: "10856.5"
+    market_cap: "10856.5"
   },
   {
     company: "Reliance Steel & Aluminum",
@@ -5206,7 +5206,7 @@ var array = [
     rank_change: "82.0",
     revenue: "14093.3",
     profit: "1413.0",
-    num. of employees: "13950.0",
+    num_of_employees: "13950.0",
     sector: "Materials",
     city: "Los Angeles",
     state: "CA",
@@ -5218,7 +5218,7 @@ var array = [
     CEO: "James D. Hoffman",
     Website: "https://www.rsac.com",
     Ticker: "RS",
-    Market Cap: "11313.5"
+    market_cap: "11313.5"
   },
   {
     company: "Jacobs Engineering Group",
@@ -5226,7 +5226,7 @@ var array = [
     rank_change: "-37.0",
     revenue: "14092.6",
     profit: "477.0",
-    num. of employees: "53500.0",
+    num_of_employees: "53500.0",
     sector: "Engineering & Construction",
     city: "Dallas",
     state: "TX",
@@ -5238,7 +5238,7 @@ var array = [
     CEO: "Steven J. Demetriou",
     Website: "https://www.jacobs.com",
     Ticker: "J",
-    Market Cap: "17807.4"
+    market_cap: "17807.4"
   },
   {
     company: "Corning",
@@ -5246,7 +5246,7 @@ var array = [
     rank_change: "14.0",
     revenue: "14082.0",
     profit: "1906.0",
-    num. of employees: "61200.0",
+    num_of_employees: "61200.0",
     sector: "Industrials",
     city: "Corning",
     state: "NY",
@@ -5258,7 +5258,7 @@ var array = [
     CEO: "Wendell P. Weeks",
     Website: "https://www.corning.com",
     Ticker: "GLW",
-    Market Cap: "31212.8"
+    market_cap: "31212.8"
   },
   {
     company: "Farmers Insurance Exchange",
@@ -5266,7 +5266,7 @@ var array = [
     rank_change: "-8.0",
     revenue: "14055.0",
     profit: "-366.8",
-    num. of employees: "11787.0",
+    num_of_employees: "11787.0",
     sector: "Financials",
     city: "Woodland Hills",
     state: "CA",
@@ -5278,7 +5278,7 @@ var array = [
     CEO: "Jeffrey J. Dailey",
     Website: "https://www.farmers.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Qurate Retail",
@@ -5286,7 +5286,7 @@ var array = [
     rank_change: "-49.0",
     revenue: "14044.0",
     profit: "340.0",
-    num. of employees: "26745.0",
+    num_of_employees: "26745.0",
     sector: "Retailing",
     city: "Englewood",
     state: "CO",
@@ -5298,7 +5298,7 @@ var array = [
     CEO: "David L. Rawlinson II",
     Website: "https://www.qurateretail.com",
     Ticker: "QRTEA",
-    Market Cap: "1807.4"
+    market_cap: "1807.4"
   },
   {
     company: "Pacific Life",
@@ -5306,7 +5306,7 @@ var array = [
     rank_change: "37.0",
     revenue: "13936.0",
     profit: "1102.0",
-    num. of employees: "3861.0",
+    num_of_employees: "3861.0",
     sector: "Financials",
     city: "Newport Beach",
     state: "CA",
@@ -5318,7 +5318,7 @@ var array = [
     CEO: "Darryl Button",
     Website: "https://www.pacificlife.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "PulteGroup",
@@ -5326,7 +5326,7 @@ var array = [
     rank_change: "17.0",
     revenue: "13926.9",
     profit: "1946.3",
-    num. of employees: "6182.0",
+    num_of_employees: "6182.0",
     sector: "Engineering & Construction",
     city: "Atlanta",
     state: "GA",
@@ -5338,7 +5338,7 @@ var array = [
     CEO: "Ryan R. Marshall",
     Website: "https://www.pultegroupinc.com",
     Ticker: "PHM",
-    Market Cap: "10115.7"
+    market_cap: "10115.7"
   },
   {
     company: "Fidelity National Information Services",
@@ -5346,7 +5346,7 @@ var array = [
     rank_change: "-27.0",
     revenue: "13877.0",
     profit: "417.0",
-    num. of employees: "65000.0",
+    num_of_employees: "65000.0",
     sector: "Business Services",
     city: "Jacksonville",
     state: "FL",
@@ -5358,7 +5358,7 @@ var array = [
     CEO: "Gary A. Norcross",
     Website: "https://www.fisglobal.com",
     Ticker: "FIS",
-    Market Cap: "61215.1"
+    market_cap: "61215.1"
   },
   {
     company: "IQVIA Holdings",
@@ -5366,7 +5366,7 @@ var array = [
     rank_change: "6.0",
     revenue: "13874.0",
     profit: "966.0",
-    num. of employees: "79000.0",
+    num_of_employees: "79000.0",
     sector: "Health Care",
     city: "Durham",
     state: "NC",
@@ -5378,7 +5378,7 @@ var array = [
     CEO: "Ari Bousbib",
     Website: "https://www.iqvia.com",
     Ticker: "IQV",
-    Market Cap: "44140.8"
+    market_cap: "44140.8"
   },
   {
     company: "Marriott International",
@@ -5386,7 +5386,7 @@ var array = [
     rank_change: "23.0",
     revenue: "13857.0",
     profit: "1099.0",
-    num. of employees: "120000.0",
+    num_of_employees: "120000.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Bethesda",
     state: "MD",
@@ -5398,7 +5398,7 @@ var array = [
     CEO: "Anthony G. Capuano",
     Website: "https://www.marriott.com",
     Ticker: "MAR",
-    Market Cap: "57514.9"
+    market_cap: "57514.9"
   },
   {
     company: "Berry Global Group",
@@ -5406,7 +5406,7 @@ var array = [
     rank_change: "-10.0",
     revenue: "13850.0",
     profit: "733.0",
-    num. of employees: "47000.0",
+    num_of_employees: "47000.0",
     sector: "Materials",
     city: "Evansville",
     state: "IN",
@@ -5418,7 +5418,7 @@ var array = [
     CEO: "Thomas E. Salmon",
     Website: "https://www.berryglobal.com",
     Ticker: "BERY",
-    Market Cap: "7832.4"
+    market_cap: "7832.4"
   },
   {
     company: "Ball",
@@ -5426,7 +5426,7 @@ var array = [
     rank_change: "-12.0",
     revenue: "13811.0",
     profit: "878.0",
-    num. of employees: "24300.0",
+    num_of_employees: "24300.0",
     sector: "Materials",
     city: "Westminster",
     state: "CO",
@@ -5438,7 +5438,7 @@ var array = [
     CEO: "Daniel W. Fisher",
     Website: "https://www.ball.com",
     Ticker: "BLL",
-    Market Cap: "28909.1"
+    market_cap: "28909.1"
   },
   {
     company: "Group 1 Automotive",
@@ -5446,7 +5446,7 @@ var array = [
     rank_change: "13.0",
     revenue: "13801.7",
     profit: "552.1",
-    num. of employees: "13711.0",
+    num_of_employees: "13711.0",
     sector: "Retailing",
     city: "Houston",
     state: "TX",
@@ -5458,7 +5458,7 @@ var array = [
     CEO: "Earl J. Hesterberg",
     Website: "https://www.group1auto.com",
     Ticker: "GPI",
-    Market Cap: "2859.9"
+    market_cap: "2859.9"
   },
   {
     company: "Leidos Holdings",
@@ -5466,7 +5466,7 @@ var array = [
     rank_change: "-26.0",
     revenue: "13737.0",
     profit: "753.0",
-    num. of employees: "43000.0",
+    num_of_employees: "43000.0",
     sector: "Technology",
     city: "Reston",
     state: "VA",
@@ -5478,7 +5478,7 @@ var array = [
     CEO: "Roger A. Krone",
     Website: "https://www.leidos.com",
     Ticker: "LDOS",
-    Market Cap: "14727.7"
+    market_cap: "14727.7"
   },
   {
     company: "Wayfair",
@@ -5486,7 +5486,7 @@ var array = [
     rank_change: "-58.0",
     revenue: "13708.0",
     profit: "-131.0",
-    num. of employees: "16681.0",
+    num_of_employees: "16681.0",
     sector: "Retailing",
     city: "Boston",
     state: "MA",
@@ -5498,7 +5498,7 @@ var array = [
     CEO: "Niraj S. Shah",
     Website: "https://www.wayfair.com",
     Ticker: "W",
-    Market Cap: "11641.6"
+    market_cap: "11641.6"
   },
   {
     company: "Consolidated Edison",
@@ -5506,7 +5506,7 @@ var array = [
     rank_change: "-27.0",
     revenue: "13676.0",
     profit: "1346.0",
-    num. of employees: "13871.0",
+    num_of_employees: "13871.0",
     sector: "Energy",
     city: "New York",
     state: "NY",
@@ -5518,7 +5518,7 @@ var array = [
     CEO: "Timothy P. Cawley",
     Website: "https://www.conedison.com",
     Ticker: "ED",
-    Market Cap: "33525.3"
+    market_cap: "33525.3"
   },
   {
     company: "Ameriprise Financial",
@@ -5526,7 +5526,7 @@ var array = [
     rank_change: "-24.0",
     revenue: "13443.0",
     profit: "2760.0",
-    num. of employees: "12000.0",
+    num_of_employees: "12000.0",
     sector: "Financials",
     city: "Minneapolis",
     state: "MN",
@@ -5538,7 +5538,7 @@ var array = [
     CEO: "James M. Cracchiolo",
     Website: "https://www.ameriprise.com",
     Ticker: "AMP",
-    Market Cap: "33213"
+    market_cap: "33213"
   },
   {
     company: "Xcel Energy",
@@ -5546,7 +5546,7 @@ var array = [
     rank_change: "-6.0",
     revenue: "13431.0",
     profit: "1597.0",
-    num. of employees: "11321.0",
+    num_of_employees: "11321.0",
     sector: "Energy",
     city: "Minneapolis",
     state: "MN",
@@ -5558,7 +5558,7 @@ var array = [
     CEO: "Robert C. Frenzel",
     Website: "https://www.xcelenergy.com",
     Ticker: "XEL",
-    Market Cap: "39275.9"
+    market_cap: "39275.9"
   },
   {
     company: "O'Reilly Automotive",
@@ -5566,7 +5566,7 @@ var array = [
     rank_change: "-11.0",
     revenue: "13327.6",
     profit: "2164.7",
-    num. of employees: "76158.0",
+    num_of_employees: "76158.0",
     sector: "Retailing",
     city: "Springfield",
     state: "MO",
@@ -5578,7 +5578,7 @@ var array = [
     CEO: "Gregory D. Johnson",
     Website: "https://www.oreillyauto.com",
     Ticker: "ORLY",
-    Market Cap: "45410.4"
+    market_cap: "45410.4"
   },
   {
     company: "Global Partners",
@@ -5586,7 +5586,7 @@ var array = [
     rank_change: "81.0",
     revenue: "13248.3",
     profit: "60.8",
-    num. of employees: "2960.0",
+    num_of_employees: "2960.0",
     sector: "Wholesalers",
     city: "Waltham",
     state: "MA",
@@ -5598,7 +5598,7 @@ var array = [
     CEO: "Eric Slifka",
     Website: "https://www.globalp.com",
     Ticker: "GLP",
-    Market Cap: "927.1"
+    market_cap: "927.1"
   },
   {
     company: "Discover Financial Services",
@@ -5606,7 +5606,7 @@ var array = [
     rank_change: "-48.0",
     revenue: "13221.0",
     profit: "5449.0",
-    num. of employees: "16700.0",
+    num_of_employees: "16700.0",
     sector: "Financials",
     city: "Riverwoods",
     state: "IL",
@@ -5618,7 +5618,7 @@ var array = [
     CEO: "Roger C. Hochschild",
     Website: "https://www.discover.com",
     Ticker: "DFS",
-    Market Cap: "31076.7"
+    market_cap: "31076.7"
   },
   {
     company: "Rocket Companies",
@@ -5626,7 +5626,7 @@ var array = [
     rank_change: "-88.0",
     revenue: "13175.6",
     profit: "308.2",
-    num. of employees: "26000.0",
+    num_of_employees: "26000.0",
     sector: "Financials",
     city: "Detroit",
     state: "MI",
@@ -5638,7 +5638,7 @@ var array = [
     CEO: "Jay D. Farner",
     Website: "https://www.rocketcompanies.com",
     Ticker: "RKT",
-    Market Cap: "21905.9"
+    market_cap: "21905.9"
   },
   {
     company: "LKQ",
@@ -5646,7 +5646,7 @@ var array = [
     rank_change: "-17.0",
     revenue: "13088.5",
     profit: "1090.9",
-    num. of employees: "46000.0",
+    num_of_employees: "46000.0",
     sector: "Wholesalers",
     city: "Chicago",
     state: "IL",
@@ -5658,7 +5658,7 @@ var array = [
     CEO: "Dominick P. Zarcone",
     Website: "https://www.lkqcorp.com",
     Ticker: "LKQ",
-    Market Cap: "12941.4"
+    market_cap: "12941.4"
   },
   {
     company: "W.W. Grainger",
@@ -5666,7 +5666,7 @@ var array = [
     rank_change: "-26.0",
     revenue: "13022.0",
     profit: "1043.0",
-    num. of employees: "23450.0",
+    num_of_employees: "23450.0",
     sector: "Wholesalers",
     city: "Lake Forest",
     state: "IL",
@@ -5678,7 +5678,7 @@ var array = [
     CEO: "D.G. Macpherson",
     Website: "https://www.grainger.com",
     Ticker: "GWW",
-    Market Cap: "26358"
+    market_cap: "26358"
   },
   {
     company: "Quanta Services",
@@ -5686,7 +5686,7 @@ var array = [
     rank_change: "-7.0",
     revenue: "12980.2",
     profit: "486.0",
-    num. of employees: "43700.0",
+    num_of_employees: "43700.0",
     sector: "Engineering & Construction",
     city: "Houston",
     state: "TX",
@@ -5698,7 +5698,7 @@ var array = [
     CEO: "Earl C. Austin Jr.",
     Website: "https://www.quantaservices.com",
     Ticker: "PWR",
-    Market Cap: "18779.5"
+    market_cap: "18779.5"
   },
   {
     company: "Crown Holdings",
@@ -5706,7 +5706,7 @@ var array = [
     rank_change: "-17.0",
     revenue: "12979.0",
     profit: "-560.0",
-    num. of employees: "26000.0",
+    num_of_employees: "26000.0",
     sector: "Materials",
     city: "Yardley",
     state: "PA",
@@ -5718,7 +5718,7 @@ var array = [
     CEO: "Timothy J. Donahue",
     Website: "https://www.crowncork.com",
     Ticker: "CCK",
-    Market Cap: "15460.6"
+    market_cap: "15460.6"
   },
   {
     company: "Fox",
@@ -5726,7 +5726,7 @@ var array = [
     rank_change: "-40.0",
     revenue: "12909.0",
     profit: "2150.0",
-    num. of employees: "9000.0",
+    num_of_employees: "9000.0",
     sector: "Media",
     city: "New York",
     state: "NY",
@@ -5738,7 +5738,7 @@ var array = [
     CEO: "Lachlan K. Murdoch",
     Website: "https://www.foxcorporation.com",
     Ticker: "FOXA",
-    Market Cap: "21423.2"
+    market_cap: "21423.2"
   },
   {
     company: "Sempra",
@@ -5746,7 +5746,7 @@ var array = [
     rank_change: "-33.0",
     revenue: "12857.0",
     profit: "1317.0",
-    num. of employees: "15390.0",
+    num_of_employees: "15390.0",
     sector: "Energy",
     city: "San Diego",
     state: "CA",
@@ -5758,7 +5758,7 @@ var array = [
     CEO: "Jeffrey W. Martin",
     Website: "https://www.sempra.com",
     Ticker: "SRE",
-    Market Cap: "53087.6"
+    market_cap: "53087.6"
   },
   {
     company: "Markel",
@@ -5766,7 +5766,7 @@ var array = [
     rank_change: "22.0",
     revenue: "12846.4",
     profit: "2425.0",
-    num. of employees: "20300.0",
+    num_of_employees: "20300.0",
     sector: "Financials",
     city: "Glen Allen",
     state: "VA",
@@ -5778,7 +5778,7 @@ var array = [
     CEO: "Thomas S. Gayner/Richard R. Whitt III",
     Website: "https://www.markel.com",
     Ticker: "MKL",
-    Market Cap: "20037.5"
+    market_cap: "20037.5"
   },
   {
     company: "Carvana",
@@ -5786,7 +5786,7 @@ var array = [
     rank_change: "193.0",
     revenue: "12814.0",
     profit: "-135.0",
-    num. of employees: "21000.0",
+    num_of_employees: "21000.0",
     sector: "Retailing",
     city: "Tempe",
     state: "AZ",
@@ -5798,7 +5798,7 @@ var array = [
     CEO: "Ernest C. Garcia III",
     Website: "https://www.carvana.com",
     Ticker: "CVNA",
-    Market Cap: "19549.5"
+    market_cap: "19549.5"
   },
   {
     company: "XPO Logistics",
@@ -5806,7 +5806,7 @@ var array = [
     rank_change: "-101.0",
     revenue: "12806.0",
     profit: "336.0",
-    num. of employees: "44700.0",
+    num_of_employees: "44700.0",
     sector: "Transportation",
     city: "Greenwich",
     state: "CT",
@@ -5818,7 +5818,7 @@ var array = [
     CEO: "Brad Jacobs",
     Website: "https://www.xpo.com",
     Ticker: "XPO",
-    Market Cap: "8356.9"
+    market_cap: "8356.9"
   },
   {
     company: "Baxter International",
@@ -5826,7 +5826,7 @@ var array = [
     rank_change: "-28.0",
     revenue: "12784.0",
     profit: "1284.0",
-    num. of employees: "60000.0",
+    num_of_employees: "60000.0",
     sector: "Health Care",
     city: "Deerfield",
     state: "IL",
@@ -5838,7 +5838,7 @@ var array = [
     CEO: "JosÃ© E. Almeida",
     Website: "https://www.baxter.com",
     Ticker: "BAX",
-    Market Cap: "39017.9"
+    market_cap: "39017.9"
   },
   {
     company: "Ecolab",
@@ -5846,7 +5846,7 @@ var array = [
     rank_change: "-56.0",
     revenue: "12733.1",
     profit: "1129.9",
-    num. of employees: "47000.0",
+    num_of_employees: "47000.0",
     sector: "Chemicals",
     city: "St. Paul",
     state: "MN",
@@ -5858,7 +5858,7 @@ var array = [
     CEO: "Christophe Beck",
     Website: "https://www.ecolab.com",
     Ticker: "ECL",
-    Market Cap: "50548.4"
+    market_cap: "50548.4"
   },
   {
     company: "Tractor Supply",
@@ -5866,7 +5866,7 @@ var array = [
     rank_change: "-3.0",
     revenue: "12731.1",
     profit: "997.1",
-    num. of employees: "34000.0",
+    num_of_employees: "34000.0",
     sector: "Retailing",
     city: "Brentwood",
     state: "TN",
@@ -5878,7 +5878,7 @@ var array = [
     CEO: "Harry A. Lawton III",
     Website: "https://www.tractorsupply.com",
     Ticker: "TSCO",
-    Market Cap: "26171.6"
+    market_cap: "26171.6"
   },
   {
     company: "Andersons",
@@ -5886,7 +5886,7 @@ var array = [
     rank_change: "71.0",
     revenue: "12728.8",
     profit: "104.0",
-    num. of employees: "2334.0",
+    num_of_employees: "2334.0",
     sector: "Food, Beverages & Tobacco",
     city: "Maumee",
     state: "OH",
@@ -5898,7 +5898,7 @@ var array = [
     CEO: "Patrick Bowe",
     Website: "https://andersonsinc.com",
     Ticker: "ANDE",
-    Market Cap: "1151"
+    market_cap: "1151"
   },
   {
     company: "Keurig Dr Pepper",
@@ -5906,7 +5906,7 @@ var array = [
     rank_change: "-29.0",
     revenue: "12683.0",
     profit: "2146.0",
-    num. of employees: "27500.0",
+    num_of_employees: "27500.0",
     sector: "Food, Beverages & Tobacco",
     city: "Burlington",
     state: "MA",
@@ -5918,7 +5918,7 @@ var array = [
     CEO: "Ozan Dokmecioglu",
     Website: "https://www.keurigdrpepper.com",
     Ticker: "KDP",
-    Market Cap: "53748.2"
+    market_cap: "53748.2"
   },
   {
     company: "Universal Health Services",
@@ -5926,7 +5926,7 @@ var array = [
     rank_change: "-27.0",
     revenue: "12642.1",
     profit: "991.6",
-    num. of employees: "78850.0",
+    num_of_employees: "78850.0",
     sector: "Health Care",
     city: "King of Prussia",
     state: "PA",
@@ -5938,7 +5938,7 @@ var array = [
     CEO: "Marc D. Miller",
     Website: "https://www.uhsinc.com",
     Ticker: "UHS",
-    Market Cap: "10843.1"
+    market_cap: "10843.1"
   },
   {
     company: "CSX",
@@ -5946,7 +5946,7 @@ var array = [
     rank_change: "-6.0",
     revenue: "12522.0",
     profit: "3781.0",
-    num. of employees: "20919.0",
+    num_of_employees: "20919.0",
     sector: "Transportation",
     city: "Jacksonville",
     state: "FL",
@@ -5958,7 +5958,7 @@ var array = [
     CEO: "Joseph R. Hinrichs",
     Website: "https://www.csx.com",
     Ticker: "CSX",
-    Market Cap: "81587.8"
+    market_cap: "81587.8"
   },
   {
     company: "Henry Schein",
@@ -5966,7 +5966,7 @@ var array = [
     rank_change: "-1.0",
     revenue: "12401.0",
     profit: "631.2",
-    num. of employees: "21600.0",
+    num_of_employees: "21600.0",
     sector: "Health Care",
     city: "Melville",
     state: "NY",
@@ -5978,7 +5978,7 @@ var array = [
     CEO: "Stanley Bergman",
     Website: "https://www.henryschein.com",
     Ticker: "HSIC",
-    Market Cap: "8952"
+    market_cap: "8952"
   },
   {
     company: "Sonic Automotive",
@@ -5986,7 +5986,7 @@ var array = [
     rank_change: "8.0",
     revenue: "12396.4",
     profit: "348.9",
-    num. of employees: "10200.0",
+    num_of_employees: "10200.0",
     sector: "Retailing",
     city: "Charlotte",
     state: "NC",
@@ -5998,7 +5998,7 @@ var array = [
     CEO: "David Bruton Smith",
     Website: "https://www.sonicautomotive.com",
     Ticker: "SAH",
-    Market Cap: "1728.8"
+    market_cap: "1728.8"
   },
   {
     company: "eBay",
@@ -6006,7 +6006,7 @@ var array = [
     rank_change: "-25.0",
     revenue: "12394.0",
     profit: "13608.0",
-    num. of employees: "10800.0",
+    num_of_employees: "10800.0",
     sector: "Technology",
     city: "San Jose",
     state: "CA",
@@ -6018,7 +6018,7 @@ var array = [
     CEO: "Jamie Iannone",
     Website: "https://www.ebay.com",
     Ticker: "EBAY",
-    Market Cap: "33641.9"
+    market_cap: "33641.9"
   },
   {
     company: "Textron",
@@ -6026,7 +6026,7 @@ var array = [
     rank_change: "-37.0",
     revenue: "12382.0",
     profit: "746.0",
-    num. of employees: "33000.0",
+    num_of_employees: "33000.0",
     sector: "Aerospace & Defense",
     city: "Providence",
     state: "RI",
@@ -6038,7 +6038,7 @@ var array = [
     CEO: "Scott C. Donnelly",
     Website: "https://www.textron.com",
     Ticker: "TXT",
-    Market Cap: "16090.6"
+    market_cap: "16090.6"
   },
   {
     company: "Jones Financial (Edward Jones)",
@@ -6046,7 +6046,7 @@ var array = [
     rank_change: "-8.0",
     revenue: "12373.0",
     profit: "1605.0",
-    num. of employees: "50000.0",
+    num_of_employees: "50000.0",
     sector: "Financials",
     city: "Des Peres",
     state: "MO",
@@ -6058,7 +6058,7 @@ var array = [
     CEO: "Penny Pennington",
     Website: "https://www.edwardjones.com",
     Ticker: "",
-    Market Cap: "-"
+    market_cap: "-"
   },
   {
     company: "Community Health Systems",
@@ -6066,7 +6066,7 @@ var array = [
     rank_change: "-45.0",
     revenue: "12368.0",
     profit: "230.0",
-    num. of employees: "58500.0",
+    num_of_employees: "58500.0",
     sector: "Health Care",
     city: "Franklin",
     state: "TN",
@@ -6078,7 +6078,7 @@ var array = [
     CEO: "Tim L. Hingtgen",
     Website: "https://www.chs.net",
     Ticker: "CYH",
-    Market Cap: "1598.6"
+    market_cap: "1598.6"
   },
   {
     company: "Mosaic",
@@ -6086,7 +6086,7 @@ var array = [
     rank_change: "41.0",
     revenue: "12357.4",
     profit: "1630.6",
-    num. of employees: "12525.0",
+    num_of_employees: "12525.0",
     sector: "Chemicals",
     city: "Tampa",
     state: "FL",
@@ -6098,7 +6098,7 @@ var array = [
     CEO: "James C. O&#039;Rourke",
     Website: "https://www.mosaicco.com",
     Ticker: "MOS",
-    Market Cap: "24492.6"
+    market_cap: "24492.6"
   },
   {
     company: "Thor Industries",
@@ -6106,7 +6106,7 @@ var array = [
     rank_change: "62.0",
     revenue: "12317.4",
     profit: "659.9",
-    num. of employees: "31000.0",
+    num_of_employees: "31000.0",
     sector: "Motor Vehicles & Parts",
     city: "Elkhart",
     state: "IN",
@@ -6118,7 +6118,7 @@ var array = [
     CEO: "Robert Martin",
     Website: "https://www.thorindustries.com",
     Ticker: "THO",
-    Market Cap: "4273"
+    market_cap: "4273"
   },
   {
     company: "Dick's Sporting Goods",
@@ -6126,7 +6126,7 @@ var array = [
     rank_change: "13.0",
     revenue: "12293.4",
     profit: "1519.9",
-    num. of employees: "34300.0",
+    num_of_employees: "34300.0",
     sector: "Retailing",
     city: "Coraopolis",
     state: "PA",
@@ -6138,7 +6138,7 @@ var array = [
     CEO: "Lauren R. Hobart",
     Website: "https://www.dickssportinggoods.com",
     Ticker: "DKS",
-    Market Cap: "7986.6"
+    market_cap: "7986.6"
   },
   {
     company: "Newmont",
@@ -6146,7 +6146,7 @@ var array = [
     rank_change: "-35.0",
     revenue: "12222.0",
     profit: "1166.0",
-    num. of employees: "14400.0",
+    num_of_employees: "14400.0",
     sector: "Energy",
     city: "Denver",
     state: "CO",
@@ -6158,7 +6158,7 @@ var array = [
     CEO: "Thomas R. Palmer",
     Website: "https://www.newmont.com",
     Ticker: "NEM",
-    Market Cap: "62968.1"
+    market_cap: "62968.1"
   },
   {
     company: "Devon Energy",
@@ -6166,7 +6166,7 @@ var array = [
     rank_change: "0.0",
     revenue: "12206.0",
     profit: "2813.0",
-    num. of employees: "1600.0",
+    num_of_employees: "1600.0",
     sector: "Energy",
     city: "Oklahoma City",
     state: "OK",
@@ -6178,7 +6178,7 @@ var array = [
     CEO: "Richard E. Muncrief",
     Website: "https://www.devonenergy.com",
     Ticker: "DVN",
-    Market Cap: "39274.1"
+    market_cap: "39274.1"
   },
   {
     company: "Warner Bros. Discovery",
@@ -6186,7 +6186,7 @@ var array = [
     rank_change: "-20.0",
     revenue: "12191.0",
     profit: "1006.0",
-    num. of employees: "11000.0",
+    num_of_employees: "11000.0",
     sector: "Media",
     city: "New York",
     state: "NY",
@@ -6198,7 +6198,7 @@ var array = [
     CEO: "David M. Zaslav",
     Website: "https://https://wbd.com",
     Ticker: "WBD",
-    Market Cap: "12700.5"
+    market_cap: "12700.5"
   },
   {
     company: "J.B. Hunt Transport Services",
@@ -6206,7 +6206,7 @@ var array = [
     rank_change: "4.0",
     revenue: "12168.3",
     profit: "760.8",
-    num. of employees: "33045.0",
+    num_of_employees: "33045.0",
     sector: "Transportation",
     city: "Lowell",
     state: "AR",
@@ -6218,7 +6218,7 @@ var array = [
     CEO: "John N. Roberts III",
     Website: "https://www.jbhunt.com",
     Ticker: "JBHT",
-    Market Cap: "21052.9"
+    market_cap: "21052.9"
   },
   {
     company: "Alcoa",
@@ -6226,7 +6226,7 @@ var array = [
     rank_change: "18.0",
     revenue: "12152.0",
     profit: "429.0",
-    num. of employees: "12200.0",
+    num_of_employees: "12200.0",
     sector: "Materials",
     city: "Pittsburgh",
     state: "PA",
@@ -6238,7 +6238,7 @@ var array = [
     CEO: "Roy C. Harvey",
     Website: "https://www.alcoa.com",
     Ticker: "AA",
-    Market Cap: "16603.4"
+    market_cap: "16603.4"
   },
   {
     company: "Peter Kiewit Sons'",
@@ -6246,7 +6246,7 @@ var array = [
     rank_change: "-70.0",
     revenue: "12149.0",
     profit: "753.0",
-    num. of employees: "28800.0",
+    num_of_employees: "28800.0",
     sector: "Engineering & Construction",
     city: "Omaha",
     state: "NE",
@@ -6258,7 +6258,7 @@ var array = [
     CEO: "Rick Lanoha",
     Website: "https://www.kiewit.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Aramark",
@@ -6266,7 +6266,7 @@ var array = [
     rank_change: "-79.0",
     revenue: "12096.0",
     profit: "-90.8",
-    num. of employees: "248300.0",
+    num_of_employees: "248300.0",
     sector: "Business Services",
     city: "Philadelphia",
     state: "PA",
@@ -6278,7 +6278,7 @@ var array = [
     CEO: "John J. Zillmer",
     Website: "https://www.aramark.com",
     Ticker: "ARMK",
-    Market Cap: "9655.5"
+    market_cap: "9655.5"
   },
   {
     company: "Vistra",
@@ -6286,7 +6286,7 @@ var array = [
     rank_change: "-41.0",
     revenue: "12077.0",
     profit: "-1274.0",
-    num. of employees: "5060.0",
+    num_of_employees: "5060.0",
     sector: "Energy",
     city: "Irving",
     state: "TX",
@@ -6298,7 +6298,7 @@ var array = [
     CEO: "James A. Burke",
     Website: "https://www.vistracorp.com",
     Ticker: "VST",
-    Market Cap: "10434.7"
+    market_cap: "10434.7"
   },
   {
     company: "State Street",
@@ -6306,7 +6306,7 @@ var array = [
     rank_change: "-64.0",
     revenue: "12030.0",
     profit: "2693.0",
-    num. of employees: "38784.0",
+    num_of_employees: "38784.0",
     sector: "Financials",
     city: "Boston",
     state: "MA",
@@ -6318,7 +6318,7 @@ var array = [
     CEO: "Ronald P. O&#039;Hanley",
     Website: "https://www.statestreet.com",
     Ticker: "STT",
-    Market Cap: "31891.8"
+    market_cap: "31891.8"
   },
   {
     company: "Unum Group",
@@ -6326,7 +6326,7 @@ var array = [
     rank_change: "-87.0",
     revenue: "12013.8",
     profit: "824.2",
-    num. of employees: "10200.0",
+    num_of_employees: "10200.0",
     sector: "Financials",
     city: "Chattanooga",
     state: "TN",
@@ -6338,7 +6338,7 @@ var array = [
     CEO: "Richard P. McKenney",
     Website: "https://www.unum.com",
     Ticker: "UNM",
-    Market Cap: "6382.8"
+    market_cap: "6382.8"
   },
   {
     company: "Alleghany",
@@ -6346,7 +6346,7 @@ var array = [
     rank_change: "21.0",
     revenue: "12004.1",
     profit: "1034.9",
-    num. of employees: "13313.0",
+    num_of_employees: "13313.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -6358,7 +6358,7 @@ var array = [
     CEO: "Joseph P. Brandon",
     Website: "https://www.alleghany.com",
     Ticker: "Y",
-    Market Cap: "11396.1"
+    market_cap: "11396.1"
   },
   {
     company: "Boston Scientific",
@@ -6366,7 +6366,7 @@ var array = [
     rank_change: "-14.0",
     revenue: "11888.0",
     profit: "1041.0",
-    num. of employees: "41000.0",
+    num_of_employees: "41000.0",
     sector: "Health Care",
     city: "Marlborough",
     state: "MA",
@@ -6378,7 +6378,7 @@ var array = [
     CEO: "Michael F. Mahoney",
     Website: "https://www.bostonscientific.com",
     Ticker: "BSX",
-    Market Cap: "63310.2"
+    market_cap: "63310.2"
   },
   {
     company: "Westlake",
@@ -6386,7 +6386,7 @@ var array = [
     rank_change: "68.0",
     revenue: "11778.0",
     profit: "2015.0",
-    num. of employees: "14550.0",
+    num_of_employees: "14550.0",
     sector: "Chemicals",
     city: "Houston",
     state: "TX",
@@ -6398,7 +6398,7 @@ var array = [
     CEO: "Albert Yuan Chao",
     Website: "https://www.westlake.com",
     Ticker: "WLK",
-    Market Cap: "15785.4"
+    market_cap: "15785.4"
   },
   {
     company: "Entergy",
@@ -6406,7 +6406,7 @@ var array = [
     rank_change: "-21.0",
     revenue: "11742.9",
     profit: "1118.5",
-    num. of employees: "12369.0",
+    num_of_employees: "12369.0",
     sector: "Energy",
     city: "New Orleans",
     state: "LA",
@@ -6418,7 +6418,7 @@ var array = [
     CEO: "Andrew S. Marsh",
     Website: "https://www.entergy.com",
     Ticker: "ETR",
-    Market Cap: "23760.4"
+    market_cap: "23760.4"
   },
   {
     company: "International Flavors & Fragrances",
@@ -6426,7 +6426,7 @@ var array = [
     rank_change: "0.0",
     revenue: "11656.0",
     profit: "270.0",
-    num. of employees: "24000.0",
+    num_of_employees: "24000.0",
     sector: "Chemicals",
     city: "New York",
     state: "NY",
@@ -6438,7 +6438,7 @@ var array = [
     CEO: "Franklin K. Clyburn Jr.",
     Website: "https://www.iff.com",
     Ticker: "IFF",
-    Market Cap: "33455.6"
+    market_cap: "33455.6"
   },
   {
     company: "DaVita",
@@ -6446,7 +6446,7 @@ var array = [
     rank_change: "-52.0",
     revenue: "11618.8",
     profit: "978.5",
-    num. of employees: "69000.0",
+    num_of_employees: "69000.0",
     sector: "Health Care",
     city: "Denver",
     state: "CO",
@@ -6458,7 +6458,7 @@ var array = [
     CEO: "Javier J. Rodriguez",
     Website: "https://www.davita.com",
     Ticker: "DVA",
-    Market Cap: "10892.5"
+    market_cap: "10892.5"
   },
   {
     company: "Mutual of Omaha Insurance",
@@ -6466,7 +6466,7 @@ var array = [
     rank_change: "-42.0",
     revenue: "11459.3",
     profit: "579.0",
-    num. of employees: "5739.0",
+    num_of_employees: "5739.0",
     sector: "Financials",
     city: "Omaha",
     state: "NE",
@@ -6478,7 +6478,7 @@ var array = [
     CEO: "James T. Blackledge",
     Website: "https://www.mutualofomaha.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Assurant",
@@ -6486,7 +6486,7 @@ var array = [
     rank_change: "-23.0",
     revenue: "11410.0",
     profit: "1372.4",
-    num. of employees: "15600.0",
+    num_of_employees: "15600.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -6498,7 +6498,7 @@ var array = [
     CEO: "Keith W. Demmings",
     Website: "https://www.assurant.com",
     Ticker: "AIZ",
-    Market Cap: "10493.1"
+    market_cap: "10493.1"
   },
   {
     company: "Liberty Media",
@@ -6506,7 +6506,7 @@ var array = [
     rank_change: "0.0",
     revenue: "11400.0",
     profit: "398.0",
-    num. of employees: "6886.0",
+    num_of_employees: "6886.0",
     sector: "Media",
     city: "Englewood",
     state: "CO",
@@ -6518,7 +6518,7 @@ var array = [
     CEO: "Gregory B. Maffei",
     Website: "https://www.libertymedia.com",
     Ticker: "LSXMA",
-    Market Cap: "15239.1"
+    market_cap: "15239.1"
   },
   {
     company: "Hormel Foods",
@@ -6526,7 +6526,7 @@ var array = [
     rank_change: "-10.0",
     revenue: "11386.2",
     profit: "908.8",
-    num. of employees: "20000.0",
+    num_of_employees: "20000.0",
     sector: "Food, Beverages & Tobacco",
     city: "Austin",
     state: "MN",
@@ -6538,7 +6538,7 @@ var array = [
     CEO: "James P. Snee",
     Website: "https://www.hormelfoods.com",
     Ticker: "HRL",
-    Market Cap: "28089.2"
+    market_cap: "28089.2"
   },
   {
     company: "Icahn Enterprises",
@@ -6546,7 +6546,7 @@ var array = [
     rank_change: "125.0",
     revenue: "11328.0",
     profit: "-518.0",
-    num. of employees: "19536.0",
+    num_of_employees: "19536.0",
     sector: "Financials",
     city: "Sunny Isles Beach",
     state: "FL",
@@ -6558,7 +6558,7 @@ var array = [
     CEO: "David Willetts",
     Website: "https://www.ielp.com",
     Ticker: "IEP",
-    Market Cap: "15237.1"
+    market_cap: "15237.1"
   },
   {
     company: "Republic Services",
@@ -6566,7 +6566,7 @@ var array = [
     rank_change: "-32.0",
     revenue: "11295.0",
     profit: "1290.4",
-    num. of employees: "35000.0",
+    num_of_employees: "35000.0",
     sector: "Business Services",
     city: "Phoenix",
     state: "AZ",
@@ -6578,7 +6578,7 @@ var array = [
     CEO: "Jon Vander Ark",
     Website: "https://www.republicservices.com",
     Ticker: "RSG",
-    Market Cap: "41841.7"
+    market_cap: "41841.7"
   },
   {
     company: "Mohawk Industries",
@@ -6586,7 +6586,7 @@ var array = [
     rank_change: "-9.0",
     revenue: "11200.6",
     profit: "1033.2",
-    num. of employees: "43000.0",
+    num_of_employees: "43000.0",
     sector: "Household Products",
     city: "Calhoun",
     state: "GA",
@@ -6598,7 +6598,7 @@ var array = [
     CEO: "Jeffrey S. Lorberbaum",
     Website: "https://www.mohawkind.com",
     Ticker: "MHK",
-    Market Cap: "8081.8"
+    market_cap: "8081.8"
   },
   {
     company: "Conagra Brands",
@@ -6606,7 +6606,7 @@ var array = [
     rank_change: "-48.0",
     revenue: "11184.7",
     profit: "1298.8",
-    num. of employees: "18600.0",
+    num_of_employees: "18600.0",
     sector: "Food, Beverages & Tobacco",
     city: "Chicago",
     state: "IL",
@@ -6618,7 +6618,7 @@ var array = [
     CEO: "Sean M. Connolly",
     Website: "https://www.conagrabrands.com",
     Ticker: "CAG",
-    Market Cap: "16103.5"
+    market_cap: "16103.5"
   },
   {
     company: "Norfolk Southern",
@@ -6626,7 +6626,7 @@ var array = [
     rank_change: "-25.0",
     revenue: "11142.0",
     profit: "3005.0",
-    num. of employees: "18100.0",
+    num_of_employees: "18100.0",
     sector: "Transportation",
     city: "Atlanta",
     state: "GA",
@@ -6638,7 +6638,7 @@ var array = [
     CEO: "Alan H. Shaw",
     Website: "https://www.norfolksouthern.com",
     Ticker: "NSC",
-    Market Cap: "68389.3"
+    market_cap: "68389.3"
   },
   {
     company: "AES",
@@ -6646,7 +6646,7 @@ var array = [
     rank_change: "-20.0",
     revenue: "11141.0",
     profit: "-409.0",
-    num. of employees: "8450.0",
+    num_of_employees: "8450.0",
     sector: "Energy",
     city: "Arlington",
     state: "VA",
@@ -6658,7 +6658,7 @@ var array = [
     CEO: "AndrÃ©s R. Gluski",
     Website: "https://www.aes.com",
     Ticker: "AES",
-    Market Cap: "17172.1"
+    market_cap: "17172.1"
   },
   {
     company: "AGCO",
@@ -6666,7 +6666,7 @@ var array = [
     rank_change: "-3.0",
     revenue: "11138.3",
     profit: "897.0",
-    num. of employees: "23300.0",
+    num_of_employees: "23300.0",
     sector: "Industrials",
     city: "Duluth",
     state: "GA",
@@ -6678,7 +6678,7 @@ var array = [
     CEO: "Eric P. Hansotia",
     Website: "https://www.agcocorp.com",
     Ticker: "AGCO",
-    Market Cap: "10885.3"
+    market_cap: "10885.3"
   },
   {
     company: "Caesars Entertainment",
@@ -6686,7 +6686,7 @@ var array = [
     rank_change: "0.0",
     revenue: "11110.0",
     profit: "-1019.0",
-    num. of employees: "49000.0",
+    num_of_employees: "49000.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Reno",
     state: "NV",
@@ -6698,7 +6698,7 @@ var array = [
     CEO: "Thomas R. Reeg",
     Website: "https://www.caesars.com",
     Ticker: "CZR",
-    Market Cap: "16564.6"
+    market_cap: "16564.6"
   },
   {
     company: "Equitable Holdings",
@@ -6706,7 +6706,7 @@ var array = [
     rank_change: "-92.0",
     revenue: "11036.0",
     profit: "-439.0",
-    num. of employees: "10000.0",
+    num_of_employees: "10000.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -6718,7 +6718,7 @@ var array = [
     CEO: "Mark Pearson",
     Website: "https://www.equitableholdings.com",
     Ticker: "EQH",
-    Market Cap: "12041.2"
+    market_cap: "12041.2"
   },
   {
     company: "Advance Auto Parts",
@@ -6726,7 +6726,7 @@ var array = [
     rank_change: "-36.0",
     revenue: "10998.0",
     profit: "616.1",
-    num. of employees: "54500.0",
+    num_of_employees: "54500.0",
     sector: "Retailing",
     city: "Raleigh",
     state: "NC",
@@ -6738,7 +6738,7 @@ var array = [
     CEO: "Thomas R. Greco",
     Website: "https://www.advanceautoparts.com",
     Ticker: "AAP",
-    Market Cap: "12644.8"
+    market_cap: "12644.8"
   },
   {
     company: "Biogen",
@@ -6746,7 +6746,7 @@ var array = [
     rank_change: "-110.0",
     revenue: "10981.7",
     profit: "1556.1",
-    num. of employees: "9610.0",
+    num_of_employees: "9610.0",
     sector: "Health Care",
     city: "Cambridge",
     state: "MA",
@@ -6758,7 +6758,7 @@ var array = [
     CEO: "Michel Vounatsos",
     Website: "https://www.biogen.com",
     Ticker: "BIIB",
-    Market Cap: "30950.4"
+    market_cap: "30950.4"
   },
   {
     company: "Auto-Owners Insurance",
@@ -6766,7 +6766,7 @@ var array = [
     rank_change: "2.0",
     revenue: "10980.2",
     profit: "1318.4",
-    num. of employees: "6441.0",
+    num_of_employees: "6441.0",
     sector: "Financials",
     city: "Lansing",
     state: "MI",
@@ -6778,7 +6778,7 @@ var array = [
     CEO: "Jeffrey S. Tagsold",
     Website: "https://www.auto-owners.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Booking Holdings",
@@ -6786,7 +6786,7 @@ var array = [
     rank_change: "84.0",
     revenue: "10958.0",
     profit: "1165.0",
-    num. of employees: "20199.0",
+    num_of_employees: "20199.0",
     sector: "Technology",
     city: "Norwalk",
     state: "CT",
@@ -6798,7 +6798,7 @@ var array = [
     CEO: "Glenn D. Fogel",
     Website: "https://www.bookingholdings.com",
     Ticker: "BKNG",
-    Market Cap: "96022.7"
+    market_cap: "96022.7"
   },
   {
     company: "Amphenol",
@@ -6806,7 +6806,7 @@ var array = [
     rank_change: "8.0",
     revenue: "10876.3",
     profit: "1590.8",
-    num. of employees: "90000.0",
+    num_of_employees: "90000.0",
     sector: "Technology",
     city: "Wallingford",
     state: "CT",
@@ -6818,7 +6818,7 @@ var array = [
     CEO: "R. Adam Norwitt",
     Website: "https://www.amphenol.com",
     Ticker: "APH",
-    Market Cap: "45130.1"
+    market_cap: "45130.1"
   },
   {
     company: "Quest Diagnostics",
@@ -6826,7 +6826,7 @@ var array = [
     rank_change: "-18.0",
     revenue: "10788.0",
     profit: "1995.0",
-    num. of employees: "44500.0",
+    num_of_employees: "44500.0",
     sector: "Health Care",
     city: "Secaucus",
     state: "NJ",
@@ -6838,7 +6838,7 @@ var array = [
     CEO: "James E. Davis",
     Website: "https://www.questdiagnostics.com",
     Ticker: "DGX",
-    Market Cap: "16348.6"
+    market_cap: "16348.6"
   },
   {
     company: "FirstEnergy",
@@ -6846,7 +6846,7 @@ var array = [
     rank_change: "-49.0",
     revenue: "10758.0",
     profit: "1283.0",
-    num. of employees: "12395.0",
+    num_of_employees: "12395.0",
     sector: "Energy",
     city: "Akron",
     state: "OH",
@@ -6858,7 +6858,7 @@ var array = [
     CEO: "John W. Somerhalder II",
     Website: "https://www.firstenergycorp.com",
     Ticker: "FE",
-    Market Cap: "26181.6"
+    market_cap: "26181.6"
   },
   {
     company: "DCP Midstream",
@@ -6866,7 +6866,7 @@ var array = [
     rank_change: "98.0",
     revenue: "10707.0",
     profit: "391.0",
-    num. of employees: "1788.0",
+    num_of_employees: "1788.0",
     sector: "Energy",
     city: "Denver",
     state: "CO",
@@ -6878,7 +6878,7 @@ var array = [
     CEO: "Wouter T. van Kempen",
     Website: "https://www.dcpmidstream.com",
     Ticker: "DCP",
-    Market Cap: "6993.2"
+    market_cap: "6993.2"
   },
   {
     company: "Ally Financial",
@@ -6886,7 +6886,7 @@ var array = [
     rank_change: "-58.0",
     revenue: "10690.0",
     profit: "3060.0",
-    num. of employees: "10500.0",
+    num_of_employees: "10500.0",
     sector: "Financials",
     city: "Detroit",
     state: "MI",
@@ -6898,7 +6898,7 @@ var array = [
     CEO: "Jeffrey J. Brown",
     Website: "https://www.ally.com",
     Ticker: "ALLY",
-    Market Cap: "14411.6"
+    market_cap: "14411.6"
   },
   {
     company: "Delek US Holdings",
@@ -6906,7 +6906,7 @@ var array = [
     rank_change: "51.0",
     revenue: "10648.2",
     profit: "-203.5",
-    num. of employees: "3312.0",
+    num_of_employees: "3312.0",
     sector: "Energy",
     city: "Brentwood",
     state: "TN",
@@ -6918,7 +6918,7 @@ var array = [
     CEO: "Avigal Soreq",
     Website: "https://www.delekus.com",
     Ticker: "DK",
-    Market Cap: "1500.2"
+    market_cap: "1500.2"
   },
   {
     company: "Williams",
@@ -6926,7 +6926,7 @@ var array = [
     rank_change: "32.0",
     revenue: "10627.0",
     profit: "1517.0",
-    num. of employees: "4783.0",
+    num_of_employees: "4783.0",
     sector: "Energy",
     city: "Tulsa",
     state: "OK",
@@ -6938,7 +6938,7 @@ var array = [
     CEO: "Alan S. Armstrong",
     Website: "https://www.williams.com",
     Ticker: "WMB",
-    Market Cap: "40670.4"
+    market_cap: "40670.4"
   },
   {
     company: "Newell Brands",
@@ -6946,7 +6946,7 @@ var array = [
     rank_change: "-23.0",
     revenue: "10589.0",
     profit: "572.0",
-    num. of employees: "32000.0",
+    num_of_employees: "32000.0",
     sector: "Household Products",
     city: "Atlanta",
     state: "GA",
@@ -6958,7 +6958,7 @@ var array = [
     CEO: "Ravichandra K. Saligram",
     Website: "https://www.newellbrands.com",
     Ticker: "NWL",
-    Market Cap: "8902.4"
+    market_cap: "8902.4"
   },
   {
     company: "Eastman Chemical",
@@ -6966,7 +6966,7 @@ var array = [
     rank_change: "6.0",
     revenue: "10476.0",
     profit: "857.0",
-    num. of employees: "14000.0",
+    num_of_employees: "14000.0",
     sector: "Chemicals",
     city: "Kingsport",
     state: "TN",
@@ -6978,7 +6978,7 @@ var array = [
     CEO: "Mark J. Costa",
     Website: "https://www.eastman.com",
     Ticker: "EMN",
-    Market Cap: "14450.1"
+    market_cap: "14450.1"
   },
   {
     company: "Air Products & Chemicals",
@@ -6986,7 +6986,7 @@ var array = [
     rank_change: "-10.0",
     revenue: "10323.0",
     profit: "2099.1",
-    num. of employees: "20750.0",
+    num_of_employees: "20750.0",
     sector: "Chemicals",
     city: "Allentown",
     state: "PA",
@@ -6998,7 +6998,7 @@ var array = [
     CEO: "Seifi Ghasemi",
     Website: "https://www.airproducts.com",
     Ticker: "APD",
-    Market Cap: "55409.4"
+    market_cap: "55409.4"
   },
   {
     company: "Thrivent Financial for Lutherans",
@@ -7006,7 +7006,7 @@ var array = [
     rank_change: "18.0",
     revenue: "10312.7",
     profit: "2530.2",
-    num. of employees: "3256.0",
+    num_of_employees: "3256.0",
     sector: "Financials",
     city: "Minneapolis",
     state: "MN",
@@ -7018,7 +7018,7 @@ var array = [
     CEO: "Teresa J. Rasmussen",
     Website: "https://www.thrivent.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Molson Coors Beverage",
@@ -7026,7 +7026,7 @@ var array = [
     rank_change: "-38.0",
     revenue: "10279.7",
     profit: "1005.7",
-    num. of employees: "16300.0",
+    num_of_employees: "16300.0",
     sector: "Food, Beverages & Tobacco",
     city: "Chicago",
     state: "IL",
@@ -7038,7 +7038,7 @@ var array = [
     CEO: "Gavin D.K. Hattersley",
     Website: "https://www.molsoncoors.com",
     Ticker: "TAP",
-    Market Cap: "11631.8"
+    market_cap: "11631.8"
   },
   {
     company: "Interpublic Group",
@@ -7046,7 +7046,7 @@ var array = [
     rank_change: "-19.0",
     revenue: "10240.7",
     profit: "952.8",
-    num. of employees: "55600.0",
+    num_of_employees: "55600.0",
     sector: "Business Services",
     city: "New York",
     state: "NY",
@@ -7058,7 +7058,7 @@ var array = [
     CEO: "Daryl Lee",
     Website: "https://www.interpublic.com",
     Ticker: "IPG",
-    Market Cap: "13965.9"
+    market_cap: "13965.9"
   },
   {
     company: "Weyerhaeuser",
@@ -7066,7 +7066,7 @@ var array = [
     rank_change: "33.0",
     revenue: "10201.0",
     profit: "2607.0",
-    num. of employees: "9214.0",
+    num_of_employees: "9214.0",
     sector: "Materials",
     city: "Seattle",
     state: "WA",
@@ -7078,7 +7078,7 @@ var array = [
     CEO: "Devin W. Stockfish",
     Website: "https://www.weyerhaeuser.com",
     Ticker: "WY",
-    Market Cap: "28315"
+    market_cap: "28315"
   },
   {
     company: "Altice USA",
@@ -7086,7 +7086,7 @@ var array = [
     rank_change: "-49.0",
     revenue: "10090.8",
     profit: "990.3",
-    num. of employees: "9000.0",
+    num_of_employees: "9000.0",
     sector: "Telecommunications",
     city: "Long Island City",
     state: "NY",
@@ -7098,7 +7098,7 @@ var array = [
     CEO: "Dennis Mathew",
     Website: "https://www.alticeusa.com",
     Ticker: "ATUS",
-    Market Cap: "5674.1"
+    market_cap: "5674.1"
   },
   {
     company: "Raymond James Financial",
@@ -7106,7 +7106,7 @@ var array = [
     rank_change: "11.0",
     revenue: "9910.0",
     profit: "1403.0",
-    num. of employees: "15000.0",
+    num_of_employees: "15000.0",
     sector: "Financials",
     city: "St. Petersburg",
     state: "FL",
@@ -7118,7 +7118,7 @@ var array = [
     CEO: "Paul C. Reilly",
     Website: "https://www.raymondjames.com",
     Ticker: "RJF",
-    Market Cap: "22817.5"
+    market_cap: "22817.5"
   },
   {
     company: "EMCOR Group",
@@ -7126,7 +7126,7 @@ var array = [
     rank_change: "-13.0",
     revenue: "9903.6",
     profit: "383.5",
-    num. of employees: "34000.0",
+    num_of_employees: "34000.0",
     sector: "Engineering & Construction",
     city: "Norwalk",
     state: "CT",
@@ -7138,7 +7138,7 @@ var array = [
     CEO: "Anthony J. Guzzi",
     Website: "https://www.emcorgroup.com",
     Ticker: "EME",
-    Market Cap: "5931.8"
+    market_cap: "5931.8"
   },
   {
     company: "Eversource Energy",
@@ -7146,7 +7146,7 @@ var array = [
     rank_change: "-20.0",
     revenue: "9863.1",
     profit: "1220.5",
-    num. of employees: "9227.0",
+    num_of_employees: "9227.0",
     sector: "Energy",
     city: "Springfield",
     state: "MA",
@@ -7158,7 +7158,7 @@ var array = [
     CEO: "Joseph R. Nolan Jr.",
     Website: "https://www.eversource.com",
     Ticker: "ES",
-    Market Cap: "30403.2"
+    market_cap: "30403.2"
   },
   {
     company: "Yum China Holdings",
@@ -7166,7 +7166,7 @@ var array = [
     rank_change: "4.0",
     revenue: "9853.0",
     profit: "990.0",
-    num. of employees: "298500.0",
+    num_of_employees: "298500.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Plano",
     state: "TX",
@@ -7178,7 +7178,7 @@ var array = [
     CEO: "Joey Wat",
     Website: "https://ir.yumchina.com",
     Ticker: "YUMC",
-    Market Cap: "17679"
+    market_cap: "17679"
   },
   {
     company: "Asbury Automotive Group",
@@ -7186,7 +7186,7 @@ var array = [
     rank_change: "45.0",
     revenue: "9837.7",
     profit: "532.4",
-    num. of employees: "14200.0",
+    num_of_employees: "14200.0",
     sector: "Retailing",
     city: "Duluth",
     state: "GA",
@@ -7198,7 +7198,7 @@ var array = [
     CEO: "David W. Hult",
     Website: "https://www.asburyauto.com",
     Ticker: "ABG",
-    Market Cap: "3714.8"
+    market_cap: "3714.8"
   },
   {
     company: "Owens & Minor",
@@ -7206,7 +7206,7 @@ var array = [
     rank_change: "-16.0",
     revenue: "9785.3",
     profit: "221.6",
-    num. of employees: "17300.0",
+    num_of_employees: "17300.0",
     sector: "Health Care",
     city: "Mechanicsville",
     state: "VA",
@@ -7218,7 +7218,7 @@ var array = [
     CEO: "Edward A. Pesicka",
     Website: "https://www.owens-minor.com",
     Ticker: "OMI",
-    Market Cap: "3375.6"
+    market_cap: "3375.6"
   },
   {
     company: "Public Service Enterprise Group",
@@ -7226,7 +7226,7 @@ var array = [
     rank_change: "-44.0",
     revenue: "9722.0",
     profit: "-648.0",
-    num. of employees: "12684.0",
+    num_of_employees: "12684.0",
     sector: "Energy",
     city: "Newark",
     state: "NJ",
@@ -7238,7 +7238,7 @@ var array = [
     CEO: "Ralph A. LaRossa",
     Website: "https://www.pseg.com",
     Ticker: "PEG",
-    Market Cap: "35145.5"
+    market_cap: "35145.5"
   },
   {
     company: "United Rentals",
@@ -7246,7 +7246,7 @@ var array = [
     rank_change: "-11.0",
     revenue: "9716.0",
     profit: "1386.0",
-    num. of employees: "20400.0",
+    num_of_employees: "20400.0",
     sector: "Business Services",
     city: "Stamford",
     state: "CT",
@@ -7258,7 +7258,7 @@ var array = [
     CEO: "Matthew J. Flannery",
     Website: "https://www.unitedrentals.com",
     Ticker: "URI",
-    Market Cap: "25643.3"
+    market_cap: "25643.3"
   },
   {
     company: "MGM Resorts International",
@@ -7266,7 +7266,7 @@ var array = [
     rank_change: "0.0",
     revenue: "9680.1",
     profit: "1254.4",
-    num. of employees: "60500.0",
+    num_of_employees: "60500.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Las Vegas",
     state: "NV",
@@ -7278,7 +7278,7 @@ var array = [
     CEO: "William J. Hornbuckle",
     Website: "https://www.mgmresorts.com",
     Ticker: "MGM",
-    Market Cap: "18257.9"
+    market_cap: "18257.9"
   },
   {
     company: "Ryder System",
@@ -7286,7 +7286,7 @@ var array = [
     rank_change: "-8.0",
     revenue: "9663.0",
     profit: "519.0",
-    num. of employees: "42800.0",
+    num_of_employees: "42800.0",
     sector: "Transportation",
     city: "Miami",
     state: "FL",
@@ -7298,7 +7298,7 @@ var array = [
     CEO: "Robert E. Sanchez",
     Website: "https://www.ryder.com",
     Ticker: "R",
-    Market Cap: "4055.4"
+    market_cap: "4055.4"
   },
   {
     company: "Intuit",
@@ -7306,7 +7306,7 @@ var array = [
     rank_change: "14.0",
     revenue: "9633.0",
     profit: "2062.0",
-    num. of employees: "17350.0",
+    num_of_employees: "17350.0",
     sector: "Technology",
     city: "Mountain View",
     state: "CA",
@@ -7318,7 +7318,7 @@ var array = [
     CEO: "Sasan K. Goodarzi",
     Website: "https://www.intuit.com",
     Ticker: "INTU",
-    Market Cap: "135987.6"
+    market_cap: "135987.6"
   },
   {
     company: "Cincinnati Financial",
@@ -7326,7 +7326,7 @@ var array = [
     rank_change: "19.0",
     revenue: "9629.7",
     profit: "2945.6",
-    num. of employees: "5166.0",
+    num_of_employees: "5166.0",
     sector: "Financials",
     city: "Fairfield",
     state: "OH",
@@ -7338,7 +7338,7 @@ var array = [
     CEO: "Steven J. Johnston",
     Website: "https://www.cinfin.com",
     Ticker: "CINF",
-    Market Cap: "21813.3"
+    market_cap: "21813.3"
   },
   {
     company: "Erie Insurance Group",
@@ -7346,7 +7346,7 @@ var array = [
     rank_change: "-21.0",
     revenue: "9619.7",
     profit: "1130.1",
-    num. of employees: "5805.0",
+    num_of_employees: "5805.0",
     sector: "Financials",
     city: "Erie",
     state: "PA",
@@ -7358,7 +7358,7 @@ var array = [
     CEO: "Timothy G. NeCastro",
     Website: "https://www.erieinsurance.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Univar Solutions",
@@ -7366,7 +7366,7 @@ var array = [
     rank_change: "-7.0",
     revenue: "9535.5",
     profit: "460.6",
-    num. of employees: "9450.0",
+    num_of_employees: "9450.0",
     sector: "Wholesalers",
     city: "Downers Grove",
     state: "IL",
@@ -7378,7 +7378,7 @@ var array = [
     CEO: "David C. Jukes",
     Website: "https://www.univarsolutions.com",
     Ticker: "UNVR",
-    Market Cap: "5459.8"
+    market_cap: "5459.8"
   },
   {
     company: "Huntington Ingalls Industries",
@@ -7386,7 +7386,7 @@ var array = [
     rank_change: "-43.0",
     revenue: "9524.0",
     profit: "544.0",
-    num. of employees: "44000.0",
+    num_of_employees: "44000.0",
     sector: "Aerospace & Defense",
     city: "Newport News",
     state: "VA",
@@ -7398,7 +7398,7 @@ var array = [
     CEO: "Christopher D. Kastner",
     Website: "https://www.huntingtoningalls.com",
     Ticker: "HII",
-    Market Cap: "7991"
+    market_cap: "7991"
   },
   {
     company: "W.R. Berkley",
@@ -7406,7 +7406,7 @@ var array = [
     rank_change: "1.0",
     revenue: "9455.5",
     profit: "1022.5",
-    num. of employees: "7681.0",
+    num_of_employees: "7681.0",
     sector: "Financials",
     city: "Greenwich",
     state: "CT",
@@ -7418,7 +7418,7 @@ var array = [
     CEO: "W. Robert Berkley Jr.",
     Website: "https://www.berkley.com",
     Ticker: "WRB",
-    Market Cap: "17658.8"
+    market_cap: "17658.8"
   },
   {
     company: "Western & Southern Financial Group",
@@ -7426,7 +7426,7 @@ var array = [
     rank_change: "2.0",
     revenue: "9441.7",
     profit: "361.2",
-    num. of employees: "2538.0",
+    num_of_employees: "2538.0",
     sector: "Financials",
     city: "Cincinnati",
     state: "OH",
@@ -7438,7 +7438,7 @@ var array = [
     CEO: "John F. Barrett",
     Website: "https://www.westernsouthern.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Insight Enterprises",
@@ -7446,7 +7446,7 @@ var array = [
     rank_change: "-13.0",
     revenue: "9436.1",
     profit: "219.3",
-    num. of employees: "11624.0",
+    num_of_employees: "11624.0",
     sector: "Technology",
     city: "Tempe",
     state: "AZ",
@@ -7458,7 +7458,7 @@ var array = [
     CEO: "Joyce A. Mullen",
     Website: "https://www.insight.com",
     Ticker: "NSIT",
-    Market Cap: "3745.1"
+    market_cap: "3745.1"
   },
   {
     company: "News Corp.",
@@ -7466,7 +7466,7 @@ var array = [
     rank_change: "-37.0",
     revenue: "9358.0",
     profit: "330.0",
-    num. of employees: "24000.0",
+    num_of_employees: "24000.0",
     sector: "Media",
     city: "New York",
     state: "NY",
@@ -7478,7 +7478,7 @@ var array = [
     CEO: "Robert J. Thomson",
     Website: "https://www.newscorp.com",
     Ticker: "NWSA",
-    Market Cap: "13127.7"
+    market_cap: "13127.7"
   },
   {
     company: "American Tower",
@@ -7486,7 +7486,7 @@ var array = [
     rank_change: "0.0",
     revenue: "9356.9",
     profit: "2567.7",
-    num. of employees: "6378.0",
+    num_of_employees: "6378.0",
     sector: "Financials",
     city: "Boston",
     state: "MA",
@@ -7498,7 +7498,7 @@ var array = [
     CEO: "Thomas A. Bartlett",
     Website: "https://www.americantower.com",
     Ticker: "AMT",
-    Market Cap: "114527.4"
+    market_cap: "114527.4"
   },
   {
     company: "Old Republic International",
@@ -7506,7 +7506,7 @@ var array = [
     rank_change: "25.0",
     revenue: "9341.6",
     profit: "1534.3",
-    num. of employees: "9600.0",
+    num_of_employees: "9600.0",
     sector: "Financials",
     city: "Chicago",
     state: "IL",
@@ -7518,7 +7518,7 @@ var array = [
     CEO: "Craig R. Smiddy",
     Website: "https://www.oldrepublic.com",
     Ticker: "ORI",
-    Market Cap: "7972.8"
+    market_cap: "7972.8"
   },
   {
     company: "Burlington Stores",
@@ -7526,7 +7526,7 @@ var array = [
     rank_change: "94.0",
     revenue: "9322.3",
     profit: "408.8",
-    num. of employees: "38599.0",
+    num_of_employees: "38599.0",
     sector: "Retailing",
     city: "Burlington",
     state: "NJ",
@@ -7538,7 +7538,7 @@ var array = [
     CEO: "Michael B. O?Sullivan",
     Website: "https://www.burlingtoninvestors.com",
     Ticker: "BURL",
-    Market Cap: "12112.8"
+    market_cap: "12112.8"
   },
   {
     company: "Avis Budget Group",
@@ -7546,7 +7546,7 @@ var array = [
     rank_change: "120.0",
     revenue: "9313.0",
     profit: "1285.0",
-    num. of employees: "18500.0",
+    num_of_employees: "18500.0",
     sector: "Retailing",
     city: "Parsippany",
     state: "NJ",
@@ -7558,7 +7558,7 @@ var array = [
     CEO: "Joseph A. Ferraro",
     Website: "https://www.avisbudgetgroup.com",
     Ticker: "CAR",
-    Market Cap: "14157"
+    market_cap: "14157"
   },
   {
     company: "ODP",
@@ -7566,7 +7566,7 @@ var array = [
     rank_change: "-67.0",
     revenue: "9267.0",
     profit: "-208.0",
-    num. of employees: "26000.0",
+    num_of_employees: "26000.0",
     sector: "Retailing",
     city: "Boca Raton",
     state: "FL",
@@ -7578,7 +7578,7 @@ var array = [
     CEO: "Gerry P. Smith",
     Website: "https://www.officedepot.com",
     Ticker: "ODP",
-    Market Cap: "2222.2"
+    market_cap: "2222.2"
   },
   {
     company: "VF Corp.",
@@ -7586,7 +7586,7 @@ var array = [
     rank_change: "-117.0",
     revenue: "9238.8",
     profit: "407.9",
-    num. of employees: "33600.0",
+    num_of_employees: "33600.0",
     sector: "Apparel",
     city: "Denver",
     state: "CO",
@@ -7598,7 +7598,7 @@ var array = [
     CEO: "Steven Rendle",
     Website: "https://www.vfc.com",
     Ticker: "VFC",
-    Market Cap: "11620"
+    market_cap: "11620"
   },
   {
     company: "Bed Bath & Beyond",
@@ -7606,7 +7606,7 @@ var array = [
     rank_change: "-101.0",
     revenue: "9233.0",
     profit: "-150.8",
-    num. of employees: "37600.0",
+    num_of_employees: "37600.0",
     sector: "Retailing",
     city: "Union",
     state: "NJ",
@@ -7618,7 +7618,7 @@ var array = [
     CEO: "Sue Gove",
     Website: "https://www.bedbathandbeyond.com",
     Ticker: "BBBY",
-    Market Cap: "2170.5"
+    market_cap: "2170.5"
   },
   {
     company: "Seaboard",
@@ -7626,7 +7626,7 @@ var array = [
     rank_change: "24.0",
     revenue: "9229.0",
     profit: "570.0",
-    num. of employees: "13200.0",
+    num_of_employees: "13200.0",
     sector: "Food, Beverages & Tobacco",
     city: "Merriam",
     state: "KS",
@@ -7638,7 +7638,7 @@ var array = [
     CEO: "Robert L. Steer",
     Website: "https://www.seaboardcorp.com",
     Ticker: "SEB",
-    Market Cap: "4881.6"
+    market_cap: "4881.6"
   },
   {
     company: "First American Financial",
@@ -7646,7 +7646,7 @@ var array = [
     rank_change: "26.0",
     revenue: "9221.0",
     profit: "1241.0",
-    num. of employees: "22233.0",
+    num_of_employees: "22233.0",
     sector: "Financials",
     city: "Santa Ana",
     state: "CA",
@@ -7658,7 +7658,7 @@ var array = [
     CEO: "Kenneth D. DeGiorgio",
     Website: "https://www.firstam.com",
     Ticker: "FAF",
-    Market Cap: "7087.2"
+    market_cap: "7087.2"
   },
   {
     company: "Intercontinental Exchange",
@@ -7666,7 +7666,7 @@ var array = [
     rank_change: "-19.0",
     revenue: "9168.0",
     profit: "4058.0",
-    num. of employees: "8858.0",
+    num_of_employees: "8858.0",
     sector: "Financials",
     city: "Atlanta",
     state: "GA",
@@ -7678,7 +7678,7 @@ var array = [
     CEO: "Jeffrey C. Sprecher",
     Website: "https://www.ice.com",
     Ticker: "ICE",
-    Market Cap: "74044.8"
+    market_cap: "74044.8"
   },
   {
     company: "PVH",
@@ -7686,7 +7686,7 @@ var array = [
     rank_change: "19.0",
     revenue: "9154.7",
     profit: "952.3",
-    num. of employees: "25000.0",
+    num_of_employees: "25000.0",
     sector: "Apparel",
     city: "New York",
     state: "NY",
@@ -7698,7 +7698,7 @@ var array = [
     CEO: "Stefan Larsson",
     Website: "https://www.pvh.com",
     Ticker: "PVH",
-    Market Cap: "5210"
+    market_cap: "5210"
   },
   {
     company: "Apollo Global Management",
@@ -7706,7 +7706,7 @@ var array = [
     rank_change: "0.0",
     revenue: "9124.0",
     profit: "1838.5",
-    num. of employees: "2153.0",
+    num_of_employees: "2153.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -7718,7 +7718,7 @@ var array = [
     CEO: "Marc Rowan",
     Website: "https://www.apollo.com",
     Ticker: "APO",
-    Market Cap: "37194"
+    market_cap: "37194"
   },
   {
     company: "Jefferies Financial Group",
@@ -7726,7 +7726,7 @@ var array = [
     rank_change: "32.0",
     revenue: "9039.9",
     profit: "1674.4",
-    num. of employees: "5556.0",
+    num_of_employees: "5556.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -7738,7 +7738,7 @@ var array = [
     CEO: "Richard Handler",
     Website: "https://www.jefferies.com",
     Ticker: "JEF",
-    Market Cap: "7248"
+    market_cap: "7248"
   },
   {
     company: "Hershey",
@@ -7746,7 +7746,7 @@ var array = [
     rank_change: "-18.0",
     revenue: "8971.3",
     profit: "1477.5",
-    num. of employees: "17805.0",
+    num_of_employees: "17805.0",
     sector: "Food, Beverages & Tobacco",
     city: "Hershey",
     state: "PA",
@@ -7758,7 +7758,7 @@ var array = [
     CEO: "Michele G. Buck",
     Website: "https://www.thehersheycompany.com",
     Ticker: "HSY",
-    Market Cap: "44461.5"
+    market_cap: "44461.5"
   },
   {
     company: "NVR",
@@ -7766,7 +7766,7 @@ var array = [
     rank_change: "-6.0",
     revenue: "8970.1",
     profit: "1236.7",
-    num. of employees: "6600.0",
+    num_of_employees: "6600.0",
     sector: "Engineering & Construction",
     city: "Reston",
     state: "VA",
@@ -7778,7 +7778,7 @@ var array = [
     CEO: "Eugene J. Bredow",
     Website: "https://www.nvrinc.com",
     Ticker: "NVR",
-    Market Cap: "15010.5"
+    market_cap: "15010.5"
   },
   {
     company: "Foot Locker",
@@ -7786,7 +7786,7 @@ var array = [
     rank_change: "-5.0",
     revenue: "8958.0",
     profit: "893.0",
-    num. of employees: "33244.0",
+    num_of_employees: "33244.0",
     sector: "Retailing",
     city: "New York",
     state: "NY",
@@ -7798,7 +7798,7 @@ var array = [
     CEO: "Mary N. Dillon",
     Website: "https://www.footlocker.com/corp",
     Ticker: "FL",
-    Market Cap: "2850"
+    market_cap: "2850"
   },
   {
     company: "Dana",
@@ -7806,7 +7806,7 @@ var array = [
     rank_change: "17.0",
     revenue: "8945.0",
     profit: "197.0",
-    num. of employees: "40200.0",
+    num_of_employees: "40200.0",
     sector: "Motor Vehicles & Parts",
     city: "Maumee",
     state: "OH",
@@ -7818,7 +7818,7 @@ var array = [
     CEO: "James K. Kamsickas",
     Website: "https://www.dana.com",
     Ticker: "DAN",
-    Market Cap: "2544.4"
+    market_cap: "2544.4"
   },
   {
     company: "SpartanNash",
@@ -7826,7 +7826,7 @@ var array = [
     rank_change: "-63.0",
     revenue: "8931.0",
     profit: "73.8",
-    num. of employees: "13300.0",
+    num_of_employees: "13300.0",
     sector: "Wholesalers",
     city: "Byron Center",
     state: "MI",
@@ -7838,7 +7838,7 @@ var array = [
     CEO: "Tony B. Sarsam",
     Website: "https://www.spartannash.com",
     Ticker: "SPTN",
-    Market Cap: "1185.1"
+    market_cap: "1185.1"
   },
   {
     company: "Olin",
@@ -7846,7 +7846,7 @@ var array = [
     rank_change: "79.0",
     revenue: "8910.6",
     profit: "1296.7",
-    num. of employees: "7750.0",
+    num_of_employees: "7750.0",
     sector: "Chemicals",
     city: "Clayton",
     state: "MO",
@@ -7858,7 +7858,7 @@ var array = [
     CEO: "Scott M. Sutton",
     Website: "https://www.olin.com",
     Ticker: "OLN",
-    Market Cap: "8062"
+    market_cap: "8062"
   },
   {
     company: "Chewy",
@@ -7866,7 +7866,7 @@ var array = [
     rank_change: "9.0",
     revenue: "8890.8",
     profit: "-73.8",
-    num. of employees: "21300.0",
+    num_of_employees: "21300.0",
     sector: "Retailing",
     city: "Dania Beach",
     state: "FL",
@@ -7878,7 +7878,7 @@ var array = [
     CEO: "Sumit Singh",
     Website: "https://www.chewy.com",
     Ticker: "CHWY",
-    Market Cap: "17147.3"
+    market_cap: "17147.3"
   },
   {
     company: "Jackson Financial",
@@ -7886,7 +7886,7 @@ var array = [
     rank_change: "0.0",
     revenue: "8848.0",
     profit: "3183.0",
-    num. of employees: "3150.0",
+    num_of_employees: "3150.0",
     sector: "Financials",
     city: "Lansing",
     state: "MI",
@@ -7898,7 +7898,7 @@ var array = [
     CEO: "Laura L. Prieskorn",
     Website: "https://www.jackson.com",
     Ticker: "JXN",
-    Market Cap: "3895.1"
+    market_cap: "3895.1"
   },
   {
     company: "Activision Blizzard",
@@ -7906,7 +7906,7 @@ var array = [
     rank_change: "-23.0",
     revenue: "8803.0",
     profit: "2699.0",
-    num. of employees: "9800.0",
+    num_of_employees: "9800.0",
     sector: "Media",
     city: "Santa Monica",
     state: "CA",
@@ -7918,7 +7918,7 @@ var array = [
     CEO: "Robert A. Kotick",
     Website: "https://www.activisionblizzard.com",
     Ticker: "ATVI",
-    Market Cap: "62559.7"
+    market_cap: "62559.7"
   },
   {
     company: "Toll Brothers",
@@ -7926,7 +7926,7 @@ var array = [
     rank_change: "14.0",
     revenue: "8790.4",
     profit: "833.6",
-    num. of employees: "5100.0",
+    num_of_employees: "5100.0",
     sector: "Engineering & Construction",
     city: "Fort Washington",
     state: "PA",
@@ -7938,7 +7938,7 @@ var array = [
     CEO: "Douglas C. Yearley Jr.",
     Website: "https://www.tollbrothers.com",
     Ticker: "TOL",
-    Market Cap: "5515.4"
+    market_cap: "5515.4"
   },
   {
     company: "Carlyle Group",
@@ -7946,7 +7946,7 @@ var array = [
     rank_change: "0.0",
     revenue: "8782.1",
     profit: "2974.7",
-    num. of employees: "1850.0",
+    num_of_employees: "1850.0",
     sector: "Financials",
     city: "Washington",
     state: "DC",
@@ -7958,7 +7958,7 @@ var array = [
     CEO: "William Conway Jr.",
     Website: "https://www.carlyle.com",
     Ticker: "CG",
-    Market Cap: "9539"
+    market_cap: "9539"
   },
   {
     company: "Graybar Electric",
@@ -7966,7 +7966,7 @@ var array = [
     rank_change: "0.0",
     revenue: "8767.3",
     profit: "262.4",
-    num. of employees: "8800.0",
+    num_of_employees: "8800.0",
     sector: "Wholesalers",
     city: "St. Louis",
     state: "MO",
@@ -7978,7 +7978,7 @@ var array = [
     CEO: "Kathleen M. Mazzarella",
     Website: "https://www.graybar.com",
     Ticker: "",
-    Market Cap: "-"
+    market_cap: "-"
   },
   {
     company: "Ovintiv",
@@ -7986,7 +7986,7 @@ var array = [
     rank_change: "58.0",
     revenue: "8658.0",
     profit: "1416.0",
-    num. of employees: "1713.0",
+    num_of_employees: "1713.0",
     sector: "Energy",
     city: "Denver",
     state: "CO",
@@ -7998,7 +7998,7 @@ var array = [
     CEO: "Brendan M. McCracken",
     Website: "https://www.ovintiv.com",
     Ticker: "OVV",
-    Market Cap: "13987.5"
+    market_cap: "13987.5"
   },
   {
     company: "UFP Industries",
@@ -8006,7 +8006,7 @@ var array = [
     rank_change: "0.0",
     revenue: "8636.1",
     profit: "535.6",
-    num. of employees: "15000.0",
+    num_of_employees: "15000.0",
     sector: "Materials",
     city: "Grand Rapids",
     state: "MI",
@@ -8018,7 +8018,7 @@ var array = [
     CEO: "Matthew Missad",
     Website: "https://www.ufpi.com",
     Ticker: "UFPI",
-    Market Cap: "4471"
+    market_cap: "4471"
   },
   {
     company: "Ulta Beauty",
@@ -8026,7 +8026,7 @@ var array = [
     rank_change: "49.0",
     revenue: "8630.9",
     profit: "985.8",
-    num. of employees: "28500.0",
+    num_of_employees: "28500.0",
     sector: "Retailing",
     city: "Bolingbrook",
     state: "IL",
@@ -8038,7 +8038,7 @@ var array = [
     CEO: "David C. Kimbell",
     Website: "https://www.ulta.com",
     Ticker: "ULTA",
-    Market Cap: "20837.8"
+    market_cap: "20837.8"
   },
   {
     company: "Constellation Brands",
@@ -8046,7 +8046,7 @@ var array = [
     rank_change: "-44.0",
     revenue: "8614.9",
     profit: "1998.0",
-    num. of employees: "9300.0",
+    num_of_employees: "9300.0",
     sector: "Food, Beverages & Tobacco",
     city: "Victor",
     state: "NY",
@@ -8058,7 +8058,7 @@ var array = [
     CEO: "William A. Newlands",
     Website: "https://www.cbrands.com",
     Ticker: "STZ",
-    Market Cap: "43763.5"
+    market_cap: "43763.5"
   },
   {
     company: "Expedia Group",
@@ -8066,7 +8066,7 @@ var array = [
     rank_change: "0.0",
     revenue: "8598.0",
     profit: "12.0",
-    num. of employees: "14800.0",
+    num_of_employees: "14800.0",
     sector: "Retailing",
     city: "Seattle",
     state: "WA",
@@ -8078,7 +8078,7 @@ var array = [
     CEO: "Peter M. Kern",
     Website: "https://www.expediagroup.com",
     Ticker: "EXPE",
-    Market Cap: "30476.5"
+    market_cap: "30476.5"
   },
   {
     company: "CommScope Holding",
@@ -8086,7 +8086,7 @@ var array = [
     rank_change: "-49.0",
     revenue: "8586.7",
     profit: "-462.6",
-    num. of employees: "30000.0",
+    num_of_employees: "30000.0",
     sector: "Technology",
     city: "Hickory",
     state: "NC",
@@ -8098,7 +8098,7 @@ var array = [
     CEO: "Charles L. Treadway",
     Website: "https://www.commscope.com",
     Ticker: "COMM",
-    Market Cap: "1629.7"
+    market_cap: "1629.7"
   },
   {
     company: "Celanese",
@@ -8106,7 +8106,7 @@ var array = [
     rank_change: "71.0",
     revenue: "8537.0",
     profit: "1890.0",
-    num. of employees: "8529.0",
+    num_of_employees: "8529.0",
     sector: "Chemicals",
     city: "Irving",
     state: "TX",
@@ -8118,7 +8118,7 @@ var array = [
     CEO: "Lori J. Ryerkerk",
     Website: "https://www.celanese.com",
     Ticker: "CE",
-    Market Cap: "15434.1"
+    market_cap: "15434.1"
   },
   {
     company: "Global Payments",
@@ -8126,7 +8126,7 @@ var array = [
     rank_change: "-13.0",
     revenue: "8523.8",
     profit: "965.5",
-    num. of employees: "25000.0",
+    num_of_employees: "25000.0",
     sector: "Business Services",
     city: "Atlanta",
     state: "GA",
@@ -8138,7 +8138,7 @@ var array = [
     CEO: "Jeffrey S. Sloan",
     Website: "https://www.globalpayments.com",
     Ticker: "GPN",
-    Market Cap: "38545.6"
+    market_cap: "38545.6"
   },
   {
     company: "Owens Corning",
@@ -8146,7 +8146,7 @@ var array = [
     rank_change: "5.0",
     revenue: "8498.0",
     profit: "995.0",
-    num. of employees: "20000.0",
+    num_of_employees: "20000.0",
     sector: "Materials",
     city: "Toledo",
     state: "OH",
@@ -8158,7 +8158,7 @@ var array = [
     CEO: "Brian D. Chambers",
     Website: "https://www.owenscorning.com",
     Ticker: "OC",
-    Market Cap: "9064.7"
+    market_cap: "9064.7"
   },
   {
     company: "Campbell Soup",
@@ -8166,7 +8166,7 @@ var array = [
     rank_change: "-74.0",
     revenue: "8476.0",
     profit: "1002.0",
-    num. of employees: "14100.0",
+    num_of_employees: "14100.0",
     sector: "Food, Beverages & Tobacco",
     city: "Camden",
     state: "NJ",
@@ -8178,7 +8178,7 @@ var array = [
     CEO: "Mark A. Clouse",
     Website: "https://www.campbellsoupcompany.com",
     Ticker: "CPB",
-    Market Cap: "13446.9"
+    market_cap: "13446.9"
   },
   {
     company: "Huntsman",
@@ -8186,7 +8186,7 @@ var array = [
     rank_change: "50.0",
     revenue: "8453.0",
     profit: "1045.0",
-    num. of employees: "9000.0",
+    num_of_employees: "9000.0",
     sector: "Chemicals",
     city: "The Woodlands",
     state: "TX",
@@ -8198,7 +8198,7 @@ var array = [
     CEO: "Peter R. Huntsman",
     Website: "https://www.huntsman.com",
     Ticker: "HUN",
-    Market Cap: "8046.9"
+    market_cap: "8046.9"
   },
   {
     company: "Franklin Resources",
@@ -8206,7 +8206,7 @@ var array = [
     rank_change: "73.0",
     revenue: "8425.5",
     profit: "1831.2",
-    num. of employees: "10300.0",
+    num_of_employees: "10300.0",
     sector: "Financials",
     city: "San Mateo",
     state: "CA",
@@ -8218,7 +8218,7 @@ var array = [
     CEO: "Jennifer M. Johnson",
     Website: "https://www.franklinresources.com",
     Ticker: "BEN",
-    Market Cap: "14019.3"
+    market_cap: "14019.3"
   },
   {
     company: "Avery Dennison",
@@ -8226,7 +8226,7 @@ var array = [
     rank_change: "5.0",
     revenue: "8408.3",
     profit: "740.1",
-    num. of employees: "36000.0",
+    num_of_employees: "36000.0",
     sector: "Materials",
     city: "Glendale",
     state: "CA",
@@ -8238,7 +8238,7 @@ var array = [
     CEO: "Mitchell R. Butier",
     Website: "https://www.averydennison.com",
     Ticker: "AVY",
-    Market Cap: "14327.4"
+    market_cap: "14327.4"
   },
   {
     company: "Masco",
@@ -8246,7 +8246,7 @@ var array = [
     rank_change: "-15.0",
     revenue: "8375.0",
     profit: "410.0",
-    num. of employees: "20000.0",
+    num_of_employees: "20000.0",
     sector: "Household Products",
     city: "Livonia",
     state: "MI",
@@ -8258,7 +8258,7 @@ var array = [
     CEO: "Keith J. Allman",
     Website: "https://www.masco.com",
     Ticker: "MAS",
-    Market Cap: "12062.7"
+    market_cap: "12062.7"
   },
   {
     company: "CenterPoint Energy",
@@ -8266,7 +8266,7 @@ var array = [
     rank_change: "-72.0",
     revenue: "8352.0",
     profit: "1486.0",
-    num. of employees: "9418.0",
+    num_of_employees: "9418.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -8278,7 +8278,7 @@ var array = [
     CEO: "David J. Lesar",
     Website: "https://www.centerpointenergy.com",
     Ticker: "CNP",
-    Market Cap: "19285.8"
+    market_cap: "19285.8"
   },
   {
     company: "Fifth Third Bancorp",
@@ -8286,7 +8286,7 @@ var array = [
     rank_change: "-57.0",
     revenue: "8329.0",
     profit: "2770.0",
-    num. of employees: "19112.0",
+    num_of_employees: "19112.0",
     sector: "Financials",
     city: "Cincinnati",
     state: "OH",
@@ -8298,7 +8298,7 @@ var array = [
     CEO: "Timothy N. Spence",
     Website: "https://www.53.com",
     Ticker: "FITB",
-    Market Cap: "29511.3"
+    market_cap: "29511.3"
   },
   {
     company: "WEC Energy Group",
@@ -8306,7 +8306,7 @@ var array = [
     rank_change: "-16.0",
     revenue: "8316.0",
     profit: "1300.3",
-    num. of employees: "6938.0",
+    num_of_employees: "6938.0",
     sector: "Energy",
     city: "Milwaukee",
     state: "WI",
@@ -8318,7 +8318,7 @@ var array = [
     CEO: "Scott J. Lauber",
     Website: "https://www.wecenergygroup.com",
     Ticker: "WEC",
-    Market Cap: "31483.5"
+    market_cap: "31483.5"
   },
   {
     company: "S&P Global",
@@ -8326,7 +8326,7 @@ var array = [
     rank_change: "-24.0",
     revenue: "8297.0",
     profit: "3024.0",
-    num. of employees: "22850.0",
+    num_of_employees: "22850.0",
     sector: "Business Services",
     city: "New York",
     state: "NY",
@@ -8338,7 +8338,7 @@ var array = [
     CEO: "Douglas L. Peterson",
     Website: "https://www.spglobal.com",
     Ticker: "SPGI",
-    Market Cap: "142343.5"
+    market_cap: "142343.5"
   },
   {
     company: "FM Global",
@@ -8346,7 +8346,7 @@ var array = [
     rank_change: "5.0",
     revenue: "8274.6",
     profit: "2842.4",
-    num. of employees: "5560.0",
+    num_of_employees: "5560.0",
     sector: "Financials",
     city: "Johnston",
     state: "RI",
@@ -8358,7 +8358,7 @@ var array = [
     CEO: "Malcolm C. Roberts",
     Website: "https://www.fmglobal.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Polaris",
@@ -8366,7 +8366,7 @@ var array = [
     rank_change: "-12.0",
     revenue: "8252.0",
     profit: "493.9",
-    num. of employees: "16000.0",
+    num_of_employees: "16000.0",
     sector: "Transportation",
     city: "Medina",
     state: "MN",
@@ -8378,7 +8378,7 @@ var array = [
     CEO: "Michael T. Speetzen",
     Website: "https://www.polaris.com",
     Ticker: "PII",
-    Market Cap: "6264.1"
+    market_cap: "6264.1"
   },
   {
     company: "Williams-Sonoma",
@@ -8386,7 +8386,7 @@ var array = [
     rank_change: "5.0",
     revenue: "8245.9",
     profit: "1126.3",
-    num. of employees: "16600.0",
+    num_of_employees: "16600.0",
     sector: "Retailing",
     city: "San Francisco",
     state: "CA",
@@ -8398,7 +8398,7 @@ var array = [
     CEO: "Laura J. Alber",
     Website: "https://www.williams-sonomainc.com",
     Ticker: "WSM",
-    Market Cap: "10376"
+    market_cap: "10376"
   },
   {
     company: "Autoliv",
@@ -8406,7 +8406,7 @@ var array = [
     rank_change: "-29.0",
     revenue: "8230.0",
     profit: "435.0",
-    num. of employees: "58176.0",
+    num_of_employees: "58176.0",
     sector: "Motor Vehicles & Parts",
     city: "Auburn Hills",
     state: "MI",
@@ -8418,7 +8418,7 @@ var array = [
     CEO: "Mikael Bratt",
     Website: "https://www.autoliv.com",
     Ticker: "ALV",
-    Market Cap: "6691.1"
+    market_cap: "6691.1"
   },
   {
     company: "Arthur J. Gallagher",
@@ -8426,7 +8426,7 @@ var array = [
     rank_change: "-6.0",
     revenue: "8209.4",
     profit: "906.8",
-    num. of employees: "39000.0",
+    num_of_employees: "39000.0",
     sector: "Financials",
     city: "Rolling Meadows",
     state: "IL",
@@ -8438,7 +8438,7 @@ var array = [
     CEO: "J. Patrick Gallagher Jr.",
     Website: "https://www.ajg.com",
     Ticker: "AJG",
-    Market Cap: "36598.6"
+    market_cap: "36598.6"
   },
   {
     company: "Motorola Solutions",
@@ -8446,7 +8446,7 @@ var array = [
     rank_change: "-28.0",
     revenue: "8171.0",
     profit: "1245.0",
-    num. of employees: "18700.0",
+    num_of_employees: "18700.0",
     sector: "Technology",
     city: "Chicago",
     state: "IL",
@@ -8458,7 +8458,7 @@ var array = [
     CEO: "Gregory Q. Brown",
     Website: "https://www.motorolasolutions.com",
     Ticker: "MSI",
-    Market Cap: "40555.9"
+    market_cap: "40555.9"
   },
   {
     company: "Zillow Group",
@@ -8466,7 +8466,7 @@ var array = [
     rank_change: "0.0",
     revenue: "8147.4",
     profit: "-527.8",
-    num. of employees: "8005.0",
+    num_of_employees: "8005.0",
     sector: "Technology",
     city: "Seattle",
     state: "WA",
@@ -8478,7 +8478,7 @@ var array = [
     CEO: "Richard N. Barton",
     Website: "https://www.zillowgroup.com",
     Ticker: "ZG",
-    Market Cap: "12287.1"
+    market_cap: "12287.1"
   },
   {
     company: "Opendoor Technologies",
@@ -8486,7 +8486,7 @@ var array = [
     rank_change: "0.0",
     revenue: "8021.0",
     profit: "-662.0",
-    num. of employees: "2816.0",
+    num_of_employees: "2816.0",
     sector: "Technology",
     city: "San Francisco",
     state: "CA",
@@ -8498,7 +8498,7 @@ var array = [
     CEO: "Eric Wu",
     Website: "https://www.opendoor.com",
     Ticker: "OPEN",
-    Market Cap: "5364.1"
+    market_cap: "5364.1"
   },
   {
     company: "J.M. Smucker",
@@ -8506,7 +8506,7 @@ var array = [
     rank_change: "-48.0",
     revenue: "8002.7",
     profit: "876.3",
-    num. of employees: "7100.0",
+    num_of_employees: "7100.0",
     sector: "Food, Beverages & Tobacco",
     city: "Orrville",
     state: "OH",
@@ -8518,7 +8518,7 @@ var array = [
     CEO: "Mark T. Smucker",
     Website: "https://www.jmsmucker.com",
     Ticker: "SJM",
-    Market Cap: "14686.4"
+    market_cap: "14686.4"
   },
   {
     company: "Anywhere Real Estate",
@@ -8526,7 +8526,7 @@ var array = [
     rank_change: "18.0",
     revenue: "7983.0",
     profit: "343.0",
-    num. of employees: "9748.0",
+    num_of_employees: "9748.0",
     sector: "Financials",
     city: "Madison",
     state: "NJ",
@@ -8538,7 +8538,7 @@ var array = [
     CEO: "Ryan M. Schneider",
     Website: "https://www.realogy.com",
     Ticker: "HOUS",
-    Market Cap: "1852.1"
+    market_cap: "1852.1"
   },
   {
     company: "Oshkosh",
@@ -8546,7 +8546,7 @@ var array = [
     rank_change: "-6.0",
     revenue: "7952.5",
     profit: "409.4",
-    num. of employees: "15000.0",
+    num_of_employees: "15000.0",
     sector: "Industrials",
     city: "Oshkosh",
     state: "WI",
@@ -8558,7 +8558,7 @@ var array = [
     CEO: "John C. Pfeifer",
     Website: "https://www.oshkoshcorp.com",
     Ticker: "OSK",
-    Market Cap: "6703.7"
+    market_cap: "6703.7"
   },
   {
     company: "MasTec",
@@ -8566,7 +8566,7 @@ var array = [
     rank_change: "12.0",
     revenue: "7951.8",
     profit: "328.8",
-    num. of employees: "27000.0",
+    num_of_employees: "27000.0",
     sector: "Engineering & Construction",
     city: "Coral Gables",
     state: "FL",
@@ -8578,7 +8578,7 @@ var array = [
     CEO: "JosÃ© R. Mas",
     Website: "https://www.mastec.com",
     Ticker: "MTZ",
-    Market Cap: "6657"
+    market_cap: "6657"
   },
   {
     company: "GXO Logistics",
@@ -8586,7 +8586,7 @@ var array = [
     rank_change: "0.0",
     revenue: "7940.0",
     profit: "153.0",
-    num. of employees: "97500.0",
+    num_of_employees: "97500.0",
     sector: "Transportation",
     city: "Greenwich",
     state: "CT",
@@ -8598,7 +8598,7 @@ var array = [
     CEO: "Malcolm Wilson",
     Website: "https://www.gxo.com",
     Ticker: "GXO",
-    Market Cap: "8193"
+    market_cap: "8193"
   },
   {
     company: "APA",
@@ -8606,7 +8606,7 @@ var array = [
     rank_change: "0.0",
     revenue: "7928.0",
     profit: "973.0",
-    num. of employees: "2253.0",
+    num_of_employees: "2253.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -8618,7 +8618,7 @@ var array = [
     CEO: "John J. Christmann IV",
     Website: "https://www.apacorp.com",
     Ticker: "APA",
-    Market Cap: "14332.3"
+    market_cap: "14332.3"
   },
   {
     company: "Boise Cascade",
@@ -8626,7 +8626,7 @@ var array = [
     rank_change: "61.0",
     revenue: "7926.1",
     profit: "712.5",
-    num. of employees: "6130.0",
+    num_of_employees: "6130.0",
     sector: "Wholesalers",
     city: "Boise",
     state: "ID",
@@ -8638,7 +8638,7 @@ var array = [
     CEO: "Nathan Jorgensen",
     Website: "https://www.bc.com",
     Ticker: "BCC",
-    Market Cap: "2405"
+    market_cap: "2405"
   },
   {
     company: "Dover",
@@ -8646,7 +8646,7 @@ var array = [
     rank_change: "-4.0",
     revenue: "7907.1",
     profit: "1123.8",
-    num. of employees: "25000.0",
+    num_of_employees: "25000.0",
     sector: "Industrials",
     city: "Downers Grove",
     state: "IL",
@@ -8658,7 +8658,7 @@ var array = [
     CEO: "Richard J. Tobin",
     Website: "https://www.dovercorporation.com",
     Ticker: "DOV",
-    Market Cap: "22610.3"
+    market_cap: "22610.3"
   },
   {
     company: "Genworth Financial",
@@ -8666,7 +8666,7 @@ var array = [
     rank_change: "-86.0",
     revenue: "7882.0",
     profit: "904.0",
-    num. of employees: "2500.0",
+    num_of_employees: "2500.0",
     sector: "Financials",
     city: "Richmond",
     state: "VA",
@@ -8678,7 +8678,7 @@ var array = [
     CEO: "Thomas J. McInerney",
     Website: "https://www.genworth.com",
     Ticker: "GNW",
-    Market Cap: "1917.9"
+    market_cap: "1917.9"
   },
   {
     company: "Bath & Body Works",
@@ -8686,7 +8686,7 @@ var array = [
     rank_change: "-178.0",
     revenue: "7881.5",
     profit: "1333.5",
-    num. of employees: "32850.0",
+    num_of_employees: "32850.0",
     sector: "Retailing",
     city: "Columbus",
     state: "OH",
@@ -8698,7 +8698,7 @@ var array = [
     CEO: "Sarah E. Nash",
     Website: "https://www.bbwinc.com",
     Ticker: "BBWI",
-    Market Cap: "11419.9"
+    market_cap: "11419.9"
   },
   {
     company: "Booz Allen Hamilton Holding",
@@ -8706,7 +8706,7 @@ var array = [
     rank_change: "-45.0",
     revenue: "7858.9",
     profit: "609.0",
-    num. of employees: "27700.0",
+    num_of_employees: "27700.0",
     sector: "Technology",
     city: "McLean",
     state: "VA",
@@ -8718,7 +8718,7 @@ var array = [
     CEO: "Horacio D. Rozanski",
     Website: "https://www.boozallen.com",
     Ticker: "BAH",
-    Market Cap: "11705.4"
+    market_cap: "11705.4"
   },
   {
     company: "Coinbase Global",
@@ -8726,7 +8726,7 @@ var array = [
     rank_change: "0.0",
     revenue: "7839.4",
     profit: "3624.1",
-    num. of employees: "3730.0",
+    num_of_employees: "3730.0",
     sector: "Financials",
     city: "Wilmington",
     state: "DE",
@@ -8738,7 +8738,7 @@ var array = [
     CEO: "Brian Armstrong",
     Website: "https://www.coinbase.com",
     Ticker: "COIN",
-    Market Cap: "41670.4"
+    market_cap: "41670.4"
   },
   {
     company: "Zimmer Biomet Holdings",
@@ -8746,7 +8746,7 @@ var array = [
     rank_change: "-24.0",
     revenue: "7836.2",
     profit: "401.6",
-    num. of employees: "19500.0",
+    num_of_employees: "19500.0",
     sector: "Health Care",
     city: "Warsaw",
     state: "IN",
@@ -8758,7 +8758,7 @@ var array = [
     CEO: "Bryan C. Hanson",
     Website: "https://www.zimmerbiomet.com",
     Ticker: "ZBH",
-    Market Cap: "26772.3"
+    market_cap: "26772.3"
   },
   {
     company: "Westinghouse Air Brake Technologies",
@@ -8766,7 +8766,7 @@ var array = [
     rank_change: "-55.0",
     revenue: "7822.0",
     profit: "558.0",
-    num. of employees: "25000.0",
+    num_of_employees: "25000.0",
     sector: "Industrials",
     city: "Pittsburgh",
     state: "PA",
@@ -8778,7 +8778,7 @@ var array = [
     CEO: "Rafael O. Santana",
     Website: "https://www.wabteccorp.com",
     Ticker: "WAB",
-    Market Cap: "17819.4"
+    market_cap: "17819.4"
   },
   {
     company: "Zoetis",
@@ -8786,7 +8786,7 @@ var array = [
     rank_change: "-9.0",
     revenue: "7776.0",
     profit: "2037.0",
-    num. of employees: "12100.0",
+    num_of_employees: "12100.0",
     sector: "Health Care",
     city: "Parsippany",
     state: "NJ",
@@ -8798,7 +8798,7 @@ var array = [
     CEO: "Kristin Peck",
     Website: "https://www.zoetis.com",
     Ticker: "ZTS",
-    Market Cap: "69420"
+    market_cap: "69420"
   },
   {
     company: "Packaging Corp. of America",
@@ -8806,7 +8806,7 @@ var array = [
     rank_change: "-8.0",
     revenue: "7730.3",
     profit: "841.1",
-    num. of employees: "15200.0",
+    num_of_employees: "15200.0",
     sector: "Materials",
     city: "Lake Forest",
     state: "IL",
@@ -8818,7 +8818,7 @@ var array = [
     CEO: "Mark W. Kowlzan",
     Website: "https://www.packagingcorp.com",
     Ticker: "PKG",
-    Market Cap: "14628.1"
+    market_cap: "14628.1"
   },
   {
     company: "LPL Financial Holdings",
@@ -8826,7 +8826,7 @@ var array = [
     rank_change: "24.0",
     revenue: "7720.8",
     profit: "459.9",
-    num. of employees: "5919.0",
+    num_of_employees: "5919.0",
     sector: "Financials",
     city: "San Diego",
     state: "CA",
@@ -8838,7 +8838,7 @@ var array = [
     CEO: "Dan H. Arnold",
     Website: "https://www.lpl.com",
     Ticker: "LPLA",
-    Market Cap: "14608.8"
+    market_cap: "14608.8"
   },
   {
     company: "T. Rowe Price",
@@ -8846,7 +8846,7 @@ var array = [
     rank_change: "4.0",
     revenue: "7671.9",
     profit: "3082.9",
-    num. of employees: "7529.0",
+    num_of_employees: "7529.0",
     sector: "Financials",
     city: "Baltimore",
     state: "MD",
@@ -8858,7 +8858,7 @@ var array = [
     CEO: "Robert W. Sharps",
     Website: "https://www.troweprice.com",
     Ticker: "TROW",
-    Market Cap: "34442.6"
+    market_cap: "34442.6"
   },
   {
     company: "Fortune Brands Home & Security",
@@ -8866,7 +8866,7 @@ var array = [
     rank_change: "12.0",
     revenue: "7656.1",
     profit: "772.4",
-    num. of employees: "28056.0",
+    num_of_employees: "28056.0",
     sector: "Household Products",
     city: "Deerfield",
     state: "IL",
@@ -8878,7 +8878,7 @@ var array = [
     CEO: "Nicholas I. Fink",
     Website: "https://www.fbhs.com",
     Ticker: "FBHS",
-    Market Cap: "9830.7"
+    market_cap: "9830.7"
   },
   {
     company: "Casey's General Stores",
@@ -8886,7 +8886,7 @@ var array = [
     rank_change: "-74.0",
     revenue: "7654.2",
     profit: "312.9",
-    num. of employees: "27583.0",
+    num_of_employees: "27583.0",
     sector: "Retailing",
     city: "Ankeny",
     state: "IA",
@@ -8898,7 +8898,7 @@ var array = [
     CEO: "Darren M. Rebelez",
     Website: "https://www.caseys.com",
     Ticker: "CASY",
-    Market Cap: "7354.4"
+    market_cap: "7354.4"
   },
   {
     company: "A-Mark Precious Metals",
@@ -8906,7 +8906,7 @@ var array = [
     rank_change: "49.0",
     revenue: "7613.0",
     profit: "159.6",
-    num. of employees: "347.0",
+    num_of_employees: "347.0",
     sector: "Wholesalers",
     city: "El Segundo",
     state: "CA",
@@ -8918,7 +8918,7 @@ var array = [
     CEO: "Gregory N. Roberts",
     Website: "https://www.amark.com",
     Ticker: "AMRK",
-    Market Cap: "890.5"
+    market_cap: "890.5"
   },
   {
     company: "Hess",
@@ -8926,7 +8926,7 @@ var array = [
     rank_change: "0.0",
     revenue: "7583.0",
     profit: "559.0",
-    num. of employees: "1545.0",
+    num_of_employees: "1545.0",
     sector: "Energy",
     city: "New York",
     state: "NY",
@@ -8938,7 +8938,7 @@ var array = [
     CEO: "John B. Hess",
     Website: "https://www.hess.com",
     Ticker: "HES",
-    Market Cap: "33155.2"
+    market_cap: "33155.2"
   },
   {
     company: "Vertex Pharmaceuticals",
@@ -8946,7 +8946,7 @@ var array = [
     rank_change: "0.0",
     revenue: "7574.4",
     profit: "2342.1",
-    num. of employees: "3900.0",
+    num_of_employees: "3900.0",
     sector: "Health Care",
     city: "Boston",
     state: "MA",
@@ -8958,7 +8958,7 @@ var array = [
     CEO: "Reshma Kewalramani",
     Website: "https://www.vrtx.com",
     Ticker: "VRTX",
-    Market Cap: "66436.9"
+    market_cap: "66436.9"
   },
   {
     company: "KeyCorp",
@@ -8966,7 +8966,7 @@ var array = [
     rank_change: "-53.0",
     revenue: "7561.0",
     profit: "2625.0",
-    num. of employees: "16974.0",
+    num_of_employees: "16974.0",
     sector: "Financials",
     city: "Cleveland",
     state: "OH",
@@ -8978,7 +8978,7 @@ var array = [
     CEO: "Christopher M. Gorman",
     Website: "https://www.key.com",
     Ticker: "KEY",
-    Market Cap: "20592.5"
+    market_cap: "20592.5"
   },
   {
     company: "Chipotle",
@@ -8986,7 +8986,7 @@ var array = [
     rank_change: "14.0",
     revenue: "7547.1",
     profit: "653.0",
-    num. of employees: "97660.0",
+    num_of_employees: "97660.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Newport Beach",
     state: "CA",
@@ -8998,7 +8998,7 @@ var array = [
     CEO: "Brian Niccol",
     Website: "https://www.chipotle.com",
     Ticker: "CMG",
-    Market Cap: "41724"
+    market_cap: "41724"
   },
   {
     company: "CMS Energy",
@@ -9006,7 +9006,7 @@ var array = [
     rank_change: "-21.0",
     revenue: "7538.0",
     profit: "1353.0",
-    num. of employees: "8813.0",
+    num_of_employees: "8813.0",
     sector: "Energy",
     city: "Jackson",
     state: "MI",
@@ -9018,7 +9018,7 @@ var array = [
     CEO: "Garrick J. Rochow",
     Website: "https://www.cmsenergy.com",
     Ticker: "CMS",
-    Market Cap: "20292.2"
+    market_cap: "20292.2"
   },
   {
     company: "Arconic",
@@ -9026,7 +9026,7 @@ var array = [
     rank_change: "24.0",
     revenue: "7504.0",
     profit: "-397.0",
-    num. of employees: "13900.0",
+    num_of_employees: "13900.0",
     sector: "Materials",
     city: "Pittsburgh",
     state: "PA",
@@ -9038,7 +9038,7 @@ var array = [
     CEO: "Timothy D. Myers",
     Website: "https://www.arconic.com",
     Ticker: "ARNC",
-    Market Cap: "2690.7"
+    market_cap: "2690.7"
   },
   {
     company: "Taylor Morrison Home",
@@ -9046,7 +9046,7 @@ var array = [
     rank_change: "-1.0",
     revenue: "7501.3",
     profit: "663.0",
-    num. of employees: "3000.0",
+    num_of_employees: "3000.0",
     sector: "Engineering & Construction",
     city: "Scottsdale",
     state: "AZ",
@@ -9058,7 +9058,7 @@ var array = [
     CEO: "Sheryl D. Palmer",
     Website: "https://www.taylormorrison.com",
     Ticker: "TMHC",
-    Market Cap: "3301.6"
+    market_cap: "3301.6"
   },
   {
     company: "American Financial Group",
@@ -9066,7 +9066,7 @@ var array = [
     rank_change: "-78.0",
     revenue: "7462.0",
     profit: "1995.0",
-    num. of employees: "6600.0",
+    num_of_employees: "6600.0",
     sector: "Financials",
     city: "Cincinnati",
     state: "OH",
@@ -9078,7 +9078,7 @@ var array = [
     CEO: "Carl H. Lindner lll/S. Craig Lindner",
     Website: "https://www.afginc.com",
     Ticker: "AFG",
-    Market Cap: "12367.8"
+    market_cap: "12367.8"
   },
   {
     company: "UGI",
@@ -9086,7 +9086,7 @@ var array = [
     rank_change: "-19.0",
     revenue: "7447.0",
     profit: "1467.0",
-    num. of employees: "11300.0",
+    num_of_employees: "11300.0",
     sector: "Energy",
     city: "King of Prussia",
     state: "PA",
@@ -9098,7 +9098,7 @@ var array = [
     CEO: "Roger Perreault",
     Website: "https://www.ugicorp.com",
     Ticker: "UGI",
-    Market Cap: "7599.1"
+    market_cap: "7599.1"
   },
   {
     company: "Science Applications International",
@@ -9106,7 +9106,7 @@ var array = [
     rank_change: "-44.0",
     revenue: "7394.0",
     profit: "277.0",
-    num. of employees: "25090.0",
+    num_of_employees: "25090.0",
     sector: "Technology",
     city: "Reston",
     state: "VA",
@@ -9118,7 +9118,7 @@ var array = [
     CEO: "Nazzic S. Keene",
     Website: "https://www.saic.com",
     Ticker: "SAIC",
-    Market Cap: "5166.1"
+    market_cap: "5166.1"
   },
   {
     company: "Avantor",
@@ -9126,7 +9126,7 @@ var array = [
     rank_change: "-19.0",
     revenue: "7386.1",
     profit: "572.6",
-    num. of employees: "13500.0",
+    num_of_employees: "13500.0",
     sector: "Technology",
     city: "Radnor",
     state: "PA",
@@ -9138,7 +9138,7 @@ var array = [
     CEO: "Michael Stubblefield",
     Website: "https://www.avantorsciences.com",
     Ticker: "AVTR",
-    Market Cap: "20629.1"
+    market_cap: "20629.1"
   },
   {
     company: "Hanesbrands",
@@ -9146,7 +9146,7 @@ var array = [
     rank_change: "-26.0",
     revenue: "7347.8",
     profit: "77.2",
-    num. of employees: "58000.0",
+    num_of_employees: "58000.0",
     sector: "Apparel",
     city: "Winston-Salem",
     state: "NC",
@@ -9158,7 +9158,7 @@ var array = [
     CEO: "Stephen B. Bratspies",
     Website: "https://www.hanes.com",
     Ticker: "HBI",
-    Market Cap: "5191.4"
+    market_cap: "5191.4"
   },
   {
     company: "Clorox",
@@ -9166,7 +9166,7 @@ var array = [
     rank_change: "-32.0",
     revenue: "7341.0",
     profit: "710.0",
-    num. of employees: "9000.0",
+    num_of_employees: "9000.0",
     sector: "Household Products",
     city: "Oakland",
     state: "CA",
@@ -9178,7 +9178,7 @@ var array = [
     CEO: "Linda Rendle",
     Website: "https://www.thecloroxcompany.com",
     Ticker: "CLX",
-    Market Cap: "17108.7"
+    market_cap: "17108.7"
   },
   {
     company: "KBR",
@@ -9186,7 +9186,7 @@ var array = [
     rank_change: "10.0",
     revenue: "7339.0",
     profit: "18.0",
-    num. of employees: "28000.0",
+    num_of_employees: "28000.0",
     sector: "Engineering & Construction",
     city: "Houston",
     state: "TX",
@@ -9198,7 +9198,7 @@ var array = [
     CEO: "Stuart J.B. Bradie",
     Website: "https://www.kbr.com",
     Ticker: "KBR",
-    Market Cap: "7634.9"
+    market_cap: "7634.9"
   },
   {
     company: "TravelCenters of America",
@@ -9206,7 +9206,7 @@ var array = [
     rank_change: "0.0",
     revenue: "7336.8",
     profit: "58.5",
-    num. of employees: "16540.0",
+    num_of_employees: "16540.0",
     sector: "Retailing",
     city: "Westlake",
     state: "OH",
@@ -9218,7 +9218,7 @@ var array = [
     CEO: "Jonathan M. Pertchik",
     Website: "https://www.ta-petro.com",
     Ticker: "TA",
-    Market Cap: "637.5"
+    market_cap: "637.5"
   },
   {
     company: "Hertz Global Holdings",
@@ -9226,7 +9226,7 @@ var array = [
     rank_change: "0.0",
     revenue: "7336.0",
     profit: "366.0",
-    num. of employees: "23000.0",
+    num_of_employees: "23000.0",
     sector: "Retailing",
     city: "Estero",
     state: "FL",
@@ -9238,7 +9238,7 @@ var array = [
     CEO: "Stephen M. Scherr",
     Website: "https://www.hertz.com",
     Ticker: "HTZ",
-    Market Cap: "9508.9"
+    market_cap: "9508.9"
   },
   {
     company: "Analog Devices",
@@ -9246,7 +9246,7 @@ var array = [
     rank_change: "18.0",
     revenue: "7318.3",
     profit: "1390.4",
-    num. of employees: "24700.0",
+    num_of_employees: "24700.0",
     sector: "Technology",
     city: "Wilmington",
     state: "MA",
@@ -9258,7 +9258,7 @@ var array = [
     CEO: "Vincent T. Roche",
     Website: "https://www.analog.com",
     Ticker: "ADI",
-    Market Cap: "86441.2"
+    market_cap: "86441.2"
   },
   {
     company: "Securian Financial Group",
@@ -9266,7 +9266,7 @@ var array = [
     rank_change: "-43.0",
     revenue: "7317.4",
     profit: "311.5",
-    num. of employees: "6941.0",
+    num_of_employees: "6941.0",
     sector: "Financials",
     city: "St. Paul",
     state: "MN",
@@ -9278,7 +9278,7 @@ var array = [
     CEO: "Christopher M. Hilger",
     Website: "https://www.securian.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Darden Restaurants",
@@ -9286,7 +9286,7 @@ var array = [
     rank_change: "-88.0",
     revenue: "7196.1",
     profit: "629.3",
-    num. of employees: "156883.0",
+    num_of_employees: "156883.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Orlando",
     state: "FL",
@@ -9298,7 +9298,7 @@ var array = [
     CEO: "Ricardo Cardenas",
     Website: "https://www.darden.com",
     Ticker: "DRI",
-    Market Cap: "16980.9"
+    market_cap: "16980.9"
   },
   {
     company: "NCR",
@@ -9306,7 +9306,7 @@ var array = [
     rank_change: "-20.0",
     revenue: "7156.0",
     profit: "97.0",
-    num. of employees: "38000.0",
+    num_of_employees: "38000.0",
     sector: "Technology",
     city: "Atlanta",
     state: "GA",
@@ -9318,7 +9318,7 @@ var array = [
     CEO: "Michael D. Hayford",
     Website: "https://www.ncr.com",
     Ticker: "NCR",
-    Market Cap: "5474.7"
+    market_cap: "5474.7"
   },
   {
     company: "Graphic Packaging Holding",
@@ -9326,7 +9326,7 @@ var array = [
     rank_change: "-31.0",
     revenue: "7156.0",
     profit: "204.0",
-    num. of employees: "25000.0",
+    num_of_employees: "25000.0",
     sector: "Materials",
     city: "Atlanta",
     state: "GA",
@@ -9338,7 +9338,7 @@ var array = [
     CEO: "Michael P. Doss",
     Website: "https://www.graphicpkg.com",
     Ticker: "GPK",
-    Market Cap: "6154.4"
+    market_cap: "6154.4"
   },
   {
     company: "Brighthouse Financial",
@@ -9346,7 +9346,7 @@ var array = [
     rank_change: "-115.0",
     revenue: "7142.0",
     profit: "-108.0",
-    num. of employees: "1500.0",
+    num_of_employees: "1500.0",
     sector: "Financials",
     city: "Charlotte",
     state: "NC",
@@ -9358,7 +9358,7 @@ var array = [
     CEO: "Eric T. Steigerwalt",
     Website: "https://www.brighthousefinancial.com",
     Ticker: "BHF",
-    Market Cap: "3958.7"
+    market_cap: "3958.7"
   },
   {
     company: "PPL",
@@ -9366,7 +9366,7 @@ var array = [
     rank_change: "-87.0",
     revenue: "7127.0",
     profit: "-1480.0",
-    num. of employees: "5607.0",
+    num_of_employees: "5607.0",
     sector: "Energy",
     city: "Allentown",
     state: "PA",
@@ -9378,7 +9378,7 @@ var array = [
     CEO: "Vincent Sorgi",
     Website: "https://www.pplweb.com",
     Ticker: "PPL",
-    Market Cap: "21001.9"
+    market_cap: "21001.9"
   },
   {
     company: "Cintas",
@@ -9386,7 +9386,7 @@ var array = [
     rank_change: "-60.0",
     revenue: "7116.3",
     profit: "1111.0",
-    num. of employees: "40000.0",
+    num_of_employees: "40000.0",
     sector: "Business Services",
     city: "Cincinnati",
     state: "OH",
@@ -9398,7 +9398,7 @@ var array = [
     CEO: "Todd M. Schneider",
     Website: "https://www.cintas.com",
     Ticker: "CTAS",
-    Market Cap: "43566.7"
+    market_cap: "43566.7"
   },
   {
     company: "Xerox Holdings",
@@ -9406,7 +9406,7 @@ var array = [
     rank_change: "-56.0",
     revenue: "7038.0",
     profit: "-455.0",
-    num. of employees: "23300.0",
+    num_of_employees: "23300.0",
     sector: "Technology",
     city: "Norwalk",
     state: "CT",
@@ -9418,7 +9418,7 @@ var array = [
     CEO: "Steve Bandrowczak",
     Website: "https://www.xerox.com",
     Ticker: "XRX",
-    Market Cap: "3123.3"
+    market_cap: "3123.3"
   },
   {
     company: "Rockwell Automation",
@@ -9426,7 +9426,7 @@ var array = [
     rank_change: "-32.0",
     revenue: "6997.4",
     profit: "1358.1",
-    num. of employees: "24500.0",
+    num_of_employees: "24500.0",
     sector: "Industrials",
     city: "Milwaukee",
     state: "WI",
@@ -9438,7 +9438,7 @@ var array = [
     CEO: "Blake D. Moret",
     Website: "https://www.rockwellautomation.com",
     Ticker: "ROK",
-    Market Cap: "32538.4"
+    market_cap: "32538.4"
   },
   {
     company: "Citizens Financial Group",
@@ -9446,7 +9446,7 @@ var array = [
     rank_change: "-92.0",
     revenue: "6986.0",
     profit: "2319.0",
-    num. of employees: "17463.0",
+    num_of_employees: "17463.0",
     sector: "Financials",
     city: "Providence",
     state: "RI",
@@ -9458,7 +9458,7 @@ var array = [
     CEO: "Bruce W. Van Saun",
     Website: "https://www.citizensbank.com",
     Ticker: "CFG",
-    Market Cap: "19135.7"
+    market_cap: "19135.7"
   },
   {
     company: "KLA",
@@ -9466,7 +9466,7 @@ var array = [
     rank_change: "-6.0",
     revenue: "6918.7",
     profit: "2078.3",
-    num. of employees: "11425.0",
+    num_of_employees: "11425.0",
     sector: "Technology",
     city: "Milpitas",
     state: "CA",
@@ -9478,7 +9478,7 @@ var array = [
     CEO: "Richard P. Wallace",
     Website: "https://www.kla.com",
     Ticker: "KLAC",
-    Market Cap: "55170.9"
+    market_cap: "55170.9"
   },
   {
     company: "Camping World Holdings",
@@ -9486,7 +9486,7 @@ var array = [
     rank_change: "21.0",
     revenue: "6913.8",
     profit: "278.5",
-    num. of employees: "12834.0",
+    num_of_employees: "12834.0",
     sector: "Retailing",
     city: "Lincolnshire",
     state: "IL",
@@ -9498,7 +9498,7 @@ var array = [
     CEO: "Marcus A. Lemonis",
     Website: "https://www.campingworld.com",
     Ticker: "CWH",
-    Market Cap: "2664.6"
+    market_cap: "2664.6"
   },
   {
     company: "Ingredion",
@@ -9506,7 +9506,7 @@ var array = [
     rank_change: "-13.0",
     revenue: "6894.0",
     profit: "117.0",
-    num. of employees: "12000.0",
+    num_of_employees: "12000.0",
     sector: "Food, Beverages & Tobacco",
     city: "Westchester",
     state: "IL",
@@ -9518,7 +9518,7 @@ var array = [
     CEO: "James P. Zallie",
     Website: "https://www.ingredion.com",
     Ticker: "INGR",
-    Market Cap: "5814.2"
+    market_cap: "5814.2"
   },
   {
     company: "Veritiv",
@@ -9526,7 +9526,7 @@ var array = [
     rank_change: "-38.0",
     revenue: "6850.5",
     profit: "144.6",
-    num. of employees: "6100.0",
+    num_of_employees: "6100.0",
     sector: "Wholesalers",
     city: "Atlanta",
     state: "GA",
@@ -9538,7 +9538,7 @@ var array = [
     CEO: "Salvatore A. Abbate",
     Website: "https://www.veritivcorp.com",
     Ticker: "VRTV",
-    Market Cap: "2008"
+    market_cap: "2008"
   },
   {
     company: "Beacon Roofing Supply",
@@ -9546,7 +9546,7 @@ var array = [
     rank_change: "-58.0",
     revenue: "6820.4",
     profit: "243.0",
-    num. of employees: "6676.0",
+    num_of_employees: "6676.0",
     sector: "Wholesalers",
     city: "Herndon",
     state: "VA",
@@ -9558,7 +9558,7 @@ var array = [
     CEO: "Julian G. Francis",
     Website: "https://www.becn.com",
     Ticker: "BECN",
-    Market Cap: "4175.9"
+    market_cap: "4175.9"
   },
   {
     company: "Diamondback Energy",
@@ -9566,7 +9566,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6797.0",
     profit: "2182.0",
-    num. of employees: "870.0",
+    num_of_employees: "870.0",
     sector: "Energy",
     city: "Midland",
     state: "TX",
@@ -9578,7 +9578,7 @@ var array = [
     CEO: "Travis D. Stice",
     Website: "https://www.diamondbackenergy.com",
     Ticker: "FANG",
-    Market Cap: "24320"
+    market_cap: "24320"
   },
   {
     company: "Victoria's Secret",
@@ -9586,7 +9586,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6784.6",
     profit: "646.4",
-    num. of employees: "24000.0",
+    num_of_employees: "24000.0",
     sector: "Retailing",
     city: "Reynoldsburg",
     state: "OH",
@@ -9598,7 +9598,7 @@ var array = [
     CEO: "Martin P. Waters",
     Website: "https://www.victoriassecretandco.com",
     Ticker: "VSCO",
-    Market Cap: "4330.4"
+    market_cap: "4330.4"
   },
   {
     company: "Academy Sports and Outdoors",
@@ -9606,7 +9606,7 @@ var array = [
     rank_change: "-6.0",
     revenue: "6773.1",
     profit: "671.4",
-    num. of employees: "16508.0",
+    num_of_employees: "16508.0",
     sector: "Retailing",
     city: "Katy",
     state: "TX",
@@ -9618,7 +9618,7 @@ var array = [
     CEO: "Ken C. Hicks",
     Website: "https://www.academy.com",
     Ticker: "ASO",
-    Market Cap: "3433.5"
+    market_cap: "3433.5"
   },
   {
     company: "Sanmina",
@@ -9626,7 +9626,7 @@ var array = [
     rank_change: "-64.0",
     revenue: "6756.6",
     profit: "269.0",
-    num. of employees: "33500.0",
+    num_of_employees: "33500.0",
     sector: "Technology",
     city: "San Jose",
     state: "CA",
@@ -9638,7 +9638,7 @@ var array = [
     CEO: "Jure Sola",
     Website: "https://www.sanmina.com",
     Ticker: "SANM",
-    Market Cap: "2569"
+    market_cap: "2569"
   },
   {
     company: "ON Semiconductor",
@@ -9646,7 +9646,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6739.8",
     profit: "1009.6",
-    num. of employees: "31650.0",
+    num_of_employees: "31650.0",
     sector: "Technology",
     city: "Phoenix",
     state: "AZ",
@@ -9658,7 +9658,7 @@ var array = [
     CEO: "Hassane S. El-Khoury",
     Website: "https://www.onsemi.com",
     Ticker: "ON",
-    Market Cap: "27078.7"
+    market_cap: "27078.7"
   },
   {
     company: "Commercial Metals",
@@ -9666,7 +9666,7 @@ var array = [
     rank_change: "8.0",
     revenue: "6729.8",
     profit: "412.9",
-    num. of employees: "11089.0",
+    num_of_employees: "11089.0",
     sector: "Materials",
     city: "Irving",
     state: "TX",
@@ -9678,7 +9678,7 @@ var array = [
     CEO: "Barbara R. Smith",
     Website: "https://www.cmc.com",
     Ticker: "CMC",
-    Market Cap: "5056.7"
+    market_cap: "5056.7"
   },
   {
     company: "EnLink Midstream",
@@ -9686,7 +9686,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6685.9",
     profit: "22.4",
-    num. of employees: "1073.0",
+    num_of_employees: "1073.0",
     sector: "Energy",
     city: "Dallas",
     state: "TX",
@@ -9698,7 +9698,7 @@ var array = [
     CEO: "Jesse Arenivas",
     Website: "https://www.enlink.com",
     Ticker: "ENLC",
-    Market Cap: "4670.6"
+    market_cap: "4670.6"
   },
   {
     company: "Southwestern Energy",
@@ -9706,7 +9706,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6667.0",
     profit: "-25.0",
-    num. of employees: "938.0",
+    num_of_employees: "938.0",
     sector: "Energy",
     city: "Spring",
     state: "TX",
@@ -9718,7 +9718,7 @@ var array = [
     CEO: "William J. Way",
     Website: "https://www.swn.com",
     Ticker: "SWN",
-    Market Cap: "7989.7"
+    market_cap: "7989.7"
   },
   {
     company: "Equinix",
@@ -9726,7 +9726,7 @@ var array = [
     rank_change: "-26.0",
     revenue: "6635.5",
     profit: "500.2",
-    num. of employees: "10944.0",
+    num_of_employees: "10944.0",
     sector: "Financials",
     city: "Redwood City",
     state: "CA",
@@ -9738,7 +9738,7 @@ var array = [
     CEO: "Charles J. Meyers",
     Website: "https://www.equinix.com",
     Ticker: "EQIX",
-    Market Cap: "67280.5"
+    market_cap: "67280.5"
   },
   {
     company: "Dillard&#8217;s",
@@ -9746,7 +9746,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6624.3",
     profit: "862.5",
-    num. of employees: "25350.0",
+    num_of_employees: "25350.0",
     sector: "Retailing",
     city: "Little Rock",
     state: "AR",
@@ -9758,7 +9758,7 @@ var array = [
     CEO: "William T. Dillard II",
     Website: "https://www.dillards.com",
     Ticker: "DDS",
-    Market Cap: "4928.2"
+    market_cap: "4928.2"
   },
   {
     company: "Regions Financial",
@@ -9766,7 +9766,7 @@ var array = [
     rank_change: "-55.0",
     revenue: "6605.0",
     profit: "2521.0",
-    num. of employees: "19626.0",
+    num_of_employees: "19626.0",
     sector: "Financials",
     city: "Birmingham",
     state: "AL",
@@ -9778,7 +9778,7 @@ var array = [
     CEO: "John M. Turner Jr.",
     Website: "https://www.regions.com",
     Ticker: "RF",
-    Market Cap: "20860.9"
+    market_cap: "20860.9"
   },
   {
     company: "Yum Brands",
@@ -9786,7 +9786,7 @@ var array = [
     rank_change: "-12.0",
     revenue: "6584.0",
     profit: "1575.0",
-    num. of employees: "25650.0",
+    num_of_employees: "25650.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Louisville",
     state: "KY",
@@ -9798,7 +9798,7 @@ var array = [
     CEO: "David W. Gibbs",
     Website: "https://www.yum.com",
     Ticker: "YUM",
-    Market Cap: "34252.9"
+    market_cap: "34252.9"
   },
   {
     company: "Landstar System",
@@ -9806,7 +9806,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6540.4",
     profit: "381.5",
-    num. of employees: "1399.0",
+    num_of_employees: "1399.0",
     sector: "Transportation",
     city: "Jacksonville",
     state: "FL",
@@ -9818,7 +9818,7 @@ var array = [
     CEO: "James B. Gattoni",
     Website: "https://www.landstar.com",
     Ticker: "LSTR",
-    Market Cap: "5600"
+    market_cap: "5600"
   },
   {
     company: "CF Industries Holdings",
@@ -9826,7 +9826,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6538.3",
     profit: "917.1",
-    num. of employees: "3003.0",
+    num_of_employees: "3003.0",
     sector: "Chemicals",
     city: "Deerfield",
     state: "IL",
@@ -9838,7 +9838,7 @@ var array = [
     CEO: "W. Anthony Will",
     Website: "https://www.cfindustries.com",
     Ticker: "CF",
-    Market Cap: "21551.3"
+    market_cap: "21551.3"
   },
   {
     company: "Northern Trust",
@@ -9846,7 +9846,7 @@ var array = [
     rank_change: "-50.0",
     revenue: "6488.3",
     profit: "1545.3",
-    num. of employees: "21100.0",
+    num_of_employees: "21100.0",
     sector: "Financials",
     city: "Chicago",
     state: "IL",
@@ -9858,7 +9858,7 @@ var array = [
     CEO: "Michael G. O&#039;Grady",
     Website: "https://www.northerntrust.com",
     Ticker: "NTRS",
-    Market Cap: "24215.1"
+    market_cap: "24215.1"
   },
   {
     company: "Robert Half International",
@@ -9866,7 +9866,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6461.4",
     profit: "598.6",
-    num. of employees: "14600.0",
+    num_of_employees: "14600.0",
     sector: "Business Services",
     city: "Menlo Park",
     state: "CA",
@@ -9878,7 +9878,7 @@ var array = [
     CEO: "M. Keith Waddell",
     Website: "https://www.roberthalf.com",
     Ticker: "RHI",
-    Market Cap: "12638.1"
+    market_cap: "12638.1"
   },
   {
     company: "Compass",
@@ -9886,7 +9886,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6421.0",
     profit: "-494.1",
-    num. of employees: "4775.0",
+    num_of_employees: "4775.0",
     sector: "Technology",
     city: "New York",
     state: "NY",
@@ -9898,7 +9898,7 @@ var array = [
     CEO: "Robert L. Reffkin",
     Website: "https://www.compass.com",
     Ticker: "COMP",
-    Market Cap: "3358.8"
+    market_cap: "3358.8"
   },
   {
     company: "Hasbro",
@@ -9906,7 +9906,7 @@ var array = [
     rank_change: "-2.0",
     revenue: "6420.4",
     profit: "428.7",
-    num. of employees: "6640.0",
+    num_of_employees: "6640.0",
     sector: "Household Products",
     city: "Pawtucket",
     state: "RI",
@@ -9918,7 +9918,7 @@ var array = [
     CEO: "Christian Cocks",
     Website: "https://www.hasbro.com",
     Ticker: "HAS",
-    Market Cap: "11383.6"
+    market_cap: "11383.6"
   },
   {
     company: "Roper Technologies",
@@ -9926,7 +9926,7 @@ var array = [
     rank_change: "-9.0",
     revenue: "6415.8",
     profit: "1152.6",
-    num. of employees: "19300.0",
+    num_of_employees: "19300.0",
     sector: "Technology",
     city: "Sarasota",
     state: "FL",
@@ -9938,7 +9938,7 @@ var array = [
     CEO: "L. Neil Hunn",
     Website: "https://www.ropertech.com",
     Ticker: "ROP",
-    Market Cap: "49868.8"
+    market_cap: "49868.8"
   },
   {
     company: "ARKO",
@@ -9946,7 +9946,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6412.6",
     profit: "59.2",
-    num. of employees: "11236.0",
+    num_of_employees: "11236.0",
     sector: "Retailing",
     city: "Richmond",
     state: "VA",
@@ -9958,7 +9958,7 @@ var array = [
     CEO: "Arie Kotler",
     Website: "https://www.arkocorp.com",
     Ticker: "ARKO",
-    Market Cap: "1133.9"
+    market_cap: "1133.9"
   },
   {
     company: "Frontier Communications",
@@ -9966,7 +9966,7 @@ var array = [
     rank_change: "-97.0",
     revenue: "6411.0",
     profit: "",
-    num. of employees: "15640.0",
+    num_of_employees: "15640.0",
     sector: "Telecommunications",
     city: "Norwalk",
     state: "CT",
@@ -9978,7 +9978,7 @@ var array = [
     CEO: "Nick Jeffery",
     Website: "https://www.frontier.com",
     Ticker: "FYBR",
-    Market Cap: "6763.1"
+    market_cap: "6763.1"
   },
   {
     company: "Ameren",
@@ -9986,7 +9986,7 @@ var array = [
     rank_change: "-31.0",
     revenue: "6394.0",
     profit: "990.0",
-    num. of employees: "9116.0",
+    num_of_employees: "9116.0",
     sector: "Energy",
     city: "St. Louis",
     state: "MO",
@@ -9998,7 +9998,7 @@ var array = [
     CEO: "Martin J. Lyons Jr.",
     Website: "https://www.ameren.com",
     Ticker: "AEE",
-    Market Cap: "24198.7"
+    market_cap: "24198.7"
   },
   {
     company: "O-I Glass",
@@ -10006,7 +10006,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6357.0",
     profit: "149.0",
-    num. of employees: "24000.0",
+    num_of_employees: "24000.0",
     sector: "Materials",
     city: "Perrysburg",
     state: "OH",
@@ -10018,7 +10018,7 @@ var array = [
     CEO: "Andres A. Lopez",
     Website: "https://www.o-i.com",
     Ticker: "OI",
-    Market Cap: "2058"
+    market_cap: "2058"
   },
   {
     company: "Chemours",
@@ -10026,7 +10026,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6345.0",
     profit: "608.0",
-    num. of employees: "6400.0",
+    num_of_employees: "6400.0",
     sector: "Chemicals",
     city: "Wilmington",
     state: "DE",
@@ -10038,7 +10038,7 @@ var array = [
     CEO: "Mark E. Newman",
     Website: "https://www.chemours.com",
     Ticker: "CC",
-    Market Cap: "5015"
+    market_cap: "5015"
   },
   {
     company: "Crown Castle International",
@@ -10046,7 +10046,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6340.0",
     profit: "1096.0",
-    num. of employees: "5000.0",
+    num_of_employees: "5000.0",
     sector: "Financials",
     city: "Houston",
     state: "TX",
@@ -10058,7 +10058,7 @@ var array = [
     CEO: "Jay A. Brown",
     Website: "https://www.crowncastle.com",
     Ticker: "CCI",
-    Market Cap: "79937.3"
+    market_cap: "79937.3"
   },
   {
     company: "Agilent Technologies",
@@ -10066,7 +10066,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6319.0",
     profit: "1210.0",
-    num. of employees: "17000.0",
+    num_of_employees: "17000.0",
     sector: "Technology",
     city: "Santa Clara",
     state: "CA",
@@ -10078,7 +10078,7 @@ var array = [
     CEO: "Michael R. McMullen",
     Website: "https://www.agilent.com",
     Ticker: "A",
-    Market Cap: "39714"
+    market_cap: "39714"
   },
   {
     company: "McCormick",
@@ -10086,7 +10086,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6317.9",
     profit: "755.3",
-    num. of employees: "14000.0",
+    num_of_employees: "14000.0",
     sector: "Food, Beverages & Tobacco",
     city: "Hunt Valley",
     state: "MD",
@@ -10098,7 +10098,7 @@ var array = [
     CEO: "Lawrence Kurzius",
     Website: "https://www.mccormickcorporation.com",
     Ticker: "MKC",
-    Market Cap: "19156"
+    market_cap: "19156"
   },
   {
     company: "Skechers U.S.A.",
@@ -10106,7 +10106,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6310.2",
     profit: "741.5",
-    num. of employees: "8950.0",
+    num_of_employees: "8950.0",
     sector: "Apparel",
     city: "Manhattan Beach",
     state: "CA",
@@ -10118,7 +10118,7 @@ var array = [
     CEO: "Robert Greenberg",
     Website: "https://www.skechers.com",
     Ticker: "SKX",
-    Market Cap: "6360.4"
+    market_cap: "6360.4"
   },
   {
     company: "Watsco",
@@ -10126,7 +10126,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6280.2",
     profit: "418.9",
-    num. of employees: "6875.0",
+    num_of_employees: "6875.0",
     sector: "Wholesalers",
     city: "Miami",
     state: "FL",
@@ -10138,7 +10138,7 @@ var array = [
     CEO: "Albert H. Nahmad",
     Website: "https://www.watsco.com",
     Ticker: "WSO",
-    Market Cap: "11842.6"
+    market_cap: "11842.6"
   },
   {
     company: "Live Nation Entertainment",
@@ -10146,7 +10146,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6268.4",
     profit: "-650.9",
-    num. of employees: "16200.0",
+    num_of_employees: "16200.0",
     sector: "Media",
     city: "Beverly Hills",
     state: "CA",
@@ -10158,7 +10158,7 @@ var array = [
     CEO: "Michael Rapino",
     Website: "https://www.livenationentertainment.com",
     Ticker: "LYV",
-    Market Cap: "26425"
+    market_cap: "26425"
   },
   {
     company: "Lululemon athletica",
@@ -10166,7 +10166,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6256.6",
     profit: "975.3",
-    num. of employees: "29000.0",
+    num_of_employees: "29000.0",
     sector: "Retailing",
     city: "Sumner",
     state: "WA",
@@ -10178,7 +10178,7 @@ var array = [
     CEO: "Calvin McDonald",
     Website: "https://www.lululemon.com",
     Ticker: "LULU",
-    Market Cap: "46717.8"
+    market_cap: "46717.8"
   },
   {
     company: "ABM Industries",
@@ -10186,7 +10186,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6228.6",
     profit: "126.3",
-    num. of employees: "124000.0",
+    num_of_employees: "124000.0",
     sector: "Business Services",
     city: "New York",
     state: "NY",
@@ -10198,7 +10198,7 @@ var array = [
     CEO: "Scott B. Salmirs",
     Website: "https://www.abm.com",
     Ticker: "ABM",
-    Market Cap: "3078.7"
+    market_cap: "3078.7"
   },
   {
     company: "Post Holdings",
@@ -10206,7 +10206,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6226.7",
     profit: "166.7",
-    num. of employees: "10735.0",
+    num_of_employees: "10735.0",
     sector: "Food, Beverages & Tobacco",
     city: "St. Louis",
     state: "MO",
@@ -10218,7 +10218,7 @@ var array = [
     CEO: "Robert V. Vitale",
     Website: "https://www.postholdings.com",
     Ticker: "POST",
-    Market Cap: "4284.4"
+    market_cap: "4284.4"
   },
   {
     company: "Moody's",
@@ -10226,7 +10226,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6218.0",
     profit: "2214.0",
-    num. of employees: "13460.0",
+    num_of_employees: "13460.0",
     sector: "Business Services",
     city: "New York",
     state: "NY",
@@ -10238,7 +10238,7 @@ var array = [
     CEO: "Robert S. Fauber",
     Website: "https://www.moodys.com",
     Ticker: "MCO",
-    Market Cap: "62548.1"
+    market_cap: "62548.1"
   },
   {
     company: "Select Medical Holdings",
@@ -10246,7 +10246,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6204.5",
     profit: "402.2",
-    num. of employees: "43200.0",
+    num_of_employees: "43200.0",
     sector: "Health Care",
     city: "Mechanicsburg",
     state: "PA",
@@ -10258,7 +10258,7 @@ var array = [
     CEO: "David S. Chernow",
     Website: "https://www.selectmedicalholdings.com",
     Ticker: "SEM",
-    Market Cap: "3208.6"
+    market_cap: "3208.6"
   },
   {
     company: "Alaska Air Group",
@@ -10266,7 +10266,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6176.0",
     profit: "478.0",
-    num. of employees: "21691.0",
+    num_of_employees: "21691.0",
     sector: "Transportation",
     city: "Seattle",
     state: "WA",
@@ -10278,7 +10278,7 @@ var array = [
     CEO: "Benito Minicucci",
     Website: "https://www.alaskaair.com",
     Ticker: "ALK",
-    Market Cap: "7314.3"
+    market_cap: "7314.3"
   },
   {
     company: "Big Lots",
@@ -10286,7 +10286,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6150.6",
     profit: "177.8",
-    num. of employees: "23350.0",
+    num_of_employees: "23350.0",
     sector: "Retailing",
     city: "Columbus",
     state: "OH",
@@ -10298,7 +10298,7 @@ var array = [
     CEO: "Bruce K. Thorn",
     Website: "https://www.biglots.com",
     Ticker: "BIG",
-    Market Cap: "988.1"
+    market_cap: "988.1"
   },
   {
     company: "Amkor Technology",
@@ -10306,7 +10306,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6138.3",
     profit: "643.0",
-    num. of employees: "30400.0",
+    num_of_employees: "30400.0",
     sector: "Technology",
     city: "Tempe",
     state: "AZ",
@@ -10318,7 +10318,7 @@ var array = [
     CEO: "Guillaume Marie Jean Rutten",
     Website: "https://www.amkor.com",
     Ticker: "AMKR",
-    Market Cap: "5313"
+    market_cap: "5313"
   },
   {
     company: "Sinclair Broadcast Group",
@@ -10326,7 +10326,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6134.0",
     profit: "-414.0",
-    num. of employees: "11500.0",
+    num_of_employees: "11500.0",
     sector: "Media",
     city: "Hunt Valley",
     state: "MD",
@@ -10338,7 +10338,7 @@ var array = [
     CEO: "Christopher S. Ripley",
     Website: "https://www.sbgi.net",
     Ticker: "SBGI",
-    Market Cap: "2008.1"
+    market_cap: "2008.1"
   },
   {
     company: "RPM International",
@@ -10346,7 +10346,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6106.3",
     profit: "502.6",
-    num. of employees: "15490.0",
+    num_of_employees: "15490.0",
     sector: "Chemicals",
     city: "Medina",
     state: "OH",
@@ -10358,7 +10358,7 @@ var array = [
     CEO: "Frank C. Sullivan",
     Website: "https://www.rpminc.com",
     Ticker: "RPM",
-    Market Cap: "10560.8"
+    market_cap: "10560.8"
   },
   {
     company: "M&T Bank",
@@ -10366,7 +10366,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6105.8",
     profit: "1858.7",
-    num. of employees: "17342.0",
+    num_of_employees: "17342.0",
     sector: "Financials",
     city: "Buffalo",
     state: "NY",
@@ -10378,7 +10378,7 @@ var array = [
     CEO: "RenÃ© F. Jones",
     Website: "https://www.mtb.com",
     Ticker: "MTB",
-    Market Cap: "21875"
+    market_cap: "21875"
   },
   {
     company: "Sprouts Farmers Market",
@@ -10386,7 +10386,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6099.9",
     profit: "244.2",
-    num. of employees: "31000.0",
+    num_of_employees: "31000.0",
     sector: "Food & Drug Stores",
     city: "Phoenix",
     state: "AZ",
@@ -10398,7 +10398,7 @@ var array = [
     CEO: "Jack L. Sinclair",
     Website: "https://www.sprouts.com",
     Ticker: "SFM",
-    Market Cap: "3546.8"
+    market_cap: "3546.8"
   },
   {
     company: "Huntington Bancshares",
@@ -10406,7 +10406,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6080.0",
     profit: "1295.0",
-    num. of employees: "18442.0",
+    num_of_employees: "18442.0",
     sector: "Financials",
     city: "Columbus",
     state: "OH",
@@ -10418,7 +10418,7 @@ var array = [
     CEO: "Stephen D. Steinour",
     Website: "https://www.huntington.com",
     Ticker: "HBAN",
-    Market Cap: "21123.4"
+    market_cap: "21123.4"
   },
   {
     company: "CACI International",
@@ -10426,7 +10426,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6044.1",
     profit: "457.4",
-    num. of employees: "22000.0",
+    num_of_employees: "22000.0",
     sector: "Technology",
     city: "Reston",
     state: "VA",
@@ -10438,7 +10438,7 @@ var array = [
     CEO: "John S. Mengucci",
     Website: "https://www.caci.com",
     Ticker: "CACI",
-    Market Cap: "7051.2"
+    market_cap: "7051.2"
   },
   {
     company: "JetBlue Airways",
@@ -10446,7 +10446,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6037.0",
     profit: "-182.0",
-    num. of employees: "17459.0",
+    num_of_employees: "17459.0",
     sector: "Transportation",
     city: "Long Island City",
     state: "NY",
@@ -10458,7 +10458,7 @@ var array = [
     CEO: "Robin Hayes",
     Website: "https://www.jetblue.com",
     Ticker: "JBLU",
-    Market Cap: "4786.9"
+    market_cap: "4786.9"
   },
   {
     company: "SVB Financial Group",
@@ -10466,7 +10466,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6027.0",
     profit: "1833.0",
-    num. of employees: "6567.0",
+    num_of_employees: "6567.0",
     sector: "Financials",
     city: "Santa Clara",
     state: "CA",
@@ -10478,7 +10478,7 @@ var array = [
     CEO: "Gregory W. Becker",
     Website: "https://www.svb.com",
     Ticker: "SIVB",
-    Market Cap: "32901"
+    market_cap: "32901"
   },
   {
     company: "Fastenal",
@@ -10486,7 +10486,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6010.9",
     profit: "925.0",
-    num. of employees: "18370.0",
+    num_of_employees: "18370.0",
     sector: "Wholesalers",
     city: "Winona",
     state: "MN",
@@ -10498,7 +10498,7 @@ var array = [
     CEO: "Daniel L. Florness",
     Website: "https://www.fastenal.com",
     Ticker: "FAST",
-    Market Cap: "34187.9"
+    market_cap: "34187.9"
   },
   {
     company: "GameStop",
@@ -10506,7 +10506,7 @@ var array = [
     rank_change: "0.0",
     revenue: "6010.7",
     profit: "-381.3",
-    num. of employees: "22500.0",
+    num_of_employees: "22500.0",
     sector: "Retailing",
     city: "Grapevine",
     state: "TX",
@@ -10518,7 +10518,7 @@ var array = [
     CEO: "Matthew Furlong",
     Website: "https://www.gamestop.com",
     Ticker: "GME",
-    Market Cap: "12716.6"
+    market_cap: "12716.6"
   },
   {
     company: "Knight-Swift Transportation Holdings",
@@ -10526,7 +10526,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5998.0",
     profit: "743.4",
-    num. of employees: "27650.0",
+    num_of_employees: "27650.0",
     sector: "Transportation",
     city: "Phoenix",
     state: "AZ",
@@ -10538,7 +10538,7 @@ var array = [
     CEO: "David A. Jackson",
     Website: "https://www.knighttrans.com",
     Ticker: "KNX",
-    Market Cap: "8386"
+    market_cap: "8386"
   },
   {
     company: "Airbnb",
@@ -10546,7 +10546,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5991.8",
     profit: "-352.0",
-    num. of employees: "6132.0",
+    num_of_employees: "6132.0",
     sector: "Technology",
     city: "San Francisco",
     state: "CA",
@@ -10558,7 +10558,7 @@ var array = [
     CEO: "Brian Chesky",
     Website: "https://www.airbnb.com",
     Ticker: "ABNB",
-    Market Cap: "110419.9"
+    market_cap: "110419.9"
   },
   {
     company: "Patterson",
@@ -10566,7 +10566,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5912.1",
     profit: "156.0",
-    num. of employees: "7800.0",
+    num_of_employees: "7800.0",
     sector: "Health Care",
     city: "St. Paul",
     state: "MN",
@@ -10578,7 +10578,7 @@ var array = [
     CEO: "Mark S. Walchirk",
     Website: "https://www.pattersoncompanies.com",
     Ticker: "PDCO",
-    Market Cap: "3160"
+    market_cap: "3160"
   },
   {
     company: "PENN Entertainment",
@@ -10586,7 +10586,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5905.0",
     profit: "420.8",
-    num. of employees: "21973.0",
+    num_of_employees: "21973.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Wyomissing",
     state: "PA",
@@ -10598,7 +10598,7 @@ var array = [
     CEO: "Jay A. Snowden",
     Website: "https://www.pennentertainment.com",
     Ticker: "PENN",
-    Market Cap: "7140.2"
+    market_cap: "7140.2"
   },
   {
     company: "ServiceNow",
@@ -10606,7 +10606,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5896.0",
     profit: "230.0",
-    num. of employees: "16881.0",
+    num_of_employees: "16881.0",
     sector: "Technology",
     city: "Santa Clara",
     state: "CA",
@@ -10618,7 +10618,7 @@ var array = [
     CEO: "William McDermott",
     Website: "https://www.servicenow.com",
     Ticker: "NOW",
-    Market Cap: "70419"
+    market_cap: "70419"
   },
   {
     company: "Nasdaq",
@@ -10626,7 +10626,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5886.0",
     profit: "1187.0",
-    num. of employees: "5814.0",
+    num_of_employees: "5814.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -10638,7 +10638,7 @@ var array = [
     CEO: "Adena T. Friedman",
     Website: "https://www.nasdaq.com",
     Ticker: "NDAQ",
-    Market Cap: "29298.2"
+    market_cap: "29298.2"
   },
   {
     company: "Brunswick",
@@ -10646,7 +10646,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5846.2",
     profit: "593.3",
-    num. of employees: "18582.0",
+    num_of_employees: "18582.0",
     sector: "Transportation",
     city: "Mettawa",
     state: "IL",
@@ -10658,7 +10658,7 @@ var array = [
     CEO: "David M. Foulkes",
     Website: "https://www.brunswick.com",
     Ticker: "BC",
-    Market Cap: "6197.3"
+    market_cap: "6197.3"
   },
   {
     company: "Resideo Technologies",
@@ -10666,7 +10666,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5846.0",
     profit: "242.0",
-    num. of employees: "13300.0",
+    num_of_employees: "13300.0",
     sector: "Materials",
     city: "Scottsdale",
     state: "AZ",
@@ -10678,7 +10678,7 @@ var array = [
     CEO: "Jay L. Geldmacher",
     Website: "https://www.resideo.com",
     Ticker: "REZI",
-    Market Cap: "3455.8"
+    market_cap: "3455.8"
   },
   {
     company: "Chesapeake Energy",
@@ -10686,7 +10686,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5809.0",
     profit: "",
-    num. of employees: "1300.0",
+    num_of_employees: "1300.0",
     sector: "Energy",
     city: "Oklahoma City",
     state: "OK",
@@ -10698,7 +10698,7 @@ var array = [
     CEO: "Domenic J. Dell&#039;Osso Jr.",
     Website: "https://www.chk.com",
     Ticker: "CHK",
-    Market Cap: "11135.9"
+    market_cap: "11135.9"
   },
   {
     company: "Petco Health and Wellness",
@@ -10706,7 +10706,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5807.1",
     profit: "164.4",
-    num. of employees: "28495.0",
+    num_of_employees: "28495.0",
     sector: "Retailing",
     city: "San Diego",
     state: "CA",
@@ -10718,7 +10718,7 @@ var array = [
     CEO: "Ronald Coughlin Jr.",
     Website: "https://www.petco.com",
     Ticker: "WOOF",
-    Market Cap: "5930.2"
+    market_cap: "5930.2"
   },
   {
     company: "Kemper",
@@ -10726,7 +10726,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5793.0",
     profit: "-120.5",
-    num. of employees: "10300.0",
+    num_of_employees: "10300.0",
     sector: "Financials",
     city: "Chicago",
     state: "IL",
@@ -10738,7 +10738,7 @@ var array = [
     CEO: "Joseph P. Lacher Jr.",
     Website: "https://www.kemper.com",
     Ticker: "KMPR",
-    Market Cap: "3606"
+    market_cap: "3606"
   },
   {
     company: "Hilton Worldwide Holdings",
@@ -10746,7 +10746,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5788.0",
     profit: "410.0",
-    num. of employees: "142000.0",
+    num_of_employees: "142000.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "McLean",
     state: "VA",
@@ -10758,7 +10758,7 @@ var array = [
     CEO: "Christopher J. Nassetta",
     Website: "https://www.hilton.com",
     Ticker: "HLT",
-    Market Cap: "42356.6"
+    market_cap: "42356.6"
   },
   {
     company: "Cerner",
@@ -10766,7 +10766,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5764.8",
     profit: "555.6",
-    num. of employees: "25150.0",
+    num_of_employees: "25150.0",
     sector: "Health Care",
     city: "North Kansas City",
     state: "MO",
@@ -10778,7 +10778,7 @@ var array = [
     CEO: "David T. Feinberg",
     Website: "https://www.cerner.com",
     Ticker: "",
-    Market Cap: "27492.2"
+    market_cap: "27492.2"
   },
   {
     company: "Levi Strauss",
@@ -10786,7 +10786,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5763.9",
     profit: "553.5",
-    num. of employees: "16600.0",
+    num_of_employees: "16600.0",
     sector: "Apparel",
     city: "San Francisco",
     state: "CA",
@@ -10798,7 +10798,7 @@ var array = [
     CEO: "Charles Bergh",
     Website: "https://www.levistrauss.com",
     Ticker: "LEVI",
-    Market Cap: "5740"
+    market_cap: "5740"
   },
   {
     company: "Tapestry",
@@ -10806,7 +10806,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5746.3",
     profit: "834.2",
-    num. of employees: "14250.0",
+    num_of_employees: "14250.0",
     sector: "Apparel",
     city: "New York",
     state: "NY",
@@ -10818,7 +10818,7 @@ var array = [
     CEO: "Joanne C. Crevoiserat",
     Website: "https://www.tapestry.com",
     Ticker: "TPR",
-    Market Cap: "9807.2"
+    market_cap: "9807.2"
   },
   {
     company: "NetApp",
@@ -10826,7 +10826,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5744.0",
     profit: "730.0",
-    num. of employees: "11000.0",
+    num_of_employees: "11000.0",
     sector: "Technology",
     city: "San Jose",
     state: "CA",
@@ -10838,7 +10838,7 @@ var array = [
     CEO: "George Kurian",
     Website: "https://www.netapp.com",
     Ticker: "NTAP",
-    Market Cap: "18470.5"
+    market_cap: "18470.5"
   },
   {
     company: "KB Home",
@@ -10846,7 +10846,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5724.9",
     profit: "564.7",
-    num. of employees: "2244.0",
+    num_of_employees: "2244.0",
     sector: "Engineering & Construction",
     city: "Los Angeles",
     state: "CA",
@@ -10858,7 +10858,7 @@ var array = [
     CEO: "Jeffrey T. Mezger",
     Website: "https://www.kbhome.com",
     Ticker: "KBH",
-    Market Cap: "2858.1"
+    market_cap: "2858.1"
   },
   {
     company: "Continental Resources",
@@ -10866,7 +10866,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5719.3",
     profit: "1661.0",
-    num. of employees: "1254.0",
+    num_of_employees: "1254.0",
     sector: "Energy",
     city: "Oklahoma City",
     state: "OK",
@@ -10878,7 +10878,7 @@ var array = [
     CEO: "William B. Berry",
     Website: "https://www.clr.com",
     Ticker: "CLR",
-    Market Cap: "22342.4"
+    market_cap: "22342.4"
   },
   {
     company: "Intuitive Surgical",
@@ -10886,7 +10886,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5710.1",
     profit: "1704.6",
-    num. of employees: "9793.0",
+    num_of_employees: "9793.0",
     sector: "Health Care",
     city: "Sunnyvale",
     state: "CA",
@@ -10898,7 +10898,7 @@ var array = [
     CEO: "Gary S. Guthart",
     Website: "https://www.intuitive.com",
     Ticker: "ISRG",
-    Market Cap: "108361.9"
+    market_cap: "108361.9"
   },
   {
     company: "Under Armour",
@@ -10906,7 +10906,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5683.5",
     profit: "360.1",
-    num. of employees: "12300.0",
+    num_of_employees: "12300.0",
     sector: "Apparel",
     city: "Baltimore",
     state: "MD",
@@ -10918,7 +10918,7 @@ var array = [
     CEO: "Colin Browne",
     Website: "https://https://about.underarmour.com",
     Ticker: "UAA",
-    Market Cap: "7712.4"
+    market_cap: "7712.4"
   },
   {
     company: "MDU Resources Group",
@@ -10926,7 +10926,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5680.7",
     profit: "378.1",
-    num. of employees: "12826.0",
+    num_of_employees: "12826.0",
     sector: "Energy",
     city: "Bismarck",
     state: "ND",
@@ -10938,7 +10938,7 @@ var array = [
     CEO: "David L. Goodin",
     Website: "https://www.mdu.com",
     Ticker: "MDU",
-    Market Cap: "5419.3"
+    market_cap: "5419.3"
   },
   {
     company: "Silgan Holdings",
@@ -10946,7 +10946,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5677.1",
     profit: "359.1",
-    num. of employees: "15720.0",
+    num_of_employees: "15720.0",
     sector: "Materials",
     city: "Stamford",
     state: "CT",
@@ -10958,7 +10958,7 @@ var array = [
     CEO: "Adam J. Greenlee",
     Website: "https://www.silganholdings.com",
     Ticker: "SLGN",
-    Market Cap: "5104.3"
+    market_cap: "5104.3"
   },
   {
     company: "Ryerson Holding",
@@ -10966,7 +10966,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5675.3",
     profit: "294.3",
-    num. of employees: "4000.0",
+    num_of_employees: "4000.0",
     sector: "Materials",
     city: "Chicago",
     state: "IL",
@@ -10978,7 +10978,7 @@ var array = [
     CEO: "Edward J. Lehner",
     Website: "https://www.ryerson.com",
     Ticker: "RYI",
-    Market Cap: "1344.6"
+    market_cap: "1344.6"
   },
   {
     company: "Ingersoll Rand",
@@ -10986,7 +10986,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5655.2",
     profit: "562.5",
-    num. of employees: "16000.0",
+    num_of_employees: "16000.0",
     sector: "Industrials",
     city: "Davidson",
     state: "NC",
@@ -10998,7 +10998,7 @@ var array = [
     CEO: "Vicente Reynal",
     Website: "https://www.irco.com",
     Ticker: "IR",
-    Market Cap: "20541.2"
+    market_cap: "20541.2"
   },
   {
     company: "Hologic",
@@ -11006,7 +11006,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5632.3",
     profit: "1871.5",
-    num. of employees: "6705.0",
+    num_of_employees: "6705.0",
     sector: "Health Care",
     city: "Marlborough",
     state: "MA",
@@ -11018,7 +11018,7 @@ var array = [
     CEO: "Stephen MacMillan",
     Website: "https://www.hologic.com",
     Ticker: "HOLX",
-    Market Cap: "16063"
+    market_cap: "16063"
   },
   {
     company: "Electronic Arts",
@@ -11026,7 +11026,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5629.0",
     profit: "837.0",
-    num. of employees: "11000.0",
+    num_of_employees: "11000.0",
     sector: "Media",
     city: "Redwood City",
     state: "CA",
@@ -11038,7 +11038,7 @@ var array = [
     CEO: "Andrew Wilson",
     Website: "https://www.ea.com",
     Ticker: "EA",
-    Market Cap: "35577.4"
+    market_cap: "35577.4"
   },
   {
     company: "Zebra Technologies",
@@ -11046,7 +11046,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5627.0",
     profit: "837.0",
-    num. of employees: "9800.0",
+    num_of_employees: "9800.0",
     sector: "Industrials",
     city: "Lincolnshire",
     state: "IL",
@@ -11058,7 +11058,7 @@ var array = [
     CEO: "Anders Gustafsson",
     Website: "https://www.zebra.com",
     Ticker: "ZBRA",
-    Market Cap: "21959.1"
+    market_cap: "21959.1"
   },
   {
     company: "Coty",
@@ -11066,7 +11066,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5616.2",
     profit: "-201.3",
-    num. of employees: "11430.0",
+    num_of_employees: "11430.0",
     sector: "Household Products",
     city: "New York",
     state: "NY",
@@ -11078,7 +11078,7 @@ var array = [
     CEO: "Sue Y. Nabi",
     Website: "https://www.coty.com",
     Ticker: "COTY",
-    Market Cap: "7540.6"
+    market_cap: "7540.6"
   },
   {
     company: "Schneider National",
@@ -11086,7 +11086,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5608.7",
     profit: "405.4",
-    num. of employees: "17050.0",
+    num_of_employees: "17050.0",
     sector: "Transportation",
     city: "Green Bay",
     state: "WI",
@@ -11098,7 +11098,7 @@ var array = [
     CEO: "Mark B. Rourke",
     Website: "https://www.schneider.com",
     Ticker: "SNDR",
-    Market Cap: "4551.6"
+    market_cap: "4551.6"
   },
   {
     company: "Sonoco Products",
@@ -11106,7 +11106,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5590.4",
     profit: "-85.5",
-    num. of employees: "20500.0",
+    num_of_employees: "20500.0",
     sector: "Materials",
     city: "Hartsville",
     state: "SC",
@@ -11118,7 +11118,7 @@ var array = [
     CEO: "R. Howard Coker",
     Website: "https://www.sonoco.com",
     Ticker: "SON",
-    Market Cap: "6099.1"
+    market_cap: "6099.1"
   },
   {
     company: "Concentrix",
@@ -11126,7 +11126,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5587.0",
     profit: "405.6",
-    num. of employees: "290000.0",
+    num_of_employees: "290000.0",
     sector: "Technology",
     city: "Fremont",
     state: "CA",
@@ -11138,7 +11138,7 @@ var array = [
     CEO: "Christopher A. Caldwell",
     Website: "https://www.concentrix.com",
     Ticker: "CNXC",
-    Market Cap: "8605.2"
+    market_cap: "8605.2"
   },
   {
     company: "Evergy",
@@ -11146,7 +11146,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5586.7",
     profit: "879.7",
-    num. of employees: "4930.0",
+    num_of_employees: "4930.0",
     sector: "Energy",
     city: "Kansas City",
     state: "MO",
@@ -11158,7 +11158,7 @@ var array = [
     CEO: "David A. Campbell",
     Website: "https://http://investors.evergy.com",
     Ticker: "EVRG",
-    Market Cap: "15512.7"
+    market_cap: "15512.7"
   },
   {
     company: "Cornerstone Building Brands",
@@ -11166,7 +11166,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5583.1",
     profit: "665.9",
-    num. of employees: "21700.0",
+    num_of_employees: "21700.0",
     sector: "Materials",
     city: "Cary",
     state: "NC",
@@ -11178,7 +11178,7 @@ var array = [
     CEO: "Rose Lee",
     Website: "https://www.cornerstonebuildingbrands.com",
     Ticker: "",
-    Market Cap: "3088.7"
+    market_cap: "3088.7"
   },
   {
     company: "Coca-Cola Consolidated",
@@ -11186,7 +11186,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5562.7",
     profit: "189.6",
-    num. of employees: "15050.0",
+    num_of_employees: "15050.0",
     sector: "Food, Beverages & Tobacco",
     city: "Charlotte",
     state: "NC",
@@ -11198,7 +11198,7 @@ var array = [
     CEO: "J. Frank Harrison III",
     Website: "https://www.cokeconsolidated.com",
     Ticker: "COKE",
-    Market Cap: "4657.3"
+    market_cap: "4657.3"
   },
   {
     company: "Greif",
@@ -11206,7 +11206,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5556.1",
     profit: "390.7",
-    num. of employees: "16000.0",
+    num_of_employees: "16000.0",
     sector: "Materials",
     city: "Delaware",
     state: "OH",
@@ -11218,7 +11218,7 @@ var array = [
     CEO: "Ole Rosgaard",
     Website: "https://www.greif.com",
     Ticker: "GEF",
-    Market Cap: "3134"
+    market_cap: "3134"
   },
   {
     company: "Vulcan Materials",
@@ -11226,7 +11226,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5552.2",
     profit: "670.8",
-    num. of employees: "11912.0",
+    num_of_employees: "11912.0",
     sector: "Materials",
     city: "Birmingham",
     state: "AL",
@@ -11238,7 +11238,7 @@ var array = [
     CEO: "J. Thomas Hill",
     Website: "https://www.vulcanmaterials.com",
     Ticker: "VMC",
-    Market Cap: "24412.7"
+    market_cap: "24412.7"
   },
   {
     company: "Ametek",
@@ -11246,7 +11246,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5546.5",
     profit: "990.1",
-    num. of employees: "18500.0",
+    num_of_employees: "18500.0",
     sector: "Technology",
     city: "Berwyn",
     state: "PA",
@@ -11258,7 +11258,7 @@ var array = [
     CEO: "David A. Zapico",
     Website: "https://www.ametek.com",
     Ticker: "AME",
-    Market Cap: "30787.3"
+    market_cap: "30787.3"
   },
   {
     company: "Monster Beverage",
@@ -11266,7 +11266,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5541.4",
     profit: "1377.5",
-    num. of employees: "3775.0",
+    num_of_employees: "3775.0",
     sector: "Food, Beverages & Tobacco",
     city: "Corona",
     state: "CA",
@@ -11278,7 +11278,7 @@ var array = [
     CEO: "#REF!",
     Website: "https://www.monsterbevcorp.com",
     Ticker: "MNST",
-    Market Cap: "42295.8"
+    market_cap: "42295.8"
   },
   {
     company: "Sealed Air",
@@ -11286,7 +11286,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5533.8",
     profit: "506.8",
-    num. of employees: "16500.0",
+    num_of_employees: "16500.0",
     sector: "Materials",
     city: "Charlotte",
     state: "NC",
@@ -11298,7 +11298,7 @@ var array = [
     CEO: "Edward L. Doheny II",
     Website: "https://www.sealedair.com",
     Ticker: "SEE",
-    Market Cap: "9920.7"
+    market_cap: "9920.7"
   },
   {
     company: "NOV",
@@ -11306,7 +11306,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5524.0",
     profit: "-250.0",
-    num. of employees: "27043.0",
+    num_of_employees: "27043.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -11318,7 +11318,7 @@ var array = [
     CEO: "Clay C. Williams",
     Website: "https://www.nov.com",
     Ticker: "NOV",
-    Market Cap: "7700.2"
+    market_cap: "7700.2"
   },
   {
     company: "Las Vegas Sands",
@@ -11326,7 +11326,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5505.0",
     profit: "-961.0",
-    num. of employees: "44600.0",
+    num_of_employees: "44600.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Las Vegas",
     state: "NV",
@@ -11338,7 +11338,7 @@ var array = [
     CEO: "Robert G. Goldstein",
     Website: "https://www.sands.com",
     Ticker: "LVS",
-    Market Cap: "29696.4"
+    market_cap: "29696.4"
   },
   {
     company: "Martin Marietta Materials",
@@ -11346,7 +11346,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5493.2",
     profit: "702.5",
-    num. of employees: "10000.0",
+    num_of_employees: "10000.0",
     sector: "Materials",
     city: "Raleigh",
     state: "NC",
@@ -11358,7 +11358,7 @@ var array = [
     CEO: "C. Howard Nye",
     Website: "https://www.martinmarietta.com",
     Ticker: "MLM",
-    Market Cap: "24015.1"
+    market_cap: "24015.1"
   },
   {
     company: "Marathon Oil",
@@ -11366,7 +11366,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5467.0",
     profit: "946.0",
-    num. of employees: "1531.0",
+    num_of_employees: "1531.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -11378,7 +11378,7 @@ var array = [
     CEO: "Lee M. Tillman",
     Website: "https://www.marathonoil.com",
     Ticker: "MRO",
-    Market Cap: "18349.5"
+    market_cap: "18349.5"
   },
   {
     company: "Mattel",
@@ -11386,7 +11386,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5457.7",
     profit: "903.0",
-    num. of employees: "36300.0",
+    num_of_employees: "36300.0",
     sector: "Household Products",
     city: "El Segundo",
     state: "CA",
@@ -11398,7 +11398,7 @@ var array = [
     CEO: "Ynon Kreiz",
     Website: "https://www.mattel.com",
     Ticker: "MAT",
-    Market Cap: "7823.3"
+    market_cap: "7823.3"
   },
   {
     company: "Microchip Technology",
@@ -11406,7 +11406,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5438.4",
     profit: "349.4",
-    num. of employees: "19500.0",
+    num_of_employees: "19500.0",
     sector: "Technology",
     city: "Chandler",
     state: "AZ",
@@ -11418,7 +11418,7 @@ var array = [
     CEO: "Ganesh Moorthy",
     Website: "https://www.microchip.com",
     Ticker: "MCHP",
-    Market Cap: "41777.1"
+    market_cap: "41777.1"
   },
   {
     company: "Harley-Davidson",
@@ -11426,7 +11426,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5336.3",
     profit: "650.0",
-    num. of employees: "5800.0",
+    num_of_employees: "5800.0",
     sector: "Transportation",
     city: "Milwaukee",
     state: "WI",
@@ -11438,7 +11438,7 @@ var array = [
     CEO: "Jochen Zeitz",
     Website: "https://www.harley-davidson.com",
     Ticker: "HOG",
-    Market Cap: "6062.9"
+    market_cap: "6062.9"
   },
   {
     company: "Telephone & Data Systems",
@@ -11446,7 +11446,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5329.0",
     profit: "156.0",
-    num. of employees: "8800.0",
+    num_of_employees: "8800.0",
     sector: "Telecommunications",
     city: "Chicago",
     state: "IL",
@@ -11458,7 +11458,7 @@ var array = [
     CEO: "LeRoy T. Carlson Jr.",
     Website: "https://www.tdsinc.com",
     Ticker: "TDS",
-    Market Cap: "2163.4"
+    market_cap: "2163.4"
   },
   {
     company: "ADT",
@@ -11466,7 +11466,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5307.1",
     profit: "-340.8",
-    num. of employees: "25000.0",
+    num_of_employees: "25000.0",
     sector: "Business Services",
     city: "Boca Raton",
     state: "FL",
@@ -11478,7 +11478,7 @@ var array = [
     CEO: "James D. DeVries",
     Website: "https://www.adt.com",
     Ticker: "ADT",
-    Market Cap: "6843"
+    market_cap: "6843"
   },
   {
     company: "First Republic Bank",
@@ -11486,7 +11486,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5305.0",
     profit: "1478.0",
-    num. of employees: "6295.0",
+    num_of_employees: "6295.0",
     sector: "Financials",
     city: "San Francisco",
     state: "CA",
@@ -11498,7 +11498,7 @@ var array = [
     CEO: "Michael J. Roffler",
     Website: "https://www.firstrepublic.com",
     Ticker: "FRC",
-    Market Cap: "29113.6"
+    market_cap: "29113.6"
   },
   {
     company: "Warner Music Group",
@@ -11506,7 +11506,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5301.0",
     profit: "304.0",
-    num. of employees: "5900.0",
+    num_of_employees: "5900.0",
     sector: "Media",
     city: "New York",
     state: "NY",
@@ -11518,7 +11518,7 @@ var array = [
     CEO: "Stephen F. Cooper",
     Website: "https://www.wmg.com",
     Ticker: "WMG",
-    Market Cap: "19485.7"
+    market_cap: "19485.7"
   },
   {
     company: "Pool",
@@ -11526,7 +11526,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5295.6",
     profit: "650.6",
-    num. of employees: "5650.0",
+    num_of_employees: "5650.0",
     sector: "Wholesalers",
     city: "Covington",
     state: "LA",
@@ -11538,7 +11538,7 @@ var array = [
     CEO: "Peter Arvan",
     Website: "https://www.poolcorp.com",
     Ticker: "POOL",
-    Market Cap: "12608"
+    market_cap: "12608"
   },
   {
     company: "Old Dominion Freight Line",
@@ -11546,7 +11546,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5256.3",
     profit: "1034.4",
-    num. of employees: "23663.0",
+    num_of_employees: "23663.0",
     sector: "Transportation",
     city: "Thomasville",
     state: "NC",
@@ -11558,7 +11558,7 @@ var array = [
     CEO: "Greg C. Gantt",
     Website: "https://www.odfl.com",
     Ticker: "ODFL",
-    Market Cap: "34307.5"
+    market_cap: "34307.5"
   },
   {
     company: "Fortive",
@@ -11566,7 +11566,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5254.7",
     profit: "608.4",
-    num. of employees: "18000.0",
+    num_of_employees: "18000.0",
     sector: "Industrials",
     city: "Everett",
     state: "WA",
@@ -11578,7 +11578,7 @@ var array = [
     CEO: "James A. Lico",
     Website: "https://www.fortive.com",
     Ticker: "FTV",
-    Market Cap: "21877.9"
+    market_cap: "21877.9"
   },
   {
     company: "MDC Holdings",
@@ -11586,7 +11586,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5254.7",
     profit: "573.7",
-    num. of employees: "2080.0",
+    num_of_employees: "2080.0",
     sector: "Engineering & Construction",
     city: "Denver",
     state: "CO",
@@ -11598,7 +11598,7 @@ var array = [
     CEO: "David D. Mandarich",
     Website: "https://www.mdcholdings.com",
     Ticker: "MDC",
-    Market Cap: "2692.7"
+    market_cap: "2692.7"
   },
   {
     company: "NGL Energy Partners",
@@ -11606,7 +11606,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5243.2",
     profit: "-639.8",
-    num. of employees: "997.0",
+    num_of_employees: "997.0",
     sector: "Energy",
     city: "Tulsa",
     state: "OK",
@@ -11618,7 +11618,7 @@ var array = [
     CEO: "H. Michael Krimbill",
     Website: "https://www.nglenergypartners.com",
     Ticker: "NGL",
-    Market Cap: "288.6"
+    market_cap: "288.6"
   },
   {
     company: "Edwards Lifesciences",
@@ -11626,7 +11626,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5232.5",
     profit: "1503.1",
-    num. of employees: "15700.0",
+    num_of_employees: "15700.0",
     sector: "Health Care",
     city: "Irvine",
     state: "CA",
@@ -11638,7 +11638,7 @@ var array = [
     CEO: "Michael A. Mussallem",
     Website: "https://www.edwards.com",
     Ticker: "EW",
-    Market Cap: "73141.4"
+    market_cap: "73141.4"
   },
   {
     company: "Hanover Insurance Group",
@@ -11646,7 +11646,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5227.8",
     profit: "418.7",
-    num. of employees: "4400.0",
+    num_of_employees: "4400.0",
     sector: "Financials",
     city: "Worcester",
     state: "MA",
@@ -11658,7 +11658,7 @@ var array = [
     CEO: "John C. Roche",
     Website: "https://www.hanover.com",
     Ticker: "THG",
-    Market Cap: "5317.9"
+    market_cap: "5317.9"
   },
   {
     company: "Syneos Health",
@@ -11666,7 +11666,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5213.0",
     profit: "234.8",
-    num. of employees: "27443.0",
+    num_of_employees: "27443.0",
     sector: "Health Care",
     city: "Morrisville",
     state: "NC",
@@ -11678,7 +11678,7 @@ var array = [
     CEO: "Michelle Keefe",
     Website: "https://www.syneoshealth.com",
     Ticker: "SYNH",
-    Market Cap: "8436.7"
+    market_cap: "8436.7"
   },
   {
     company: "Xylem",
@@ -11686,7 +11686,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5195.0",
     profit: "427.0",
-    num. of employees: "16700.0",
+    num_of_employees: "16700.0",
     sector: "Industrials",
     city: "Washington",
     state: "DC",
@@ -11698,7 +11698,7 @@ var array = [
     CEO: "Patrick K. Decker",
     Website: "https://www.xylem.com",
     Ticker: "XYL",
-    Market Cap: "15354.7"
+    market_cap: "15354.7"
   },
   {
     company: "Church & Dwight",
@@ -11706,7 +11706,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5190.1",
     profit: "827.5",
-    num. of employees: "5100.0",
+    num_of_employees: "5100.0",
     sector: "Household Products",
     city: "Ewing",
     state: "NJ",
@@ -11718,7 +11718,7 @@ var array = [
     CEO: "Matthew T. Farrell",
     Website: "https://www.churchdwight.com",
     Ticker: "CHD",
-    Market Cap: "24119.1"
+    market_cap: "24119.1"
   },
   {
     company: "American Axle & Manufacturing",
@@ -11726,7 +11726,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5156.6",
     profit: "5.9",
-    num. of employees: "18000.0",
+    num_of_employees: "18000.0",
     sector: "Motor Vehicles & Parts",
     city: "Detroit",
     state: "MI",
@@ -11738,7 +11738,7 @@ var array = [
     CEO: "David C. Dauch",
     Website: "https://www.aam.com",
     Ticker: "AXL",
-    Market Cap: "888.3"
+    market_cap: "888.3"
   },
   {
     company: "Meritage Homes",
@@ -11746,7 +11746,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5141.3",
     profit: "737.4",
-    num. of employees: "1773.0",
+    num_of_employees: "1773.0",
     sector: "Engineering & Construction",
     city: "Scottsdale",
     state: "AZ",
@@ -11758,7 +11758,7 @@ var array = [
     CEO: "Phillippe Lord",
     Website: "https://www.meritagehomes.com",
     Ticker: "MTH",
-    Market Cap: "2907.3"
+    market_cap: "2907.3"
   },
   {
     company: "Workday",
@@ -11766,7 +11766,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5138.8",
     profit: "29.4",
-    num. of employees: "15200.0",
+    num_of_employees: "15200.0",
     sector: "Technology",
     city: "Pleasanton",
     state: "CA",
@@ -11778,7 +11778,7 @@ var array = [
     CEO: "#REF!",
     Website: "https://www.workday.com",
     Ticker: "WDAY",
-    Market Cap: "60583.4"
+    market_cap: "60583.4"
   },
   {
     company: "Rush Enterprises",
@@ -11786,7 +11786,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5126.1",
     profit: "241.4",
-    num. of employees: "7141.0",
+    num_of_employees: "7141.0",
     sector: "Retailing",
     city: "New Braunfels",
     state: "TX",
@@ -11798,7 +11798,7 @@ var array = [
     CEO: "W. M. Rush",
     Website: "https://www.rushenterprises.com",
     Ticker: "RUSHB",
-    Market Cap: "2788.5"
+    market_cap: "2788.5"
   },
   {
     company: "Yellow",
@@ -11806,7 +11806,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5121.8",
     profit: "-109.1",
-    num. of employees: "32000.0",
+    num_of_employees: "32000.0",
     sector: "Transportation",
     city: "Nashville",
     state: "TN",
@@ -11818,7 +11818,7 @@ var array = [
     CEO: "Darren D. Hawkins",
     Website: "https://www.myyellow.com",
     Ticker: "YELL",
-    Market Cap: "360.3"
+    market_cap: "360.3"
   },
   {
     company: "Encompass Health",
@@ -11826,7 +11826,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5121.6",
     profit: "412.2",
-    num. of employees: "35681.0",
+    num_of_employees: "35681.0",
     sector: "Health Care",
     city: "Birmingham",
     state: "AL",
@@ -11838,7 +11838,7 @@ var array = [
     CEO: "Mark J. Tarr",
     Website: "https://www.encompasshealth.com",
     Ticker: "EHC",
-    Market Cap: "7071.1"
+    market_cap: "7071.1"
   },
   {
     company: "Simon Property Group",
@@ -11846,7 +11846,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5116.8",
     profit: "2249.6",
-    num. of employees: "2850.0",
+    num_of_employees: "2850.0",
     sector: "Financials",
     city: "Indianapolis",
     state: "IN",
@@ -11858,7 +11858,7 @@ var array = [
     CEO: "David E. Simon",
     Website: "https://www.simon.com",
     Ticker: "SPG",
-    Market Cap: "43197.8"
+    market_cap: "43197.8"
   },
   {
     company: "Globe Life",
@@ -11866,7 +11866,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5112.9",
     profit: "745.0",
-    num. of employees: "3222.0",
+    num_of_employees: "3222.0",
     sector: "Financials",
     city: "McKinney",
     state: "TX",
@@ -11878,7 +11878,7 @@ var array = [
     CEO: "#REF!",
     Website: "https://www.globelifeinsurance.com",
     Ticker: "GL",
-    Market Cap: "9977.3"
+    market_cap: "9977.3"
   },
   {
     company: "Skyworks Solutions",
@@ -11886,7 +11886,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5109.1",
     profit: "1498.3",
-    num. of employees: "10945.0",
+    num_of_employees: "10945.0",
     sector: "Technology",
     city: "Irvine",
     state: "CA",
@@ -11898,7 +11898,7 @@ var array = [
     CEO: "Liam K. Griffin",
     Website: "https://www.skyworksinc.com",
     Ticker: "SWKS",
-    Market Cap: "21547.5"
+    market_cap: "21547.5"
   },
   {
     company: "Endeavor Group Holdings",
@@ -11906,7 +11906,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5077.7",
     profit: "-296.6",
-    num. of employees: "7700.0",
+    num_of_employees: "7700.0",
     sector: "Media",
     city: "Beverly Hills",
     state: "CA",
@@ -11918,7 +11918,7 @@ var array = [
     CEO: "Ariel Emanuel",
     Website: "https://www.endeavorco.com",
     Ticker: "EDR",
-    Market Cap: "20363.1"
+    market_cap: "20363.1"
   },
   {
     company: "Twitter",
@@ -11926,7 +11926,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5077.5",
     profit: "-221.4",
-    num. of employees: "7500.0",
+    num_of_employees: "7500.0",
     sector: "Technology",
     city: "San Francisco",
     state: "CA",
@@ -11938,7 +11938,7 @@ var array = [
     CEO: "Elon Musk",
     Website: "https://www.twitter.com",
     Ticker: "",
-    Market Cap: "30976.8"
+    market_cap: "30976.8"
   },
   {
     company: "Leggett & Platt",
@@ -11946,7 +11946,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5072.6",
     profit: "402.4",
-    num. of employees: "20300.0",
+    num_of_employees: "20300.0",
     sector: "Household Products",
     city: "Carthage",
     state: "MO",
@@ -11958,7 +11958,7 @@ var array = [
     CEO: "J. Mitchell Dolloff",
     Website: "https://www.leggett.com",
     Ticker: "LEG",
-    Market Cap: "4659"
+    market_cap: "4659"
   },
   {
     company: "Western Union",
@@ -11966,7 +11966,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5070.8",
     profit: "805.8",
-    num. of employees: "10500.0",
+    num_of_employees: "10500.0",
     sector: "Business Services",
     city: "Denver",
     state: "CO",
@@ -11978,7 +11978,7 @@ var array = [
     CEO: "Devin B. McGranahan",
     Website: "https://www.westernunion.com",
     Ticker: "WU",
-    Market Cap: "7374.7"
+    market_cap: "7374.7"
   },
   {
     company: "PerkinElmer",
@@ -11986,7 +11986,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5067.2",
     profit: "943.2",
-    num. of employees: "16700.0",
+    num_of_employees: "16700.0",
     sector: "Health Care",
     city: "Waltham",
     state: "MA",
@@ -11998,7 +11998,7 @@ var array = [
     CEO: "Prahlad Singh",
     Website: "https://www.perkinelmer.com",
     Ticker: "PKI",
-    Market Cap: "15984"
+    market_cap: "15984"
   },
   {
     company: "SS&C Technologies Holdings",
@@ -12006,7 +12006,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5051.0",
     profit: "800.0",
-    num. of employees: "24900.0",
+    num_of_employees: "24900.0",
     sector: "Technology",
     city: "Windsor",
     state: "CT",
@@ -12018,7 +12018,7 @@ var array = [
     CEO: "William C. Stone",
     Website: "https://www.ssctech.com",
     Ticker: "SSNC",
-    Market Cap: "19235.1"
+    market_cap: "19235.1"
   },
   {
     company: "CUNA Mutual Group",
@@ -12026,7 +12026,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5049.5",
     profit: "622.3",
-    num. of employees: "4100.0",
+    num_of_employees: "4100.0",
     sector: "Financials",
     city: "Madison",
     state: "WI",
@@ -12038,7 +12038,7 @@ var array = [
     CEO: "Robert N. Trunzo",
     Website: "https://www.cunamutual.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "FMC",
@@ -12046,7 +12046,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5045.2",
     profit: "736.5",
-    num. of employees: "6400.0",
+    num_of_employees: "6400.0",
     sector: "Chemicals",
     city: "Philadelphia",
     state: "PA",
@@ -12058,7 +12058,7 @@ var array = [
     CEO: "Mark A. Douglas",
     Website: "https://www.fmc.com",
     Ticker: "FMC",
-    Market Cap: "16563.8"
+    market_cap: "16563.8"
   },
   {
     company: "Carlisle",
@@ -12066,7 +12066,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5030.0",
     profit: "421.7",
-    num. of employees: "11250.0",
+    num_of_employees: "11250.0",
     sector: "Materials",
     city: "Scottsdale",
     state: "AZ",
@@ -12078,7 +12078,7 @@ var array = [
     CEO: "D. Christian Koch",
     Website: "https://www.carlisle.com",
     Ticker: "CSL",
-    Market Cap: "12804.5"
+    market_cap: "12804.5"
   },
   {
     company: "American Eagle Outfitters",
@@ -12086,7 +12086,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5010.8",
     profit: "419.6",
-    num. of employees: "24000.0",
+    num_of_employees: "24000.0",
     sector: "Retailing",
     city: "Pittsburgh",
     state: "PA",
@@ -12098,7 +12098,7 @@ var array = [
     CEO: "Jay L. Schottenstein",
     Website: "https://www.aeo-inc.com",
     Ticker: "AEO",
-    Market Cap: "2836.6"
+    market_cap: "2836.6"
   },
   {
     company: "Core & Main",
@@ -12106,7 +12106,7 @@ var array = [
     rank_change: "0.0",
     revenue: "5004.0",
     profit: "166.0",
-    num. of employees: "4100.0",
+    num_of_employees: "4100.0",
     sector: "Wholesalers",
     city: "St. Louis",
     state: "MO",
@@ -12118,7 +12118,7 @@ var array = [
     CEO: "Stephen O. LeClair",
     Website: "https://www.coreandmain.com",
     Ticker: "CNM",
-    Market Cap: "5948.8"
+    market_cap: "5948.8"
   },
   {
     company: "Vertiv Holdings",
@@ -12126,7 +12126,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4998.1",
     profit: "119.6",
-    num. of employees: "24000.0",
+    num_of_employees: "24000.0",
     sector: "Industrials",
     city: "Columbus",
     state: "OH",
@@ -12138,7 +12138,7 @@ var array = [
     CEO: "Robert J. Johnson",
     Website: "https://www.vertiv.com",
     Ticker: "VRT",
-    Market Cap: "5263.9"
+    market_cap: "5263.9"
   },
   {
     company: "Broadridge Financial Solutions",
@@ -12146,7 +12146,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4993.7",
     profit: "547.5",
-    num. of employees: "13704.0",
+    num_of_employees: "13704.0",
     sector: "Business Services",
     city: "Lake Success",
     state: "NY",
@@ -12158,7 +12158,7 @@ var array = [
     CEO: "Timothy C. Gokey",
     Website: "https://www.broadridge.com",
     Ticker: "BR",
-    Market Cap: "18182.7"
+    market_cap: "18182.7"
   },
   {
     company: "Ingles Markets",
@@ -12166,7 +12166,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4987.9",
     profit: "249.7",
-    num. of employees: "18460.0",
+    num_of_employees: "18460.0",
     sector: "Food & Drug Stores",
     city: "Black Mountain",
     state: "NC",
@@ -12178,7 +12178,7 @@ var array = [
     CEO: "James W. Lanning",
     Website: "https://www.ingles-markets.com",
     Ticker: "IMKTA",
-    Market Cap: "1691.4"
+    market_cap: "1691.4"
   },
   {
     company: "TPG",
@@ -12186,7 +12186,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4976.4",
     profit: "2180.9",
-    num. of employees: "1013.0",
+    num_of_employees: "1013.0",
     sector: "Financials",
     city: "Fort Worth",
     state: "TX",
@@ -12198,7 +12198,7 @@ var array = [
     CEO: "Jon Winkelried",
     Website: "https://www.tpg.com",
     Ticker: "TPG",
-    Market Cap: "9304.9"
+    market_cap: "9304.9"
   },
   {
     company: "Insperity",
@@ -12206,7 +12206,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4973.1",
     profit: "124.1",
-    num. of employees: "3600.0",
+    num_of_employees: "3600.0",
     sector: "Business Services",
     city: "Kingwood",
     state: "TX",
@@ -12218,7 +12218,7 @@ var array = [
     CEO: "Paul J. Sarvadi",
     Website: "https://www.insperity.com",
     Ticker: "NSP",
-    Market Cap: "3849.8"
+    market_cap: "3849.8"
   },
   {
     company: "Howmet Aerospace",
@@ -12226,7 +12226,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4972.0",
     profit: "258.0",
-    num. of employees: "19900.0",
+    num_of_employees: "19900.0",
     sector: "Aerospace & Defense",
     city: "Pittsburgh",
     state: "PA",
@@ -12238,7 +12238,7 @@ var array = [
     CEO: "John C. Plant",
     Website: "https://www.howmet.com",
     Ticker: "HWM",
-    Market Cap: "15055.4"
+    market_cap: "15055.4"
   },
   {
     company: "R.R. Donnelley & Sons",
@@ -12246,7 +12246,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4963.7",
     profit: "3.7",
-    num. of employees: "32000.0",
+    num_of_employees: "32000.0",
     sector: "Media",
     city: "Chicago",
     state: "IL",
@@ -12258,7 +12258,7 @@ var array = [
     CEO: "Thomas J. Quinlan III",
     Website: "https://www.rrd.com",
     Ticker: "RRD",
-    Market Cap: "289.9"
+    market_cap: "289.9"
   },
   {
     company: "Keysight Technologies",
@@ -12266,7 +12266,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4941.0",
     profit: "894.0",
-    num. of employees: "14300.0",
+    num_of_employees: "14300.0",
     sector: "Technology",
     city: "Santa Rosa",
     state: "CA",
@@ -12278,7 +12278,7 @@ var array = [
     CEO: "Satish Dhanasekaran",
     Website: "https://www.keysight.com",
     Ticker: "KEYS",
-    Market Cap: "28746.6"
+    market_cap: "28746.6"
   },
   {
     company: "Tempur Sealy International",
@@ -12286,7 +12286,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4930.8",
     profit: "624.5",
-    num. of employees: "12000.0",
+    num_of_employees: "12000.0",
     sector: "Household Products",
     city: "Lexington",
     state: "KY",
@@ -12298,7 +12298,7 @@ var array = [
     CEO: "Scott Thompson",
     Website: "https://www.tempursealy.com",
     Ticker: "TPX",
-    Market Cap: "4506"
+    market_cap: "4506"
   },
   {
     company: "Scotts Miracle-Gro",
@@ -12306,7 +12306,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4925.0",
     profit: "512.5",
-    num. of employees: "8050.0",
+    num_of_employees: "8050.0",
     sector: "Chemicals",
     city: "Marysville",
     state: "OH",
@@ -12318,7 +12318,7 @@ var array = [
     CEO: "James S. Hagedorn",
     Website: "https://www.scotts.com",
     Ticker: "SMG",
-    Market Cap: "6834.6"
+    market_cap: "6834.6"
   },
   {
     company: "Equifax",
@@ -12326,7 +12326,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4923.9",
     profit: "744.2",
-    num. of employees: "12700.0",
+    num_of_employees: "12700.0",
     sector: "Business Services",
     city: "Atlanta",
     state: "GA",
@@ -12338,7 +12338,7 @@ var array = [
     CEO: "Mark W. Begor",
     Website: "https://www.equifax.com",
     Ticker: "EFX",
-    Market Cap: "29141.8"
+    market_cap: "29141.8"
   },
   {
     company: "Kelly Services",
@@ -12346,7 +12346,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4909.7",
     profit: "156.1",
-    num. of employees: "7400.0",
+    num_of_employees: "7400.0",
     sector: "Business Services",
     city: "Troy",
     state: "MI",
@@ -12358,7 +12358,7 @@ var array = [
     CEO: "Peter W. Quigley",
     Website: "https://www.kellyservices.com",
     Ticker: "KELYA",
-    Market Cap: "856"
+    market_cap: "856"
   },
   {
     company: "NiSource",
@@ -12366,7 +12366,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4899.6",
     profit: "584.9",
-    num. of employees: "7307.0",
+    num_of_employees: "7307.0",
     sector: "Energy",
     city: "Merrillville",
     state: "IN",
@@ -12378,7 +12378,7 @@ var array = [
     CEO: "Lloyd M. Yates",
     Website: "https://www.nisource.com",
     Ticker: "NI",
-    Market Cap: "12891.2"
+    market_cap: "12891.2"
   },
   {
     company: "OneMain Holdings",
@@ -12386,7 +12386,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4895.0",
     profit: "1314.0",
-    num. of employees: "8800.0",
+    num_of_employees: "8800.0",
     sector: "Financials",
     city: "Evansville",
     state: "IN",
@@ -12398,7 +12398,7 @@ var array = [
     CEO: "Douglas H. Shulman",
     Website: "https://www.omf.com",
     Ticker: "OMF",
-    Market Cap: "6042.8"
+    market_cap: "6042.8"
   },
   {
     company: "DoorDash",
@@ -12406,7 +12406,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4888.0",
     profit: "-468.0",
-    num. of employees: "8600.0",
+    num_of_employees: "8600.0",
     sector: "Technology",
     city: "San Francisco",
     state: "CA",
@@ -12418,7 +12418,7 @@ var array = [
     CEO: "Tony Xu",
     Website: "https://https://ir.doordash.com",
     Ticker: "DASH",
-    Market Cap: "40830.3"
+    market_cap: "40830.3"
   },
   {
     company: "Avient",
@@ -12426,7 +12426,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4818.8",
     profit: "230.8",
-    num. of employees: "8700.0",
+    num_of_employees: "8700.0",
     sector: "Chemicals",
     city: "Avon Lake",
     state: "OH",
@@ -12438,7 +12438,7 @@ var array = [
     CEO: "Robert M. Patterson",
     Website: "https://www.avient.com",
     Ticker: "AVNT",
-    Market Cap: "4388.4"
+    market_cap: "4388.4"
   },
   {
     company: "Sanderson Farms",
@@ -12446,7 +12446,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4799.7",
     profit: "455.1",
-    num. of employees: "17662.0",
+    num_of_employees: "17662.0",
     sector: "Food, Beverages & Tobacco",
     city: "Laurel",
     state: "MS",
@@ -12458,7 +12458,7 @@ var array = [
     CEO: "Joe F. Sanderson Jr.",
     Website: "https://www.sandersonfarms.com",
     Ticker: "",
-    Market Cap: "4185.4"
+    market_cap: "4185.4"
   },
   {
     company: "TransDigm Group",
@@ -12466,7 +12466,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4798.0",
     profit: "680.0",
-    num. of employees: "13300.0",
+    num_of_employees: "13300.0",
     sector: "Aerospace & Defense",
     city: "Cleveland",
     state: "OH",
@@ -12478,7 +12478,7 @@ var array = [
     CEO: "Kevin M. Stein",
     Website: "https://www.transdigm.com",
     Ticker: "TDG",
-    Market Cap: "36135.8"
+    market_cap: "36135.8"
   },
   {
     company: "Stifel Financial",
@@ -12486,7 +12486,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4783.1",
     profit: "824.9",
-    num. of employees: "8600.0",
+    num_of_employees: "8600.0",
     sector: "Financials",
     city: "St. Louis",
     state: "MO",
@@ -12498,7 +12498,7 @@ var array = [
     CEO: "Ronald J. Kruszewski",
     Website: "https://www.stifel.com",
     Ticker: "SF",
-    Market Cap: "7226"
+    market_cap: "7226"
   },
   {
     company: "JELD-WEN Holding",
@@ -12506,7 +12506,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4771.7",
     profit: "168.8",
-    num. of employees: "24700.0",
+    num_of_employees: "24700.0",
     sector: "Materials",
     city: "Charlotte",
     state: "NC",
@@ -12518,7 +12518,7 @@ var array = [
     CEO: "Kevin C. Lilly",
     Website: "https://www.jeld-wen.com",
     Ticker: "JELD",
-    Market Cap: "1826"
+    market_cap: "1826"
   },
   {
     company: "Ares Management",
@@ -12526,7 +12526,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4770.6",
     profit: "408.8",
-    num. of employees: "2100.0",
+    num_of_employees: "2100.0",
     sector: "Financials",
     city: "Los Angeles",
     state: "CA",
@@ -12538,7 +12538,7 @@ var array = [
     CEO: "Michael Arougheti",
     Website: "https://www.aresmgmt.com",
     Ticker: "ARES",
-    Market Cap: "18940"
+    market_cap: "18940"
   },
   {
     company: "Elanco Animal Health",
@@ -12546,7 +12546,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4765.0",
     profit: "-472.0",
-    num. of employees: "9800.0",
+    num_of_employees: "9800.0",
     sector: "Health Care",
     city: "Greenfield",
     state: "IN",
@@ -12558,7 +12558,7 @@ var array = [
     CEO: "Jeffrey N. Simmons",
     Website: "https://www.elanco.com",
     Ticker: "ELAN",
-    Market Cap: "12345.4"
+    market_cap: "12345.4"
   },
   {
     company: "Prologis",
@@ -12566,7 +12566,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4759.4",
     profit: "2939.7",
-    num. of employees: "2053.0",
+    num_of_employees: "2053.0",
     sector: "Financials",
     city: "San Francisco",
     state: "CA",
@@ -12578,7 +12578,7 @@ var array = [
     CEO: "Hamid R. Moghadam",
     Website: "https://www.prologis.com",
     Ticker: "PLD",
-    Market Cap: "119524.5"
+    market_cap: "119524.5"
   },
   {
     company: "Welltower",
@@ -12586,7 +12586,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4742.1",
     profit: "336.1",
-    num. of employees: "464.0",
+    num_of_employees: "464.0",
     sector: "Financials",
     city: "Toledo",
     state: "OH",
@@ -12598,7 +12598,7 @@ var array = [
     CEO: "Shankh S. Mitra",
     Website: "https://www.welltower.com",
     Ticker: "WELL",
-    Market Cap: "43001.5"
+    market_cap: "43001.5"
   },
   {
     company: "Darling Ingredients",
@@ -12606,7 +12606,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4741.4",
     profit: "650.9",
-    num. of employees: "9900.0",
+    num_of_employees: "9900.0",
     sector: "Food, Beverages & Tobacco",
     city: "Irving",
     state: "TX",
@@ -12618,7 +12618,7 @@ var array = [
     CEO: "Randall C. Stuewe",
     Website: "https://www.darlingii.com",
     Ticker: "DAR",
-    Market Cap: "12987.4"
+    market_cap: "12987.4"
   },
   {
     company: "Juniper Networks",
@@ -12626,7 +12626,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4735.4",
     profit: "252.7",
-    num. of employees: "10191.0",
+    num_of_employees: "10191.0",
     sector: "Technology",
     city: "Sunnyvale",
     state: "CA",
@@ -12638,7 +12638,7 @@ var array = [
     CEO: "Rami Rahim",
     Website: "https://www.juniper.net",
     Ticker: "JNPR",
-    Market Cap: "11986.6"
+    market_cap: "11986.6"
   },
   {
     company: "Gartner",
@@ -12646,7 +12646,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4734.0",
     profit: "793.6",
-    num. of employees: "16600.0",
+    num_of_employees: "16600.0",
     sector: "Technology",
     city: "Stamford",
     state: "CT",
@@ -12658,7 +12658,7 @@ var array = [
     CEO: "Eugene A. Hall",
     Website: "https://www.gartner.com",
     Ticker: "IT",
-    Market Cap: "24477.2"
+    market_cap: "24477.2"
   },
   {
     company: "Par Pacific Holdings",
@@ -12666,7 +12666,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4710.1",
     profit: "-81.3",
-    num. of employees: "1336.0",
+    num_of_employees: "1336.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -12678,7 +12678,7 @@ var array = [
     CEO: "William C. Pate",
     Website: "https://www.parpacific.com",
     Ticker: "PARR",
-    Market Cap: "783.3"
+    market_cap: "783.3"
   },
   {
     company: "Hubbell",
@@ -12686,7 +12686,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4703.5",
     profit: "399.5",
-    num. of employees: "18300.0",
+    num_of_employees: "18300.0",
     sector: "Industrials",
     city: "Shelton",
     state: "CT",
@@ -12698,7 +12698,7 @@ var array = [
     CEO: "Gerben W. Bakker",
     Website: "https://www.hubbell.com",
     Ticker: "HUBB",
-    Market Cap: "9959.6"
+    market_cap: "9959.6"
   },
   {
     company: "CME Group",
@@ -12706,7 +12706,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4689.7",
     profit: "2636.4",
-    num. of employees: "3480.0",
+    num_of_employees: "3480.0",
     sector: "Financials",
     city: "Chicago",
     state: "IL",
@@ -12718,7 +12718,7 @@ var array = [
     CEO: "Terrence A. Duffy",
     Website: "https://www.cmegroup.com",
     Ticker: "CME",
-    Market Cap: "85492.3"
+    market_cap: "85492.3"
   },
   {
     company: "Nexstar Media Group",
@@ -12726,7 +12726,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4648.4",
     profit: "834.6",
-    num. of employees: "11817.0",
+    num_of_employees: "11817.0",
     sector: "Media",
     city: "Irving",
     state: "TX",
@@ -12738,7 +12738,7 @@ var array = [
     CEO: "Perry Sook",
     Website: "https://www.nexstar.tv",
     Ticker: "NXST",
-    Market Cap: "6883"
+    market_cap: "6883"
   },
   {
     company: "Tutor Perini",
@@ -12746,7 +12746,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4641.8",
     profit: "91.9",
-    num. of employees: "7800.0",
+    num_of_employees: "7800.0",
     sector: "Engineering & Construction",
     city: "Sylmar",
     state: "CA",
@@ -12758,7 +12758,7 @@ var array = [
     CEO: "Ronald N. Tutor",
     Website: "https://www.tutorperini.com",
     Ticker: "TPC",
-    Market Cap: "551.8"
+    market_cap: "551.8"
   },
   {
     company: "Antero Resources",
@@ -12766,7 +12766,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4619.4",
     profit: "-186.9",
-    num. of employees: "519.0",
+    num_of_employees: "519.0",
     sector: "Energy",
     city: "Denver",
     state: "CO",
@@ -12778,7 +12778,7 @@ var array = [
     CEO: "Paul M. Rady",
     Website: "https://www.anteroresources.com",
     Ticker: "AR",
-    Market Cap: "9608"
+    market_cap: "9608"
   },
   {
     company: "Teledyne Technologies",
@@ -12786,7 +12786,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4614.3",
     profit: "445.3",
-    num. of employees: "14500.0",
+    num_of_employees: "14500.0",
     sector: "Aerospace & Defense",
     city: "Thousand Oaks",
     state: "CA",
@@ -12798,7 +12798,7 @@ var array = [
     CEO: "Robert Mehrabian",
     Website: "https://www.teledyne.com",
     Ticker: "TDY",
-    Market Cap: "22102.9"
+    market_cap: "22102.9"
   },
   {
     company: "Snap-on",
@@ -12806,7 +12806,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4601.7",
     profit: "820.5",
-    num. of employees: "12800.0",
+    num_of_employees: "12800.0",
     sector: "Industrials",
     city: "Kenosha",
     state: "WI",
@@ -12818,7 +12818,7 @@ var array = [
     CEO: "Nicholas T. Pinchuk",
     Website: "https://www.snapon.com",
     Ticker: "SNA",
-    Market Cap: "10976.1"
+    market_cap: "10976.1"
   },
   {
     company: "Rent-A-Center",
@@ -12826,7 +12826,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4583.5",
     profit: "134.9",
-    num. of employees: "14290.0",
+    num_of_employees: "14290.0",
     sector: "Retailing",
     city: "Plano",
     state: "TX",
@@ -12838,7 +12838,7 @@ var array = [
     CEO: "Mitchell E. Fadel",
     Website: "https://www.rentacenter.com",
     Ticker: "RCII",
-    Market Cap: "1486.9"
+    market_cap: "1486.9"
   },
   {
     company: "Covetrus",
@@ -12846,7 +12846,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4575.0",
     profit: "-54.0",
-    num. of employees: "4873.0",
+    num_of_employees: "4873.0",
     sector: "Health Care",
     city: "Portland",
     state: "ME",
@@ -12858,7 +12858,7 @@ var array = [
     CEO: "Benjamin Wolin",
     Website: "https://https://covetrus.com/",
     Ticker: "CVET",
-    Market Cap: "2319.3"
+    market_cap: "2319.3"
   },
   {
     company: "Crestwood Equity Partners",
@@ -12866,7 +12866,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4569.0",
     profit: "-78.5",
-    num. of employees: "645.0",
+    num_of_employees: "645.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -12878,7 +12878,7 @@ var array = [
     CEO: "Robert G Phillips",
     Website: "https://www.crestwoodlp.com",
     Ticker: "CEQP",
-    Market Cap: "2931.5"
+    market_cap: "2931.5"
   },
   {
     company: "Louisiana-Pacific",
@@ -12886,7 +12886,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4553.0",
     profit: "1377.0",
-    num. of employees: "4800.0",
+    num_of_employees: "4800.0",
     sector: "Materials",
     city: "Nashville",
     state: "TN",
@@ -12898,7 +12898,7 @@ var array = [
     CEO: "W. Bradley Southern",
     Website: "https://www.lpcorp.com",
     Ticker: "LPX",
-    Market Cap: "4071"
+    market_cap: "4071"
   },
   {
     company: "Urban Outfitters",
@@ -12906,7 +12906,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4548.8",
     profit: "310.6",
-    num. of employees: "16330.0",
+    num_of_employees: "16330.0",
     sector: "Retailing",
     city: "Philadelphia",
     state: "PA",
@@ -12918,7 +12918,7 @@ var array = [
     CEO: "Richard A. Hayne",
     Website: "https://www.urbn.com",
     Ticker: "URBN",
-    Market Cap: "2421.4"
+    market_cap: "2421.4"
   },
   {
     company: "Penn Mutual Life Insurance",
@@ -12926,7 +12926,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4545.6",
     profit: "522.9",
-    num. of employees: "3194.0",
+    num_of_employees: "3194.0",
     sector: "Financials",
     city: "Horsham",
     state: "PA",
@@ -12938,7 +12938,7 @@ var array = [
     CEO: "David M. O&#039;Malley",
     Website: "https://www.pennmutual.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Amerco",
@@ -12946,7 +12946,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4542.0",
     profit: "610.9",
-    num. of employees: "22052.0",
+    num_of_employees: "22052.0",
     sector: "Transportation",
     city: "Reno",
     state: "NV",
@@ -12958,7 +12958,7 @@ var array = [
     CEO: "Edward J. Shoen",
     Website: "https://www.amerco.com",
     Ticker: "UHAL",
-    Market Cap: "11704.7"
+    market_cap: "11704.7"
   },
   {
     company: "TriNet Group",
@@ -12966,7 +12966,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4540.0",
     profit: "338.0",
-    num. of employees: "2800.0",
+    num_of_employees: "2800.0",
     sector: "Business Services",
     city: "Dublin",
     state: "CA",
@@ -12978,7 +12978,7 @@ var array = [
     CEO: "Burton M. Goldfield",
     Website: "https://www.trinet.com",
     Ticker: "TNET",
-    Market Cap: "6482.5"
+    market_cap: "6482.5"
   },
   {
     company: "Sentry Insurance Group",
@@ -12986,7 +12986,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4526.2",
     profit: "739.9",
-    num. of employees: "4064.0",
+    num_of_employees: "4064.0",
     sector: "Financials",
     city: "Stevens Point",
     state: "WI",
@@ -12998,7 +12998,7 @@ var array = [
     CEO: "Peter G. McPartland",
     Website: "https://www.sentry.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Illumina",
@@ -13006,7 +13006,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4526.0",
     profit: "762.0",
-    num. of employees: "10775.0",
+    num_of_employees: "10775.0",
     sector: "Technology",
     city: "San Diego",
     state: "CA",
@@ -13018,7 +13018,7 @@ var array = [
     CEO: "Francis A. deSouza",
     Website: "https://www.illumina.com",
     Ticker: "ILMN",
-    Market Cap: "54855.8"
+    market_cap: "54855.8"
   },
   {
     company: "Iron Mountain",
@@ -13026,7 +13026,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4491.5",
     profit: "450.2",
-    num. of employees: "25000.0",
+    num_of_employees: "25000.0",
     sector: "Business Services",
     city: "Boston",
     state: "MA",
@@ -13038,7 +13038,7 @@ var array = [
     CEO: "William L. Meaney",
     Website: "https://www.ironmountain.com",
     Ticker: "IRM",
-    Market Cap: "16059.5"
+    market_cap: "16059.5"
   },
   {
     company: "LCI Industries",
@@ -13046,7 +13046,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4472.7",
     profit: "287.7",
-    num. of employees: "13900.0",
+    num_of_employees: "13900.0",
     sector: "Motor Vehicles & Parts",
     city: "Elkhart",
     state: "IN",
@@ -13058,7 +13058,7 @@ var array = [
     CEO: "Jason D. Lippert",
     Website: "https://www.lci1.com",
     Ticker: "LCII",
-    Market Cap: "2624.5"
+    market_cap: "2624.5"
   },
   {
     company: "Marvell Technology",
@@ -13066,7 +13066,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4462.4",
     profit: "-421.0",
-    num. of employees: "6712.0",
+    num_of_employees: "6712.0",
     sector: "Technology",
     city: "Wilmington",
     state: "DE",
@@ -13078,7 +13078,7 @@ var array = [
     CEO: "Matthew J. Murphy",
     Website: "https://www.marvell.com",
     Ticker: "MRVL",
-    Market Cap: "60795.7"
+    market_cap: "60795.7"
   },
   {
     company: "PennyMac Financial Services",
@@ -13086,7 +13086,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4450.2",
     profit: "1003.5",
-    num. of employees: "7208.0",
+    num_of_employees: "7208.0",
     sector: "Financials",
     city: "Westlake Village",
     state: "CA",
@@ -13098,7 +13098,7 @@ var array = [
     CEO: "David Spector",
     Website: "https://ir.pennymacfinancial.com",
     Ticker: "PFSI",
-    Market Cap: "2368"
+    market_cap: "2368"
   },
   {
     company: "Digital Realty Trust",
@@ -13106,7 +13106,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4427.9",
     profit: "1709.3",
-    num. of employees: "3030.0",
+    num_of_employees: "3030.0",
     sector: "Financials",
     city: "Austin",
     state: "TX",
@@ -13118,7 +13118,7 @@ var array = [
     CEO: "A. William Stein",
     Website: "https://www.digitalrealty.com",
     Ticker: "DLR",
-    Market Cap: "40337.7"
+    market_cap: "40337.7"
   },
   {
     company: "TreeHouse Foods",
@@ -13126,7 +13126,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4405.5",
     profit: "-12.5",
-    num. of employees: "10000.0",
+    num_of_employees: "10000.0",
     sector: "Food, Beverages & Tobacco",
     city: "Oak Brook",
     state: "IL",
@@ -13138,7 +13138,7 @@ var array = [
     CEO: "Steven T. Oakland",
     Website: "https://www.treehousefoods.com",
     Ticker: "THS",
-    Market Cap: "1800"
+    market_cap: "1800"
   },
   {
     company: "Ralph Lauren",
@@ -13146,7 +13146,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4400.8",
     profit: "-121.1",
-    num. of employees: "16200.0",
+    num_of_employees: "16200.0",
     sector: "Apparel",
     city: "New York",
     state: "NY",
@@ -13158,7 +13158,7 @@ var array = [
     CEO: "Patrice Louvet",
     Website: "https://www.ralphlauren.com",
     Ticker: "RL",
-    Market Cap: "8073.2"
+    market_cap: "8073.2"
   },
   {
     company: "Mattress Firm Group",
@@ -13166,7 +13166,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4392.9",
     profit: "-165.1",
-    num. of employees: "8900.0",
+    num_of_employees: "8900.0",
     sector: "Retailing",
     city: "Houston",
     state: "TX",
@@ -13178,7 +13178,7 @@ var array = [
     CEO: "John W. Eck",
     Website: "https://www.mattressfirm.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "American National Group",
@@ -13186,7 +13186,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4391.8",
     profit: "699.3",
-    num. of employees: "4545.0",
+    num_of_employees: "4545.0",
     sector: "Financials",
     city: "Galveston",
     state: "TX",
@@ -13198,7 +13198,7 @@ var array = [
     CEO: "James E. Pozzi",
     Website: "https://www.americannational.com",
     Ticker: "",
-    Market Cap: "5084.1"
+    market_cap: "5084.1"
   },
   {
     company: "Autodesk",
@@ -13206,7 +13206,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4386.4",
     profit: "497.0",
-    num. of employees: "12600.0",
+    num_of_employees: "12600.0",
     sector: "Technology",
     city: "San Rafael",
     state: "CA",
@@ -13218,7 +13218,7 @@ var array = [
     CEO: "Andrew Anagnost",
     Website: "https://www.autodesk.com",
     Ticker: "ADSK",
-    Market Cap: "46580"
+    market_cap: "46580"
   },
   {
     company: "Domino's Pizza",
@@ -13226,7 +13226,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4357.4",
     profit: "510.5",
-    num. of employees: "10450.0",
+    num_of_employees: "10450.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Ann Arbor",
     state: "MI",
@@ -13238,7 +13238,7 @@ var array = [
     CEO: "Russell J. Weiner",
     Website: "https://www.dominos.com",
     Ticker: "DPZ",
-    Market Cap: "14665.9"
+    market_cap: "14665.9"
   },
   {
     company: "ASGN",
@@ -13246,7 +13246,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4333.8",
     profit: "409.9",
-    num. of employees: "3900.0",
+    num_of_employees: "3900.0",
     sector: "Business Services",
     city: "Glen Allen",
     state: "VA",
@@ -13258,7 +13258,7 @@ var array = [
     CEO: "Theodore S. Hanson",
     Website: "https://www.asgn.com",
     Ticker: "ASGN",
-    Market Cap: "6022.2"
+    market_cap: "6022.2"
   },
   {
     company: "Flowers Foods",
@@ -13266,7 +13266,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4330.8",
     profit: "206.2",
-    num. of employees: "8900.0",
+    num_of_employees: "8900.0",
     sector: "Food, Beverages & Tobacco",
     city: "Thomasville",
     state: "GA",
@@ -13278,7 +13278,7 @@ var array = [
     CEO: "A. Ryals McMullian",
     Website: "https://www.flowersfoods.com",
     Ticker: "FLO",
-    Market Cap: "5438.6"
+    market_cap: "5438.6"
   },
   {
     company: "BlueLinx Holdings",
@@ -13286,7 +13286,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4277.2",
     profit: "296.1",
-    num. of employees: "2045.0",
+    num_of_employees: "2045.0",
     sector: "Wholesalers",
     city: "Marietta",
     state: "GA",
@@ -13298,7 +13298,7 @@ var array = [
     CEO: "Dwight A.K. Gibson",
     Website: "https://www.bluelinxco.com",
     Ticker: "BXC",
-    Market Cap: "699.5"
+    market_cap: "699.5"
   },
   {
     company: "Palo Alto Networks",
@@ -13306,7 +13306,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4256.1",
     profit: "-498.9",
-    num. of employees: "10473.0",
+    num_of_employees: "10473.0",
     sector: "Technology",
     city: "Santa Clara",
     state: "CA",
@@ -13318,7 +13318,7 @@ var array = [
     CEO: "Nikesh Arora",
     Website: "https://www.paloaltonetworks.com",
     Ticker: "PANW",
-    Market Cap: "61307.5"
+    market_cap: "61307.5"
   },
   {
     company: "Maximus",
@@ -13326,7 +13326,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4254.5",
     profit: "291.2",
-    num. of employees: "35800.0",
+    num_of_employees: "35800.0",
     sector: "Technology",
     city: "Reston",
     state: "VA",
@@ -13338,7 +13338,7 @@ var array = [
     CEO: "Bruce L. Caswell",
     Website: "https://www.maximus.com",
     Ticker: "MMS",
-    Market Cap: "4641.1"
+    market_cap: "4641.1"
   },
   {
     company: "Dentsply Sirona",
@@ -13346,7 +13346,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4251.0",
     profit: "421.0",
-    num. of employees: "15000.0",
+    num_of_employees: "15000.0",
     sector: "Health Care",
     city: "Charlotte",
     state: "NC",
@@ -13358,7 +13358,7 @@ var array = [
     CEO: "Simon D. Campion",
     Website: "https://www.dentsplysirona.com",
     Ticker: "XRAY",
-    Market Cap: "10708"
+    market_cap: "10708"
   },
   {
     company: "Hub Group",
@@ -13366,7 +13366,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4232.4",
     profit: "171.5",
-    num. of employees: "4700.0",
+    num_of_employees: "4700.0",
     sector: "Transportation",
     city: "Oak Brook",
     state: "IL",
@@ -13378,7 +13378,7 @@ var array = [
     CEO: "David P. Yeager",
     Website: "https://www.hubgroup.com",
     Ticker: "HUBG",
-    Market Cap: "2678.5"
+    market_cap: "2678.5"
   },
   {
     company: "Bread Financial Holdings",
@@ -13386,7 +13386,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4230.0",
     profit: "801.0",
-    num. of employees: "6000.0",
+    num_of_employees: "6000.0",
     sector: "Business Services",
     city: "Columbus",
     state: "OH",
@@ -13398,7 +13398,7 @@ var array = [
     CEO: "Ralph J. Andretta",
     Website: "https://www.breadfinancial.com",
     Ticker: "BFH",
-    Market Cap: "2804.6"
+    market_cap: "2804.6"
   },
   {
     company: "Voya Financial",
@@ -13406,7 +13406,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4230.0",
     profit: "2126.0",
-    num. of employees: "5970.0",
+    num_of_employees: "5970.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -13418,7 +13418,7 @@ var array = [
     CEO: "Rodney O. Martin Jr.",
     Website: "https://www.voya.com",
     Ticker: "VOYA",
-    Market Cap: "7042.2"
+    market_cap: "7042.2"
   },
   {
     company: "Weis Markets",
@@ -13426,7 +13426,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4224.4",
     profit: "108.8",
-    num. of employees: "24000.0",
+    num_of_employees: "24000.0",
     sector: "Food & Drug Stores",
     city: "Sunbury",
     state: "PA",
@@ -13438,7 +13438,7 @@ var array = [
     CEO: "Jonathan H. Weis",
     Website: "https://www.weismarkets.com",
     Ticker: "WMK",
-    Market Cap: "1921.1"
+    market_cap: "1921.1"
   },
   {
     company: "Century Communities",
@@ -13446,7 +13446,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4216.3",
     profit: "498.5",
-    num. of employees: "1600.0",
+    num_of_employees: "1600.0",
     sector: "Engineering & Construction",
     city: "Greenwood Village",
     state: "CO",
@@ -13458,7 +13458,7 @@ var array = [
     CEO: "Dale Francescon/Robert Francescon",
     Website: "https://www.centurycommunities.com",
     Ticker: "CCS",
-    Market Cap: "1388"
+    market_cap: "1388"
   },
   {
     company: "Synopsys",
@@ -13466,7 +13466,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4204.2",
     profit: "757.5",
-    num. of employees: "16361.0",
+    num_of_employees: "16361.0",
     sector: "Technology",
     city: "Mountain View",
     state: "CA",
@@ -13478,7 +13478,7 @@ var array = [
     CEO: "Aart J. de Geus",
     Website: "https://www.synopsys.com",
     Ticker: "SNPS",
-    Market Cap: "51023.2"
+    market_cap: "51023.2"
   },
   {
     company: "Brink's",
@@ -13486,7 +13486,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4200.2",
     profit: "105.2",
-    num. of employees: "73350.0",
+    num_of_employees: "73350.0",
     sector: "Business Services",
     city: "Richmond",
     state: "VA",
@@ -13498,7 +13498,7 @@ var array = [
     CEO: "Mark Eubanks",
     Website: "https://www.brinks.com",
     Ticker: "BCO",
-    Market Cap: "3234.4"
+    market_cap: "3234.4"
   },
   {
     company: "Lennox International",
@@ -13506,7 +13506,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4194.1",
     profit: "464.0",
-    num. of employees: "11000.0",
+    num_of_employees: "11000.0",
     sector: "Industrials",
     city: "Richardson",
     state: "TX",
@@ -13518,7 +13518,7 @@ var array = [
     CEO: "Alok Maskara",
     Website: "https://www.lennoxinternational.com",
     Ticker: "LII",
-    Market Cap: "9447.2"
+    market_cap: "9447.2"
   },
   {
     company: "Service Corp. International",
@@ -13526,7 +13526,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4143.1",
     profit: "802.9",
-    num. of employees: "20840.0",
+    num_of_employees: "20840.0",
     sector: "Business Services",
     city: "Houston",
     state: "TX",
@@ -13538,7 +13538,7 @@ var array = [
     CEO: "Thomas L. Ryan",
     Website: "https://www.sci-corp.com",
     Ticker: "SCI",
-    Market Cap: "10581.3"
+    market_cap: "10581.3"
   },
   {
     company: "Conduent",
@@ -13546,7 +13546,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4140.0",
     profit: "-28.0",
-    num. of employees: "60000.0",
+    num_of_employees: "60000.0",
     sector: "Business Services",
     city: "Florham Park",
     state: "NJ",
@@ -13558,7 +13558,7 @@ var array = [
     CEO: "Clifford A. Skelton",
     Website: "https://www.conduent.com",
     Ticker: "CNDT",
-    Market Cap: "1111.6"
+    market_cap: "1111.6"
   },
   {
     company: "Timken",
@@ -13566,7 +13566,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4132.9",
     profit: "369.1",
-    num. of employees: "18029.0",
+    num_of_employees: "18029.0",
     sector: "Industrials",
     city: "North Canton",
     state: "OH",
@@ -13578,7 +13578,7 @@ var array = [
     CEO: "Richard G. Kyle",
     Website: "https://www.timken.com",
     Ticker: "TKR",
-    Market Cap: "4539.6"
+    market_cap: "4539.6"
   },
   {
     company: "Domtar",
@@ -13586,7 +13586,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4132.0",
     profit: "-27.0",
-    num. of employees: "6100.0",
+    num_of_employees: "6100.0",
     sector: "Materials",
     city: "Fort Mill",
     state: "SC",
@@ -13598,7 +13598,7 @@ var array = [
     CEO: "John D. Williams",
     Website: "https://www.domtar.com",
     Ticker: "",
-    Market Cap: "1856.2"
+    market_cap: "1856.2"
   },
   {
     company: "Bloomin' Brands",
@@ -13606,7 +13606,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4122.4",
     profit: "215.6",
-    num. of employees: "82000.0",
+    num_of_employees: "82000.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Tampa",
     state: "FL",
@@ -13618,7 +13618,7 @@ var array = [
     CEO: "David J. Deno",
     Website: "https://www.bloominbrands.com",
     Ticker: "BLMN",
-    Market Cap: "1966.6"
+    market_cap: "1966.6"
   },
   {
     company: "CNO Financial Group",
@@ -13626,7 +13626,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4122.2",
     profit: "441.0",
-    num. of employees: "3350.0",
+    num_of_employees: "3350.0",
     sector: "Financials",
     city: "Carmel",
     state: "IN",
@@ -13638,7 +13638,7 @@ var array = [
     CEO: "Gary C. Bhojwani",
     Website: "https://www.cnoinc.com",
     Ticker: "CNO",
-    Market Cap: "2945.7"
+    market_cap: "2945.7"
   },
   {
     company: "Snap",
@@ -13646,7 +13646,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4117.0",
     profit: "-488.0",
-    num. of employees: "5661.0",
+    num_of_employees: "5661.0",
     sector: "Technology",
     city: "Santa Monica",
     state: "CA",
@@ -13658,7 +13658,7 @@ var array = [
     CEO: "Evan Spiegel",
     Website: "https://www.snap.com",
     Ticker: "SNAP",
-    Market Cap: "58458.4"
+    market_cap: "58458.4"
   },
   {
     company: "Zoom Video Communications",
@@ -13666,7 +13666,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4099.9",
     profit: "1375.6",
-    num. of employees: "6787.0",
+    num_of_employees: "6787.0",
     sector: "Technology",
     city: "San Jose",
     state: "CA",
@@ -13678,7 +13678,7 @@ var array = [
     CEO: "Eric Yuan",
     Website: "https://www.zoom.us",
     Ticker: "ZM",
-    Market Cap: "22826"
+    market_cap: "22826"
   },
   {
     company: "Patrick Industries",
@@ -13686,7 +13686,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4078.1",
     profit: "224.9",
-    num. of employees: "11000.0",
+    num_of_employees: "11000.0",
     sector: "Materials",
     city: "Elkhart",
     state: "IN",
@@ -13698,7 +13698,7 @@ var array = [
     CEO: "Andy L. Nemeth",
     Website: "https://www.patrickind.com",
     Ticker: "PATK",
-    Market Cap: "1408.2"
+    market_cap: "1408.2"
   },
   {
     company: "Paychex",
@@ -13706,7 +13706,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4056.8",
     profit: "1097.5",
-    num. of employees: "15000.0",
+    num_of_employees: "15000.0",
     sector: "Business Services",
     city: "Rochester",
     state: "NY",
@@ -13718,7 +13718,7 @@ var array = [
     CEO: "John B. Gibson",
     Website: "https://www.paychex.com",
     Ticker: "PAYX",
-    Market Cap: "49268"
+    market_cap: "49268"
   },
   {
     company: "Atlas Air Worldwide Holdings",
@@ -13726,7 +13726,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4030.8",
     profit: "493.3",
-    num. of employees: "4056.0",
+    num_of_employees: "4056.0",
     sector: "Transportation",
     city: "Purchase",
     state: "NY",
@@ -13738,7 +13738,7 @@ var array = [
     CEO: "John W. Dietrich",
     Website: "https://www.atlasairworldwide.com",
     Ticker: "AAWW",
-    Market Cap: "2523.4"
+    market_cap: "2523.4"
   },
   {
     company: "Bright Health Group",
@@ -13746,7 +13746,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4029.4",
     profit: "-1184.9",
-    num. of employees: "3203.0",
+    num_of_employees: "3203.0",
     sector: "Health Care",
     city: "Minneapolis",
     state: "MN",
@@ -13758,7 +13758,7 @@ var array = [
     CEO: "G. Mike Mikan",
     Website: "https://www.brighthealthcare.com",
     Ticker: "BHG",
-    Market Cap: "1213.5"
+    market_cap: "1213.5"
   },
   {
     company: "Peloton Interactive",
@@ -13766,7 +13766,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4021.8",
     profit: "-189.0",
-    num. of employees: "8662.0",
+    num_of_employees: "8662.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "New York",
     state: "NY",
@@ -13778,7 +13778,7 @@ var array = [
     CEO: "Barry McCarthy",
     Website: "https://www.onepeloton.com",
     Ticker: "PTON",
-    Market Cap: "8760.9"
+    market_cap: "8760.9"
   },
   {
     company: "Country Financial",
@@ -13786,7 +13786,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4016.2",
     profit: "419.2",
-    num. of employees: "3149.0",
+    num_of_employees: "3149.0",
     sector: "Financials",
     city: "Bloomington",
     state: "IL",
@@ -13798,7 +13798,7 @@ var array = [
     CEO: "Jim Jacobs",
     Website: "https://www.countryfinancial.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Qorvo",
@@ -13806,7 +13806,7 @@ var array = [
     rank_change: "0.0",
     revenue: "4015.3",
     profit: "733.6",
-    num. of employees: "8750.0",
+    num_of_employees: "8750.0",
     sector: "Technology",
     city: "Greensboro",
     state: "NC",
@@ -13818,7 +13818,7 @@ var array = [
     CEO: "Robert A. Bruggeworth",
     Website: "https://www.qorvo.com",
     Ticker: "QRVO",
-    Market Cap: "13456.4"
+    market_cap: "13456.4"
   },
   {
     company: "Catalent",
@@ -13826,7 +13826,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3998.0",
     profit: "585.0",
-    num. of employees: "17300.0",
+    num_of_employees: "17300.0",
     sector: "Health Care",
     city: "Somerset",
     state: "NJ",
@@ -13838,7 +13838,7 @@ var array = [
     CEO: "Alessandro Maselli",
     Website: "https://www.catalent.com",
     Ticker: "CTLT",
-    Market Cap: "13377"
+    market_cap: "13377"
   },
   {
     company: "Mercury General",
@@ -13846,7 +13846,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3993.4",
     profit: "247.9",
-    num. of employees: "4300.0",
+    num_of_employees: "4300.0",
     sector: "Financials",
     city: "Los Angeles",
     state: "CA",
@@ -13858,7 +13858,7 @@ var array = [
     CEO: "Gabriel Tirador",
     Website: "https://www.mercuryinsurance.com",
     Ticker: "MCY",
-    Market Cap: "3045.4"
+    market_cap: "3045.4"
   },
   {
     company: "AMN Healthcare Services",
@@ -13866,7 +13866,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3984.2",
     profit: "327.4",
-    num. of employees: "3800.0",
+    num_of_employees: "3800.0",
     sector: "Health Care",
     city: "Dallas",
     state: "TX",
@@ -13878,7 +13878,7 @@ var array = [
     CEO: "Susan Salka",
     Website: "https://www.amnhealthcare.com",
     Ticker: "AMN",
-    Market Cap: "4867"
+    market_cap: "4867"
   },
   {
     company: "Tri Pointe Homes",
@@ -13886,7 +13886,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3982.2",
     profit: "469.3",
-    num. of employees: "1390.0",
+    num_of_employees: "1390.0",
     sector: "Engineering & Construction",
     city: "Incline Village",
     state: "NV",
@@ -13898,7 +13898,7 @@ var array = [
     CEO: "Douglas F. Bauer",
     Website: "https://www.tripointehomes.com",
     Ticker: "TPH",
-    Market Cap: "2160.1"
+    market_cap: "2160.1"
   },
   {
     company: "ArcBest",
@@ -13906,7 +13906,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3980.1",
     profit: "213.5",
-    num. of employees: "14000.0",
+    num_of_employees: "14000.0",
     sector: "Transportation",
     city: "Fort Smith",
     state: "AR",
@@ -13918,7 +13918,7 @@ var array = [
     CEO: "Judy R. McReynolds",
     Website: "https://www.arcb.com",
     Ticker: "ARCB",
-    Market Cap: "1979.7"
+    market_cap: "1979.7"
   },
   {
     company: "Toro",
@@ -13926,7 +13926,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3959.6",
     profit: "409.9",
-    num. of employees: "10982.0",
+    num_of_employees: "10982.0",
     sector: "Industrials",
     city: "Bloomington",
     state: "MN",
@@ -13938,7 +13938,7 @@ var array = [
     CEO: "Richard M. Olson",
     Website: "https://www.thetorocompany.com",
     Ticker: "TTC",
-    Market Cap: "8936.9"
+    market_cap: "8936.9"
   },
   {
     company: "Spirit AeroSystems Holdings",
@@ -13946,7 +13946,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3953.0",
     profit: "-540.8",
-    num. of employees: "16100.0",
+    num_of_employees: "16100.0",
     sector: "Aerospace & Defense",
     city: "Wichita",
     state: "KS",
@@ -13958,7 +13958,7 @@ var array = [
     CEO: "Thomas C. Gentile III",
     Website: "https://www.spiritaero.com",
     Ticker: "SPR",
-    Market Cap: "5130.6"
+    market_cap: "5130.6"
   },
   {
     company: "Align Technology",
@@ -13966,7 +13966,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3952.6",
     profit: "772.0",
-    num. of employees: "22540.0",
+    num_of_employees: "22540.0",
     sector: "Health Care",
     city: "Tempe",
     state: "AZ",
@@ -13978,7 +13978,7 @@ var array = [
     CEO: "Joseph M. Hogan",
     Website: "https://www.aligntech.com",
     Ticker: "ALGN",
-    Market Cap: "34354.8"
+    market_cap: "34354.8"
   },
   {
     company: "loanDepot",
@@ -13986,7 +13986,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3943.2",
     profit: "113.5",
-    num. of employees: "11307.0",
+    num_of_employees: "11307.0",
     sector: "Financials",
     city: "Foothill Ranch",
     state: "CA",
@@ -13998,7 +13998,7 @@ var array = [
     CEO: "Frank Martell",
     Website: "https://www.loandepot.com",
     Ticker: "LDI",
-    Market Cap: "1290.3"
+    market_cap: "1290.3"
   },
   {
     company: "APi Group",
@@ -14006,7 +14006,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3940.0",
     profit: "47.0",
-    num. of employees: "13300.0",
+    num_of_employees: "13300.0",
     sector: "Engineering & Construction",
     city: "New Brighton",
     state: "MN",
@@ -14018,7 +14018,7 @@ var array = [
     CEO: "Russell A. Becker",
     Website: "https://www.apigroupcorp.com",
     Ticker: "APG",
-    Market Cap: "4891.1"
+    market_cap: "4891.1"
   },
   {
     company: "American Water Works",
@@ -14026,7 +14026,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3930.0",
     profit: "1263.0",
-    num. of employees: "6400.0",
+    num_of_employees: "6400.0",
     sector: "Energy",
     city: "Camden",
     state: "NJ",
@@ -14038,7 +14038,7 @@ var array = [
     CEO: "M. Susan Hardwick",
     Website: "https://www.amwater.com",
     Ticker: "AWK",
-    Market Cap: "30085.5"
+    market_cap: "30085.5"
   },
   {
     company: "Matson",
@@ -14046,7 +14046,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3925.3",
     profit: "927.4",
-    num. of employees: "4259.0",
+    num_of_employees: "4259.0",
     sector: "Transportation",
     city: "Honolulu",
     state: "HI",
@@ -14058,7 +14058,7 @@ var array = [
     CEO: "Matthew J. Cox",
     Website: "https://www.matson.com",
     Ticker: "MATX",
-    Market Cap: "2740"
+    market_cap: "2740"
   },
   {
     company: "Diebold Nixdorf",
@@ -14066,7 +14066,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3905.2",
     profit: "-78.8",
-    num. of employees: "22000.0",
+    num_of_employees: "22000.0",
     sector: "Technology",
     city: "Hudson",
     state: "OH",
@@ -14078,7 +14078,7 @@ var array = [
     CEO: "Octavio Marquez",
     Website: "https://www.dieboldnixdorf.com",
     Ticker: "DBD",
-    Market Cap: "531.2"
+    market_cap: "531.2"
   },
   {
     company: "Marriott Vacations Worldwide",
@@ -14086,7 +14086,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3890.0",
     profit: "49.0",
-    num. of employees: "20300.0",
+    num_of_employees: "20300.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Orlando",
     state: "FL",
@@ -14098,7 +14098,7 @@ var array = [
     CEO: "Stephen P. Weisz",
     Website: "https://www.marriottvacationsworldwide.com",
     Ticker: "VAC",
-    Market Cap: "6620"
+    market_cap: "6620"
   },
   {
     company: "Terex",
@@ -14106,7 +14106,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3886.8",
     profit: "220.9",
-    num. of employees: "8600.0",
+    num_of_employees: "8600.0",
     sector: "Industrials",
     city: "Norwalk",
     state: "CT",
@@ -14118,7 +14118,7 @@ var array = [
     CEO: "John L. Garrison Jr.",
     Website: "https://www.terex.com",
     Ticker: "TEX",
-    Market Cap: "2485.5"
+    market_cap: "2485.5"
   },
   {
     company: "Sally Beauty Holdings",
@@ -14126,7 +14126,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3875.0",
     profit: "239.9",
-    num. of employees: "29000.0",
+    num_of_employees: "29000.0",
     sector: "Retailing",
     city: "Denton",
     state: "TX",
@@ -14138,7 +14138,7 @@ var array = [
     CEO: "Denise A. Paulonis",
     Website: "https://www.sallybeautyholdings.com",
     Ticker: "SBH",
-    Market Cap: "1720.5"
+    market_cap: "1720.5"
   },
   {
     company: "Enovis",
@@ -14146,7 +14146,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3854.3",
     profit: "71.7",
-    num. of employees: "16200.0",
+    num_of_employees: "16200.0",
     sector: "Industrials",
     city: "Wilmington",
     state: "DE",
@@ -14158,7 +14158,7 @@ var array = [
     CEO: "Matthew L. Trerotola",
     Website: "https://www.enovis.com",
     Ticker: "ENOV",
-    Market Cap: "6419.3"
+    market_cap: "6419.3"
   },
   {
     company: "IAC",
@@ -14166,7 +14166,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3845.1",
     profit: "597.5",
-    num. of employees: "13200.0",
+    num_of_employees: "13200.0",
     sector: "Technology",
     city: "New York",
     state: "NY",
@@ -14178,7 +14178,7 @@ var array = [
     CEO: "Joseph M. Levin",
     Website: "https://www.iac.com",
     Ticker: "IAC",
-    Market Cap: "9001.4"
+    market_cap: "9001.4"
   },
   {
     company: "Meritor",
@@ -14186,7 +14186,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3833.0",
     profit: "199.0",
-    num. of employees: "9600.0",
+    num_of_employees: "9600.0",
     sector: "Motor Vehicles & Parts",
     city: "Troy",
     state: "MI",
@@ -14198,7 +14198,7 @@ var array = [
     CEO: "Chris Villavarayan",
     Website: "https://www.meritor.com",
     Ticker: "",
-    Market Cap: "2519.4"
+    market_cap: "2519.4"
   },
   {
     company: "Ventas",
@@ -14206,7 +14206,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3828.0",
     profit: "49.0",
-    num. of employees: "434.0",
+    num_of_employees: "434.0",
     sector: "Financials",
     city: "Chicago",
     state: "IL",
@@ -14218,7 +14218,7 @@ var array = [
     CEO: "Debra A. Cafaro",
     Website: "https://www.ventasreit.com",
     Ticker: "VTR",
-    Market Cap: "24676.2"
+    market_cap: "24676.2"
   },
   {
     company: "GoDaddy",
@@ -14226,7 +14226,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3815.7",
     profit: "242.3",
-    num. of employees: "6611.0",
+    num_of_employees: "6611.0",
     sector: "Technology",
     city: "Tempe",
     state: "AZ",
@@ -14238,7 +14238,7 @@ var array = [
     CEO: "Aman Bhutani",
     Website: "https://www.godaddy.com",
     Ticker: "GDDY",
-    Market Cap: "14018.7"
+    market_cap: "14018.7"
   },
   {
     company: "Regal Rexnord",
@@ -14246,7 +14246,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3810.3",
     profit: "209.9",
-    num. of employees: "30000.0",
+    num_of_employees: "30000.0",
     sector: "Industrials",
     city: "Beloit",
     state: "WI",
@@ -14258,7 +14258,7 @@ var array = [
     CEO: "Louis V. Pinkham",
     Website: "https://www.regalrexnord.com",
     Ticker: "RRX",
-    Market Cap: "10002.1"
+    market_cap: "10002.1"
   },
   {
     company: "Puget Energy",
@@ -14266,7 +14266,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3805.7",
     profit: "260.8",
-    num. of employees: "3185.0",
+    num_of_employees: "3185.0",
     sector: "Energy",
     city: "Bellevue",
     state: "WA",
@@ -14278,7 +14278,7 @@ var array = [
     CEO: "Mary E. Kipp",
     Website: "https://www.pugetenergy.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Clean Harbors",
@@ -14286,7 +14286,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3805.6",
     profit: "203.2",
-    num. of employees: "18300.0",
+    num_of_employees: "18300.0",
     sector: "Business Services",
     city: "Norwell",
     state: "MA",
@@ -14298,7 +14298,7 @@ var array = [
     CEO: "Alan S. McKim",
     Website: "https://www.cleanharbors.com",
     Ticker: "CLH",
-    Market Cap: "6073.8"
+    market_cap: "6073.8"
   },
   {
     company: "Pinnacle West Capital",
@@ -14306,7 +14306,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3803.8",
     profit: "618.7",
-    num. of employees: "5872.0",
+    num_of_employees: "5872.0",
     sector: "Energy",
     city: "Phoenix",
     state: "AZ",
@@ -14318,7 +14318,7 @@ var array = [
     CEO: "Jeffrey B Guldner",
     Website: "https://www.pinnaclewest.com",
     Ticker: "PNW",
-    Market Cap: "8820"
+    market_cap: "8820"
   },
   {
     company: "eXp World Holdings",
@@ -14326,7 +14326,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3771.2",
     profit: "81.2",
-    num. of employees: "1669.0",
+    num_of_employees: "1669.0",
     sector: "Financials",
     city: "Bellingham",
     state: "WA",
@@ -14338,7 +14338,7 @@ var array = [
     CEO: "Glenn Sanford",
     Website: "https://www.expworldholdings.com",
     Ticker: "EXPI",
-    Market Cap: "3149.3"
+    market_cap: "3149.3"
   },
   {
     company: "Mueller Industries",
@@ -14346,7 +14346,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3769.3",
     profit: "468.5",
-    num. of employees: "5337.0",
+    num_of_employees: "5337.0",
     sector: "Industrials",
     city: "Collierville",
     state: "TN",
@@ -14358,7 +14358,7 @@ var array = [
     CEO: "Gregory L. Christopher",
     Website: "https://www.muellerindustries.com",
     Ticker: "MLI",
-    Market Cap: "3100.4"
+    market_cap: "3100.4"
   },
   {
     company: "Wynn Resorts",
@@ -14366,7 +14366,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3763.7",
     profit: "-755.8",
-    num. of employees: "26950.0",
+    num_of_employees: "26950.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Las Vegas",
     state: "NV",
@@ -14378,7 +14378,7 @@ var array = [
     CEO: "Craig S. Billings",
     Website: "https://www.wynnresorts.com",
     Ticker: "WYNN",
-    Market Cap: "9243.3"
+    market_cap: "9243.3"
   },
   {
     company: "RH",
@@ -14386,7 +14386,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3758.8",
     profit: "688.5",
-    num. of employees: "6100.0",
+    num_of_employees: "6100.0",
     sector: "Retailing",
     city: "Corte Madera",
     state: "CA",
@@ -14398,7 +14398,7 @@ var array = [
     CEO: "Gary G. Friedman",
     Website: "https://www.rh.com",
     Ticker: "RH",
-    Market Cap: "7079"
+    market_cap: "7079"
   },
   {
     company: "EPAM Systems",
@@ -14406,7 +14406,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3758.1",
     profit: "481.7",
-    num. of employees: "58824.0",
+    num_of_employees: "58824.0",
     sector: "Technology",
     city: "Newtown",
     state: "PA",
@@ -14418,7 +14418,7 @@ var array = [
     CEO: "Arkadiy Dobkin",
     Website: "https://www.epam.com",
     Ticker: "EPAM",
-    Market Cap: "16870.7"
+    market_cap: "16870.7"
   },
   {
     company: "M/I Homes",
@@ -14426,7 +14426,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3745.9",
     profit: "396.9",
-    num. of employees: "1657.0",
+    num_of_employees: "1657.0",
     sector: "Engineering & Construction",
     city: "Columbus",
     state: "OH",
@@ -14438,7 +14438,7 @@ var array = [
     CEO: "Robert H. Schottenstein",
     Website: "https://www.mihomes.com",
     Ticker: "MHO",
-    Market Cap: "1262.2"
+    market_cap: "1262.2"
   },
   {
     company: "Generac Holdings",
@@ -14446,7 +14446,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3737.2",
     profit: "550.5",
-    num. of employees: "9248.0",
+    num_of_employees: "9248.0",
     sector: "Industrials",
     city: "Waukesha",
     state: "WI",
@@ -14458,7 +14458,7 @@ var array = [
     CEO: "Aaron Jagdfeld",
     Website: "https://www.generac.com",
     Ticker: "GNRC",
-    Market Cap: "9189"
+    market_cap: "9189"
   },
   {
     company: "Mettler-Toledo International",
@@ -14466,7 +14466,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3717.9",
     profit: "769.0",
-    num. of employees: "16700.0",
+    num_of_employees: "16700.0",
     sector: "Technology",
     city: "Columbus",
     state: "OH",
@@ -14478,7 +14478,7 @@ var array = [
     CEO: "Patrick Kaltenbach",
     Website: "https://www.mt.com",
     Ticker: "MTD",
-    Market Cap: "31220.3"
+    market_cap: "31220.3"
   },
   {
     company: "Abercrombie & Fitch",
@@ -14486,7 +14486,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3712.8",
     profit: "263.0",
-    num. of employees: "19250.0",
+    num_of_employees: "19250.0",
     sector: "Retailing",
     city: "New Albany",
     state: "OH",
@@ -14498,7 +14498,7 @@ var array = [
     CEO: "Fran Horowitz",
     Website: "https://www.abercrombie.com",
     Ticker: "ANF",
-    Market Cap: "1619.5"
+    market_cap: "1619.5"
   },
   {
     company: "Teradyne",
@@ -14506,7 +14506,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3702.9",
     profit: "1014.6",
-    num. of employees: "5900.0",
+    num_of_employees: "5900.0",
     sector: "Technology",
     city: "North Reading",
     state: "MA",
@@ -14518,7 +14518,7 @@ var array = [
     CEO: "Mark Jagiela",
     Website: "https://www.teradyne.com",
     Ticker: "TER",
-    Market Cap: "11211"
+    market_cap: "11211"
   },
   {
     company: "American Equity Investment Life Holding",
@@ -14526,7 +14526,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3689.5",
     profit: "474.0",
-    num. of employees: "850.0",
+    num_of_employees: "850.0",
     sector: "Financials",
     city: "West Des Moines",
     state: "IA",
@@ -14538,7 +14538,7 @@ var array = [
     CEO: "Anant Bhalla",
     Website: "https://www.american-equity.com",
     Ticker: "AEL",
-    Market Cap: "3869.2"
+    market_cap: "3869.2"
   },
   {
     company: "Southwest Gas Holdings",
@@ -14546,7 +14546,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3680.5",
     profit: "200.8",
-    num. of employees: "12720.0",
+    num_of_employees: "12720.0",
     sector: "Energy",
     city: "Las Vegas",
     state: "NV",
@@ -14558,7 +14558,7 @@ var array = [
     CEO: "Karen S. Haller",
     Website: "https://www.swgasholdings.com",
     Ticker: "SWX",
-    Market Cap: "5233.6"
+    market_cap: "5233.6"
   },
   {
     company: "Pitney Bowes",
@@ -14566,7 +14566,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3673.6",
     profit: "-1.4",
-    num. of employees: "11500.0",
+    num_of_employees: "11500.0",
     sector: "Technology",
     city: "Stamford",
     state: "CT",
@@ -14578,7 +14578,7 @@ var array = [
     CEO: "Marc B. Lautenbach",
     Website: "https://www.pitneybowes.com",
     Ticker: "PBI",
-    Market Cap: "900.1"
+    market_cap: "900.1"
   },
   {
     company: "Lamb Weston Holdings",
@@ -14586,7 +14586,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3670.9",
     profit: "317.8",
-    num. of employees: "7800.0",
+    num_of_employees: "7800.0",
     sector: "Food, Beverages & Tobacco",
     city: "Eagle",
     state: "ID",
@@ -14598,7 +14598,7 @@ var array = [
     CEO: "Thomas P. Werner",
     Website: "https://www.lambweston.com",
     Ticker: "LW",
-    Market Cap: "8699.1"
+    market_cap: "8699.1"
   },
   {
     company: "Alliant Energy",
@@ -14606,7 +14606,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3669.0",
     profit: "659.0",
-    num. of employees: "3313.0",
+    num_of_employees: "3313.0",
     sector: "Energy",
     city: "Madison",
     state: "WI",
@@ -14618,7 +14618,7 @@ var array = [
     CEO: "John O. Larsen",
     Website: "https://www.alliantenergy.com",
     Ticker: "LNT",
-    Market Cap: "15670.6"
+    market_cap: "15670.6"
   },
   {
     company: "Resolute Forest Products",
@@ -14626,7 +14626,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3664.0",
     profit: "307.0",
-    num. of employees: "6900.0",
+    num_of_employees: "6900.0",
     sector: "Materials",
     city: "Calhoun",
     state: "TN",
@@ -14638,7 +14638,7 @@ var array = [
     CEO: "Remi G. Lalonde",
     Website: "https://www.resolutefp.com",
     Ticker: "RFP",
-    Market Cap: "991.7"
+    market_cap: "991.7"
   },
   {
     company: "Parsons",
@@ -14646,7 +14646,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3660.8",
     profit: "64.1",
-    num. of employees: "15500.0",
+    num_of_employees: "15500.0",
     sector: "Aerospace & Defense",
     city: "Centreville",
     state: "VA",
@@ -14658,7 +14658,7 @@ var array = [
     CEO: "Carey A. Smith",
     Website: "https://www.parsons.com",
     Ticker: "PSN",
-    Market Cap: "4012"
+    market_cap: "4012"
   },
   {
     company: "Trimble",
@@ -14666,7 +14666,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3659.1",
     profit: "492.7",
-    num. of employees: "11931.0",
+    num_of_employees: "11931.0",
     sector: "Technology",
     city: "Sunnyvale",
     state: "CA",
@@ -14678,7 +14678,7 @@ var array = [
     CEO: "Robert G. Painter",
     Website: "https://www.trimble.com",
     Ticker: "TRMB",
-    Market Cap: "18122.7"
+    market_cap: "18122.7"
   },
   {
     company: "OGE Energy",
@@ -14686,7 +14686,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3653.7",
     profit: "737.3",
-    num. of employees: "2185.0",
+    num_of_employees: "2185.0",
     sector: "Energy",
     city: "Oklahoma City",
     state: "OK",
@@ -14698,7 +14698,7 @@ var array = [
     CEO: "Sean Trauschke",
     Website: "https://www.ogeenergy.com",
     Ticker: "OGE",
-    Market Cap: "8164.2"
+    market_cap: "8164.2"
   },
   {
     company: "Garrett Motion",
@@ -14706,7 +14706,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3633.0",
     profit: "",
-    num. of employees: "7600.0",
+    num_of_employees: "7600.0",
     sector: "Motor Vehicles & Parts",
     city: "Plymouth",
     state: "MI",
@@ -14718,7 +14718,7 @@ var array = [
     CEO: "Olivier Rabiller",
     Website: "https://www.garrettmotion.com",
     Ticker: "GTX",
-    Market Cap: "463.9"
+    market_cap: "463.9"
   },
   {
     company: "Winnebago Industries",
@@ -14726,7 +14726,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3629.8",
     profit: "281.9",
-    num. of employees: "6532.0",
+    num_of_employees: "6532.0",
     sector: "Motor Vehicles & Parts",
     city: "Eden Prairie",
     state: "MN",
@@ -14738,7 +14738,7 @@ var array = [
     CEO: "Michael Happe",
     Website: "https://www.winnebagoind.com",
     Ticker: "WGO",
-    Market Cap: "1826"
+    market_cap: "1826"
   },
   {
     company: "Ciena",
@@ -14746,7 +14746,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3620.7",
     profit: "500.2",
-    num. of employees: "7205.0",
+    num_of_employees: "7205.0",
     sector: "Technology",
     city: "Hanover",
     state: "MD",
@@ -14758,7 +14758,7 @@ var array = [
     CEO: "Gary B. Smith",
     Website: "https://www.ciena.com",
     Ticker: "CIEN",
-    Market Cap: "9223.4"
+    market_cap: "9223.4"
   },
   {
     company: "PriceSmart",
@@ -14766,7 +14766,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3619.9",
     profit: "98.0",
-    num. of employees: "10400.0",
+    num_of_employees: "10400.0",
     sector: "Retailing",
     city: "San Diego",
     state: "CA",
@@ -14778,7 +14778,7 @@ var array = [
     CEO: "Sherry S. Bahrambeygui",
     Website: "https://www.pricesmart.com",
     Ticker: "PSMT",
-    Market Cap: "2434.1"
+    market_cap: "2434.1"
   },
   {
     company: "Advantage Solutions",
@@ -14786,7 +14786,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3602.3",
     profit: "54.5",
-    num. of employees: "45000.0",
+    num_of_employees: "45000.0",
     sector: "Business Services",
     city: "Irvine",
     state: "CA",
@@ -14798,7 +14798,7 @@ var array = [
     CEO: "Jill Griffin",
     Website: "https://www.advantagesolutions.net",
     Ticker: "ADV",
-    Market Cap: "2029.6"
+    market_cap: "2029.6"
   },
   {
     company: "H&R Block",
@@ -14806,7 +14806,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3588.6",
     profit: "683.9",
-    num. of employees: "38000.0",
+    num_of_employees: "38000.0",
     sector: "Financials",
     city: "Kansas City",
     state: "MO",
@@ -14818,7 +14818,7 @@ var array = [
     CEO: "Jeffrey J. Jones II",
     Website: "https://www.hrblock.com",
     Ticker: "HRB",
-    Market Cap: "4284.6"
+    market_cap: "4284.6"
   },
   {
     company: "iHeartMedia",
@@ -14826,7 +14826,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3558.3",
     profit: "-159.2",
-    num. of employees: "9990.0",
+    num_of_employees: "9990.0",
     sector: "Media",
     city: "San Antonio",
     state: "TX",
@@ -14838,7 +14838,7 @@ var array = [
     CEO: "Robert W. Pittman",
     Website: "https://www.iheartmedia.com",
     Ticker: "IHRT",
-    Market Cap: "2728.1"
+    market_cap: "2728.1"
   },
   {
     company: "Super Micro Computer",
@@ -14846,7 +14846,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3557.4",
     profit: "111.9",
-    num. of employees: "4155.0",
+    num_of_employees: "4155.0",
     sector: "Technology",
     city: "San Jose",
     state: "CA",
@@ -14858,7 +14858,7 @@ var array = [
     CEO: "Charles Liang",
     Website: "https://www.supermicro.com",
     Ticker: "SMCI",
-    Market Cap: "1963"
+    market_cap: "1963"
   },
   {
     company: "Flowserve",
@@ -14866,7 +14866,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3541.1",
     profit: "125.9",
-    num. of employees: "16000.0",
+    num_of_employees: "16000.0",
     sector: "Industrials",
     city: "Irving",
     state: "TX",
@@ -14878,7 +14878,7 @@ var array = [
     CEO: "R. Scott Rowe",
     Website: "https://www.flowserve.com",
     Ticker: "FLS",
-    Market Cap: "4681.4"
+    market_cap: "4681.4"
   },
   {
     company: "Charles River Laboratories International",
@@ -14886,7 +14886,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3540.2",
     profit: "391.0",
-    num. of employees: "19300.0",
+    num_of_employees: "19300.0",
     sector: "Health Care",
     city: "Wilmington",
     state: "MA",
@@ -14898,7 +14898,7 @@ var array = [
     CEO: "James C. Foster",
     Website: "https://www.criver.com",
     Ticker: "CRL",
-    Market Cap: "14425.4"
+    market_cap: "14425.4"
   },
   {
     company: "A.O. Smith",
@@ -14906,7 +14906,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3538.9",
     profit: "487.1",
-    num. of employees: "13700.0",
+    num_of_employees: "13700.0",
     sector: "Industrials",
     city: "Milwaukee",
     state: "WI",
@@ -14918,7 +14918,7 @@ var array = [
     CEO: "Kevin J. Wheeler",
     Website: "https://www.aosmith.com",
     Ticker: "AOS",
-    Market Cap: "10032.2"
+    market_cap: "10032.2"
   },
   {
     company: "Rithm Capital",
@@ -14926,7 +14926,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3533.1",
     profit: "772.2",
-    num. of employees: "12296.0",
+    num_of_employees: "12296.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -14938,7 +14938,7 @@ var array = [
     CEO: "Michael Nierenberg",
     Website: "https://www.rithmcap.com",
     Ticker: "RITM",
-    Market Cap: "5125"
+    market_cap: "5125"
   },
   {
     company: "Medical Mutual of Ohio",
@@ -14946,7 +14946,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3514.8",
     profit: "78.3",
-    num. of employees: "2834.0",
+    num_of_employees: "2834.0",
     sector: "Financials",
     city: "Cleveland",
     state: "OH",
@@ -14958,7 +14958,7 @@ var array = [
     CEO: "Steven C. Glass",
     Website: "https://www.medmutual.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Granite Construction",
@@ -14966,7 +14966,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3501.9",
     profit: "10.1",
-    num. of employees: "2600.0",
+    num_of_employees: "2600.0",
     sector: "Engineering & Construction",
     city: "Watsonville",
     state: "CA",
@@ -14978,7 +14978,7 @@ var array = [
     CEO: "Kyle T. Larkin",
     Website: "https://www.graniteconstruction.com",
     Ticker: "GVA",
-    Market Cap: "1504.7"
+    market_cap: "1504.7"
   },
   {
     company: "Valmont Industries",
@@ -14986,7 +14986,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3501.6",
     profit: "195.6",
-    num. of employees: "11041.0",
+    num_of_employees: "11041.0",
     sector: "Materials",
     city: "Omaha",
     state: "NE",
@@ -14998,7 +14998,7 @@ var array = [
     CEO: "Stephen G. Kaniewski",
     Website: "https://www.valmont.com",
     Ticker: "VMI",
-    Market Cap: "5083.4"
+    market_cap: "5083.4"
   },
   {
     company: "Sprague Resources",
@@ -15006,7 +15006,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3498.2",
     profit: "-68.9",
-    num. of employees: "757.0",
+    num_of_employees: "757.0",
     sector: "Energy",
     city: "Portsmouth",
     state: "NH",
@@ -15018,7 +15018,7 @@ var array = [
     CEO: "David C. Glendon",
     Website: "https://www.spragueenergy.com",
     Ticker: "SRLP",
-    Market Cap: "433.7"
+    market_cap: "433.7"
   },
   {
     company: "Primoris Services",
@@ -15026,7 +15026,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3497.6",
     profit: "115.6",
-    num. of employees: "10810.0",
+    num_of_employees: "10810.0",
     sector: "Engineering & Construction",
     city: "Dallas",
     state: "TX",
@@ -15038,7 +15038,7 @@ var array = [
     CEO: "Thomas E. McCormick",
     Website: "https://www.primoriscorp.com",
     Ticker: "PRIM",
-    Market Cap: "1269.8"
+    market_cap: "1269.8"
   },
   {
     company: "Cboe Global Markets",
@@ -15046,7 +15046,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3494.8",
     profit: "529.0",
-    num. of employees: "1196.0",
+    num_of_employees: "1196.0",
     sector: "Financials",
     city: "Chicago",
     state: "IL",
@@ -15058,7 +15058,7 @@ var array = [
     CEO: "Edward T. Tilly",
     Website: "https://www.cboe.com",
     Ticker: "CBOE",
-    Market Cap: "12148.2"
+    market_cap: "12148.2"
   },
   {
     company: "Carter's",
@@ -15066,7 +15066,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3486.4",
     profit: "339.7",
-    num. of employees: "15900.0",
+    num_of_employees: "15900.0",
     sector: "Apparel",
     city: "Atlanta",
     state: "GA",
@@ -15078,7 +15078,7 @@ var array = [
     CEO: "Michael D. Casey",
     Website: "https://www.carters.com",
     Ticker: "CRI",
-    Market Cap: "3763.4"
+    market_cap: "3763.4"
   },
   {
     company: "TopBuild",
@@ -15086,7 +15086,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3486.2",
     profit: "324.0",
-    num. of employees: "13006.0",
+    num_of_employees: "13006.0",
     sector: "Engineering & Construction",
     city: "Daytona Beach",
     state: "FL",
@@ -15098,7 +15098,7 @@ var array = [
     CEO: "Robert M. Buck",
     Website: "https://www.topbuild.com",
     Ticker: "BLD",
-    Market Cap: "5987.1"
+    market_cap: "5987.1"
   },
   {
     company: "SiteOne Landscape Supply",
@@ -15106,7 +15106,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3475.7",
     profit: "238.4",
-    num. of employees: "5475.0",
+    num_of_employees: "5475.0",
     sector: "Wholesalers",
     city: "Roswell",
     state: "GA",
@@ -15118,7 +15118,7 @@ var array = [
     CEO: "Doug Black",
     Website: "https://www.siteone.com",
     Ticker: "SITE",
-    Market Cap: "7255.5"
+    market_cap: "7255.5"
   },
   {
     company: "Texas Roadhouse",
@@ -15126,7 +15126,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3463.9",
     profit: "245.3",
-    num. of employees: "73300.0",
+    num_of_employees: "73300.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Louisville",
     state: "KY",
@@ -15138,7 +15138,7 @@ var array = [
     CEO: "Gerald L. Morgan",
     Website: "https://www.texasroadhouse.com",
     Ticker: "TXRH",
-    Market Cap: "5787.8"
+    market_cap: "5787.8"
   },
   {
     company: "Akamai Technologies",
@@ -15146,7 +15146,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3461.2",
     profit: "651.6",
-    num. of employees: "8700.0",
+    num_of_employees: "8700.0",
     sector: "Technology",
     city: "Cambridge",
     state: "MA",
@@ -15158,7 +15158,7 @@ var array = [
     CEO: "F. Thomson Leighton",
     Website: "https://www.akamai.com",
     Ticker: "AKAM",
-    Market Cap: "19210"
+    market_cap: "19210"
   },
   {
     company: "Brown-Forman",
@@ -15166,7 +15166,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3461.0",
     profit: "903.0",
-    num. of employees: "4700.0",
+    num_of_employees: "4700.0",
     sector: "Food, Beverages & Tobacco",
     city: "Louisville",
     state: "KY",
@@ -15178,7 +15178,7 @@ var array = [
     CEO: "Lawson E. Whiting",
     Website: "https://www.brown-forman.com",
     Ticker: "BFB",
-    Market Cap: "31376.6"
+    market_cap: "31376.6"
   },
   {
     company: "Acuity Brands",
@@ -15186,7 +15186,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3461.0",
     profit: "306.3",
-    num. of employees: "13000.0",
+    num_of_employees: "13000.0",
     sector: "Industrials",
     city: "Atlanta",
     state: "GA",
@@ -15198,7 +15198,7 @@ var array = [
     CEO: "Neil M. Ashe",
     Website: "https://www.acuitybrands.com",
     Ticker: "AYI",
-    Market Cap: "6628.9"
+    market_cap: "6628.9"
   },
   {
     company: "Navient",
@@ -15206,7 +15206,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3454.0",
     profit: "717.0",
-    num. of employees: "5263.0",
+    num_of_employees: "5263.0",
     sector: "Financials",
     city: "Wilmington",
     state: "DE",
@@ -15218,7 +15218,7 @@ var array = [
     CEO: "John F. Remondi",
     Website: "https://www.navient.com",
     Ticker: "NAVI",
-    Market Cap: "2592.3"
+    market_cap: "2592.3"
   },
   {
     company: "Coterra Energy",
@@ -15226,7 +15226,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3449.0",
     profit: "1158.0",
-    num. of employees: "936.0",
+    num_of_employees: "936.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -15238,7 +15238,7 @@ var array = [
     CEO: "Thomas E. Jorden",
     Website: "https://www.coterra.com",
     Ticker: "CTRA",
-    Market Cap: "21872.1"
+    market_cap: "21872.1"
   },
   {
     company: "Option Care Health",
@@ -15246,7 +15246,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3438.6",
     profit: "139.9",
-    num. of employees: "6334.0",
+    num_of_employees: "6334.0",
     sector: "Health Care",
     city: "Bannockburn",
     state: "IL",
@@ -15258,7 +15258,7 @@ var array = [
     CEO: "John C. Rademacher",
     Website: "https://www.optioncarehealth.com",
     Ticker: "OPCH",
-    Market Cap: "5139"
+    market_cap: "5139"
   },
   {
     company: "Floor & Decor Holdings",
@@ -15266,7 +15266,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3433.5",
     profit: "283.2",
-    num. of employees: "9276.0",
+    num_of_employees: "9276.0",
     sector: "Retailing",
     city: "Atlanta",
     state: "GA",
@@ -15278,7 +15278,7 @@ var array = [
     CEO: "Thomas Taylor",
     Website: "https://www.flooranddecor.com",
     Ticker: "FND",
-    Market Cap: "7490"
+    market_cap: "7490"
   },
   {
     company: "Public Storage",
@@ -15286,7 +15286,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3415.8",
     profit: "1953.3",
-    num. of employees: "5800.0",
+    num_of_employees: "5800.0",
     sector: "Financials",
     city: "Glendale",
     state: "CA",
@@ -15298,7 +15298,7 @@ var array = [
     CEO: "Joseph D. Russell Jr.",
     Website: "https://www.publicstorage.com",
     Ticker: "PSA",
-    Market Cap: "68438.2"
+    market_cap: "68438.2"
   },
   {
     company: "Cabot",
@@ -15306,7 +15306,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3409.0",
     profit: "250.0",
-    num. of employees: "4500.0",
+    num_of_employees: "4500.0",
     sector: "Chemicals",
     city: "Boston",
     state: "MA",
@@ -15318,7 +15318,7 @@ var array = [
     CEO: "Sean D. Keohane",
     Website: "https://www.cabotcorp.com",
     Ticker: "CBT",
-    Market Cap: "3871.1"
+    market_cap: "3871.1"
   },
   {
     company: "Crane Holdings",
@@ -15326,7 +15326,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3408.0",
     profit: "435.4",
-    num. of employees: "11000.0",
+    num_of_employees: "11000.0",
     sector: "Industrials",
     city: "Stamford",
     state: "CT",
@@ -15338,7 +15338,7 @@ var array = [
     CEO: "Max H. Mitchell",
     Website: "https://www.craneco.com",
     Ticker: "CR",
-    Market Cap: "6158.9"
+    market_cap: "6158.9"
   },
   {
     company: "Atmos Energy",
@@ -15346,7 +15346,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3407.5",
     profit: "665.6",
-    num. of employees: "4684.0",
+    num_of_employees: "4684.0",
     sector: "Energy",
     city: "Dallas",
     state: "TX",
@@ -15358,7 +15358,7 @@ var array = [
     CEO: "John K. Akers",
     Website: "https://www.atmosenergy.com",
     Ticker: "ATO",
-    Market Cap: "16182.8"
+    market_cap: "16182.8"
   },
   {
     company: "Selective Insurance Group",
@@ -15366,7 +15366,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3379.2",
     profit: "403.8",
-    num. of employees: "2440.0",
+    num_of_employees: "2440.0",
     sector: "Financials",
     city: "Branchville",
     state: "NJ",
@@ -15378,7 +15378,7 @@ var array = [
     CEO: "John J. Marchioni",
     Website: "https://www.selective.com",
     Ticker: "SIGI",
-    Market Cap: "5391.5"
+    market_cap: "5391.5"
   },
   {
     company: "Take-Two Interactive Software",
@@ -15386,7 +15386,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3372.8",
     profit: "588.9",
-    num. of employees: "6495.0",
+    num_of_employees: "6495.0",
     sector: "Media",
     city: "New York",
     state: "NY",
@@ -15398,7 +15398,7 @@ var array = [
     CEO: "Strauss H. Zelnick",
     Website: "https://www.take2games.com",
     Ticker: "TTWO",
-    Market Cap: "17744.1"
+    market_cap: "17744.1"
   },
   {
     company: "Boyd Gaming",
@@ -15406,7 +15406,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3369.8",
     profit: "463.8",
-    num. of employees: "15114.0",
+    num_of_employees: "15114.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Las Vegas",
     state: "NV",
@@ -15418,7 +15418,7 @@ var array = [
     CEO: "Keith E. Smith",
     Website: "https://www.boydgaming.com",
     Ticker: "BYD",
-    Market Cap: "7234"
+    market_cap: "7234"
   },
   {
     company: "Plexus",
@@ -15426,7 +15426,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3368.9",
     profit: "138.9",
-    num. of employees: "19200.0",
+    num_of_employees: "19200.0",
     sector: "Technology",
     city: "Neenah",
     state: "WI",
@@ -15438,7 +15438,7 @@ var array = [
     CEO: "Todd P. Kelsey",
     Website: "https://www.plexus.com",
     Ticker: "PLXS",
-    Market Cap: "2298.6"
+    market_cap: "2298.6"
   },
   {
     company: "ScanSource",
@@ -15446,7 +15446,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3364.2",
     profit: "10.8",
-    num. of employees: "2200.0",
+    num_of_employees: "2200.0",
     sector: "Wholesalers",
     city: "Greenville",
     state: "SC",
@@ -15458,7 +15458,7 @@ var array = [
     CEO: "Michael L. Baur",
     Website: "https://www.scansource.com",
     Ticker: "SCSC",
-    Market Cap: "890.8"
+    market_cap: "890.8"
   },
   {
     company: "Franchise Group",
@@ -15466,7 +15466,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3362.7",
     profit: "363.8",
-    num. of employees: "11895.0",
+    num_of_employees: "11895.0",
     sector: "Retailing",
     city: "Delaware",
     state: "OH",
@@ -15478,7 +15478,7 @@ var array = [
     CEO: "Brian R. Kahn",
     Website: "https://www.franchisegrp.com",
     Ticker: "FRG",
-    Market Cap: "1669.6"
+    market_cap: "1669.6"
   },
   {
     company: "NLV Financial",
@@ -15486,7 +15486,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3350.8",
     profit: "392.1",
-    num. of employees: "1157.0",
+    num_of_employees: "1157.0",
     sector: "Financials",
     city: "Montpelier",
     state: "VT",
@@ -15498,7 +15498,7 @@ var array = [
     CEO: "Mehran Assadi",
     Website: "https://www.nationallife.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "CrossAmerica Partners",
@@ -15506,7 +15506,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3350.5",
     profit: "21.7",
-    num. of employees: "2218.0",
+    num_of_employees: "2218.0",
     sector: "Energy",
     city: "Allentown",
     state: "PA",
@@ -15518,7 +15518,7 @@ var array = [
     CEO: "Charles M. Nifong Jr.",
     Website: "https://www.crossamericapartners.com",
     Ticker: "CAPL",
-    Market Cap: "826.5"
+    market_cap: "826.5"
   },
   {
     company: "Mr. Cooper Group",
@@ -15526,7 +15526,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3344.0",
     profit: "1454.0",
-    num. of employees: "8200.0",
+    num_of_employees: "8200.0",
     sector: "Financials",
     city: "Coppell",
     state: "TX",
@@ -15538,7 +15538,7 @@ var array = [
     CEO: "Jay Bray",
     Website: "https://www.mrcoopergroup.com",
     Ticker: "COOP",
-    Market Cap: "3369.4"
+    market_cap: "3369.4"
   },
   {
     company: "Fortinet",
@@ -15546,7 +15546,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3342.2",
     profit: "606.8",
-    num. of employees: "10195.0",
+    num_of_employees: "10195.0",
     sector: "Technology",
     city: "Sunnyvale",
     state: "CA",
@@ -15558,7 +15558,7 @@ var array = [
     CEO: "Ken Xie",
     Website: "https://www.fortinet.com",
     Ticker: "FTNT",
-    Market Cap: "39789"
+    market_cap: "39789"
   },
   {
     company: "Brinker International",
@@ -15566,7 +15566,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3337.8",
     profit: "131.6",
-    num. of employees: "59491.0",
+    num_of_employees: "59491.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Dallas",
     state: "TX",
@@ -15578,7 +15578,7 @@ var array = [
     CEO: "Kevin Hochman",
     Website: "https://www.brinker.com",
     Ticker: "EAT",
-    Market Cap: "1701.9"
+    market_cap: "1701.9"
   },
   {
     company: "Albemarle",
@@ -15586,7 +15586,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3328.0",
     profit: "123.7",
-    num. of employees: "6000.0",
+    num_of_employees: "6000.0",
     sector: "Chemicals",
     city: "Charlotte",
     state: "NC",
@@ -15598,7 +15598,7 @@ var array = [
     CEO: "J. Kent Masters",
     Website: "https://www.albemarle.com",
     Ticker: "ALB",
-    Market Cap: "25899.4"
+    market_cap: "25899.4"
   },
   {
     company: "Peabody Energy",
@@ -15606,7 +15606,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3318.3",
     profit: "360.1",
-    num. of employees: "4900.0",
+    num_of_employees: "4900.0",
     sector: "Energy",
     city: "St. Louis",
     state: "MO",
@@ -15618,7 +15618,7 @@ var array = [
     CEO: "James C. Grech",
     Website: "https://www.peabodyenergy.com",
     Ticker: "BTU",
-    Market Cap: "3391.5"
+    market_cap: "3391.5"
   },
   {
     company: "Light & Wonder",
@@ -15626,7 +15626,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3310.0",
     profit: "371.0",
-    num. of employees: "5600.0",
+    num_of_employees: "5600.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Las Vegas",
     state: "NV",
@@ -15638,7 +15638,7 @@ var array = [
     CEO: "Matt Wilson",
     Website: "https://www.lnw.com",
     Ticker: "LNW",
-    Market Cap: "5679.7"
+    market_cap: "5679.7"
   },
   {
     company: "Evercore",
@@ -15646,7 +15646,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3307.1",
     profit: "740.1",
-    num. of employees: "1940.0",
+    num_of_employees: "1940.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -15658,7 +15658,7 @@ var array = [
     CEO: "John S. Weinberg",
     Website: "https://www.evercore.com",
     Ticker: "EVR",
-    Market Cap: "4275.1"
+    market_cap: "4275.1"
   },
   {
     company: "Stewart Information Services",
@@ -15666,7 +15666,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3305.8",
     profit: "323.2",
-    num. of employees: "7300.0",
+    num_of_employees: "7300.0",
     sector: "Financials",
     city: "Houston",
     state: "TX",
@@ -15678,7 +15678,7 @@ var array = [
     CEO: "Frederick Eppinger",
     Website: "https://www.stewart.com",
     Ticker: "STC",
-    Market Cap: "1181"
+    market_cap: "1181"
   },
   {
     company: "Central Garden & Pet",
@@ -15686,7 +15686,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3303.7",
     profit: "151.7",
-    num. of employees: "6750.0",
+    num_of_employees: "6750.0",
     sector: "Household Products",
     city: "Walnut Creek",
     state: "CA",
@@ -15698,7 +15698,7 @@ var array = [
     CEO: "Timothy P. Cofer",
     Website: "https://www.central.com",
     Ticker: "CENT",
-    Market Cap: "2286.5"
+    market_cap: "2286.5"
   },
   {
     company: "GMS",
@@ -15706,7 +15706,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3298.8",
     profit: "105.6",
-    num. of employees: "5843.0",
+    num_of_employees: "5843.0",
     sector: "Wholesalers",
     city: "Tucker",
     state: "GA",
@@ -15718,7 +15718,7 @@ var array = [
     CEO: "John C. Turner Jr.",
     Website: "https://www.gms.com",
     Ticker: "GMS",
-    Market Cap: "2142.1"
+    market_cap: "2142.1"
   },
   {
     company: "H.B. Fuller",
@@ -15726,7 +15726,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3278.0",
     profit: "161.4",
-    num. of employees: "6500.0",
+    num_of_employees: "6500.0",
     sector: "Chemicals",
     city: "St. Paul",
     state: "MN",
@@ -15738,7 +15738,7 @@ var array = [
     CEO: "James J. Owens",
     Website: "https://www.hbfuller.com",
     Ticker: "FUL",
-    Market Cap: "3505.2"
+    market_cap: "3505.2"
   },
   {
     company: "Middleby",
@@ -15746,7 +15746,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3250.8",
     profit: "488.5",
-    num. of employees: "10624.0",
+    num_of_employees: "10624.0",
     sector: "Industrials",
     city: "Elgin",
     state: "IL",
@@ -15758,7 +15758,7 @@ var array = [
     CEO: "Timothy J. FitzGerald",
     Website: "https://www.middleby.com",
     Ticker: "MIDD",
-    Market Cap: "8961.1"
+    market_cap: "8961.1"
   },
   {
     company: "Renewable Energy Group",
@@ -15766,7 +15766,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3244.1",
     profit: "213.8",
-    num. of employees: "1196.0",
+    num_of_employees: "1196.0",
     sector: "Energy",
     city: "Ames",
     state: "IA",
@@ -15778,7 +15778,7 @@ var array = [
     CEO: "Kevin E. Lucke",
     Website: "https://www.regi.com",
     Ticker: "",
-    Market Cap: "3056.2"
+    market_cap: "3056.2"
   },
   {
     company: "MSC Industrial Direct",
@@ -15786,7 +15786,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3243.2",
     profit: "216.9",
-    num. of employees: "6472.0",
+    num_of_employees: "6472.0",
     sector: "Wholesalers",
     city: "Melville",
     state: "NY",
@@ -15798,7 +15798,7 @@ var array = [
     CEO: "Erik Gershwind",
     Website: "https://www.mscdirect.com",
     Ticker: "MSM",
-    Market Cap: "4758.3"
+    market_cap: "4758.3"
   },
   {
     company: "Vishay Intertechnology",
@@ -15806,7 +15806,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3240.5",
     profit: "298.0",
-    num. of employees: "22800.0",
+    num_of_employees: "22800.0",
     sector: "Technology",
     city: "Malvern",
     state: "PA",
@@ -15818,7 +15818,7 @@ var array = [
     CEO: "Gerald Paul",
     Website: "https://www.vishay.com",
     Ticker: "VSH",
-    Market Cap: "2840.1"
+    market_cap: "2840.1"
   },
   {
     company: "Applied Industrial Technologies",
@@ -15826,7 +15826,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3235.9",
     profit: "144.8",
-    num. of employees: "5947.0",
+    num_of_employees: "5947.0",
     sector: "Wholesalers",
     city: "Cleveland",
     state: "OH",
@@ -15838,7 +15838,7 @@ var array = [
     CEO: "Neil A. Schrimsher",
     Website: "https://www.applied.com",
     Ticker: "AIT",
-    Market Cap: "3947.9"
+    market_cap: "3947.9"
   },
   {
     company: "Lincoln Electric Holdings",
@@ -15846,7 +15846,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3234.2",
     profit: "276.5",
-    num. of employees: "11000.0",
+    num_of_employees: "11000.0",
     sector: "Industrials",
     city: "Cleveland",
     state: "OH",
@@ -15858,7 +15858,7 @@ var array = [
     CEO: "Christopher L. Mapes",
     Website: "https://www.lincolnelectric.com",
     Ticker: "LECO",
-    Market Cap: "8079.1"
+    market_cap: "8079.1"
   },
   {
     company: "First Horizon",
@@ -15866,7 +15866,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3234.0",
     profit: "999.0",
-    num. of employees: "7676.0",
+    num_of_employees: "7676.0",
     sector: "Financials",
     city: "Memphis",
     state: "TN",
@@ -15878,7 +15878,7 @@ var array = [
     CEO: "D. Bryan Jordan",
     Website: "https://www.firsthorizon.com",
     Ticker: "FHN",
-    Market Cap: "12542.9"
+    market_cap: "12542.9"
   },
   {
     company: "Spirit Airlines",
@@ -15886,7 +15886,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3230.8",
     profit: "-472.6",
-    num. of employees: "9823.0",
+    num_of_employees: "9823.0",
     sector: "Transportation",
     city: "Miramar",
     state: "FL",
@@ -15898,7 +15898,7 @@ var array = [
     CEO: "Edward M. Christie III",
     Website: "https://www.spirit.com",
     Ticker: "SAVE",
-    Market Cap: "2375.4"
+    market_cap: "2375.4"
   },
   {
     company: "AptarGroup",
@@ -15906,7 +15906,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3227.2",
     profit: "244.1",
-    num. of employees: "13000.0",
+    num_of_employees: "13000.0",
     sector: "Materials",
     city: "Crystal Lake",
     state: "IL",
@@ -15918,7 +15918,7 @@ var array = [
     CEO: "Stephan B. Tanda",
     Website: "https://www.aptar.com",
     Ticker: "ATR",
-    Market Cap: "7702.9"
+    market_cap: "7702.9"
   },
   {
     company: "Citrix Systems",
@@ -15926,7 +15926,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3217.2",
     profit: "307.5",
-    num. of employees: "9700.0",
+    num_of_employees: "9700.0",
     sector: "Technology",
     city: "Fort Lauderdale",
     state: "FL",
@@ -15938,7 +15938,7 @@ var array = [
     CEO: "Robert M. Calderoni",
     Website: "https://www.citrix.com",
     Ticker: "CTXS",
-    Market Cap: "12704.6"
+    market_cap: "12704.6"
   },
   {
     company: "IDEXX Laboratories",
@@ -15946,7 +15946,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3215.4",
     profit: "744.8",
-    num. of employees: "10350.0",
+    num_of_employees: "10350.0",
     sector: "Health Care",
     city: "Westbrook",
     state: "ME",
@@ -15958,7 +15958,7 @@ var array = [
     CEO: "Jonathan J. Mazelsky",
     Website: "https://www.idexx.com",
     Ticker: "IDXX",
-    Market Cap: "46089.3"
+    market_cap: "46089.3"
   },
   {
     company: "Tetra Tech",
@@ -15966,7 +15966,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3213.5",
     profit: "232.8",
-    num. of employees: "21000.0",
+    num_of_employees: "21000.0",
     sector: "Engineering & Construction",
     city: "Pasadena",
     state: "CA",
@@ -15978,7 +15978,7 @@ var array = [
     CEO: "Dan L. Batrack",
     Website: "https://www.tetratech.com",
     Ticker: "TTEK",
-    Market Cap: "8906.7"
+    market_cap: "8906.7"
   },
   {
     company: "Lyft",
@@ -15986,7 +15986,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3208.3",
     profit: "-1009.4",
-    num. of employees: "4453.0",
+    num_of_employees: "4453.0",
     sector: "Technology",
     city: "San Francisco",
     state: "CA",
@@ -15998,7 +15998,7 @@ var array = [
     CEO: "Logan Green",
     Website: "https://www.lyft.com",
     Ticker: "LYFT",
-    Market Cap: "13384.6"
+    market_cap: "13384.6"
   },
   {
     company: "Gannett",
@@ -16006,7 +16006,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3208.1",
     profit: "-135.0",
-    num. of employees: "16300.0",
+    num_of_employees: "16300.0",
     sector: "Media",
     city: "McLean",
     state: "VA",
@@ -16018,7 +16018,7 @@ var array = [
     CEO: "Michael E. Reed",
     Website: "https://www.gannett.com",
     Ticker: "GCI",
-    Market Cap: "643.9"
+    market_cap: "643.9"
   },
   {
     company: "ResMed",
@@ -16026,7 +16026,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3196.8",
     profit: "474.5",
-    num. of employees: "7970.0",
+    num_of_employees: "7970.0",
     sector: "Health Care",
     city: "San Diego",
     state: "CA",
@@ -16038,7 +16038,7 @@ var array = [
     CEO: "Michael J. Farrell",
     Website: "https://www.resmed.com",
     Ticker: "RMD",
-    Market Cap: "35463.3"
+    market_cap: "35463.3"
   },
   {
     company: "Designer Brands",
@@ -16046,7 +16046,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3196.6",
     profit: "154.5",
-    num. of employees: "13500.0",
+    num_of_employees: "13500.0",
     sector: "Retailing",
     city: "Columbus",
     state: "OH",
@@ -16058,7 +16058,7 @@ var array = [
     CEO: "Roger L. Rawlins",
     Website: "https://www.designerbrands.com",
     Ticker: "DBI",
-    Market Cap: "991.4"
+    market_cap: "991.4"
   },
   {
     company: "Graham Holdings",
@@ -16066,7 +16066,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3186.0",
     profit: "352.1",
-    num. of employees: "15048.0",
+    num_of_employees: "15048.0",
     sector: "Business Services",
     city: "Arlington",
     state: "VA",
@@ -16078,7 +16078,7 @@ var array = [
     CEO: "Timothy J. O?Shaughnessy",
     Website: "https://www.ghco.com",
     Ticker: "GHC",
-    Market Cap: "3000.6"
+    market_cap: "3000.6"
   },
   {
     company: "Vroom",
@@ -16086,7 +16086,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3184.3",
     profit: "-370.9",
-    num. of employees: "1807.0",
+    num_of_employees: "1807.0",
     sector: "Retailing",
     city: "New York",
     state: "NY",
@@ -16098,7 +16098,7 @@ var array = [
     CEO: "Thomas H. Shortt",
     Website: "https://www.vroom.com",
     Ticker: "VRM",
-    Market Cap: "364.7"
+    market_cap: "364.7"
   },
   {
     company: "Worthington Industries",
@@ -16106,7 +16106,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3171.4",
     profit: "723.8",
-    num. of employees: "9000.0",
+    num_of_employees: "9000.0",
     sector: "Materials",
     city: "Columbus",
     state: "OH",
@@ -16118,7 +16118,7 @@ var array = [
     CEO: "B. Andrew Rose",
     Website: "https://www.worthingtonindustries.com",
     Ticker: "WOR",
-    Market Cap: "2537.8"
+    market_cap: "2537.8"
   },
   {
     company: "Calumet Specialty Products Partners",
@@ -16126,7 +16126,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3148.0",
     profit: "-260.1",
-    num. of employees: "1450.0",
+    num_of_employees: "1450.0",
     sector: "Energy",
     city: "Indianapolis",
     state: "IN",
@@ -16138,7 +16138,7 @@ var array = [
     CEO: "Stephen P. Mawer",
     Website: "https://www.calumetspecialty.com",
     Ticker: "CLMT",
-    Market Cap: "1070.8"
+    market_cap: "1070.8"
   },
   {
     company: "Xilinx",
@@ -16146,7 +16146,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3147.6",
     profit: "646.5",
-    num. of employees: "4890.0",
+    num_of_employees: "4890.0",
     sector: "Technology",
     city: "San Jose",
     state: "CA",
@@ -16158,7 +16158,7 @@ var array = [
     CEO: "Lisa T. Su",
     Website: "https://www.xilinx.com",
     Ticker: "XLNX",
-    Market Cap: "30450.5"
+    market_cap: "30450.5"
   },
   {
     company: "TransUnion",
@@ -16166,7 +16166,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3145.0",
     profit: "1387.1",
-    num. of employees: "10200.0",
+    num_of_employees: "10200.0",
     sector: "Business Services",
     city: "Chicago",
     state: "IL",
@@ -16178,7 +16178,7 @@ var array = [
     CEO: "Christopher A. Cartwright",
     Website: "https://www.transunion.com",
     Ticker: "TRU",
-    Market Cap: "19882.6"
+    market_cap: "19882.6"
   },
   {
     company: "Travel + Leisure",
@@ -16186,7 +16186,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3134.0",
     profit: "308.0",
-    num. of employees: "16800.0",
+    num_of_employees: "16800.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Orlando",
     state: "FL",
@@ -16198,7 +16198,7 @@ var array = [
     CEO: "Michael D. Brown",
     Website: "https://www.travelandleisureco.com",
     Ticker: "TNL",
-    Market Cap: "4966.2"
+    market_cap: "4966.2"
   },
   {
     company: "Topgolf Callaway Brands",
@@ -16206,7 +16206,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3133.4",
     profit: "322.0",
-    num. of employees: "24800.0",
+    num_of_employees: "24800.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Carlsbad",
     state: "CA",
@@ -16218,7 +16218,7 @@ var array = [
     CEO: "Oliver G. Brewer III",
     Website: "https://www.callawaygolf.com",
     Ticker: "ELY",
-    Market Cap: "4337.1"
+    market_cap: "4337.1"
   },
   {
     company: "Dycom Industries",
@@ -16226,7 +16226,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3130.5",
     profit: "48.6",
-    num. of employees: "15024.0",
+    num_of_employees: "15024.0",
     sector: "Engineering & Construction",
     city: "Palm Beach Gardens",
     state: "FL",
@@ -16238,7 +16238,7 @@ var array = [
     CEO: "Steven E. Nielsen",
     Website: "https://www.dycomind.com",
     Ticker: "DY",
-    Market Cap: "2821"
+    market_cap: "2821"
   },
   {
     company: "Columbia Sportswear",
@@ -16246,7 +16246,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3126.4",
     profit: "354.1",
-    num. of employees: "8325.0",
+    num_of_employees: "8325.0",
     sector: "Apparel",
     city: "Portland",
     state: "OR",
@@ -16258,7 +16258,7 @@ var array = [
     CEO: "Timothy P. Boyle",
     Website: "https://www.columbia.com",
     Ticker: "COLM",
-    Market Cap: "5840.4"
+    market_cap: "5840.4"
   },
   {
     company: "Coherent",
@@ -16266,7 +16266,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3105.9",
     profit: "297.6",
-    num. of employees: "22961.0",
+    num_of_employees: "22961.0",
     sector: "Technology",
     city: "Saxonburg",
     state: "PA",
@@ -16278,7 +16278,7 @@ var array = [
     CEO: "Vincent D. Mattera Jr.",
     Website: "https://www.ii-vi.com",
     Ticker: "COHR",
-    Market Cap: "7708.2"
+    market_cap: "7708.2"
   },
   {
     company: "Change Healthcare",
@@ -16286,7 +16286,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3090.4",
     profit: "-112.2",
-    num. of employees: "15000.0",
+    num_of_employees: "15000.0",
     sector: "Health Care",
     city: "Nashville",
     state: "TN",
@@ -16298,7 +16298,7 @@ var array = [
     CEO: "Heather Cianfrocco (Optum)",
     Website: "https://www.changehealthcare.com",
     Ticker: "",
-    Market Cap: "6799.3"
+    market_cap: "6799.3"
   },
   {
     company: "Grocery Outlet Holding",
@@ -16306,7 +16306,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3079.6",
     profit: "62.3",
-    num. of employees: "875.0",
+    num_of_employees: "875.0",
     sector: "Food & Drug Stores",
     city: "Emeryville",
     state: "CA",
@@ -16318,7 +16318,7 @@ var array = [
     CEO: "Eric J. Lindberg Jr.",
     Website: "https://www.groceryoutlet.com",
     Ticker: "GO",
-    Market Cap: "3148"
+    market_cap: "3148"
   },
   {
     company: "AMC Networks",
@@ -16326,7 +16326,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3077.6",
     profit: "250.6",
-    num. of employees: "1883.0",
+    num_of_employees: "1883.0",
     sector: "Media",
     city: "New York",
     state: "NY",
@@ -16338,7 +16338,7 @@ var array = [
     CEO: "Christina Spade",
     Website: "https://www.amcnetworks.com",
     Ticker: "AMCX",
-    Market Cap: "1721.7"
+    market_cap: "1721.7"
   },
   {
     company: "Hyster-Yale Materials Handling",
@@ -16346,7 +16346,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3075.7",
     profit: "-173.0",
-    num. of employees: "8100.0",
+    num_of_employees: "8100.0",
     sector: "Industrials",
     city: "Cleveland",
     state: "OH",
@@ -16358,7 +16358,7 @@ var array = [
     CEO: "Alfred M. Rankin Jr.",
     Website: "https://www.hyster-yale.com",
     Ticker: "HY",
-    Market Cap: "561.2"
+    market_cap: "561.2"
   },
   {
     company: "ChampionX",
@@ -16366,7 +16366,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3075.0",
     profit: "113.3",
-    num. of employees: "7000.0",
+    num_of_employees: "7000.0",
     sector: "Energy",
     city: "The Woodlands",
     state: "TX",
@@ -16378,7 +16378,7 @@ var array = [
     CEO: "Sivasankaran Somasundaram",
     Website: "https://www.championx.com",
     Ticker: "CHX",
-    Market Cap: "4976.7"
+    market_cap: "4976.7"
   },
   {
     company: "Comfort Systems USA",
@@ -16386,7 +16386,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3073.6",
     profit: "143.3",
-    num. of employees: "13200.0",
+    num_of_employees: "13200.0",
     sector: "Engineering & Construction",
     city: "Houston",
     state: "TX",
@@ -16398,7 +16398,7 @@ var array = [
     CEO: "Brian E. Lane",
     Website: "https://www.comfortsystemsusa.com",
     Ticker: "FIX",
-    Market Cap: "3200.5"
+    market_cap: "3200.5"
   },
   {
     company: "EQT",
@@ -16406,7 +16406,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3064.7",
     profit: "-1155.8",
-    num. of employees: "693.0",
+    num_of_employees: "693.0",
     sector: "Energy",
     city: "Pittsburgh",
     state: "PA",
@@ -16418,7 +16418,7 @@ var array = [
     CEO: "Toby Z. Rice",
     Website: "https://www.eqt.com",
     Ticker: "EQT",
-    Market Cap: "12955.4"
+    market_cap: "12955.4"
   },
   {
     company: "Brown & Brown",
@@ -16426,7 +16426,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3051.4",
     profit: "587.1",
-    num. of employees: "12023.0",
+    num_of_employees: "12023.0",
     sector: "Financials",
     city: "Daytona Beach",
     state: "FL",
@@ -16438,7 +16438,7 @@ var array = [
     CEO: "J. Powell Brown",
     Website: "https://www.bbinsurance.com",
     Ticker: "BRO",
-    Market Cap: "20395.7"
+    market_cap: "20395.7"
   },
   {
     company: "LGI Homes",
@@ -16446,7 +16446,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3050.1",
     profit: "429.6",
-    num. of employees: "952.0",
+    num_of_employees: "952.0",
     sector: "Engineering & Construction",
     city: "The Woodlands",
     state: "TX",
@@ -16458,7 +16458,7 @@ var array = [
     CEO: "Eric Lipar",
     Website: "https://www.lgihomes.com",
     Ticker: "LGIH",
-    Market Cap: "1884"
+    market_cap: "1884"
   },
   {
     company: "Hyatt Hotels",
@@ -16466,7 +16466,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3028.0",
     profit: "-222.0",
-    num. of employees: "44000.0",
+    num_of_employees: "44000.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Chicago",
     state: "IL",
@@ -16478,7 +16478,7 @@ var array = [
     CEO: "Mark S. Hoplamazian",
     Website: "https://www.hyatt.com",
     Ticker: "H",
-    Market Cap: "10498.3"
+    market_cap: "10498.3"
   },
   {
     company: "Comerica",
@@ -16486,7 +16486,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3024.0",
     profit: "1168.0",
-    num. of employees: "7442.0",
+    num_of_employees: "7442.0",
     sector: "Financials",
     city: "Dallas",
     state: "TX",
@@ -16498,7 +16498,7 @@ var array = [
     CEO: "Curtis C. Farmer",
     Website: "https://www.comerica.com",
     Ticker: "CMA",
-    Market Cap: "11854.4"
+    market_cap: "11854.4"
   },
   {
     company: "Energizer Holdings",
@@ -16506,7 +16506,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3021.5",
     profit: "160.9",
-    num. of employees: "6000.0",
+    num_of_employees: "6000.0",
     sector: "Household Products",
     city: "St. Louis",
     state: "MO",
@@ -16518,7 +16518,7 @@ var array = [
     CEO: "Mark S. LaVigne",
     Website: "https://www.energizerholdings.com",
     Ticker: "ENR",
-    Market Cap: "2191.7"
+    market_cap: "2191.7"
   },
   {
     company: "Hill-Rom Holdings",
@@ -16526,7 +16526,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3018.7",
     profit: "248.5",
-    num. of employees: "10000.0",
+    num_of_employees: "10000.0",
     sector: "Health Care",
     city: "Chicago",
     state: "IL",
@@ -16538,7 +16538,7 @@ var array = [
     CEO: "John P. Groetelaars",
     Website: "https://www.hillrom.com",
     Ticker: "HRC",
-    Market Cap: "7331.7"
+    market_cap: "7331.7"
   },
   {
     company: "Rackspace Technology",
@@ -16546,7 +16546,7 @@ var array = [
     rank_change: "0.0",
     revenue: "3009.5",
     profit: "-218.3",
-    num. of employees: "6600.0",
+    num_of_employees: "6600.0",
     sector: "Technology",
     city: "San Antonio",
     state: "TX",
@@ -16558,7 +16558,7 @@ var array = [
     CEO: "Amar Maletira",
     Website: "https://www.rackspace.com",
     Ticker: "RXT",
-    Market Cap: "2365.6"
+    market_cap: "2365.6"
   },
   {
     company: "Verisk Analytics",
@@ -16566,7 +16566,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2998.6",
     profit: "666.2",
-    num. of employees: "9367.0",
+    num_of_employees: "9367.0",
     sector: "Business Services",
     city: "Jersey City",
     state: "NJ",
@@ -16578,7 +16578,7 @@ var array = [
     CEO: "Lee M. Shavel",
     Website: "https://www.verisk.com",
     Ticker: "VRSK",
-    Market Cap: "34616.2"
+    market_cap: "34616.2"
   },
   {
     company: "Spectrum Brands Holdings",
@@ -16586,7 +16586,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2998.1",
     profit: "189.6",
-    num. of employees: "12100.0",
+    num_of_employees: "12100.0",
     sector: "Household Products",
     city: "Middleton",
     state: "WI",
@@ -16598,7 +16598,7 @@ var array = [
     CEO: "David M. Maura",
     Website: "https://www.spectrumbrands.com",
     Ticker: "SPB",
-    Market Cap: "3617.6"
+    market_cap: "3617.6"
   },
   {
     company: "Euronet Worldwide",
@@ -16606,7 +16606,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2995.4",
     profit: "70.7",
-    num. of employees: "8800.0",
+    num_of_employees: "8800.0",
     sector: "Business Services",
     city: "Leawood",
     state: "KS",
@@ -16618,7 +16618,7 @@ var array = [
     CEO: "Michael J. Brown",
     Website: "https://www.euronetworldwide.com",
     Ticker: "EEFT",
-    Market Cap: "6658.2"
+    market_cap: "6658.2"
   },
   {
     company: "TEGNA",
@@ -16626,7 +16626,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2991.1",
     profit: "477.0",
-    num. of employees: "6200.0",
+    num_of_employees: "6200.0",
     sector: "Media",
     city: "Tysons",
     state: "VA",
@@ -16638,7 +16638,7 @@ var array = [
     CEO: "David T. Lougee",
     Website: "https://www.tegna.com",
     Ticker: "TGNA",
-    Market Cap: "4962.6"
+    market_cap: "4962.6"
   },
   {
     company: "Vontier",
@@ -16646,7 +16646,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2990.7",
     profit: "413.0",
-    num. of employees: "8500.0",
+    num_of_employees: "8500.0",
     sector: "Technology",
     city: "Raleigh",
     state: "NC",
@@ -16658,7 +16658,7 @@ var array = [
     CEO: "Mark D. Morelli",
     Website: "https://www.vontier.com",
     Ticker: "VNT",
-    Market Cap: "4087.8"
+    market_cap: "4087.8"
   },
   {
     company: "Cadence Design Systems",
@@ -16666,7 +16666,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2988.2",
     profit: "696.0",
-    num. of employees: "9298.0",
+    num_of_employees: "9298.0",
     sector: "Technology",
     city: "San Jose",
     state: "CA",
@@ -16678,7 +16678,7 @@ var array = [
     CEO: "Anirudh Devgan",
     Website: "https://www.cadence.com",
     Ticker: "CDNS",
-    Market Cap: "45781.7"
+    market_cap: "45781.7"
   },
   {
     company: "Incyte",
@@ -16686,7 +16686,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2986.3",
     profit: "948.6",
-    num. of employees: "2094.0",
+    num_of_employees: "2094.0",
     sector: "Health Care",
     city: "Wilmington",
     state: "DE",
@@ -16698,7 +16698,7 @@ var array = [
     CEO: "HervÃ© Hoppenot",
     Website: "https://www.incyte.com",
     Ticker: "INCY",
-    Market Cap: "17577.6"
+    market_cap: "17577.6"
   },
   {
     company: "Match Group",
@@ -16706,7 +16706,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2983.3",
     profit: "277.7",
-    num. of employees: "2520.0",
+    num_of_employees: "2520.0",
     sector: "Technology",
     city: "Dallas",
     state: "TX",
@@ -16718,7 +16718,7 @@ var array = [
     CEO: "Bernard Kim",
     Website: "https://www.mtch.com",
     Ticker: "MTCH",
-    Market Cap: "31007"
+    market_cap: "31007"
   },
   {
     company: "Valvoline",
@@ -16726,7 +16726,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2981.0",
     profit: "420.0",
-    num. of employees: "9800.0",
+    num_of_employees: "9800.0",
     sector: "Chemicals",
     city: "Lexington",
     state: "KY",
@@ -16738,7 +16738,7 @@ var array = [
     CEO: "Samuel J. Mitchell Jr.",
     Website: "https://www.valvoline.com",
     Ticker: "VVV",
-    Market Cap: "5660.5"
+    market_cap: "5660.5"
   },
   {
     company: "EnerSys",
@@ -16746,7 +16746,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2977.9",
     profit: "143.4",
-    num. of employees: "11400.0",
+    num_of_employees: "11400.0",
     sector: "Industrials",
     city: "Reading",
     state: "PA",
@@ -16758,7 +16758,7 @@ var array = [
     CEO: "David M. Shaffer",
     Website: "https://www.enersys.com",
     Ticker: "ENS",
-    Market Cap: "3076"
+    market_cap: "3076"
   },
   {
     company: "Avaya Holdings",
@@ -16766,7 +16766,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2973.0",
     profit: "-13.0",
-    num. of employees: "8063.0",
+    num_of_employees: "8063.0",
     sector: "Technology",
     city: "Durham",
     state: "NC",
@@ -16778,7 +16778,7 @@ var array = [
     CEO: "Alan Masarek",
     Website: "https://www.avaya.com",
     Ticker: "AVYA",
-    Market Cap: "1076"
+    market_cap: "1076"
   },
   {
     company: "UWM Holdings",
@@ -16786,7 +16786,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2970.3",
     profit: "98.4",
-    num. of employees: "8000.0",
+    num_of_employees: "8000.0",
     sector: "Financials",
     city: "Pontiac",
     state: "MI",
@@ -16798,7 +16798,7 @@ var array = [
     CEO: "Mathew R. Ishbia",
     Website: "https://www.uwm.com",
     Ticker: "UWMC",
-    Market Cap: "7223.5"
+    market_cap: "7223.5"
   },
   {
     company: "Zions Bancorp.",
@@ -16806,7 +16806,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2970.0",
     profit: "1129.0",
-    num. of employees: "9685.0",
+    num_of_employees: "9685.0",
     sector: "Financials",
     city: "Salt Lake City",
     state: "UT",
@@ -16818,7 +16818,7 @@ var array = [
     CEO: "Harris H. Simmons",
     Website: "https://www.zionsbancorporation.com",
     Ticker: "ZION",
-    Market Cap: "9958.2"
+    market_cap: "9958.2"
   },
   {
     company: "Quad/Graphics",
@@ -16826,7 +16826,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2960.4",
     profit: "37.8",
-    num. of employees: "15100.0",
+    num_of_employees: "15100.0",
     sector: "Media",
     city: "Sussex",
     state: "WI",
@@ -16838,7 +16838,7 @@ var array = [
     CEO: "J. Joel Quadracci",
     Website: "https://www.quad.com",
     Ticker: "QUAD",
-    Market Cap: "388.5"
+    market_cap: "388.5"
   },
   {
     company: "MKS Instruments",
@@ -16846,7 +16846,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2949.6",
     profit: "551.4",
-    num. of employees: "6200.0",
+    num_of_employees: "6200.0",
     sector: "Technology",
     city: "Andover",
     state: "MA",
@@ -16858,7 +16858,7 @@ var array = [
     CEO: "John T.C. Lee",
     Website: "https://www.mksinst.com",
     Ticker: "MKSI",
-    Market Cap: "8327.6"
+    market_cap: "8327.6"
   },
   {
     company: "Arista Networks",
@@ -16866,7 +16866,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2948.0",
     profit: "840.9",
-    num. of employees: "2993.0",
+    num_of_employees: "2993.0",
     sector: "Technology",
     city: "Santa Clara",
     state: "CA",
@@ -16878,7 +16878,7 @@ var array = [
     CEO: "Jayshree V. Ullal",
     Website: "https://www.arista.com",
     Ticker: "ANET",
-    Market Cap: "42773.4"
+    market_cap: "42773.4"
   },
   {
     company: "Interactive Brokers Group",
@@ -16886,7 +16886,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2938.0",
     profit: "308.0",
-    num. of employees: "2571.0",
+    num_of_employees: "2571.0",
     sector: "Financials",
     city: "Greenwich",
     state: "CT",
@@ -16898,7 +16898,7 @@ var array = [
     CEO: "Milan Galik",
     Website: "https://www.interactivebrokers.com",
     Ticker: "IBKR",
-    Market Cap: "27961.7"
+    market_cap: "27961.7"
   },
   {
     company: "Range Resources",
@@ -16906,7 +16906,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2930.2",
     profit: "411.8",
-    num. of employees: "527.0",
+    num_of_employees: "527.0",
     sector: "Energy",
     city: "Fort Worth",
     state: "TX",
@@ -16918,7 +16918,7 @@ var array = [
     CEO: "Jeffrey L. Ventura",
     Website: "https://www.rangeresources.com",
     Ticker: "RRC",
-    Market Cap: "7964"
+    market_cap: "7964"
   },
   {
     company: "Atkore",
@@ -16926,7 +16926,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2928.0",
     profit: "587.9",
-    num. of employees: "3700.0",
+    num_of_employees: "3700.0",
     sector: "Industrials",
     city: "Harvey",
     state: "IL",
@@ -16938,7 +16938,7 @@ var array = [
     CEO: "William E. Waltz",
     Website: "https://www.atkore.com",
     Ticker: "ATKR",
-    Market Cap: "4415.6"
+    market_cap: "4415.6"
   },
   {
     company: "Cheesecake Factory",
@@ -16946,7 +16946,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2927.5",
     profit: "72.4",
-    num. of employees: "45800.0",
+    num_of_employees: "45800.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Calabasas Hills",
     state: "CA",
@@ -16958,7 +16958,7 @@ var array = [
     CEO: "David M. Overton",
     Website: "https://www.thecheesecakefactory.com",
     Ticker: "CAKE",
-    Market Cap: "2098.6"
+    market_cap: "2098.6"
   },
   {
     company: "First Solar",
@@ -16966,7 +16966,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2923.4",
     profit: "468.7",
-    num. of employees: "4800.0",
+    num_of_employees: "4800.0",
     sector: "Energy",
     city: "Tempe",
     state: "AZ",
@@ -16978,7 +16978,7 @@ var array = [
     CEO: "Mark R. Widmar",
     Website: "https://www.firstsolar.com",
     Ticker: "FSLR",
-    Market Cap: "8904.4"
+    market_cap: "8904.4"
   },
   {
     company: "Bio-Rad Laboratories",
@@ -16986,7 +16986,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2922.5",
     profit: "4245.9",
-    num. of employees: "7900.0",
+    num_of_employees: "7900.0",
     sector: "Technology",
     city: "Hercules",
     state: "CA",
@@ -16998,7 +16998,7 @@ var array = [
     CEO: "Norman D. Schwartz",
     Website: "https://www.bio-rad.com",
     Ticker: "BIO",
-    Market Cap: "16982.2"
+    market_cap: "16982.2"
   },
   {
     company: "Cooper Cos.",
@@ -17006,7 +17006,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2922.5",
     profit: "2944.7",
-    num. of employees: "12000.0",
+    num_of_employees: "12000.0",
     sector: "Health Care",
     city: "San Ramon",
     state: "CA",
@@ -17018,7 +17018,7 @@ var array = [
     CEO: "Albert G. White III",
     Website: "https://www.coopercos.com",
     Ticker: "COO",
-    Market Cap: "20587.8"
+    market_cap: "20587.8"
   },
   {
     company: "Envista Holdings",
@@ -17026,7 +17026,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2922.4",
     profit: "340.5",
-    num. of employees: "11200.0",
+    num_of_employees: "11200.0",
     sector: "Health Care",
     city: "Brea",
     state: "CA",
@@ -17038,7 +17038,7 @@ var array = [
     CEO: "Amir Aghdaei",
     Website: "https://www.envistaco.com",
     Ticker: "NVST",
-    Market Cap: "7882.5"
+    market_cap: "7882.5"
   },
   {
     company: "Alight",
@@ -17046,7 +17046,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2915.0",
     profit: "-60.0",
-    num. of employees: "16000.0",
+    num_of_employees: "16000.0",
     sector: "Business Services",
     city: "Lincolnshire",
     state: "IL",
@@ -17058,7 +17058,7 @@ var array = [
     CEO: "Stephan D. Scholl",
     Website: "https://www.alight.com",
     Ticker: "ALIT",
-    Market Cap: "5542.2"
+    market_cap: "5542.2"
   },
   {
     company: "Newmark Group",
@@ -17066,7 +17066,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2906.4",
     profit: "750.7",
-    num. of employees: "6169.0",
+    num_of_employees: "6169.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -17078,7 +17078,7 @@ var array = [
     CEO: "Barry M. Gosin",
     Website: "https://www.nmrk.com",
     Ticker: "NMRK",
-    Market Cap: "3009.9"
+    market_cap: "3009.9"
   },
   {
     company: "PC Connection",
@@ -17086,7 +17086,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2892.6",
     profit: "69.9",
-    num. of employees: "2542.0",
+    num_of_employees: "2542.0",
     sector: "Wholesalers",
     city: "Merrimack",
     state: "NH",
@@ -17098,7 +17098,7 @@ var array = [
     CEO: "Timothy J. McGrath",
     Website: "https://www.connection.com",
     Ticker: "CNXN",
-    Market Cap: "1375.8"
+    market_cap: "1375.8"
   },
   {
     company: "Host Hotels & Resorts",
@@ -17106,7 +17106,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2890.0",
     profit: "-11.0",
-    num. of employees: "160.0",
+    num_of_employees: "160.0",
     sector: "Financials",
     city: "Bethesda",
     state: "MD",
@@ -17118,7 +17118,7 @@ var array = [
     CEO: "James F. Risoleo",
     Website: "https://www.hosthotels.com",
     Ticker: "HST",
-    Market Cap: "13875.9"
+    market_cap: "13875.9"
   },
   {
     company: "Boston Properties",
@@ -17126,7 +17126,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2888.6",
     profit: "505.2",
-    num. of employees: "743.0",
+    num_of_employees: "743.0",
     sector: "Financials",
     city: "Boston",
     state: "MA",
@@ -17138,7 +17138,7 @@ var array = [
     CEO: "Owen D. Thomas",
     Website: "https://www.bxp.com",
     Ticker: "BXP",
-    Market Cap: "20179.9"
+    market_cap: "20179.9"
   },
   {
     company: "Western Midstream Partners",
@@ -17146,7 +17146,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2877.2",
     profit: "916.3",
-    num. of employees: "1127.0",
+    num_of_employees: "1127.0",
     sector: "Energy",
     city: "The Woodlands",
     state: "TX",
@@ -17158,7 +17158,7 @@ var array = [
     CEO: "MIchael P. Ure",
     Website: "https://www.westernmidstream.com",
     Ticker: "WES",
-    Market Cap: "10177.4"
+    market_cap: "10177.4"
   },
   {
     company: "Magellan Midstream Partners",
@@ -17166,7 +17166,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2870.1",
     profit: "982.0",
-    num. of employees: "1715.0",
+    num_of_employees: "1715.0",
     sector: "Energy",
     city: "Tulsa",
     state: "OK",
@@ -17178,7 +17178,7 @@ var array = [
     CEO: "Aaron L. Milford",
     Website: "https://www.magellanlp.com",
     Ticker: "MMP",
-    Market Cap: "10422.1"
+    market_cap: "10422.1"
   },
   {
     company: "Hillenbrand",
@@ -17186,7 +17186,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2864.8",
     profit: "249.9",
-    num. of employees: "10500.0",
+    num_of_employees: "10500.0",
     sector: "Industrials",
     city: "Batesville",
     state: "IN",
@@ -17198,7 +17198,7 @@ var array = [
     CEO: "Kimberly K. Ryan",
     Website: "https://www.hillenbrand.com",
     Ticker: "HI",
-    Market Cap: "3216.2"
+    market_cap: "3216.2"
   },
   {
     company: "Donaldson",
@@ -17206,7 +17206,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2853.9",
     profit: "286.9",
-    num. of employees: "13100.0",
+    num_of_employees: "13100.0",
     sector: "Industrials",
     city: "Minneapolis",
     state: "MN",
@@ -17218,7 +17218,7 @@ var array = [
     CEO: "Tod E. Carpenter",
     Website: "https://www.donaldson.com",
     Ticker: "DCI",
-    Market Cap: "6416.4"
+    market_cap: "6416.4"
   },
   {
     company: "Moog",
@@ -17226,7 +17226,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2852.0",
     profit: "157.2",
-    num. of employees: "14000.0",
+    num_of_employees: "14000.0",
     sector: "Aerospace & Defense",
     city: "East Aurora",
     state: "NY",
@@ -17238,7 +17238,7 @@ var array = [
     CEO: "John R. Scannell",
     Website: "https://www.moog.com",
     Ticker: "MOGA",
-    Market Cap: "2814.6"
+    market_cap: "2814.6"
   },
   {
     company: "Hawaiian Electric Industries",
@@ -17246,7 +17246,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2850.4",
     profit: "246.2",
-    num. of employees: "3623.0",
+    num_of_employees: "3623.0",
     sector: "Energy",
     city: "Honolulu",
     state: "HI",
@@ -17258,7 +17258,7 @@ var array = [
     CEO: "Scott W.H. Seu",
     Website: "https://www.hei.com",
     Ticker: "HE",
-    Market Cap: "4630"
+    market_cap: "4630"
   },
   {
     company: "Five Below",
@@ -17266,7 +17266,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2848.4",
     profit: "278.8",
-    num. of employees: "13150.0",
+    num_of_employees: "13150.0",
     sector: "Retailing",
     city: "Philadelphia",
     state: "PA",
@@ -17278,7 +17278,7 @@ var array = [
     CEO: "Joel D. Anderson",
     Website: "https://www.fivebelow.com",
     Ticker: "FIVE",
-    Market Cap: "8825"
+    market_cap: "8825"
   },
   {
     company: "Twilio",
@@ -17286,7 +17286,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2841.8",
     profit: "-949.9",
-    num. of employees: "7867.0",
+    num_of_employees: "7867.0",
     sector: "Technology",
     city: "San Francisco",
     state: "CA",
@@ -17298,7 +17298,7 @@ var array = [
     CEO: "Jeff Lawson",
     Website: "https://www.twilio.com",
     Ticker: "TWLO",
-    Market Cap: "29916.9"
+    market_cap: "29916.9"
   },
   {
     company: "Univision Communciations",
@@ -17306,7 +17306,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2841.0",
     profit: "133.7",
-    num. of employees: "",
+    num_of_employees: "",
     sector: "Media",
     city: "New York",
     state: "NY",
@@ -17318,7 +17318,7 @@ var array = [
     CEO: "Wade C. Davis",
     Website: "https://https://corporate.televisaunivision.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Annaly Capital Management",
@@ -17326,7 +17326,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2836.2",
     profit: "2389.9",
-    num. of employees: "171.0",
+    num_of_employees: "171.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -17338,7 +17338,7 @@ var array = [
     CEO: "David L. Finkelstein",
     Website: "https://www.annaly.com",
     Ticker: "NLY",
-    Market Cap: "10281"
+    market_cap: "10281"
   },
   {
     company: "Fleetcor Technologies",
@@ -17346,7 +17346,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2833.7",
     profit: "839.5",
-    num. of employees: "9700.0",
+    num_of_employees: "9700.0",
     sector: "Business Services",
     city: "Atlanta",
     state: "GA",
@@ -17358,7 +17358,7 @@ var array = [
     CEO: "Ronald F. Clarke",
     Website: "https://www.fleetcor.com",
     Ticker: "FLT",
-    Market Cap: "19398.4"
+    market_cap: "19398.4"
   },
   {
     company: "West Pharmaceutical Services",
@@ -17366,7 +17366,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2831.6",
     profit: "661.8",
-    num. of employees: "10065.0",
+    num_of_employees: "10065.0",
     sector: "Health Care",
     city: "Exton",
     state: "PA",
@@ -17378,7 +17378,7 @@ var array = [
     CEO: "Eric M. Green",
     Website: "https://www.westpharma.com",
     Ticker: "WST",
-    Market Cap: "30508.2"
+    market_cap: "30508.2"
   },
   {
     company: "Green Plains",
@@ -17386,7 +17386,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2827.2",
     profit: "-66.0",
-    num. of employees: "859.0",
+    num_of_employees: "859.0",
     sector: "Energy",
     city: "Omaha",
     state: "NE",
@@ -17398,7 +17398,7 @@ var array = [
     CEO: "Todd A. Becker",
     Website: "https://www.gpreinc.com",
     Ticker: "GPRE",
-    Market Cap: "1662.5"
+    market_cap: "1662.5"
   },
   {
     company: "Cracker Barrel Old Country Store",
@@ -17406,7 +17406,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2821.4",
     profit: "254.5",
-    num. of employees: "70000.0",
+    num_of_employees: "70000.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Lebanon",
     state: "TN",
@@ -17418,7 +17418,7 @@ var array = [
     CEO: "Sandra B. Cochran",
     Website: "https://www.crackerbarrel.com",
     Ticker: "CBRL",
-    Market Cap: "2757.6"
+    market_cap: "2757.6"
   },
   {
     company: "Virtu Financial",
@@ -17426,7 +17426,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2811.5",
     profit: "476.9",
-    num. of employees: "973.0",
+    num_of_employees: "973.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -17438,7 +17438,7 @@ var array = [
     CEO: "Douglas Cifu",
     Website: "https://www.virtu.com",
     Ticker: "VIRT",
-    Market Cap: "3674"
+    market_cap: "3674"
   },
   {
     company: "Teleflex",
@@ -17446,7 +17446,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2809.6",
     profit: "485.4",
-    num. of employees: "14000.0",
+    num_of_employees: "14000.0",
     sector: "Health Care",
     city: "Wayne",
     state: "PA",
@@ -17458,7 +17458,7 @@ var array = [
     CEO: "Liam J. Kelly",
     Website: "https://www.teleflex.com",
     Ticker: "TFX",
-    Market Cap: "16642.1"
+    market_cap: "16642.1"
   },
   {
     company: "Zynga",
@@ -17466,7 +17466,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2800.5",
     profit: "-104.2",
-    num. of employees: "2952.0",
+    num_of_employees: "2952.0",
     sector: "Media",
     city: "San Francisco",
     state: "CA",
@@ -17478,7 +17478,7 @@ var array = [
     CEO: "Frank D. Gibeau",
     Website: "https://www.zynga.com",
     Ticker: "",
-    Market Cap: "10463.5"
+    market_cap: "10463.5"
   },
   {
     company: "ATI",
@@ -17486,7 +17486,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2799.8",
     profit: "-38.2",
-    num. of employees: "6300.0",
+    num_of_employees: "6300.0",
     sector: "Materials",
     city: "Pittsburgh",
     state: "PA",
@@ -17498,7 +17498,7 @@ var array = [
     CEO: "Robert S. Wetherbee",
     Website: "https://www.atimaterials.com",
     Ticker: "ATI",
-    Market Cap: "3350.8"
+    market_cap: "3350.8"
   },
   {
     company: "AppLovin",
@@ -17506,7 +17506,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2793.1",
     profit: "35.4",
-    num. of employees: "1594.0",
+    num_of_employees: "1594.0",
     sector: "Technology",
     city: "Palo Alto",
     state: "CA",
@@ -17518,7 +17518,7 @@ var array = [
     CEO: "Adam Foroughi",
     Website: "https://www.applovin.com",
     Ticker: "APP",
-    Market Cap: "20696.8"
+    market_cap: "20696.8"
   },
   {
     company: "Waters",
@@ -17526,7 +17526,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2785.9",
     profit: "692.8",
-    num. of employees: "7800.0",
+    num_of_employees: "7800.0",
     sector: "Technology",
     city: "Milford",
     state: "MA",
@@ -17538,7 +17538,7 @@ var array = [
     CEO: "Udit Batra",
     Website: "https://www.waters.com",
     Ticker: "WAT",
-    Market Cap: "18783.4"
+    market_cap: "18783.4"
   },
   {
     company: "Mutual of America Life Insurance",
@@ -17546,7 +17546,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2784.8",
     profit: "50.7",
-    num. of employees: "1146.0",
+    num_of_employees: "1146.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -17558,7 +17558,7 @@ var array = [
     CEO: "John R. Greed",
     Website: "https://www.mutualofamerica.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Hovnanian Enterprises",
@@ -17566,7 +17566,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2782.9",
     profit: "607.8",
-    num. of employees: "1784.0",
+    num_of_employees: "1784.0",
     sector: "Engineering & Construction",
     city: "Matawan",
     state: "NJ",
@@ -17578,7 +17578,7 @@ var array = [
     CEO: "Ara K. Hovnanian",
     Website: "https://www.khov.com",
     Ticker: "HOV",
-    Market Cap: "371.9"
+    market_cap: "371.9"
   },
   {
     company: "Amica Mutual Insurance",
@@ -17586,7 +17586,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2777.9",
     profit: "117.1",
-    num. of employees: "3510.0",
+    num_of_employees: "3510.0",
     sector: "Financials",
     city: "Lincoln",
     state: "RI",
@@ -17598,7 +17598,7 @@ var array = [
     CEO: "Robert A. DiMuccio",
     Website: "https://www.amica.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Caleres",
@@ -17606,7 +17606,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2777.6",
     profit: "137.0",
-    num. of employees: "7200.0",
+    num_of_employees: "7200.0",
     sector: "Retailing",
     city: "St. Louis",
     state: "MO",
@@ -17618,7 +17618,7 @@ var array = [
     CEO: "Diane M. Sullivan",
     Website: "https://www.caleres.com",
     Ticker: "CAL",
-    Market Cap: "727.5"
+    market_cap: "727.5"
   },
   {
     company: "FTI Consulting",
@@ -17626,7 +17626,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2776.2",
     profit: "235.0",
-    num. of employees: "6780.0",
+    num_of_employees: "6780.0",
     sector: "Business Services",
     city: "Washington",
     state: "DC",
@@ -17638,7 +17638,7 @@ var array = [
     CEO: "Steven H. Gunby",
     Website: "https://www.fticonsulting.com",
     Ticker: "FCN",
-    Market Cap: "5400.1"
+    market_cap: "5400.1"
   },
   {
     company: "Overstock.com",
@@ -17646,7 +17646,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2773.8",
     profit: "389.4",
-    num. of employees: "1350.0",
+    num_of_employees: "1350.0",
     sector: "Retailing",
     city: "Midvale",
     state: "UT",
@@ -17658,7 +17658,7 @@ var array = [
     CEO: "Jonathan E. Johnson III",
     Website: "https://www.overstock.com",
     Ticker: "OSTK",
-    Market Cap: "1897.8"
+    market_cap: "1897.8"
   },
   {
     company: "Visteon",
@@ -17666,7 +17666,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2773.0",
     profit: "41.0",
-    num. of employees: "10000.0",
+    num_of_employees: "10000.0",
     sector: "Motor Vehicles & Parts",
     city: "Van Buren Township",
     state: "MI",
@@ -17678,7 +17678,7 @@ var array = [
     CEO: "Sachin S. Lawande",
     Website: "https://www.visteon.com",
     Ticker: "VC",
-    Market Cap: "3056.1"
+    market_cap: "3056.1"
   },
   {
     company: "G-III Apparel Group",
@@ -17686,7 +17686,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2766.5",
     profit: "200.6",
-    num. of employees: "3250.0",
+    num_of_employees: "3250.0",
     sector: "Apparel",
     city: "New York",
     state: "NY",
@@ -17698,7 +17698,7 @@ var array = [
     CEO: "Morris Goldfarb",
     Website: "https://www.giii.com",
     Ticker: "GIII",
-    Market Cap: "1296.1"
+    market_cap: "1296.1"
   },
   {
     company: "ITT",
@@ -17706,7 +17706,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2765.0",
     profit: "316.3",
-    num. of employees: "9900.0",
+    num_of_employees: "9900.0",
     sector: "Industrials",
     city: "White Plains",
     state: "NY",
@@ -17718,7 +17718,7 @@ var array = [
     CEO: "Luca Savi",
     Website: "https://www.itt.com",
     Ticker: "ITT",
-    Market Cap: "6415.4"
+    market_cap: "6415.4"
   },
   {
     company: "IDEX",
@@ -17726,7 +17726,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2764.8",
     profit: "449.4",
-    num. of employees: "7536.0",
+    num_of_employees: "7536.0",
     sector: "Industrials",
     city: "Northbrook",
     state: "IL",
@@ -17738,7 +17738,7 @@ var array = [
     CEO: "Eric D. Ashleman",
     Website: "https://www.idexcorp.com",
     Ticker: "IEX",
-    Market Cap: "14591.6"
+    market_cap: "14591.6"
   },
   {
     company: "Popular",
@@ -17746,7 +17746,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2764.8",
     profit: "934.9",
-    num. of employees: "8351.0",
+    num_of_employees: "8351.0",
     sector: "Financials",
     city: "Hato Rey",
     state: "PR",
@@ -17758,7 +17758,7 @@ var array = [
     CEO: "Ignacio Alvarez",
     Website: "https://www.popular.com",
     Ticker: "BPOP",
-    Market Cap: "6252.3"
+    market_cap: "6252.3"
   },
   {
     company: "Roku",
@@ -17766,7 +17766,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2764.6",
     profit: "242.4",
-    num. of employees: "3000.0",
+    num_of_employees: "3000.0",
     sector: "Media",
     city: "San Jose",
     state: "CA",
@@ -17778,7 +17778,7 @@ var array = [
     CEO: "Anthony J. Wood",
     Website: "https://www.roku.com",
     Ticker: "ROKU",
-    Market Cap: "16949.3"
+    market_cap: "16949.3"
   },
   {
     company: "Schnitzer Steel Industries",
@@ -17786,7 +17786,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2758.6",
     profit: "165.1",
-    num. of employees: "3167.0",
+    num_of_employees: "3167.0",
     sector: "Materials",
     city: "Portland",
     state: "OR",
@@ -17798,7 +17798,7 @@ var array = [
     CEO: "Tamara L. Lundgren",
     Website: "https://www.schnitzersteel.com",
     Ticker: "SCHN",
-    Market Cap: "1445.2"
+    market_cap: "1445.2"
   },
   {
     company: "Brookdale Senior Living",
@@ -17806,7 +17806,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2758.3",
     profit: "-99.3",
-    num. of employees: "28545.0",
+    num_of_employees: "28545.0",
     sector: "Health Care",
     city: "Brentwood",
     state: "TN",
@@ -17818,7 +17818,7 @@ var array = [
     CEO: "Lucinda M. Baier",
     Website: "https://www.brookdale.com",
     Ticker: "BKD",
-    Market Cap: "1308.3"
+    market_cap: "1308.3"
   },
   {
     company: "Werner Enterprises",
@@ -17826,7 +17826,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2734.4",
     profit: "259.1",
-    num. of employees: "13525.0",
+    num_of_employees: "13525.0",
     sector: "Transportation",
     city: "Omaha",
     state: "NE",
@@ -17838,7 +17838,7 @@ var array = [
     CEO: "Derek J. Leathers",
     Website: "https://www.werner.com",
     Ticker: "WERN",
-    Market Cap: "2697.9"
+    market_cap: "2697.9"
   },
   {
     company: "Americold Realty Trust",
@@ -17846,7 +17846,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2714.8",
     profit: "-30.5",
-    num. of employees: "16275.0",
+    num_of_employees: "16275.0",
     sector: "Financials",
     city: "Atlanta",
     state: "GA",
@@ -17858,7 +17858,7 @@ var array = [
     CEO: "George F. Chappelle Jr.",
     Website: "https://www.americold.com",
     Ticker: "COLD",
-    Market Cap: "7489.8"
+    market_cap: "7489.8"
   },
   {
     company: "SkyWest",
@@ -17866,7 +17866,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2713.5",
     profit: "111.9",
-    num. of employees: "15205.0",
+    num_of_employees: "15205.0",
     sector: "Transportation",
     city: "St. George",
     state: "UT",
@@ -17878,7 +17878,7 @@ var array = [
     CEO: "Russell A. Childs",
     Website: "https://www.skywest.com",
     Ticker: "SKYW",
-    Market Cap: "1457.6"
+    market_cap: "1457.6"
   },
   {
     company: "Primerica",
@@ -17886,7 +17886,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2709.7",
     profit: "373.4",
-    num. of employees: "3170.0",
+    num_of_employees: "3170.0",
     sector: "Financials",
     city: "Duluth",
     state: "GA",
@@ -17898,7 +17898,7 @@ var array = [
     CEO: "Glenn J. Williams",
     Website: "https://www.primerica.com",
     Ticker: "PRI",
-    Market Cap: "5326.8"
+    market_cap: "5326.8"
   },
   {
     company: "McAfee",
@@ -17906,7 +17906,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2701.0",
     profit: "849.0",
-    num. of employees: "2262.0",
+    num_of_employees: "2262.0",
     sector: "Technology",
     city: "San Jose",
     state: "CA",
@@ -17918,7 +17918,7 @@ var array = [
     CEO: "Greg Johnson",
     Website: "https://www.mcafee.com",
     Ticker: "MCFE",
-    Market Cap: "9764.5"
+    market_cap: "9764.5"
   },
   {
     company: "Nu Skin Enterprises",
@@ -17926,7 +17926,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2695.7",
     profit: "147.3",
-    num. of employees: "19600.0",
+    num_of_employees: "19600.0",
     sector: "Household Products",
     city: "Provo",
     state: "UT",
@@ -17938,7 +17938,7 @@ var array = [
     CEO: "Ryan S. Napierski",
     Website: "https://www.nuskin.com",
     Ticker: "NUS",
-    Market Cap: "2385.6"
+    market_cap: "2385.6"
   },
   {
     company: "Copart",
@@ -17946,7 +17946,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2692.5",
     profit: "936.5",
-    num. of employees: "8600.0",
+    num_of_employees: "8600.0",
     sector: "Retailing",
     city: "Dallas",
     state: "TX",
@@ -17958,7 +17958,7 @@ var array = [
     CEO: "#REF!",
     Website: "https://www.copart.com",
     Ticker: "CPRT",
-    Market Cap: "29798.8"
+    market_cap: "29798.8"
   },
   {
     company: "PROG Holdings",
@@ -17966,7 +17966,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2677.9",
     profit: "243.6",
-    num. of employees: "2023.0",
+    num_of_employees: "2023.0",
     sector: "Financials",
     city: "Draper",
     state: "UT",
@@ -17978,7 +17978,7 @@ var array = [
     CEO: "Steven A. Michaels",
     Website: "https://www.progleasing.com",
     Ticker: "PRG",
-    Market Cap: "1586.9"
+    market_cap: "1586.9"
   },
   {
     company: "Splunk",
@@ -17986,7 +17986,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2673.7",
     profit: "-1339.1",
-    num. of employees: "7000.0",
+    num_of_employees: "7000.0",
     sector: "Technology",
     city: "San Francisco",
     state: "CA",
@@ -17998,7 +17998,7 @@ var array = [
     CEO: "Gary Steele",
     Website: "https://www.splunk.com",
     Ticker: "SPLK",
-    Market Cap: "23881.6"
+    market_cap: "23881.6"
   },
   {
     company: "MRC Global",
@@ -18006,7 +18006,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2666.0",
     profit: "-14.0",
-    num. of employees: "2600.0",
+    num_of_employees: "2600.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -18018,7 +18018,7 @@ var array = [
     CEO: "Robert J. Saltiel Jr.",
     Website: "https://www.mrcglobal.com",
     Ticker: "MRC",
-    Market Cap: "995.2"
+    market_cap: "995.2"
   },
   {
     company: "Stericycle",
@@ -18026,7 +18026,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2646.9",
     profit: "-27.8",
-    num. of employees: "15465.0",
+    num_of_employees: "15465.0",
     sector: "Business Services",
     city: "Bannockburn",
     state: "IL",
@@ -18038,7 +18038,7 @@ var array = [
     CEO: "Cindy J. Miller",
     Website: "https://www.stericycle.com",
     Ticker: "SRCL",
-    Market Cap: "5415.5"
+    market_cap: "5415.5"
   },
   {
     company: "Maxim Integrated Products",
@@ -18046,7 +18046,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2632.5",
     profit: "827.3",
-    num. of employees: "7100.0",
+    num_of_employees: "7100.0",
     sector: "Technology",
     city: "San Jose",
     state: "CA",
@@ -18058,7 +18058,7 @@ var array = [
     CEO: "Vincent T. Roche",
     Website: "https://www.maximintegrated.com",
     Ticker: "MXIM",
-    Market Cap: "24490.9"
+    market_cap: "24490.9"
   },
   {
     company: "Ensign Group",
@@ -18066,7 +18066,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2627.5",
     profit: "194.7",
-    num. of employees: "25900.0",
+    num_of_employees: "25900.0",
     sector: "Health Care",
     city: "San Juan Capistrano",
     state: "CA",
@@ -18078,7 +18078,7 @@ var array = [
     CEO: "Barry R. Port",
     Website: "https://www.ensigngroup.net",
     Ticker: "ENSG",
-    Market Cap: "4958.3"
+    market_cap: "4958.3"
   },
   {
     company: "SM Energy",
@@ -18086,7 +18086,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2622.9",
     profit: "36.2",
-    num. of employees: "506.0",
+    num_of_employees: "506.0",
     sector: "Energy",
     city: "Denver",
     state: "CO",
@@ -18098,7 +18098,7 @@ var array = [
     CEO: "Herbert S. Vogel",
     Website: "https://www.sm-energy.com",
     Ticker: "SM",
-    Market Cap: "4746.5"
+    market_cap: "4746.5"
   },
   {
     company: "Kaiser Aluminum",
@@ -18106,7 +18106,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2622.0",
     profit: "-18.5",
-    num. of employees: "3957.0",
+    num_of_employees: "3957.0",
     sector: "Materials",
     city: "Foothill Ranch",
     state: "CA",
@@ -18118,7 +18118,7 @@ var array = [
     CEO: "Keith A. Harvey",
     Website: "https://www.kaiseraluminum.com",
     Ticker: "KALU",
-    Market Cap: "1493.9"
+    market_cap: "1493.9"
   },
   {
     company: "Federated Mutual Insurance",
@@ -18126,7 +18126,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2612.2",
     profit: "320.1",
-    num. of employees: "2702.0",
+    num_of_employees: "2702.0",
     sector: "Financials",
     city: "Owatonna",
     state: "MN",
@@ -18138,7 +18138,7 @@ var array = [
     CEO: "Michael G. Kerr",
     Website: "https://www.federatedinsurance.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "F5",
@@ -18146,7 +18146,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2603.4",
     profit: "331.2",
-    num. of employees: "6429.0",
+    num_of_employees: "6429.0",
     sector: "Technology",
     city: "Seattle",
     state: "WA",
@@ -18158,7 +18158,7 @@ var array = [
     CEO: "Fran?ois Locoh-Donou",
     Website: "https://www.f5.com",
     Ticker: "FFIV",
-    Market Cap: "12691.2"
+    market_cap: "12691.2"
   },
   {
     company: "Steelcase",
@@ -18166,7 +18166,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2596.2",
     profit: "26.1",
-    num. of employees: "11400.0",
+    num_of_employees: "11400.0",
     sector: "Household Products",
     city: "Grand Rapids",
     state: "MI",
@@ -18178,7 +18178,7 @@ var array = [
     CEO: "Sara E. Armbruster",
     Website: "https://www.steelcase.com",
     Ticker: "SCS",
-    Market Cap: "1339.5"
+    market_cap: "1339.5"
   },
   {
     company: "Encore Wire",
@@ -18186,7 +18186,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2592.7",
     profit: "541.4",
-    num. of employees: "1440.0",
+    num_of_employees: "1440.0",
     sector: "Industrials",
     city: "McKinney",
     state: "TX",
@@ -18198,7 +18198,7 @@ var array = [
     CEO: "Daniel Jones",
     Website: "https://www.encorewire.com",
     Ticker: "WIRE",
-    Market Cap: "2405"
+    market_cap: "2405"
   },
   {
     company: "Guess",
@@ -18206,7 +18206,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2591.6",
     profit: "171.4",
-    num. of employees: "12500.0",
+    num_of_employees: "12500.0",
     sector: "Retailing",
     city: "Los Angeles",
     state: "CA",
@@ -18218,7 +18218,7 @@ var array = [
     CEO: "Carlos E. Alberini",
     Website: "https://www.guess.com",
     Ticker: "GES",
-    Market Cap: "1305.5"
+    market_cap: "1305.5"
   },
   {
     company: "Playtika Holding",
@@ -18226,7 +18226,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2583.0",
     profit: "308.5",
-    num. of employees: "4000.0",
+    num_of_employees: "4000.0",
     sector: "Media",
     city: "Henderson",
     state: "NV",
@@ -18238,7 +18238,7 @@ var array = [
     CEO: "Robert Antokol",
     Website: "https://www.playtika.com",
     Ticker: "PLTK",
-    Market Cap: "7965.8"
+    market_cap: "7965.8"
   },
   {
     company: "Pinterest",
@@ -18246,7 +18246,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2578.0",
     profit: "316.4",
-    num. of employees: "3225.0",
+    num_of_employees: "3225.0",
     sector: "Technology",
     city: "San Francisco",
     state: "CA",
@@ -18258,7 +18258,7 @@ var array = [
     CEO: "William J. Ready",
     Website: "https://https://investor.pinterestinc.com",
     Ticker: "PINS",
-    Market Cap: "16196.9"
+    market_cap: "16196.9"
   },
   {
     company: "WeWork",
@@ -18266,7 +18266,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2570.1",
     profit: "-4439.0",
-    num. of employees: "4400.0",
+    num_of_employees: "4400.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -18278,7 +18278,7 @@ var array = [
     CEO: "Sandeep Mathrani",
     Website: "https://www.wework.com",
     Ticker: "WE",
-    Market Cap: "4937.4"
+    market_cap: "4937.4"
   },
   {
     company: "ManTech International",
@@ -18286,7 +18286,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2554.0",
     profit: "137.0",
-    num. of employees: "9800.0",
+    num_of_employees: "9800.0",
     sector: "Technology",
     city: "Herndon",
     state: "VA",
@@ -18298,7 +18298,7 @@ var array = [
     CEO: "Kevin M. Phillips",
     Website: "https://www.mantech.com",
     Ticker: "MANT",
-    Market Cap: "3517.6"
+    market_cap: "3517.6"
   },
   {
     company: "BrightView Holdings",
@@ -18306,7 +18306,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2553.6",
     profit: "46.3",
-    num. of employees: "20150.0",
+    num_of_employees: "20150.0",
     sector: "Business Services",
     city: "Blue Bell",
     state: "PA",
@@ -18318,7 +18318,7 @@ var array = [
     CEO: "Andrew V. Masterman",
     Website: "https://www.brightview.com",
     Ticker: "BV",
-    Market Cap: "1351.5"
+    market_cap: "1351.5"
   },
   {
     company: "NortonLifeLock",
@@ -18326,7 +18326,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2552.0",
     profit: "554.0",
-    num. of employees: "2800.0",
+    num_of_employees: "2800.0",
     sector: "Technology",
     city: "Tempe",
     state: "AZ",
@@ -18338,7 +18338,7 @@ var array = [
     CEO: "Vincent Pilette",
     Website: "https://www.nortonlifelock.com",
     Ticker: "NLOK",
-    Market Cap: "15441.9"
+    market_cap: "15441.9"
   },
   {
     company: "Deckers Outdoor",
@@ -18346,7 +18346,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2545.6",
     profit: "382.6",
-    num. of employees: "3400.0",
+    num_of_employees: "3400.0",
     sector: "Apparel",
     city: "Goleta",
     state: "CA",
@@ -18358,7 +18358,7 @@ var array = [
     CEO: "David Powers",
     Website: "https://www.deckers.com",
     Ticker: "DECK",
-    Market Cap: "7457.8"
+    market_cap: "7457.8"
   },
   {
     company: "Griffon",
@@ -18366,7 +18366,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2541.7",
     profit: "79.2",
-    num. of employees: "6700.0",
+    num_of_employees: "6700.0",
     sector: "Materials",
     city: "New York",
     state: "NY",
@@ -18378,7 +18378,7 @@ var array = [
     CEO: "Ronald J. Kramer",
     Website: "https://www.griffon.com",
     Ticker: "GFF",
-    Market Cap: "1127.8"
+    market_cap: "1127.8"
   },
   {
     company: "AMC Entertainment Holdings",
@@ -18386,7 +18386,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2527.9",
     profit: "-1269.1",
-    num. of employees: "17122.0",
+    num_of_employees: "17122.0",
     sector: "Media",
     city: "Leawood",
     state: "KS",
@@ -18398,7 +18398,7 @@ var array = [
     CEO: "Adam M. Aron",
     Website: "https://www.amctheatres.com",
     Ticker: "AMC",
-    Market Cap: "12733.4"
+    market_cap: "12733.4"
   },
   {
     company: "Curtiss-Wright",
@@ -18406,7 +18406,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2505.9",
     profit: "267.2",
-    num. of employees: "7800.0",
+    num_of_employees: "7800.0",
     sector: "Industrials",
     city: "Davidson",
     state: "NC",
@@ -18418,7 +18418,7 @@ var array = [
     CEO: "Lynn M. Bamford",
     Website: "https://www.curtisswright.com",
     Ticker: "CW",
-    Market Cap: "5771"
+    market_cap: "5771"
   },
   {
     company: "MYR Group",
@@ -18426,7 +18426,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2498.3",
     profit: "85.0",
-    num. of employees: "7600.0",
+    num_of_employees: "7600.0",
     sector: "Engineering & Construction",
     city: "Henderson",
     state: "CO",
@@ -18438,7 +18438,7 @@ var array = [
     CEO: "Richard S. Swartz",
     Website: "https://www.myrgroup.com",
     Ticker: "MYRG",
-    Market Cap: "1594.5"
+    market_cap: "1594.5"
   },
   {
     company: "Kontoor Brands",
@@ -18446,7 +18446,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2475.9",
     profit: "195.4",
-    num. of employees: "14000.0",
+    num_of_employees: "14000.0",
     sector: "Apparel",
     city: "Greensboro",
     state: "NC",
@@ -18458,7 +18458,7 @@ var array = [
     CEO: "Scott H. Baxter",
     Website: "https://www.kontoorbrands.com",
     Ticker: "KTB",
-    Market Cap: "2325.3"
+    market_cap: "2325.3"
   },
   {
     company: "Liberty Energy",
@@ -18466,7 +18466,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2470.8",
     profit: "-179.2",
-    num. of employees: "3601.0",
+    num_of_employees: "3601.0",
     sector: "Energy",
     city: "Denver",
     state: "CO",
@@ -18478,7 +18478,7 @@ var array = [
     CEO: "Christopher A. Wright",
     Website: "https://www.libertyfrac.com",
     Ticker: "LBRT",
-    Market Cap: "2757.9"
+    market_cap: "2757.9"
   },
   {
     company: "Knights of Columbus",
@@ -18486,7 +18486,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2467.5",
     profit: "130.3",
-    num. of employees: "749.0",
+    num_of_employees: "749.0",
     sector: "Financials",
     city: "New Haven",
     state: "CT",
@@ -18498,7 +18498,7 @@ var array = [
     CEO: "Patrick E. Kelly",
     Website: "https://www.kofc.org",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "AdaptHealth",
@@ -18506,7 +18506,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2465.1",
     profit: "156.2",
-    num. of employees: "10700.0",
+    num_of_employees: "10700.0",
     sector: "Health Care",
     city: "Plymouth Meeting",
     state: "PA",
@@ -18518,7 +18518,7 @@ var array = [
     CEO: "Stephen P. Griggs",
     Website: "https://www.adapthealth.com",
     Ticker: "AHCO",
-    Market Cap: "2146.6"
+    market_cap: "2146.6"
   },
   {
     company: "MillerKnoll",
@@ -18526,7 +18526,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2465.1",
     profit: "173.1",
-    num. of employees: "7600.0",
+    num_of_employees: "7600.0",
     sector: "Household Products",
     city: "Zeeland",
     state: "MI",
@@ -18538,7 +18538,7 @@ var array = [
     CEO: "Andrea R. Owen",
     Website: "https://www.millerknoll.com",
     Ticker: "MLKN",
-    Market Cap: "2617.7"
+    market_cap: "2617.7"
   },
   {
     company: "Equity Residential",
@@ -18546,7 +18546,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2464.0",
     profit: "1332.9",
-    num. of employees: "2400.0",
+    num_of_employees: "2400.0",
     sector: "Financials",
     city: "Chicago",
     state: "IL",
@@ -18558,7 +18558,7 @@ var array = [
     CEO: "Mark J. Parrell",
     Website: "https://www.equityapartments.com",
     Ticker: "EQR",
-    Market Cap: "33802.5"
+    market_cap: "33802.5"
   },
   {
     company: "DexCom",
@@ -18566,7 +18566,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2448.5",
     profit: "154.7",
-    num. of employees: "6650.0",
+    num_of_employees: "6650.0",
     sector: "Health Care",
     city: "San Diego",
     state: "CA",
@@ -18578,7 +18578,7 @@ var array = [
     CEO: "Kevin Sayer",
     Website: "https://www.dexcom.com",
     Ticker: "DXCM",
-    Market Cap: "39152"
+    market_cap: "39152"
   },
   {
     company: "Rollins",
@@ -18586,7 +18586,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2424.3",
     profit: "350.7",
-    num. of employees: "16482.0",
+    num_of_employees: "16482.0",
     sector: "Business Services",
     city: "Atlanta",
     state: "GA",
@@ -18598,7 +18598,7 @@ var array = [
     CEO: "Gary W. Rollins",
     Website: "https://www.rollins.com",
     Ticker: "ROL",
-    Market Cap: "17260.7"
+    market_cap: "17260.7"
   },
   {
     company: "Genesco",
@@ -18606,7 +18606,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2422.1",
     profit: "114.9",
-    num. of employees: "11700.0",
+    num_of_employees: "11700.0",
     sector: "Retailing",
     city: "Nashville",
     state: "TN",
@@ -18618,7 +18618,7 @@ var array = [
     CEO: "Mimi Eckel Vaughn",
     Website: "https://www.genesco.com",
     Ticker: "GCO",
-    Market Cap: "868.7"
+    market_cap: "868.7"
   },
   {
     company: "Bruker",
@@ -18626,7 +18626,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2417.9",
     profit: "277.1",
-    num. of employees: "7765.0",
+    num_of_employees: "7765.0",
     sector: "Technology",
     city: "Billerica",
     state: "MA",
@@ -18638,7 +18638,7 @@ var array = [
     CEO: "Frank H. Laukien",
     Website: "https://www.bruker.com",
     Ticker: "BRKR",
-    Market Cap: "9694.7"
+    market_cap: "9694.7"
   },
   {
     company: "Joann",
@@ -18646,7 +18646,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2417.6",
     profit: "56.7",
-    num. of employees: "13530.0",
+    num_of_employees: "13530.0",
     sector: "Retailing",
     city: "Hudson",
     state: "OH",
@@ -18658,7 +18658,7 @@ var array = [
     CEO: "Wade D. Miquelon",
     Website: "https://www.joann.com",
     Ticker: "JOAN",
-    Market Cap: "463.2"
+    market_cap: "463.2"
   },
   {
     company: "Wolverine World Wide",
@@ -18666,7 +18666,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2414.9",
     profit: "68.6",
-    num. of employees: "4400.0",
+    num_of_employees: "4400.0",
     sector: "Apparel",
     city: "Rockford",
     state: "MI",
@@ -18678,7 +18678,7 @@ var array = [
     CEO: "Brendan L. Hoffman",
     Website: "https://www.wolverineworldwide.com",
     Ticker: "WWW",
-    Market Cap: "1836.1"
+    market_cap: "1836.1"
   },
   {
     company: "Gray Television",
@@ -18686,7 +18686,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2413.0",
     profit: "90.0",
-    num. of employees: "8801.0",
+    num_of_employees: "8801.0",
     sector: "Media",
     city: "Atlanta",
     state: "GA",
@@ -18698,7 +18698,7 @@ var array = [
     CEO: "#REF!",
     Website: "https://www.gray.tv",
     Ticker: "GTN",
-    Market Cap: "2093.2"
+    market_cap: "2093.2"
   },
   {
     company: "Affiliated Managers Group",
@@ -18706,7 +18706,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2412.4",
     profit: "565.7",
-    num. of employees: "4050.0",
+    num_of_employees: "4050.0",
     sector: "Financials",
     city: "West Palm Beach",
     state: "FL",
@@ -18718,7 +18718,7 @@ var array = [
     CEO: "Jay C. Horgen",
     Website: "https://www.amg.com",
     Ticker: "AMG",
-    Market Cap: "5606.8"
+    market_cap: "5606.8"
   },
   {
     company: "Summit Materials",
@@ -18726,7 +18726,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2409.7",
     profit: "152.2",
-    num. of employees: "5500.0",
+    num_of_employees: "5500.0",
     sector: "Materials",
     city: "Denver",
     state: "CO",
@@ -18738,7 +18738,7 @@ var array = [
     CEO: "Anne P. Noonan",
     Website: "https://www.summit-materials.com",
     Ticker: "SUM",
-    Market Cap: "3687.8"
+    market_cap: "3687.8"
   },
   {
     company: "SLM",
@@ -18746,7 +18746,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2409.3",
     profit: "1160.5",
-    num. of employees: "1450.0",
+    num_of_employees: "1450.0",
     sector: "Financials",
     city: "Newark",
     state: "DE",
@@ -18758,7 +18758,7 @@ var array = [
     CEO: "Jonathan W. Witter",
     Website: "https://www.salliemae.com",
     Ticker: "SLM",
-    Market Cap: "5129.7"
+    market_cap: "5129.7"
   },
   {
     company: "Belden",
@@ -18766,7 +18766,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2408.1",
     profit: "63.9",
-    num. of employees: "7400.0",
+    num_of_employees: "7400.0",
     sector: "Industrials",
     city: "St. Louis",
     state: "MO",
@@ -18778,7 +18778,7 @@ var array = [
     CEO: "Roel Vestjens",
     Website: "https://www.belden.com",
     Ticker: "BDC",
-    Market Cap: "2492.5"
+    market_cap: "2492.5"
   },
   {
     company: "Allison Transmission Holdings",
@@ -18786,7 +18786,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2402.0",
     profit: "442.0",
-    num. of employees: "3400.0",
+    num_of_employees: "3400.0",
     sector: "Motor Vehicles & Parts",
     city: "Indianapolis",
     state: "IN",
@@ -18798,7 +18798,7 @@ var array = [
     CEO: "David S. Graziosi",
     Website: "https://www.allisontransmission.com",
     Ticker: "ALSN",
-    Market Cap: "3810.6"
+    market_cap: "3810.6"
   },
   {
     company: "Element Solutions",
@@ -18806,7 +18806,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2399.8",
     profit: "203.3",
-    num. of employees: "5300.0",
+    num_of_employees: "5300.0",
     sector: "Chemicals",
     city: "Fort Lauderdale",
     state: "FL",
@@ -18818,7 +18818,7 @@ var array = [
     CEO: "Benjamin Gliklich",
     Website: "https://www.elementsolutionsinc.com",
     Ticker: "ESI",
-    Market Cap: "5434.8"
+    market_cap: "5434.8"
   },
   {
     company: "Portland General Electric",
@@ -18826,7 +18826,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2396.0",
     profit: "244.0",
-    num. of employees: "2839.0",
+    num_of_employees: "2839.0",
     sector: "Energy",
     city: "Portland",
     state: "OR",
@@ -18838,7 +18838,7 @@ var array = [
     CEO: "Maria M. Pope",
     Website: "https://www.portlandgeneral.com",
     Ticker: "POR",
-    Market Cap: "4940"
+    market_cap: "4940"
   },
   {
     company: "REV Group",
@@ -18846,7 +18846,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2380.8",
     profit: "44.4",
-    num. of employees: "6800.0",
+    num_of_employees: "6800.0",
     sector: "Motor Vehicles & Parts",
     city: "Brookfield",
     state: "WI",
@@ -18858,7 +18858,7 @@ var array = [
     CEO: "Rodney N. Rushing",
     Website: "https://www.revgroup.com",
     Ticker: "REVG",
-    Market Cap: "843.4"
+    market_cap: "843.4"
   },
   {
     company: "Acadia Healthcare",
@@ -18866,7 +18866,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2376.9",
     profit: "190.6",
-    num. of employees: "19200.0",
+    num_of_employees: "19200.0",
     sector: "Health Care",
     city: "Franklin",
     state: "TN",
@@ -18878,7 +18878,7 @@ var array = [
     CEO: "Christopher H. Hunter",
     Website: "https://www.acadiahealthcare.com",
     Ticker: "ACHC",
-    Market Cap: "5891.3"
+    market_cap: "5891.3"
   },
   {
     company: "Alexandria Real Estate Equities",
@@ -18886,7 +18886,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2373.6",
     profit: "571.2",
-    num. of employees: "559.0",
+    num_of_employees: "559.0",
     sector: "Financials",
     city: "Pasadena",
     state: "CA",
@@ -18898,7 +18898,7 @@ var array = [
     CEO: "Peter M. Moglia",
     Website: "https://www.are.com",
     Ticker: "ARE",
-    Market Cap: "32188.6"
+    market_cap: "32188.6"
   },
   {
     company: "Nordson",
@@ -18906,7 +18906,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2362.2",
     profit: "454.4",
-    num. of employees: "6813.0",
+    num_of_employees: "6813.0",
     sector: "Industrials",
     city: "Westlake",
     state: "OH",
@@ -18918,7 +18918,7 @@ var array = [
     CEO: "Sundaram Nagarajan",
     Website: "https://www.nordson.com",
     Ticker: "NDSN",
-    Market Cap: "13157.1"
+    market_cap: "13157.1"
   },
   {
     company: "NewMarket",
@@ -18926,7 +18926,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2356.1",
     profit: "190.9",
-    num. of employees: "2104.0",
+    num_of_employees: "2104.0",
     sector: "Chemicals",
     city: "Richmond",
     state: "VA",
@@ -18938,7 +18938,7 @@ var array = [
     CEO: "Thomas E. Gottwald",
     Website: "https://www.newmarket.com",
     Ticker: "NEU",
-    Market Cap: "3346.7"
+    market_cap: "3346.7"
   },
   {
     company: "Ohio National Mutual",
@@ -18946,7 +18946,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2346.5",
     profit: "-85.2",
-    num. of employees: "1082.0",
+    num_of_employees: "1082.0",
     sector: "Financials",
     city: "Cincinnati",
     state: "OH",
@@ -18958,7 +18958,7 @@ var array = [
     CEO: "Barbara Turner",
     Website: "https://www.ohionational.com",
     Ticker: "",
-    Market Cap: ""
+    market_cap: ""
   },
   {
     company: "Stepan",
@@ -18966,7 +18966,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2346.0",
     profit: "137.8",
-    num. of employees: "2439.0",
+    num_of_employees: "2439.0",
     sector: "Chemicals",
     city: "Northbrook",
     state: "IL",
@@ -18978,7 +18978,7 @@ var array = [
     CEO: "Scott R. Behrens",
     Website: "https://www.stepan.com",
     Ticker: "SCL",
-    Market Cap: "2215.6"
+    market_cap: "2215.6"
   },
   {
     company: "Valhi",
@@ -18986,7 +18986,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2335.4",
     profit: "127.2",
-    num. of employees: "2847.0",
+    num_of_employees: "2847.0",
     sector: "Chemicals",
     city: "Dallas",
     state: "TX",
@@ -18998,7 +18998,7 @@ var array = [
     CEO: "Robert D. Graham",
     Website: "https://www.valhi.net",
     Ticker: "VHI",
-    Market Cap: "828.8"
+    market_cap: "828.8"
   },
   {
     company: "Hilton Grand Vacations",
@@ -19006,7 +19006,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2335.0",
     profit: "176.0",
-    num. of employees: "13000.0",
+    num_of_employees: "13000.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Orlando",
     state: "FL",
@@ -19018,7 +19018,7 @@ var array = [
     CEO: "Mark D. Wang",
     Website: "https://www.hgv.com",
     Ticker: "HGV",
-    Market Cap: "6247.9"
+    market_cap: "6247.9"
   },
   {
     company: "Cooper-Standard Holdings",
@@ -19026,7 +19026,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2330.2",
     profit: "-322.8",
-    num. of employees: "21300.0",
+    num_of_employees: "21300.0",
     sector: "Motor Vehicles & Parts",
     city: "Northville",
     state: "MI",
@@ -19038,7 +19038,7 @@ var array = [
     CEO: "Jeffrey S. Edwards",
     Website: "https://www.cooperstandard.com",
     Ticker: "CPS",
-    Market Cap: "149"
+    market_cap: "149"
   },
   {
     company: "Etsy",
@@ -19046,7 +19046,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2329.1",
     profit: "493.5",
-    num. of employees: "2402.0",
+    num_of_employees: "2402.0",
     sector: "Technology",
     city: "Brooklyn",
     state: "NY",
@@ -19058,7 +19058,7 @@ var array = [
     CEO: "Josh Silverman",
     Website: "https://www.etsy.com",
     Ticker: "ETSY",
-    Market Cap: "12423"
+    market_cap: "12423"
   },
   {
     company: "Crocs",
@@ -19066,7 +19066,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2313.4",
     profit: "725.7",
-    num. of employees: "5770.0",
+    num_of_employees: "5770.0",
     sector: "Apparel",
     city: "Broomfield",
     state: "CO",
@@ -19078,7 +19078,7 @@ var array = [
     CEO: "Andrew Rees",
     Website: "https://www.crocs.com",
     Ticker: "CROX",
-    Market Cap: "4811"
+    market_cap: "4811"
   },
   {
     company: "Olympic Steel",
@@ -19086,7 +19086,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2312.3",
     profit: "121.1",
-    num. of employees: "1642.0",
+    num_of_employees: "1642.0",
     sector: "Materials",
     city: "Highland Hills",
     state: "OH",
@@ -19098,7 +19098,7 @@ var array = [
     CEO: "Richard T. Marabito",
     Website: "https://www.olysteel.com",
     Ticker: "ZEUS",
-    Market Cap: "427.8"
+    market_cap: "427.8"
   },
   {
     company: "Signature Bank",
@@ -19106,7 +19106,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2311.3",
     profit: "918.4",
-    num. of employees: "1854.0",
+    num_of_employees: "1854.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -19118,7 +19118,7 @@ var array = [
     CEO: "Joseph J. DePaolo",
     Website: "https://www.signatureny.com",
     Ticker: "SBNY",
-    Market Cap: "18416.9"
+    market_cap: "18416.9"
   },
   {
     company: "SBA Communications",
@@ -19126,7 +19126,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2308.8",
     profit: "237.6",
-    num. of employees: "1596.0",
+    num_of_employees: "1596.0",
     sector: "Financials",
     city: "Boca Raton",
     state: "FL",
@@ -19138,7 +19138,7 @@ var array = [
     CEO: "Jeffrey A. Stoops",
     Website: "https://www.sbasite.com",
     Ticker: "SBAC",
-    Market Cap: "37168.7"
+    market_cap: "37168.7"
   },
   {
     company: "Murphy Oil",
@@ -19146,7 +19146,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2300.1",
     profit: "-73.7",
-    num. of employees: "696.0",
+    num_of_employees: "696.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -19158,7 +19158,7 @@ var array = [
     CEO: "Roger W. Jenkins",
     Website: "https://www.murphyoilcorp.com",
     Ticker: "MUR",
-    Market Cap: "6275.3"
+    market_cap: "6275.3"
   },
   {
     company: "Entegris",
@@ -19166,7 +19166,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2298.9",
     profit: "409.1",
-    num. of employees: "6850.0",
+    num_of_employees: "6850.0",
     sector: "Technology",
     city: "Billerica",
     state: "MA",
@@ -19178,7 +19178,7 @@ var array = [
     CEO: "Bertrand Loy",
     Website: "https://www.entegris.com",
     Ticker: "ENTG",
-    Market Cap: "17830.9"
+    market_cap: "17830.9"
   },
   {
     company: "AvalonBay Communities",
@@ -19186,7 +19186,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2294.9",
     profit: "1004.3",
-    num. of employees: "2883.0",
+    num_of_employees: "2883.0",
     sector: "Financials",
     city: "Arlington",
     state: "VA",
@@ -19198,7 +19198,7 @@ var array = [
     CEO: "Benjamin W. Schall",
     Website: "https://www.avalonbay.com",
     Ticker: "AVB",
-    Market Cap: "34710.3"
+    market_cap: "34710.3"
   },
   {
     company: "Saia",
@@ -19206,7 +19206,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2288.7",
     profit: "253.2",
-    num. of employees: "11600.0",
+    num_of_employees: "11600.0",
     sector: "Transportation",
     city: "Johns Creek",
     state: "GA",
@@ -19218,7 +19218,7 @@ var array = [
     CEO: "Frederick J. Holzgrefe III",
     Website: "https://www.saia.com",
     Ticker: "SAIA",
-    Market Cap: "6438.4"
+    market_cap: "6438.4"
   },
   {
     company: "E.W. Scripps",
@@ -19226,7 +19226,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2283.5",
     profit: "122.7",
-    num. of employees: "5600.0",
+    num_of_employees: "5600.0",
     sector: "Media",
     city: "Cincinnati",
     state: "OH",
@@ -19238,7 +19238,7 @@ var array = [
     CEO: "Adam Symson",
     Website: "https://www.scripps.com",
     Ticker: "SSP",
-    Market Cap: "1154"
+    market_cap: "1154"
   },
   {
     company: "TTEC Holdings",
@@ -19246,7 +19246,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2273.1",
     profit: "141.0",
-    num. of employees: "65000.0",
+    num_of_employees: "65000.0",
     sector: "Technology",
     city: "Englewood",
     state: "CO",
@@ -19258,7 +19258,7 @@ var array = [
     CEO: "Kenneth D. Tuchman",
     Website: "https://www.ttec.com",
     Ticker: "TTEC",
-    Market Cap: "3878"
+    market_cap: "3878"
   },
   {
     company: "Sun Communities",
@@ -19266,7 +19266,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2272.6",
     profit: "380.2",
-    num. of employees: "5455.0",
+    num_of_employees: "5455.0",
     sector: "Financials",
     city: "Southfield",
     state: "MI",
@@ -19278,7 +19278,7 @@ var array = [
     CEO: "Gary A. Shiffman",
     Website: "https://www.suncommunities.com",
     Ticker: "SUI",
-    Market Cap: "20372.8"
+    market_cap: "20372.8"
   },
   {
     company: "Alpha Metallurgical Resources",
@@ -19286,7 +19286,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2258.6",
     profit: "288.8",
-    num. of employees: "3500.0",
+    num_of_employees: "3500.0",
     sector: "Energy",
     city: "Bristol",
     state: "TN",
@@ -19298,7 +19298,7 @@ var array = [
     CEO: "David J. Stetson",
     Website: "https://www.alphametresources.com",
     Ticker: "AMR",
-    Market Cap: "2447.5"
+    market_cap: "2447.5"
   },
   {
     company: "GEO Group",
@@ -19306,7 +19306,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2256.6",
     profit: "77.4",
-    num. of employees: "15800.0",
+    num_of_employees: "15800.0",
     sector: "Business Services",
     city: "Boca Raton",
     state: "FL",
@@ -19318,7 +19318,7 @@ var array = [
     CEO: "Jose Gordo",
     Website: "https://www.geogroup.com",
     Ticker: "GEO",
-    Market Cap: "809.8"
+    market_cap: "809.8"
   },
   {
     company: "Viasat",
@@ -19326,7 +19326,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2256.1",
     profit: "3.7",
-    num. of employees: "5800.0",
+    num_of_employees: "5800.0",
     sector: "Technology",
     city: "Carlsbad",
     state: "CA",
@@ -19338,7 +19338,7 @@ var array = [
     CEO: "Mark D. Dankberg",
     Website: "https://www.viasat.com",
     Ticker: "VSAT",
-    Market Cap: "3630.4"
+    market_cap: "3630.4"
   },
   {
     company: "Benchmark Electronics",
@@ -19346,7 +19346,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2255.3",
     profit: "35.8",
-    num. of employees: "10900.0",
+    num_of_employees: "10900.0",
     sector: "Technology",
     city: "Tempe",
     state: "AZ",
@@ -19358,7 +19358,7 @@ var array = [
     CEO: "Jeffrey W. Benck",
     Website: "https://www.bench.com",
     Ticker: "BHE",
-    Market Cap: "881.4"
+    market_cap: "881.4"
   },
   {
     company: "Kar Auction Services",
@@ -19366,7 +19366,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2251.6",
     profit: "66.5",
-    num. of employees: "8928.0",
+    num_of_employees: "8928.0",
     sector: "Wholesalers",
     city: "Carmel",
     state: "IN",
@@ -19378,7 +19378,7 @@ var array = [
     CEO: "Peter J. Kelly",
     Website: "https://www.karglobal.com",
     Ticker: "KAR",
-    Market Cap: "2187.3"
+    market_cap: "2187.3"
   },
   {
     company: "TTM Technologies",
@@ -19386,7 +19386,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2248.7",
     profit: "54.4",
-    num. of employees: "16100.0",
+    num_of_employees: "16100.0",
     sector: "Technology",
     city: "Santa Ana",
     state: "CA",
@@ -19398,7 +19398,7 @@ var array = [
     CEO: "Thomas T. Edman",
     Website: "https://www.ttm.com",
     Ticker: "TTMI",
-    Market Cap: "1506.2"
+    market_cap: "1506.2"
   },
   {
     company: "Kirby",
@@ -19406,7 +19406,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2246.7",
     profit: "-247.0",
-    num. of employees: "5125.0",
+    num_of_employees: "5125.0",
     sector: "Transportation",
     city: "Houston",
     state: "TX",
@@ -19418,7 +19418,7 @@ var array = [
     CEO: "David W. Grzebinski",
     Website: "https://www.kirbycorp.com",
     Ticker: "KEX",
-    Market Cap: "4345.9"
+    market_cap: "4345.9"
   },
   {
     company: "Woodward",
@@ -19426,7 +19426,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2245.8",
     profit: "208.6",
-    num. of employees: "7200.0",
+    num_of_employees: "7200.0",
     sector: "Aerospace & Defense",
     city: "Fort Collins",
     state: "CO",
@@ -19438,7 +19438,7 @@ var array = [
     CEO: "Charles Blankenship Jr.",
     Website: "https://www.woodward.com",
     Ticker: "WWD",
-    Market Cap: "7882.4"
+    market_cap: "7882.4"
   },
   {
     company: "Clear Channel Outdoor Holdings",
@@ -19446,7 +19446,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2241.1",
     profit: "-433.8",
-    num. of employees: "4600.0",
+    num_of_employees: "4600.0",
     sector: "Business Services",
     city: "San Antonio",
     state: "TX",
@@ -19458,7 +19458,7 @@ var array = [
     CEO: "Scott R. Wells",
     Website: "https://www.clearchanneloutdoor.com",
     Ticker: "CCO",
-    Market Cap: "1630.9"
+    market_cap: "1630.9"
   },
   {
     company: "Spire",
@@ -19466,7 +19466,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2235.5",
     profit: "271.7",
-    num. of employees: "3710.0",
+    num_of_employees: "3710.0",
     sector: "Energy",
     city: "St. Louis",
     state: "MO",
@@ -19478,7 +19478,7 @@ var array = [
     CEO: "Suzanne Sitherwood",
     Website: "https://www.spireenergy.com",
     Ticker: "SR",
-    Market Cap: "3713.6"
+    market_cap: "3713.6"
   },
   {
     company: "Vista Outdoor",
@@ -19486,7 +19486,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2225.5",
     profit: "266.0",
-    num. of employees: "5900.0",
+    num_of_employees: "5900.0",
     sector: "Business Services",
     city: "Anoka",
     state: "MN",
@@ -19498,7 +19498,7 @@ var array = [
     CEO: "Christopher T. Metz",
     Website: "https://www.vistaoutdoor.com",
     Ticker: "VSTO",
-    Market Cap: "2007.9"
+    market_cap: "2007.9"
   },
   {
     company: "Surgery Partners",
@@ -19506,7 +19506,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2225.1",
     profit: "-70.9",
-    num. of employees: "9600.0",
+    num_of_employees: "9600.0",
     sector: "Health Care",
     city: "Brentwood",
     state: "TN",
@@ -19518,7 +19518,7 @@ var array = [
     CEO: "J. Eric Evans",
     Website: "https://www.surgerypartners.com",
     Ticker: "SGRY",
-    Market Cap: "4919.1"
+    market_cap: "4919.1"
   },
   {
     company: "LHC Group",
@@ -19526,7 +19526,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2219.6",
     profit: "115.7",
-    num. of employees: "23000.0",
+    num_of_employees: "23000.0",
     sector: "Health Care",
     city: "Lafayette",
     state: "LA",
@@ -19538,7 +19538,7 @@ var array = [
     CEO: "Keith G. Myers",
     Website: "https://www.lhcgroup.com",
     Ticker: "LHCG",
-    Market Cap: "5229.6"
+    market_cap: "5229.6"
   },
   {
     company: "Amedisys",
@@ -19546,7 +19546,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2214.1",
     profit: "209.1",
-    num. of employees: "21000.0",
+    num_of_employees: "21000.0",
     sector: "Health Care",
     city: "Baton Rouge",
     state: "LA",
@@ -19558,7 +19558,7 @@ var array = [
     CEO: "Christopher T. Gerard",
     Website: "https://www.amedisys.com",
     Ticker: "AMED",
-    Market Cap: "5603.9"
+    market_cap: "5603.9"
   },
   {
     company: "Century Aluminum",
@@ -19566,7 +19566,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2212.5",
     profit: "-167.1",
-    num. of employees: "2512.0",
+    num_of_employees: "2512.0",
     sector: "Materials",
     city: "Chicago",
     state: "IL",
@@ -19578,7 +19578,7 @@ var array = [
     CEO: "Jesse E. Gary",
     Website: "https://www.centuryaluminum.com",
     Ticker: "CENX",
-    Market Cap: "2400.3"
+    market_cap: "2400.3"
   },
   {
     company: "Arch Resources",
@@ -19586,7 +19586,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2208.0",
     profit: "337.6",
-    num. of employees: "3303.0",
+    num_of_employees: "3303.0",
     sector: "Energy",
     city: "St. Louis",
     state: "MO",
@@ -19598,7 +19598,7 @@ var array = [
     CEO: "Paul A. Lang",
     Website: "https://www.archrsc.com",
     Ticker: "ARCH",
-    Market Cap: "2126.2"
+    market_cap: "2126.2"
   },
   {
     company: "Aerojet Rocketdyne Holdings",
@@ -19606,7 +19606,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2188.0",
     profit: "143.7",
-    num. of employees: "5000.0",
+    num_of_employees: "5000.0",
     sector: "Aerospace & Defense",
     city: "El Segundo",
     state: "CA",
@@ -19618,7 +19618,7 @@ var array = [
     CEO: "Eileen P. Drake",
     Website: "https://www.aerojetrocketdyne.com",
     Ticker: "AJRD",
-    Market Cap: "3169.4"
+    market_cap: "3169.4"
   },
   {
     company: "Sleep Number",
@@ -19626,7 +19626,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2184.9",
     profit: "153.7",
-    num. of employees: "5388.0",
+    num_of_employees: "5388.0",
     sector: "Retailing",
     city: "Minneapolis",
     state: "MN",
@@ -19638,7 +19638,7 @@ var array = [
     CEO: "Shelly R. Ibach",
     Website: "https://www.sleepnumber.com",
     Ticker: "SNBR",
-    Market Cap: "1123.7"
+    market_cap: "1123.7"
   },
   {
     company: "HNI",
@@ -19646,7 +19646,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2184.4",
     profit: "59.8",
-    num. of employees: "8000.0",
+    num_of_employees: "8000.0",
     sector: "Household Products",
     city: "Muscatine",
     state: "IA",
@@ -19658,7 +19658,7 @@ var array = [
     CEO: "Jeffrey D. Lorenger",
     Website: "https://www.hnicorp.com",
     Ticker: "HNI",
-    Market Cap: "1568.7"
+    market_cap: "1568.7"
   },
   {
     company: "Pure Storage",
@@ -19666,7 +19666,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2180.8",
     profit: "-143.3",
-    num. of employees: "4200.0",
+    num_of_employees: "4200.0",
     sector: "Technology",
     city: "Mountain View",
     state: "CA",
@@ -19678,7 +19678,7 @@ var array = [
     CEO: "Charles H. Giancarlo",
     Website: "https://www.purestorage.com",
     Ticker: "PSTG",
-    Market Cap: "10238"
+    market_cap: "10238"
   },
   {
     company: "TrueBlue",
@@ -19686,7 +19686,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2173.6",
     profit: "61.6",
-    num. of employees: "6400.0",
+    num_of_employees: "6400.0",
     sector: "Business Services",
     city: "Tacoma",
     state: "WA",
@@ -19698,7 +19698,7 @@ var array = [
     CEO: "Steven C. Cooper",
     Website: "https://www.trueblue.com",
     Ticker: "TBI",
-    Market Cap: "995.6"
+    market_cap: "995.6"
   },
   {
     company: "Party City Holdco",
@@ -19706,7 +19706,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2171.1",
     profit: "-6.5",
-    num. of employees: "11450.0",
+    num_of_employees: "11450.0",
     sector: "Retailing",
     city: "Elmsford",
     state: "NY",
@@ -19718,7 +19718,7 @@ var array = [
     CEO: "Brad Weston",
     Website: "https://www.partycity.com",
     Ticker: "PRTY",
-    Market Cap: "402.6"
+    market_cap: "402.6"
   },
   {
     company: "Dun & Bradstreet Holdings",
@@ -19726,7 +19726,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2165.6",
     profit: "-71.7",
-    num. of employees: "6296.0",
+    num_of_employees: "6296.0",
     sector: "Business Services",
     city: "Jacksonville",
     state: "FL",
@@ -19738,7 +19738,7 @@ var array = [
     CEO: "Anthony M. Jabbour",
     Website: "https://www.dnb.com",
     Ticker: "DNB",
-    Market Cap: "7554"
+    market_cap: "7554"
   },
   {
     company: "Dropbox",
@@ -19746,7 +19746,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2157.9",
     profit: "335.8",
-    num. of employees: "2667.0",
+    num_of_employees: "2667.0",
     sector: "Technology",
     city: "San Francisco",
     state: "CA",
@@ -19758,7 +19758,7 @@ var array = [
     CEO: "Andrew W. Houston",
     Website: "https://www.dropbox.com",
     Ticker: "DBX",
-    Market Cap: "8873.5"
+    market_cap: "8873.5"
   },
   {
     company: "New Jersey Resources",
@@ -19766,7 +19766,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2156.6",
     profit: "117.9",
-    num. of employees: "1251.0",
+    num_of_employees: "1251.0",
     sector: "Energy",
     city: "Wall",
     state: "NJ",
@@ -19778,7 +19778,7 @@ var array = [
     CEO: "Stephen D. Westhoven",
     Website: "https://www.njresources.com",
     Ticker: "NJR",
-    Market Cap: "4405.4"
+    market_cap: "4405.4"
   },
   {
     company: "Acushnet Holdings",
@@ -19786,7 +19786,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2147.9",
     profit: "178.9",
-    num. of employees: "6500.0",
+    num_of_employees: "6500.0",
     sector: "Hotels, Restaurants & Leisure",
     city: "Fairhaven",
     state: "MA",
@@ -19798,7 +19798,7 @@ var array = [
     CEO: "David Maher",
     Website: "https://www.acushnetholdingscorp.com",
     Ticker: "GOLF",
-    Market Cap: "2914"
+    market_cap: "2914"
   },
   {
     company: "Harsco",
@@ -19806,7 +19806,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2147.0",
     profit: "-3.2",
-    num. of employees: "12000.0",
+    num_of_employees: "12000.0",
     sector: "Business Services",
     city: "Camp Hill",
     state: "PA",
@@ -19818,7 +19818,7 @@ var array = [
     CEO: "F. Nicholas Grasberger III",
     Website: "https://www.harsco.com",
     Ticker: "HSC",
-    Market Cap: "969.7"
+    market_cap: "969.7"
   },
   {
     company: "Beazer Homes USA",
@@ -19826,7 +19826,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2140.3",
     profit: "122.0",
-    num. of employees: "1052.0",
+    num_of_employees: "1052.0",
     sector: "Engineering & Construction",
     city: "Atlanta",
     state: "GA",
@@ -19838,7 +19838,7 @@ var array = [
     CEO: "Allan P. Merrill",
     Website: "https://www.beazer.com",
     Ticker: "BZH",
-    Market Cap: "478.8"
+    market_cap: "478.8"
   },
   {
     company: "Chemed",
@@ -19846,7 +19846,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2139.3",
     profit: "268.6",
-    num. of employees: "14137.0",
+    num_of_employees: "14137.0",
     sector: "Health Care",
     city: "Cincinnati",
     state: "OH",
@@ -19858,7 +19858,7 @@ var array = [
     CEO: "Kevin J. McNamara",
     Website: "https://www.chemed.com",
     Ticker: "CHE",
-    Market Cap: "7592.5"
+    market_cap: "7592.5"
   },
   {
     company: "Genesis Energy",
@@ -19866,7 +19866,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2125.5",
     profit: "-165.1",
-    num. of employees: "1898.0",
+    num_of_employees: "1898.0",
     sector: "Energy",
     city: "Houston",
     state: "TX",
@@ -19878,7 +19878,7 @@ var array = [
     CEO: "Grant E. Sims",
     Website: "https://www.genesisenergy.com",
     Ticker: "GEL",
-    Market Cap: "1435.4"
+    market_cap: "1435.4"
   },
   {
     company: "BWX Technologies",
@@ -19886,7 +19886,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2124.1",
     profit: "305.9",
-    num. of employees: "6600.0",
+    num_of_employees: "6600.0",
     sector: "Aerospace & Defense",
     city: "Lynchburg",
     state: "VA",
@@ -19898,7 +19898,7 @@ var array = [
     CEO: "Rex D. Geveden",
     Website: "https://www.bwxt.com",
     Ticker: "BWXT",
-    Market Cap: "4925.6"
+    market_cap: "4925.6"
   },
   {
     company: "Vizio Holding",
@@ -19906,7 +19906,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2124.0",
     profit: "-39.4",
-    num. of employees: "800.0",
+    num_of_employees: "800.0",
     sector: "Industrials",
     city: "Irvine",
     state: "CA",
@@ -19918,7 +19918,7 @@ var array = [
     CEO: "William W. Wang",
     Website: "https://www.vizio.com",
     Ticker: "VZIO",
-    Market Cap: "1705.1"
+    market_cap: "1705.1"
   },
   {
     company: "1-800-Flowers.com",
@@ -19926,7 +19926,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2122.2",
     profit: "118.7",
-    num. of employees: "4800.0",
+    num_of_employees: "4800.0",
     sector: "Retailing",
     city: "Jericho",
     state: "NY",
@@ -19938,7 +19938,7 @@ var array = [
     CEO: "Christopher G. McCann",
     Website: "https://www.1800flowers.com",
     Ticker: "FLWS",
-    Market Cap: "830"
+    market_cap: "830"
   },
   {
     company: "Cowen",
@@ -19946,7 +19946,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2112.8",
     profit: "295.6",
-    num. of employees: "1534.0",
+    num_of_employees: "1534.0",
     sector: "Financials",
     city: "New York",
     state: "NY",
@@ -19958,7 +19958,7 @@ var array = [
     CEO: "Jeffrey Solomon",
     Website: "https://www.cowen.com",
     Ticker: "COWN",
-    Market Cap: "1078"
+    market_cap: "1078"
   },
   {
     company: "Ashland",
@@ -19966,7 +19966,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2111.0",
     profit: "220.0",
-    num. of employees: "4100.0",
+    num_of_employees: "4100.0",
     sector: "Chemicals",
     city: "Wilmington",
     state: "DE",
@@ -19978,7 +19978,7 @@ var array = [
     CEO: "Guillermo Novo",
     Website: "https://www.ashland.com",
     Ticker: "ASH",
-    Market Cap: "5601.9"
+    market_cap: "5601.9"
   },
   {
     company: "DocuSign",
@@ -19986,7 +19986,7 @@ var array = [
     rank_change: "0.0",
     revenue: "2107.2",
     profit: "-70.0",
-    num. of employees: "7461.0",
+    num_of_employees: "7461.0",
     sector: "Technology",
     city: "San Francisco",
     state: "CA",
@@ -19998,11 +19998,11 @@ var array = [
     CEO: "Allan C. Thygesen",
     Website: "https://www.docusign.com",
     Ticker: "DOCU",
-    Market Cap: "21302.8"
+    market_cap: "21302.8"
   }
 ]
 
-function showtable(curarray) {
+function showtable(array) {
   document.getElementById("mytable").innerHTML = `
     <tr class="bg-primary text-white fw-bold">
       <td>Rank</td>
@@ -20015,20 +20015,20 @@ function showtable(curarray) {
 }
 
 //For checking if array is empty
-if(curarray == "") {
+if(array == "") {
   document.getElementById("error").innerHTML = `<span class="text-danger">Not Found!</span>`
 }
 else {
   document.getElementById("error").innerHTML = "";
 
-  for(var i = 0; i < curarray.length;i++) {
+  for(var i = 0; i < array.length;i++) {
     document.getElementById("mytable").innerHTML += `
       <tr>
-      <td>${curarray[i].rank}</td>
-      <td>${curarray[i].company}</td>
-      <td>${curarray[i].city}</td>
-      <td>${curarray[i].state}</td>
-      <td>${curarray[i].website}</td>
+      <td>${array[i].rank}</td>
+      <td>${array[i].company}</td>
+      <td>${array[i].city}</td>
+      <td>${array[i].state}</td>
+      <td>${array[i].website}</td>
       </tr>
       `
   }
