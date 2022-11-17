@@ -20009,6 +20009,7 @@ function showtable(curarray) {
       <td>Company</td>
       <td>City</td>
       <td>State</td>
+      <td>Website</td>
     </tr>
   `;
 }
@@ -20016,9 +20017,45 @@ function showtable(curarray) {
 //For checking if array is empty
 if(curarray == "") {
   document.getElementById("error").innerHTML = `<span class="text-danger">Not Found!</span>`
+}
 else {
   document.getElementById("error").innerHTML = "";
 
-  for(var)
+  for(var i = 0; i < curarray.length;i++) {
+    document.getElementById("mytable").innerHTML += `
+      <tr>
+      <td>${curarray[i].rank}</td>
+      <td>${curarray[i].company}</td>
+      <td>${curarray[i].city}</td>
+      <td>${curarray[i].state}</td>
+      <td>${curarray[i].website}</td>
+      </tr>
+      `
+  }
+
 }
-}
+
+// Calling show table data method
+showtable(array);
+
+
+// Take filtered array
+var newarray = [];
+
+
+// for searching method
+document.getElementById("search").addEventListener("keyup",function(){
+  var search = this.ariaValueMax.toLowerCase();
+
+  newarray = array.filter(function (val) {
+
+    if(val.rank.includes(search) || val.company.includes(search) || val.city.includes(search) 
+    || val.state.includes(search) || val.website.includes(search)){
+      var newobj = {rank : val.rank , company : val.company , city : val.city , state : val.state, website : val.website}
+      return newobj;
+    }
+  })
+
+  showtable(newarray);
+
+})
