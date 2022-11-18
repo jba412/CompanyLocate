@@ -15,9 +15,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "1.0",
-    CEO: "C. Douglas McMillon",
-    Website: "https://www.stock.walmart.com",
-    Ticker: "WMT",
+    ceo: "C. Douglas McMillon",
+    website: "https://www.stock.walmart.com",
+    ticker: "WMT",
     market_cap: "352037"
   },
   {
@@ -35,9 +35,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "2.0",
-    CEO: "Andrew R. Jassy",
-    Website: "www.amazon.com",
-    Ticker: "AMZN",
+    ceo: "Andrew R. Jassy",
+    website: "www.amazon.com",
+    ticker: "AMZN",
     market_cap: "1202717"
   },
   {
@@ -55,9 +55,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "3.0",
-    CEO: "Timothy D. Cook",
-    Website: "www.apple.com",
-    Ticker: "AAPL",
+    ceo: "Timothy D. Cook",
+    website: "www.apple.com",
+    ticker: "AAPL",
     market_cap: "2443962"
   },
   {
@@ -75,9 +75,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "4.0",
-    CEO: "Karen Lynch",
-    Website: "https://www.cvshealth.com",
-    Ticker: "CVS",
+    ceo: "Karen Lynch",
+    website: "https://www.cvshealth.com",
+    ticker: "CVS",
     market_cap: "125204"
   },
   {
@@ -95,9 +95,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "5.0",
-    CEO: "Andrew P. Witty",
-    Website: "www.unitedhealthgroup.com",
-    Ticker: "UNH",
+    ceo: "Andrew P. Witty",
+    website: "www.unitedhealthgroup.com",
+    ticker: "UNH",
     market_cap: "500468"
   },
   {
@@ -115,9 +115,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "10.0",
-    CEO: "Darren W. Woods",
-    Website: "www.exxonmobil.com",
-    Ticker: "XOM",
+    ceo: "Darren W. Woods",
+    website: "www.exxonmobil.com",
+    ticker: "XOM",
     market_cap: "371841"
   },
   {
@@ -135,9 +135,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "6.0",
-    CEO: "Warren E. Buffett",
-    Website: "www.berkshirehathaway.com",
-    Ticker: "BRKA",
+    ceo: "Warren E. Buffett",
+    website: "www.berkshirehathaway.com",
+    ticker: "BRKA",
     market_cap: "625468"
   },
   {
@@ -155,9 +155,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "9.0",
-    CEO: "Sundar Pichai",
-    Website: "https://www.abc.xyz",
-    Ticker: "GOOGL",
+    ceo: "Sundar Pichai",
+    website: "https://www.abc.xyz",
+    ticker: "GOOGL",
     market_cap: "1309359"
   },
   {
@@ -175,9 +175,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "7.0",
-    CEO: "Brian S. Tyler",
-    Website: "www.mckesson.com",
-    Ticker: "MCK",
+    ceo: "Brian S. Tyler",
+    website: "www.mckesson.com",
+    ticker: "MCK",
     market_cap: "47377"
   },
   {
@@ -195,9 +195,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "8.0",
-    CEO: "Steven H. Collis",
-    Website: "www.amerisourcebergen.com",
-    Ticker: "ABC",
+    ceo: "Steven H. Collis",
+    website: "www.amerisourcebergen.com",
+    ticker: "ABC",
     market_cap: "29972"
   },
   {
@@ -215,9 +215,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "12.0",
-    CEO: "W. Craig Jelinek",
-    Website: "www.costco.com",
-    Ticker: "COST",
+    ceo: "W. Craig Jelinek",
+    website: "www.costco.com",
+    ticker: "COST",
     market_cap: "230443"
   },
   {
@@ -235,9 +235,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "13.0",
-    CEO: "David Cordani",
-    Website: "https://www.cigna.com",
-    Ticker: "CI",
+    ceo: "David Cordani",
+    website: "https://www.cigna.com",
+    ticker: "CI",
     market_cap: "88459"
   },
   {
@@ -255,9 +255,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "11.0",
-    CEO: "John T. Stankey",
-    Website: "www.att.com",
-    Ticker: "T",
+    ceo: "John T. Stankey",
+    website: "www.att.com",
+    ticker: "T",
     market_cap: "148907"
   },
   {
@@ -275,9 +275,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "15.0",
-    CEO: "Satya Nadella",
-    Website: "www.microsoft.com",
-    Ticker: "MSFT",
+    ceo: "Satya Nadella",
+    website: "www.microsoft.com",
+    ticker: "MSFT",
     market_cap: "1941033"
   },
   {
@@ -295,9 +295,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "14.0",
-    CEO: "Jason Hollar",
-    Website: "www.cardinalhealth.com",
-    Ticker: "CAH",
+    ceo: "Jason Hollar",
+    website: "www.cardinalhealth.com",
+    ticker: "CAH",
     market_cap: "15169"
   },
   {
@@ -315,9 +315,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "27.0",
-    CEO: "Michael K. Wirth",
-    Website: "www.chevron.com",
-    Ticker: "CVX",
+    ceo: "Michael K. Wirth",
+    website: "www.chevron.com",
+    ticker: "CVX",
     market_cap: "284132"
   },
   {
@@ -335,9 +335,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "18.0",
-    CEO: "Edward P. Decker",
-    Website: "www.homedepot.com",
-    Ticker: "HD",
+    ceo: "Edward P. Decker",
+    website: "www.homedepot.com",
+    ticker: "HD",
     market_cap: "308152"
   },
   {
@@ -355,9 +355,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "16.0",
-    CEO: "Roz Brewer",
-    Website: "www.walgreensbootsalliance.com",
-    Ticker: "WBA",
+    ceo: "Roz Brewer",
+    website: "www.walgreensbootsalliance.com",
+    ticker: "WBA",
     market_cap: "33360"
   },
   {
@@ -375,9 +375,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "32.0",
-    CEO: "Michael J. Hennigan",
-    Website: "www.marathonpetroleum.com",
-    Ticker: "MPC",
+    ceo: "Michael J. Hennigan",
+    website: "www.marathonpetroleum.com",
+    ticker: "MPC",
     market_cap: "47526"
   },
   {
@@ -395,9 +395,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "23.0",
-    CEO: "Gail K. Boudreaux",
-    Website: "www.elevancehealth.com",
-    Ticker: "ELV",
+    ceo: "Gail K. Boudreaux",
+    website: "www.elevancehealth.com",
+    ticker: "ELV",
     market_cap: "119923"
   },
   {
@@ -415,9 +415,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "17.0",
-    CEO: "W. Rodney McMullen",
-    Website: "www.thekrogerco.com",
-    Ticker: "KR",
+    ceo: "W. Rodney McMullen",
+    website: "www.thekrogerco.com",
+    ticker: "KR",
     market_cap: "33846"
   },
   {
@@ -435,9 +435,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "21.0",
-    CEO: "James D. Farley Jr.",
-    Website: "www.ford.com",
-    Ticker: "F",
+    ceo: "James D. Farley Jr.",
+    website: "www.ford.com",
+    ticker: "F",
     market_cap: "50609"
   },
   {
@@ -455,9 +455,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "20.0",
-    CEO: "Hans E. Vestberg",
-    Website: "www.verizon.com",
-    Ticker: "VZ",
+    ceo: "Hans E. Vestberg",
+    website: "www.verizon.com",
+    ticker: "VZ",
     market_cap: "211872"
   },
   {
@@ -475,9 +475,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "19.0",
-    CEO: "James Dimon",
-    Website: "www.jpmorganchase.com",
-    Ticker: "JPM",
+    ceo: "James Dimon",
+    website: "www.jpmorganchase.com",
+    ticker: "JPM",
     market_cap: "336469"
   },
   {
@@ -495,9 +495,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "22.0",
-    CEO: "Mary T. Barra",
-    Website: "www.gm.com",
-    Ticker: "GM",
+    ceo: "Mary T. Barra",
+    website: "www.gm.com",
+    ticker: "GM",
     market_cap: "50156"
   },
   {
@@ -515,9 +515,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "24.0",
-    CEO: "Sarah M. London",
-    Website: "www.centene.com",
-    Ticker: "CNC",
+    ceo: "Sarah M. London",
+    website: "www.centene.com",
+    ticker: "CNC",
     market_cap: "53429"
   },
   {
@@ -535,9 +535,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "34.0",
-    CEO: "Mark Zuckerberg",
-    Website: "https://investor.fb.com",
-    Ticker: "META",
+    ceo: "Mark Zuckerberg",
+    website: "https://investor.fb.com",
+    ticker: "META",
     market_cap: "475718"
   },
   {
@@ -555,9 +555,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "26.0",
-    CEO: "Brian L. Roberts",
-    Website: "www.comcastcorporation.com",
-    Ticker: "CMCSA",
+    ceo: "Brian L. Roberts",
+    website: "www.comcastcorporation.com",
+    ticker: "CMCSA",
     market_cap: "185069"
   },
   {
@@ -575,9 +575,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "48.0",
-    CEO: "Mark E. Lashier",
-    Website: "www.phillips66.com",
-    Ticker: "PSX",
+    ceo: "Mark E. Lashier",
+    website: "www.phillips66.com",
+    ticker: "PSX",
     market_cap: "41091"
   },
   {
@@ -595,9 +595,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "53.0",
-    CEO: "Joseph W. Gorder",
-    Website: "www.valero.com",
-    Ticker: "VLO",
+    ceo: "Joseph W. Gorder",
+    website: "www.valero.com",
+    ticker: "VLO",
     market_cap: "44376"
   },
   {
@@ -615,9 +615,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "28.0",
-    CEO: "Michael S. Dell",
-    Website: "www.delltechnologies.com",
-    Ticker: "DELL",
+    ceo: "Michael S. Dell",
+    website: "www.delltechnologies.com",
+    ticker: "DELL",
     market_cap: "32568"
   },
   {
@@ -635,9 +635,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "30.0",
-    CEO: "Brian C. Cornell",
-    Website: "www.target.com",
-    Ticker: "TGT",
+    ceo: "Brian C. Cornell",
+    website: "www.target.com",
+    ticker: "TGT",
     market_cap: "71112"
   },
   {
@@ -655,9 +655,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "25.0",
-    CEO: "David C. Benson",
-    Website: "www.fanniemae.com",
-    Ticker: "FNMA",
+    ceo: "David C. Benson",
+    website: "www.fanniemae.com",
+    ticker: "FNMA",
     market_cap: "3961"
   },
   {
@@ -675,9 +675,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "35.0",
-    CEO: "Carol B. TomÃ©",
-    Website: "www.ups.com",
-    Ticker: "UPS",
+    ceo: "Carol B. TomÃ©",
+    website: "www.ups.com",
+    ticker: "UPS",
     market_cap: "162355"
   },
   {
@@ -695,9 +695,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "31.0",
-    CEO: "Marvin R. Ellison",
-    Website: "www.lowes.com",
-    Ticker: "LOW",
+    ceo: "Marvin R. Ellison",
+    website: "www.lowes.com",
+    ticker: "LOW",
     market_cap: "120655"
   },
   {
@@ -715,9 +715,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "29.0",
-    CEO: "Brian T. Moynihan",
-    Website: "www.bankofamerica.com",
-    Ticker: "BAC",
+    ceo: "Brian T. Moynihan",
+    website: "www.bankofamerica.com",
+    ticker: "BAC",
     market_cap: "268697"
   },
   {
@@ -735,9 +735,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "36.0",
-    CEO: "Joaquin Duato",
-    Website: "www.jnj.com",
-    Ticker: "JNJ",
+    ceo: "Joaquin Duato",
+    website: "www.jnj.com",
+    ticker: "JNJ",
     market_cap: "451785"
   },
   {
@@ -755,9 +755,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "51.0",
-    CEO: "Juan R. Luciano",
-    Website: "www.adm.com",
-    Ticker: "ADM",
+    ceo: "Juan R. Luciano",
+    website: "www.adm.com",
+    ticker: "ADM",
     market_cap: "41545"
   },
   {
@@ -775,9 +775,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "45.0",
-    CEO: "Rajesh Subramaniam",
-    Website: "www.fedex.com",
-    Ticker: "FDX",
+    ceo: "Rajesh Subramaniam",
+    website: "www.fedex.com",
+    ticker: "FDX",
     market_cap: "58577"
   },
   {
@@ -795,9 +795,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "41.0",
-    CEO: "Bruce D. Broussard",
-    Website: "www.humana.com",
-    Ticker: "HUM",
+    ceo: "Bruce D. Broussard",
+    website: "www.humana.com",
+    ticker: "HUM",
     market_cap: "62653"
   },
   {
@@ -815,9 +815,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "37.0",
-    CEO: "Charles W. Scharf",
-    Website: "www.wellsfargo.com",
-    Ticker: "WFC",
+    ceo: "Charles W. Scharf",
+    website: "www.wellsfargo.com",
+    ticker: "WFC",
     market_cap: "162606"
   },
   {
@@ -835,9 +835,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "39.0",
-    CEO: "Michael L. Tipsord",
-    Website: "www.statefarm.com",
-    Ticker: "",
+    ceo: "Michael L. Tipsord",
+    website: "www.statefarm.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -855,9 +855,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "77.0",
-    CEO: "Albert Bourla",
-    Website: "www.pfizer.com",
-    Ticker: "PFE",
+    ceo: "Albert Bourla",
+    website: "www.pfizer.com",
+    ticker: "PFE",
     market_cap: "288232"
   },
   {
@@ -875,9 +875,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "33.0",
-    CEO: "Jane Fraser",
-    Website: "www.citigroup.com",
-    Ticker: "C",
+    ceo: "Jane Fraser",
+    website: "www.citigroup.com",
+    ticker: "C",
     market_cap: "100976"
   },
   {
@@ -895,9 +895,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "44.0",
-    CEO: "Ramon L. Laguarta",
-    Website: "www.pepsico.com",
-    Ticker: "PEP",
+    ceo: "Ramon L. Laguarta",
+    website: "www.pepsico.com",
+    ticker: "PEP",
     market_cap: "234697"
   },
   {
@@ -915,9 +915,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "40.0",
-    CEO: "Patrick P. Gelsinger",
-    Website: "www.intel.com",
-    Ticker: "INTC",
+    ceo: "Patrick P. Gelsinger",
+    website: "www.intel.com",
+    ticker: "INTC",
     market_cap: "164460"
   },
   {
@@ -935,9 +935,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "43.0",
-    CEO: "Jon R. Moeller",
-    Website: "www.pg.com",
-    Ticker: "PG",
+    ceo: "Jon R. Moeller",
+    website: "www.pg.com",
+    ticker: "PG",
     market_cap: "345595"
   },
   {
@@ -955,9 +955,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "38.0",
-    CEO: "H. Lawrence Culp Jr.",
-    Website: "www.ge.com",
-    Ticker: "GE",
+    ceo: "H. Lawrence Culp Jr.",
+    website: "www.ge.com",
+    ticker: "GE",
     market_cap: "73458"
   },
   {
@@ -975,9 +975,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "42.0",
-    CEO: "Arvind Krishna",
-    Website: "https://www.ibm.com",
-    Ticker: "IBM",
+    ceo: "Arvind Krishna",
+    website: "https://www.ibm.com",
+    ticker: "IBM",
     market_cap: "107307"
   },
   {
@@ -995,9 +995,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "46.0",
-    CEO: "Michel A. Khalaf",
-    Website: "www.metlife.com",
-    Ticker: "MET",
+    ceo: "Michel A. Khalaf",
+    website: "www.metlife.com",
+    ticker: "MET",
     market_cap: "49443"
   },
   {
@@ -1015,9 +1015,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "55.0",
-    CEO: "Charles F. Lowrey",
-    Website: "www.prudential.com",
-    Ticker: "PRU",
+    ceo: "Charles F. Lowrey",
+    website: "www.prudential.com",
+    ticker: "PRU",
     market_cap: "35689"
   },
   {
@@ -1035,9 +1035,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "52.0",
-    CEO: "Vivek Sankaran",
-    Website: "www.albertsonscompanies.com",
-    Ticker: "ACI",
+    ceo: "Vivek Sankaran",
+    website: "www.albertsonscompanies.com",
+    ticker: "ACI",
     market_cap: "14087"
   },
   {
@@ -1055,9 +1055,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "50.0",
-    CEO: "Robert A. Chapek",
-    Website: "www.thewaltdisneycompany.com",
-    Ticker: "DIS",
+    ceo: "Robert A. Chapek",
+    website: "www.thewaltdisneycompany.com",
+    ticker: "DIS",
     market_cap: "181438"
   },
   {
@@ -1075,9 +1075,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "81.0",
-    CEO: "Thomas E. Long/Marshall S. McCrea III",
-    Website: "www.energytransfer.com",
-    Ticker: "ET",
+    ceo: "Thomas E. Long/Marshall S. McCrea III",
+    website: "www.energytransfer.com",
+    ticker: "ET",
     market_cap: "32182"
   },
   {
@@ -1095,9 +1095,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "49.0",
-    CEO: "James D. Taiclet Jr.",
-    Website: "www.lockheedmartin.com",
-    Ticker: "LMT",
+    ceo: "James D. Taiclet Jr.",
+    website: "www.lockheedmartin.com",
+    ticker: "LMT",
     market_cap: "103510"
   },
   {
@@ -1115,9 +1115,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "47.0",
-    CEO: "Michael J. DeVito",
-    Website: "www.freddiemac.com",
-    Ticker: "FMCC",
+    ceo: "Michael J. DeVito",
+    website: "www.freddiemac.com",
+    ticker: "FMCC",
     market_cap: "2055"
   },
   {
@@ -1135,9 +1135,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "59.0",
-    CEO: "David M. Solomon",
-    Website: "www.goldmansachs.com",
-    Ticker: "GS",
+    ceo: "David M. Solomon",
+    website: "www.goldmansachs.com",
+    ticker: "GS",
     market_cap: "113877"
   },
   {
@@ -1155,9 +1155,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "57.0",
-    CEO: "Gregory J. Hayes",
-    Website: "www.rtx.com",
-    Ticker: "RTX",
+    ceo: "Gregory J. Hayes",
+    website: "www.rtx.com",
+    ticker: "RTX",
     market_cap: "139531"
   },
   {
@@ -1175,9 +1175,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "56.0",
-    CEO: "Enrique J. Lores",
-    Website: "www.hp.com",
-    Ticker: "HPQ",
+    ceo: "Enrique J. Lores",
+    website: "www.hp.com",
+    ticker: "HPQ",
     market_cap: "33951"
   },
   {
@@ -1195,9 +1195,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "54.0",
-    CEO: "David L. Calhoun",
-    Website: "www.boeing.com",
-    Ticker: "BA",
+    ceo: "David L. Calhoun",
+    website: "www.boeing.com",
+    ticker: "BA",
     market_cap: "92372"
   },
   {
@@ -1215,9 +1215,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "61.0",
-    CEO: "James P. Gorman",
-    Website: "www.morganstanley.com",
-    Ticker: "MS",
+    ceo: "James P. Gorman",
+    website: "www.morganstanley.com",
+    ticker: "MS",
     market_cap: "142829"
   },
   {
@@ -1235,9 +1235,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "62.0",
-    CEO: "Samuel N. Hazen",
-    Website: "www.hcahealthcare.com",
-    Ticker: "HCA",
+    ceo: "Samuel N. Hazen",
+    website: "www.hcahealthcare.com",
+    ticker: "HCA",
     market_cap: "52649"
   },
   {
@@ -1255,9 +1255,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "68.0",
-    CEO: "Richard A. Gonzalez",
-    Website: "www.abbvie.com",
-    Ticker: "ABBV",
+    ceo: "Richard A. Gonzalez",
+    website: "www.abbvie.com",
+    ticker: "ABBV",
     market_cap: "264607"
   },
   {
@@ -1275,9 +1275,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "82.0",
-    CEO: "James R. Fitterling",
-    Website: "www.dow.com",
-    Ticker: "DOW",
+    ceo: "James R. Fitterling",
+    website: "www.dow.com",
+    ticker: "DOW",
     market_cap: "38189"
   },
   {
@@ -1295,9 +1295,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "100.0",
-    CEO: "Elon Musk",
-    Website: "www.tesla.com",
-    Ticker: "TSLA",
+    ceo: "Elon Musk",
+    website: "www.tesla.com",
+    ticker: "TSLA",
     market_cap: "763395"
   },
   {
@@ -1315,9 +1315,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "70.0",
-    CEO: "Thomas J. Wilson",
-    Website: "www.allstate.com",
-    Ticker: "ALL",
+    ceo: "Thomas J. Wilson",
+    website: "www.allstate.com",
+    ticker: "ALL",
     market_cap: "33721"
   },
   {
@@ -1335,9 +1335,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "72.0",
-    CEO: "Peter S. Zaffino",
-    Website: "www.aig.com",
-    Ticker: "AIG",
+    ceo: "Peter S. Zaffino",
+    website: "www.aig.com",
+    ticker: "AIG",
     market_cap: "40988"
   },
   {
@@ -1355,9 +1355,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "66.0",
-    CEO: "Corie S. Barry",
-    Website: "www.investors.bestbuy.com",
-    Ticker: "BBY",
+    ceo: "Corie S. Barry",
+    website: "www.investors.bestbuy.com",
+    ticker: "BBY",
     market_cap: "17106"
   },
   {
@@ -1375,9 +1375,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "64.0",
-    CEO: "Thomas M. Rutledge",
-    Website: "www.charter.com",
-    Ticker: "CHTR",
+    ceo: "Thomas M. Rutledge",
+    website: "www.charter.com",
+    ticker: "CHTR",
     market_cap: "89514"
   },
   {
@@ -1395,9 +1395,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "60.0",
-    CEO: "Kevin P. Hourican",
-    Website: "www.sysco.com",
-    Ticker: "SYY",
+    ceo: "Kevin P. Hourican",
+    website: "www.sysco.com",
+    ticker: "SYY",
     market_cap: "44508"
   },
   {
@@ -1415,9 +1415,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "65.0",
-    CEO: "Robert Davis",
-    Website: "https://www.merck.com",
-    Ticker: "MRK",
+    ceo: "Robert Davis",
+    website: "https://www.merck.com",
+    ticker: "MRK",
     market_cap: "218166"
   },
   {
@@ -1435,9 +1435,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "67.0",
-    CEO: "Craig DeSanto",
-    Website: "www.newyorklife.com",
-    Ticker: "",
+    ceo: "Craig DeSanto",
+    website: "www.newyorklife.com",
+    ticker: "",
     market_cap: "-"
   },
   {
@@ -1455,9 +1455,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "78.0",
-    CEO: "D. James Umpleby III",
-    Website: "www.caterpillar.com",
-    Ticker: "CAT",
+    ceo: "D. James Umpleby III",
+    website: "www.caterpillar.com",
+    ticker: "CAT",
     market_cap: "95735"
   },
   {
@@ -1475,9 +1475,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "63.0",
-    CEO: "Charles H. Robbins",
-    Website: "www.cisco.com",
-    Ticker: "CSCO",
+    ceo: "Charles H. Robbins",
+    website: "www.cisco.com",
+    ticker: "CSCO",
     market_cap: "182327"
   },
   {
@@ -1495,9 +1495,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "97.0",
-    CEO: "Ernie L. Herrman",
-    Website: "www.tjx.com",
-    Ticker: "TJX",
+    ceo: "Ernie L. Herrman",
+    website: "www.tjx.com",
+    ticker: "TJX",
     market_cap: "73403"
   },
   {
@@ -1515,9 +1515,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "69.0",
-    CEO: "Randall T. Jones Sr.",
-    Website: "www.publix.com",
-    Ticker: "",
+    ceo: "Randall T. Jones Sr.",
+    website: "www.publix.com",
+    ticker: "",
     market_cap: "-"
   },
   {
@@ -1535,9 +1535,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "156.0",
-    CEO: "Ryan M. Lance",
-    Website: "www.conocophillips.com",
-    Ticker: "COP",
+    ceo: "Ryan M. Lance",
+    website: "www.conocophillips.com",
+    ticker: "COP",
     market_cap: "114444"
   },
   {
@@ -1555,9 +1555,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "71.0",
-    CEO: "David H. Long",
-    Website: "www.libertymutual.com",
-    Ticker: "",
+    ceo: "David H. Long",
+    website: "www.libertymutual.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -1575,9 +1575,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "74.0",
-    CEO: "Susan Patricia Griffith",
-    Website: "www.progressive.com",
-    Ticker: "PGR",
+    ceo: "Susan Patricia Griffith",
+    website: "www.progressive.com",
+    ticker: "PGR",
     market_cap: "65485"
   },
   {
@@ -1595,9 +1595,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "76.0",
-    CEO: "Kirt A. Walker",
-    Website: "www.nationwide.com",
-    Ticker: "",
+    ceo: "Kirt A. Walker",
+    website: "www.nationwide.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -1615,9 +1615,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "73.0",
-    CEO: "Donnie D. King",
-    Website: "www.tysonfoods.com",
-    Ticker: "TSN",
+    ceo: "Donnie D. King",
+    website: "www.tysonfoods.com",
+    ticker: "TSN",
     market_cap: "30189"
   },
   {
@@ -1635,9 +1635,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "75.0",
-    CEO: "Giovanni Caforio",
-    Website: "www.bms.com",
-    Ticker: "BMY",
+    ceo: "Giovanni Caforio",
+    website: "www.bms.com",
+    ticker: "BMY",
     market_cap: "155720"
   },
   {
@@ -1655,9 +1655,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "85.0",
-    CEO: "John J. Donahoe II",
-    Website: "www.nike.com",
-    Ticker: "NKE",
+    ceo: "John J. Donahoe II",
+    website: "www.nike.com",
+    ticker: "NKE",
     market_cap: "171840"
   },
   {
@@ -1675,9 +1675,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "88.0",
-    CEO: "John C. May",
-    Website: "www.deere.com",
-    Ticker: "DE",
+    ceo: "John C. May",
+    website: "www.deere.com",
+    ticker: "DE",
     market_cap: "95233"
   },
   {
@@ -1695,9 +1695,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "83.0",
-    CEO: "Stephen J. Squeri",
-    Website: "www.americanexpress.com",
-    Ticker: "AXP",
+    ceo: "Stephen J. Squeri",
+    website: "www.americanexpress.com",
+    ticker: "AXP",
     market_cap: "111287"
   },
   {
@@ -1715,9 +1715,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "89.0",
-    CEO: "Robert B. Ford",
-    Website: "www.abbott.com",
-    Ticker: "ABT",
+    ceo: "Robert B. Ford",
+    website: "www.abbott.com",
+    ticker: "ABT",
     market_cap: "192481"
   },
   {
@@ -1735,9 +1735,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "58.0",
-    CEO: "Sean M. O&#039;Connor",
-    Website: "www.stonex.com",
-    Ticker: "SNEX",
+    ceo: "Sean M. O&#039;Connor",
+    website: "www.stonex.com",
+    ticker: "SNEX",
     market_cap: "1699"
   },
   {
@@ -1755,9 +1755,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "127.0",
-    CEO: "Wilfred C.W. Chiang",
-    Website: "www.plains.com",
-    Ticker: "PAGP",
+    ceo: "Wilfred C.W. Chiang",
+    website: "www.plains.com",
+    ticker: "PAGP",
     market_cap: "2131"
   },
   {
@@ -1775,9 +1775,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "105.0",
-    CEO: "A. James Teague/W. Randall Fowler",
-    Website: "www.enterpriseproducts.com",
-    Ticker: "EPD",
+    ceo: "A. James Teague/W. Randall Fowler",
+    website: "www.enterpriseproducts.com",
+    ticker: "EPD",
     market_cap: "55122"
   },
   {
@@ -1795,9 +1795,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "79.0",
-    CEO: "Thasunda Brown Duckett",
-    Website: "www.tiaa.org",
-    Ticker: "",
+    ceo: "Thasunda Brown Duckett",
+    website: "www.tiaa.org",
+    ticker: "",
     market_cap: "-"
   },
   {
@@ -1815,9 +1815,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "80.0",
-    CEO: "Safra A. Catz",
-    Website: "www.oracle.com",
-    Ticker: "ORCL",
+    ceo: "Safra A. Catz",
+    website: "www.oracle.com",
+    ticker: "ORCL",
     market_cap: "192514"
   },
   {
@@ -1835,9 +1835,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "95.0",
-    CEO: "Marc Casper",
-    Website: "https://www.thermofisher.com",
-    Ticker: "TMO",
+    ceo: "Marc Casper",
+    website: "https://www.thermofisher.com",
+    ticker: "TMO",
     market_cap: "202645"
   },
   {
@@ -1855,9 +1855,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "93.0",
-    CEO: "James R. Quincey",
-    Website: "www.coca-colacompany.com",
-    Ticker: "KO",
+    ceo: "James R. Quincey",
+    website: "www.coca-colacompany.com",
+    ticker: "KO",
     market_cap: "271069"
   },
   {
@@ -1875,9 +1875,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "84.0",
-    CEO: "Phebe N. Novakovic",
-    Website: "www.gd.com",
-    Ticker: "GD",
+    ceo: "Phebe N. Novakovic",
+    website: "www.gd.com",
+    ticker: "GD",
     market_cap: "59618"
   },
   {
@@ -1895,9 +1895,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "103.0",
-    CEO: "Jay D. Debertin",
-    Website: "www.chsinc.com",
-    Ticker: "",
+    ceo: "Jay D. Debertin",
+    website: "www.chsinc.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -1915,9 +1915,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "87.0",
-    CEO: "Wayne Peacock",
-    Website: "www.usaa.com",
-    Ticker: "",
+    ceo: "Wayne Peacock",
+    website: "www.usaa.com",
+    ticker: "",
     market_cap: "-"
   },
   {
@@ -1935,9 +1935,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "90.0",
-    CEO: "John E. Schlifske",
-    Website: "www.northwesternmutual.com",
-    Ticker: "",
+    ceo: "John E. Schlifske",
+    website: "www.northwesternmutual.com",
+    ticker: "",
     market_cap: "-"
   },
   {
@@ -1955,9 +1955,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "149.0",
-    CEO: "Leon J. Topalian",
-    Website: "www.nucor.com",
-    Ticker: "NUE",
+    ceo: "Leon J. Topalian",
+    website: "www.nucor.com",
+    ticker: "NUE",
     market_cap: "31183"
   },
   {
@@ -1975,9 +1975,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "92.0",
-    CEO: "Christopher M. Crane",
-    Website: "www.exeloncorp.com",
-    Ticker: "EXC",
+    ceo: "Christopher M. Crane",
+    website: "www.exeloncorp.com",
+    ticker: "EXC",
     market_cap: "42832"
   },
   {
@@ -1995,9 +1995,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "123.0",
-    CEO: "Roger W. Crandall",
-    Website: "www.massmutual.com",
-    Ticker: "",
+    ceo: "Roger W. Crandall",
+    website: "www.massmutual.com",
+    ticker: "",
     market_cap: "-"
   },
   {
@@ -2015,9 +2015,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "86.0",
-    CEO: "Kathy J. Warden",
-    Website: "www.northropgrumman.com",
-    Ticker: "NOC",
+    ceo: "Kathy J. Warden",
+    website: "www.northropgrumman.com",
+    ticker: "NOC",
     market_cap: "71099"
   },
   {
@@ -2035,9 +2035,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "96.0",
-    CEO: "Michael F. Roman",
-    Website: "www.3m.com",
-    Ticker: "MMM",
+    ceo: "Michael F. Roman",
+    website: "www.3m.com",
+    ticker: "MMM",
     market_cap: "75190"
   },
   {
@@ -2055,9 +2055,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "98.0",
-    CEO: "Alan D. Schnitzer",
-    Website: "www.travelers.com",
-    Ticker: "TRV",
+    ceo: "Alan D. Schnitzer",
+    website: "www.travelers.com",
+    ticker: "TRV",
     market_cap: "37998"
   },
   {
@@ -2075,9 +2075,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "102.0",
-    CEO: "Sean J. Kerins",
-    Website: "www.arrow.com",
-    Ticker: "ARW",
+    ceo: "Sean J. Kerins",
+    website: "www.arrow.com",
+    ticker: "ARW",
     market_cap: "7851"
   },
   {
@@ -2095,9 +2095,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "94.0",
-    CEO: "Darius E. Adamczyk",
-    Website: "www.honeywell.com",
-    Ticker: "HON",
+    ceo: "Darius E. Adamczyk",
+    website: "www.honeywell.com",
+    ticker: "HON",
     market_cap: "120646"
   },
   {
@@ -2115,9 +2115,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "91.0",
-    CEO: "Jeffery C. Owen",
-    Website: "www.dollargeneral.com",
-    Ticker: "DG",
+    ceo: "Jeffery C. Owen",
+    website: "www.dollargeneral.com",
+    ticker: "DG",
     market_cap: "55694"
   },
   {
@@ -2135,9 +2135,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "124.0",
-    CEO: "Cristiano Amon",
-    Website: "https://www.qualcomm.com",
-    Ticker: "QCOM",
+    ceo: "Cristiano Amon",
+    website: "https://www.qualcomm.com",
+    ticker: "QCOM",
     market_cap: "126877"
   },
   {
@@ -2155,9 +2155,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "99.0",
-    CEO: "Richard D. Fairbank",
-    Website: "www.capitalone.com",
-    Ticker: "COF",
+    ceo: "Richard D. Fairbank",
+    website: "www.capitalone.com",
+    ticker: "COF",
     market_cap: "44423"
   },
   {
@@ -2175,9 +2175,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "117.0",
-    CEO: "Richard T. Hume",
-    Website: "www.tdsynnex.com",
-    Ticker: "SNX",
+    ceo: "Richard T. Hume",
+    website: "www.tdsynnex.com",
+    ticker: "SNX",
     market_cap: "9174"
   },
   {
@@ -2195,9 +2195,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "101.0",
-    CEO: "Jacek Olczak",
-    Website: "www.pmi.com",
-    Ticker: "PM",
+    ceo: "Jacek Olczak",
+    website: "www.pmi.com",
+    ticker: "PM",
     market_cap: "141727"
   },
   {
@@ -2215,9 +2215,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "147.0",
-    CEO: "Michael J. Kasbar",
-    Website: "www.wfscorp.com",
-    Ticker: "INT",
+    ceo: "Michael J. Kasbar",
+    website: "www.wfscorp.com",
+    ticker: "INT",
     market_cap: "1427"
   },
   {
@@ -2235,9 +2235,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "114.0",
-    CEO: "George L. Holm",
-    Website: "www.pfgc.com",
-    Ticker: "PFGC",
+    ceo: "George L. Holm",
+    website: "www.pfgc.com",
+    ticker: "PFGC",
     market_cap: "7818"
   },
   {
@@ -2255,9 +2255,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "178.0",
-    CEO: "Edward H. Bastian",
-    Website: "www.delta.com",
-    Ticker: "DAL",
+    ceo: "Edward H. Bastian",
+    website: "www.delta.com",
+    ticker: "DAL",
     market_cap: "20903"
   },
   {
@@ -2275,9 +2275,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "174.0",
-    CEO: "Robert D. Isom",
-    Website: "www.aa.com",
-    Ticker: "AAL",
+    ceo: "Robert D. Isom",
+    website: "www.aa.com",
+    ticker: "AAL",
     market_cap: "9847"
   },
   {
@@ -2295,9 +2295,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "115.0",
-    CEO: "Ted Sarandos/Reed Hastings",
-    Website: "www.netflix.com",
-    Ticker: "NFLX",
+    ceo: "Ted Sarandos/Reed Hastings",
+    website: "www.netflix.com",
+    ticker: "NFLX",
     market_cap: "89579"
   },
   {
@@ -2315,9 +2315,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "109.0",
-    CEO: "Robert M. Bakish",
-    Website: "www.paramount.com",
-    Ticker: "PARA",
+    ceo: "Robert M. Bakish",
+    website: "www.paramount.com",
+    ticker: "PARA",
     market_cap: "16383"
   },
   {
@@ -2335,9 +2335,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "128.0",
-    CEO: "Andrew Iacobucci",
-    Website: "www.usfoods.com",
-    Ticker: "USFD",
+    ceo: "Andrew Iacobucci",
+    website: "www.usfoods.com",
+    ticker: "USFD",
     market_cap: "7335"
   },
   {
@@ -2355,9 +2355,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "130.0",
-    CEO: "Rainer Blair",
-    Website: "https://www.danaher.com",
-    Ticker: "DHR",
+    ceo: "Rainer Blair",
+    website: "https://www.danaher.com",
+    ticker: "DHR",
     market_cap: "189085"
   },
   {
@@ -2375,9 +2375,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "104.0",
-    CEO: "Mark T. Mondello",
-    Website: "www.jabil.com",
-    Ticker: "JBL",
+    ceo: "Mark T. Mondello",
+    website: "www.jabil.com",
+    ticker: "JBL",
     market_cap: "7554"
   },
   {
@@ -2395,9 +2395,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "125.0",
-    CEO: "Howard D. Schultz",
-    Website: "www.starbucks.com",
-    Ticker: "SBUX",
+    ceo: "Howard D. Schultz",
+    website: "www.starbucks.com",
+    ticker: "SBUX",
     market_cap: "94677"
   },
   {
@@ -2415,9 +2415,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "108.0",
-    CEO: "Dirk Van de Put",
-    Website: "www.mondelezinternational.com",
-    Ticker: "MDLZ",
+    ceo: "Dirk Van de Put",
+    website: "www.mondelezinternational.com",
+    ticker: "MDLZ",
     market_cap: "85001"
   },
   {
@@ -2435,9 +2435,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "118.0",
-    CEO: "David A. Ricks",
-    Website: "https://www.lilly.com",
-    Ticker: "LLY",
+    ceo: "David A. Ricks",
+    website: "https://www.lilly.com",
+    ticker: "LLY",
     market_cap: "272723.6"
   },
   {
@@ -2455,9 +2455,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "106.0",
-    CEO: "Antonio F. Neri",
-    Website: "https://www.hpe.com",
-    Ticker: "HPE",
+    ceo: "Antonio F. Neri",
+    website: "https://www.hpe.com",
+    ticker: "HPE",
     market_cap: "21725.3"
   },
   {
@@ -2475,9 +2475,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "148.0",
-    CEO: "David Auld",
-    Website: "https://www.drhorton.com",
-    Ticker: "DHI",
+    ceo: "David Auld",
+    website: "https://www.drhorton.com",
+    ticker: "DHI",
     market_cap: "24313"
   },
   {
@@ -2495,9 +2495,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "155.0",
-    CEO: "Joseph M. Zubretsky",
-    Website: "https://www.molinahealthcare.com",
-    Ticker: "MOH",
+    ceo: "Joseph M. Zubretsky",
+    website: "https://www.molinahealthcare.com",
+    ticker: "MOH",
     market_cap: "19572.9"
   },
   {
@@ -2515,9 +2515,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "122.0",
-    CEO: "Robert E. Sulentic",
-    Website: "https://www.cbre.com",
-    Ticker: "CBRE",
+    ceo: "Robert E. Sulentic",
+    website: "https://www.cbre.com",
+    ticker: "CBRE",
     market_cap: "30414.2"
   },
   {
@@ -2535,9 +2535,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "135.0",
-    CEO: "Sanjay Mehrotra",
-    Website: "https://www.micron.com",
-    Ticker: "MU",
+    ceo: "Sanjay Mehrotra",
+    website: "https://www.micron.com",
+    ticker: "MU",
     market_cap: "86977.2"
   },
   {
@@ -2555,9 +2555,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "121.0",
-    CEO: "Hock E. Tan",
-    Website: "https://www.broadcom.com",
-    Ticker: "AVGO",
+    ceo: "Hock E. Tan",
+    website: "https://www.broadcom.com",
+    ticker: "AVGO",
     market_cap: "257086.5"
   },
   {
@@ -2575,9 +2575,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "116.0",
-    CEO: "Daniel P. O&#039;Day",
-    Website: "https://www.gilead.com",
-    Ticker: "GILD",
+    ceo: "Daniel P. O&#039;Day",
+    website: "https://www.gilead.com",
+    ticker: "GILD",
     market_cap: "74656.5"
   },
   {
@@ -2595,9 +2595,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "203.0",
-    CEO: "Thomas J. Nimbley",
-    Website: "https://www.pbfenergy.com",
-    Ticker: "PBF",
+    ceo: "Thomas J. Nimbley",
+    website: "https://www.pbfenergy.com",
+    ticker: "PBF",
     market_cap: "2932.6"
   },
   {
@@ -2615,9 +2615,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "129.0",
-    CEO: "Jonathan M. Jaffe/Richard Beckwitt",
-    Website: "https://www.lennar.com",
-    Ticker: "LEN",
+    ceo: "Jonathan M. Jaffe/Richard Beckwitt",
+    website: "https://www.lennar.com",
+    ticker: "LEN",
     market_cap: "23413"
   },
   {
@@ -2635,9 +2635,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "107.0",
-    CEO: "Sandy Douglas",
-    Website: "https://www.unfi.com",
-    Ticker: "UNFI",
+    ceo: "Sandy Douglas",
+    website: "https://www.unfi.com",
+    ticker: "UNFI",
     market_cap: "2409.3"
   },
   {
@@ -2655,9 +2655,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "333.0",
-    CEO: "Mauricio Gutierrez",
-    Website: "https://www.nrg.com",
-    Ticker: "NRG",
+    ceo: "Mauricio Gutierrez",
+    website: "https://www.nrg.com",
+    ticker: "NRG",
     market_cap: "9855"
   },
   {
@@ -2675,9 +2675,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "184.0",
-    CEO: "Jensen Huang",
-    Website: "https://www.nvidia.com",
-    Ticker: "NVDA",
+    ceo: "Jensen Huang",
+    website: "https://www.nvidia.com",
+    ticker: "NVDA",
     market_cap: "296011"
   },
   {
@@ -2695,9 +2695,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "183.0",
-    CEO: "Vicki A. Hollub",
-    Website: "https://www.oxy.com",
-    Ticker: "OXY",
+    ceo: "Vicki A. Hollub",
+    website: "https://www.oxy.com",
+    ticker: "OXY",
     market_cap: "53160.2"
   },
   {
@@ -2715,9 +2715,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "137.0",
-    CEO: "Marc R. Benioff/Bret Taylor",
-    Website: "https://www.salesforce.com",
-    Ticker: "CRM",
+    ceo: "Marc R. Benioff/Bret Taylor",
+    website: "https://www.salesforce.com",
+    ticker: "CRM",
     market_cap: "210196.8"
   },
   {
@@ -2735,9 +2735,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "111.0",
-    CEO: "Michael A. Witynski",
-    Website: "https://www.dollartree.com",
-    Ticker: "DLTR",
+    ceo: "Michael A. Witynski",
+    website: "https://www.dollartree.com",
+    ticker: "DLTR",
     market_cap: "36051.4"
   },
   {
@@ -2755,9 +2755,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "316.0",
-    CEO: "Joseph Y. Bae/Scott C. Nuttall",
-    Website: "https://www.kkr.com",
-    Ticker: "KKR",
+    ceo: "Joseph Y. Bae/Scott C. Nuttall",
+    website: "https://www.kkr.com",
+    ticker: "KKR",
     market_cap: "51542.9"
   },
   {
@@ -2775,9 +2775,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "110.0",
-    CEO: "Miguel Patricio",
-    Website: "https://www.kraftheinzcompany.com",
-    Ticker: "KHC",
+    ceo: "Miguel Patricio",
+    website: "https://www.kraftheinzcompany.com",
+    ticker: "KHC",
     market_cap: "48248.6"
   },
   {
@@ -2795,9 +2795,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "112.0",
-    CEO: "Robert A. Bradway",
-    Website: "https://www.amgen.com",
-    Ticker: "AMGN",
+    ceo: "Robert A. Bradway",
+    website: "https://www.amgen.com",
+    ticker: "AMGN",
     market_cap: "134700.8"
   },
   {
@@ -2815,9 +2815,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "145.0",
-    CEO: "Michael M. Manley",
-    Website: "https://www.autonation.com",
-    Ticker: "AN",
+    ceo: "Michael M. Manley",
+    website: "https://www.autonation.com",
+    ticker: "AN",
     market_cap: "6111.4"
   },
   {
@@ -2835,9 +2835,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "143.0",
-    CEO: "Roger S. Penske",
-    Website: "https://www.penskeautomotive.com",
-    Ticker: "PAG",
+    ceo: "Roger S. Penske",
+    website: "https://www.penskeautomotive.com",
+    ticker: "PAG",
     market_cap: "7196.7"
   },
   {
@@ -2855,9 +2855,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "134.0",
-    CEO: "Daniel Schulman",
-    Website: "https://www.paypal.com",
-    Ticker: "PYPL",
+    ceo: "Daniel Schulman",
+    website: "https://www.paypal.com",
+    ticker: "PYPL",
     market_cap: "99538"
   },
   {
@@ -2875,9 +2875,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "164.0",
-    CEO: "Jeffrey Gennette",
-    Website: "https://www.macysinc.com",
-    Ticker: "M",
+    ceo: "Jeffrey Gennette",
+    website: "https://www.macysinc.com",
+    ticker: "M",
     market_cap: "7123.2"
   },
   {
@@ -2895,9 +2895,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "126.0",
-    CEO: "Lynn J. Good",
-    Website: "https://www.duke-energy.com",
-    Ticker: "DUK",
+    ceo: "Lynn J. Good",
+    website: "https://www.duke-energy.com",
+    ticker: "DUK",
     market_cap: "85967"
   },
   {
@@ -2915,9 +2915,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "200.0",
-    CEO: "J. Scott Kirby",
-    Website: "https://www.united.com",
-    Ticker: "UAL",
+    ceo: "J. Scott Kirby",
+    website: "https://www.united.com",
+    ticker: "UAL",
     market_cap: "15049.7"
   },
   {
@@ -2935,9 +2935,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "133.0",
-    CEO: "Alfred F. Kelly Jr.",
-    Website: "https://www.visa.com",
-    Ticker: "V",
+    ceo: "Alfred F. Kelly Jr.",
+    website: "https://www.visa.com",
+    ticker: "V",
     market_cap: "480022.5"
   },
   {
@@ -2955,9 +2955,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "no",
     prev_rank: "132.0",
-    CEO: "Heyward Donigan",
-    Website: "https://www.riteaid.com",
-    Ticker: "RAD",
+    ceo: "Heyward Donigan",
+    website: "https://www.riteaid.com",
+    ticker: "RAD",
     market_cap: "488.1"
   },
   {
@@ -2975,9 +2975,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "150.0",
-    CEO: "Jennifer Rumsey",
-    Website: "https://www.cummins.com",
-    Ticker: "CMI",
+    ceo: "Jennifer Rumsey",
+    website: "https://www.cummins.com",
+    ticker: "CMI",
     market_cap: "29140.9"
   },
   {
@@ -2995,9 +2995,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "113.0",
-    CEO: "Andrew J. Cecere",
-    Website: "https://www.usbank.com",
-    Ticker: "USB",
+    ceo: "Andrew J. Cecere",
+    website: "https://www.usbank.com",
+    ticker: "USB",
     market_cap: "78929.8"
   },
   {
@@ -3015,9 +3015,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "159.0",
-    CEO: "R. Preston Feight",
-    Website: "https://www.paccar.com",
-    Ticker: "PCAR",
+    ceo: "R. Preston Feight",
+    website: "https://www.paccar.com",
+    ticker: "PCAR",
     market_cap: "29101"
   },
   {
@@ -3035,9 +3035,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "157.0",
-    CEO: "Christopher J. Kempczinski",
-    Website: "https://www.investor.mcdonalds.com",
-    Ticker: "MCD",
+    ceo: "Christopher J. Kempczinski",
+    website: "https://www.investor.mcdonalds.com",
+    ticker: "MCD",
     market_cap: "183873.6"
   },
   {
@@ -3055,9 +3055,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "146.0",
-    CEO: "Thomas A. Fanning",
-    Website: "https://www.southerncompany.com",
-    Ticker: "SO",
+    ceo: "Thomas A. Fanning",
+    website: "https://www.southerncompany.com",
+    ticker: "SO",
     market_cap: "76877"
   },
   {
@@ -3075,9 +3075,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "191.0",
-    CEO: "Robert C. Biesterfeld Jr.",
-    Website: "https://www.chrobinson.com",
-    Ticker: "CHRW",
+    ceo: "Robert C. Biesterfeld Jr.",
+    website: "https://www.chrobinson.com",
+    ticker: "CHRW",
     market_cap: "13855.8"
   },
   {
@@ -3095,9 +3095,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "119.0",
-    CEO: "William H. Rogers Jr.",
-    Website: "https://www.truist.com",
-    Ticker: "TFC",
+    ceo: "William H. Rogers Jr.",
+    website: "https://www.truist.com",
+    ticker: "TFC",
     market_cap: "75353.9"
   },
   {
@@ -3115,9 +3115,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "176.0",
-    CEO: "Gary E. Dickerson",
-    Website: "https://www.appliedmaterials.com",
-    Ticker: "AMAT",
+    ceo: "Gary E. Dickerson",
+    website: "https://www.appliedmaterials.com",
+    ticker: "AMAT",
     market_cap: "116431.4"
   },
   {
@@ -3135,9 +3135,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "215.0",
-    CEO: "Richard C. Adkerson",
-    Website: "https://www.fcx.com",
-    Ticker: "FCX",
+    ceo: "Richard C. Adkerson",
+    website: "https://www.fcx.com",
+    ticker: "FCX",
     market_cap: "72360.8"
   },
   {
@@ -3155,9 +3155,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "231.0",
-    CEO: "Bryan DeBoer",
-    Website: "https://www.lithiainvestorrelations.com",
-    Ticker: "LAD",
+    ceo: "Bryan DeBoer",
+    website: "https://www.lithiainvestorrelations.com",
+    ticker: "LAD",
     market_cap: "5678"
   },
   {
@@ -3175,9 +3175,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "454.0",
-    CEO: "Stephen A. Schwarzman",
-    Website: "https://www.blackstone.com",
-    Ticker: "BX",
+    ceo: "Stephen A. Schwarzman",
+    website: "https://www.blackstone.com",
+    ticker: "BX",
     market_cap: "88907.2"
   },
   {
@@ -3195,9 +3195,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "142.0",
-    CEO: "Christopher J. Swift",
-    Website: "https://www.thehartford.com",
-    Ticker: "HIG",
+    ceo: "Christopher J. Swift",
+    website: "https://www.thehartford.com",
+    ticker: "HIG",
     market_cap: "23815.6"
   },
   {
@@ -3215,9 +3215,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "131.0",
-    CEO: "Daniel P. Amos",
-    Website: "https://www.aflac.com",
-    Ticker: "AFL",
+    ceo: "Daniel P. Amos",
+    website: "https://www.aflac.com",
+    ticker: "AFL",
     market_cap: "41812.8"
   },
   {
@@ -3235,9 +3235,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "154.0",
-    CEO: "Marc R. Bitzer",
-    Website: "https://www.whirlpoolcorp.com",
-    Ticker: "WHR",
+    ceo: "Marc R. Bitzer",
+    website: "https://www.whirlpoolcorp.com",
+    ticker: "WHR",
     market_cap: "10101.2"
   },
   {
@@ -3255,9 +3255,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "153.0",
-    CEO: "Lance M. Fritz",
-    Website: "https://www.up.com",
-    Ticker: "UNP",
+    ceo: "Lance M. Fritz",
+    website: "https://www.up.com",
+    ticker: "UNP",
     market_cap: "171681.6"
   },
   {
@@ -3275,9 +3275,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "141.0",
-    CEO: "Mark S. Sutton",
-    Website: "https://www.internationalpaper.com",
-    Ticker: "IP",
+    ceo: "Mark S. Sutton",
+    website: "https://www.internationalpaper.com",
+    ticker: "IP",
     market_cap: "17301.1"
   },
   {
@@ -3295,9 +3295,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "138.0",
-    CEO: "William F. Gifford Jr.",
-    Website: "https://www.altria.com",
-    Ticker: "MO",
+    ceo: "William F. Gifford Jr.",
+    website: "https://www.altria.com",
+    ticker: "MO",
     market_cap: "94951.7"
   },
   {
@@ -3315,9 +3315,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "161.0",
-    CEO: "Christine A. Leahy",
-    Website: "https://www.cdw.com",
-    Ticker: "CDW",
+    ceo: "Christine A. Leahy",
+    website: "https://www.cdw.com",
+    ticker: "CDW",
     market_cap: "24140.2"
   },
   {
@@ -3335,9 +3335,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "165.0",
-    CEO: "Jonas Prising",
-    Website: "https://www.manpowergroup.com",
-    Ticker: "MAN",
+    ceo: "Jonas Prising",
+    website: "https://www.manpowergroup.com",
+    ticker: "MAN",
     market_cap: "5025.6"
   },
   {
@@ -3355,9 +3355,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "no",
     prev_rank: "160.0",
-    CEO: "Patricia K. Poppe",
-    Website: "https://www.pgecorp.com",
-    Ticker: "PCG",
+    ceo: "Patricia K. Poppe",
+    website: "https://www.pgecorp.com",
+    ticker: "PCG",
     market_cap: "29433.7"
   },
   {
@@ -3375,9 +3375,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "171.0",
-    CEO: "David L. Gitlin",
-    Website: "https://www.corporate.carrier.com",
-    Ticker: "CARR",
+    ceo: "David L. Gitlin",
+    website: "https://www.corporate.carrier.com",
+    ticker: "CARR",
     market_cap: "39127.4"
   },
   {
@@ -3395,9 +3395,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "140.0",
-    CEO: "Lorenzo Simonelli",
-    Website: "https://www.bakerhughes.com",
-    Ticker: "BKR",
+    ceo: "Lorenzo Simonelli",
+    website: "https://www.bakerhughes.com",
+    ticker: "BKR",
     market_cap: "37410.2"
   },
   {
@@ -3415,9 +3415,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "C. Lourenco Goncalves",
-    Website: "https://www.clevelandcliffs.com",
-    Ticker: "CLF",
+    ceo: "C. Lourenco Goncalves",
+    website: "https://www.clevelandcliffs.com",
+    ticker: "CLF",
     market_cap: "16891.2"
   },
   {
@@ -3435,9 +3435,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "310.0",
-    CEO: "David B. Burritt",
-    Website: "https://www.ussteel.com",
-    Ticker: "X",
+    ceo: "David B. Burritt",
+    website: "https://www.ussteel.com",
+    ticker: "X",
     market_cap: "9832.3"
   },
   {
@@ -3455,9 +3455,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "177.0",
-    CEO: "Thomas E. Polen",
-    Website: "https://www.bd.com",
-    Ticker: "BDX",
+    ceo: "Thomas E. Polen",
+    website: "https://www.bd.com",
+    ticker: "BDX",
     market_cap: "75749.1"
   },
   {
@@ -3475,9 +3475,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "136.0",
-    CEO: "William D. Nash",
-    Website: "www.carmax.com",
-    Ticker: "KMX",
+    ceo: "William D. Nash",
+    website: "www.carmax.com",
+    ticker: "KMX",
     market_cap: "15305"
   },
   {
@@ -3495,9 +3495,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "162.0",
-    CEO: "John G. Morikis",
-    Website: "https://www.sherwin-williams.com",
-    Ticker: "SHW",
+    ceo: "John G. Morikis",
+    website: "https://www.sherwin-williams.com",
+    ticker: "SHW",
     market_cap: "65037.9"
   },
   {
@@ -3515,9 +3515,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "350.0",
-    CEO: "David Flitman",
-    Website: "https://www.bldr.com",
-    Ticker: "BLDR",
+    ceo: "David Flitman",
+    website: "https://www.bldr.com",
+    ticker: "BLDR",
     market_cap: "9205"
   },
   {
@@ -3535,9 +3535,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "175.0",
-    CEO: "Daniel S. Glaser",
-    Website: "https://www.marshmclennan.com",
-    Ticker: "MMC",
+    ceo: "Daniel S. Glaser",
+    website: "https://www.marshmclennan.com",
+    ticker: "MMC",
     market_cap: "85681.3"
   },
   {
@@ -3555,9 +3555,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "120.0",
-    CEO: "William S. Demchak",
-    Website: "https://www.pnc.com",
-    Ticker: "PNC",
+    ceo: "William S. Demchak",
+    website: "https://www.pnc.com",
+    ticker: "PNC",
     market_cap: "77203.4"
   },
   {
@@ -3575,9 +3575,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "139.0",
-    CEO: "Jeffrey K. Storey",
-    Website: "https://www.lumen.com",
-    Ticker: "LUMN",
+    ceo: "Jeffrey K. Storey",
+    website: "https://www.lumen.com",
+    ticker: "LUMN",
     market_cap: "11533.4"
   },
   {
@@ -3595,9 +3595,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "168.0",
-    CEO: "Philip R. Gallagher",
-    Website: "https://www.avnet.com",
-    Ticker: "AVT",
+    ceo: "Philip R. Gallagher",
+    website: "https://www.avnet.com",
+    ticker: "AVT",
     market_cap: "4016.9"
   },
   {
@@ -3615,9 +3615,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "167.0",
-    CEO: "Saumya Sutaria",
-    Website: "https://www.tenethealth.com",
-    Ticker: "THC",
+    ceo: "Saumya Sutaria",
+    website: "https://www.tenethealth.com",
+    ticker: "THC",
     market_cap: "9387.6"
   },
   {
@@ -3635,9 +3635,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "158.0",
-    CEO: "Michael D. Hsu",
-    Website: "https://www.kimberly-clark.com",
-    Ticker: "KMB",
+    ceo: "Michael D. Hsu",
+    website: "https://www.kimberly-clark.com",
+    ticker: "KMB",
     market_cap: "41496.1"
   },
   {
@@ -3655,9 +3655,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "195.0",
-    CEO: "Michelle D. Gass",
-    Website: "https://www.kohls.com",
-    Ticker: "KSS",
+    ceo: "Michelle D. Gass",
+    website: "https://www.kohls.com",
+    ticker: "KSS",
     market_cap: "7774.6"
   },
   {
@@ -3675,9 +3675,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "192.0",
-    CEO: "Laurence D. Fink",
-    Website: "https://www.blackrock.com",
-    Ticker: "BLK",
+    ceo: "Laurence D. Fink",
+    website: "https://www.blackrock.com",
+    ticker: "BLK",
     market_cap: "116186.2"
   },
   {
@@ -3695,9 +3695,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "186.0",
-    CEO: "Christian Ulbrich",
-    Website: "https://www.jll.com",
-    Ticker: "JLL",
+    ceo: "Christian Ulbrich",
+    website: "https://www.jll.com",
+    ticker: "JLL",
     market_cap: "11945.5"
   },
   {
@@ -3715,9 +3715,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "179.0",
-    CEO: "Raymond E. Scott",
-    Website: "https://www.lear.com",
-    Ticker: "LEA",
+    ceo: "Raymond E. Scott",
+    website: "https://www.lear.com",
+    ticker: "LEA",
     market_cap: "8513.1"
   },
   {
@@ -3735,9 +3735,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "172.0",
-    CEO: "Ellen G. Cooper",
-    Website: "https://www.lfg.com",
-    Ticker: "LNC",
+    ceo: "Ellen G. Cooper",
+    website: "https://www.lfg.com",
+    ticker: "LNC",
     market_cap: "11271.6"
   },
   {
@@ -3755,9 +3755,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "251.0",
-    CEO: "Walter W. Bettinger II",
-    Website: "https://www.aboutschwab.com",
-    Ticker: "SCHW",
+    ceo: "Walter W. Bettinger II",
+    website: "https://www.aboutschwab.com",
+    ticker: "SCHW",
     market_cap: "159675.9"
   },
   {
@@ -3775,9 +3775,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "242.0",
-    CEO: "Barbara Rentler",
-    Website: "https://www.rossstores.com",
-    Ticker: "ROST",
+    ceo: "Barbara Rentler",
+    website: "https://www.rossstores.com",
+    ticker: "ROST",
     market_cap: "31741.7"
   },
   {
@@ -3795,9 +3795,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "201.0",
-    CEO: "Michael Miebach",
-    Website: "https://www.mastercard.com",
-    Ticker: "MA",
+    ceo: "Michael Miebach",
+    website: "https://www.mastercard.com",
+    ticker: "MA",
     market_cap: "349330.5"
   },
   {
@@ -3815,9 +3815,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "173.0",
-    CEO: "Paul D. Donahue",
-    Website: "https://www.genpt.com",
-    Ticker: "GPC",
+    ceo: "Paul D. Donahue",
+    website: "https://www.genpt.com",
+    ticker: "GPC",
     market_cap: "17888.1"
   },
   {
@@ -3835,9 +3835,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "170.0",
-    CEO: "David B. Sewell",
-    Website: "https://www.westrock.com",
-    Ticker: "WRK",
+    ceo: "David B. Sewell",
+    website: "https://www.westrock.com",
+    ticker: "WRK",
     market_cap: "12379"
   },
   {
@@ -3855,9 +3855,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "285.0",
-    CEO: "Ezra Y. Yacob",
-    Website: "https://www.eogresources.com",
-    Ticker: "EOG",
+    ceo: "Ezra Y. Yacob",
+    website: "https://www.eogresources.com",
+    ticker: "EOG",
     market_cap: "69796"
   },
   {
@@ -3875,9 +3875,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "185.0",
-    CEO: "Brian Humphries",
-    Website: "https://www.cognizant.com",
-    Ticker: "CTSH",
+    ceo: "Brian Humphries",
+    website: "https://www.cognizant.com",
+    ticker: "CTSH",
     market_cap: "47035"
   },
   {
@@ -3895,9 +3895,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Stephane Bancel",
-    Website: "https://www.modernatx.com",
-    Ticker: "MRNA",
+    ceo: "Stephane Bancel",
+    website: "https://www.modernatx.com",
+    ticker: "MRNA",
     market_cap: "69424.3"
   },
   {
@@ -3915,9 +3915,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "319.0",
-    CEO: "Mark D. Millett",
-    Website: "https://www.steeldynamics.com",
-    Ticker: "STLD",
+    ceo: "Mark D. Millett",
+    website: "https://www.steeldynamics.com",
+    ticker: "STLD",
     market_cap: "15811.5"
   },
   {
@@ -3935,9 +3935,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "279.0",
-    CEO: "Michael C. Jennings",
-    Website: "https://www.hfsinclair.com",
-    Ticker: "DINO",
+    ceo: "Michael C. Jennings",
+    website: "https://www.hfsinclair.com",
+    ticker: "DINO",
     market_cap: "8895.8"
   },
   {
@@ -3955,9 +3955,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "210.0",
-    CEO: "Richard K. Templeton",
-    Website: "https://www.ti.com",
-    Ticker: "TXN",
+    ceo: "Richard K. Templeton",
+    website: "https://www.ti.com",
+    ticker: "TXN",
     market_cap: "169329.6"
   },
   {
@@ -3975,9 +3975,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "181.0",
-    CEO: "S. L. Karsanbhai",
-    Website: "https://www.emerson.com",
-    Ticker: "EMR",
+    ceo: "S. L. Karsanbhai",
+    website: "https://www.emerson.com",
+    ticker: "EMR",
     market_cap: "58241.7"
   },
   {
@@ -3995,9 +3995,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "245.0",
-    CEO: "John J. Engel",
-    Website: "https://www.wesco.com",
-    Ticker: "WCC",
+    ceo: "John J. Engel",
+    website: "https://www.wesco.com",
+    ticker: "WCC",
     market_cap: "6598.5"
   },
   {
@@ -4015,9 +4015,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "169.0",
-    CEO: "Jeffrey L. Harmening",
-    Website: "https://www.generalmills.com",
-    Ticker: "GIS",
+    ceo: "Jeffrey L. Harmening",
+    website: "https://www.generalmills.com",
+    ticker: "GIS",
     market_cap: "40781.8"
   },
   {
@@ -4035,9 +4035,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "199.0",
-    CEO: "Brian J. Kesseler",
-    Website: "https://www.tenneco.com",
-    Ticker: "TEN",
+    ceo: "Brian J. Kesseler",
+    website: "https://www.tenneco.com",
+    ticker: "TEN",
     market_cap: "1523"
   },
   {
@@ -4055,9 +4055,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "202.0",
-    CEO: "James C. Fish Jr.",
-    Website: "https://www.wm.com",
-    Ticker: "WM",
+    ceo: "James C. Fish Jr.",
+    website: "https://www.wm.com",
+    ticker: "WM",
     market_cap: "65802.8"
   },
   {
@@ -4075,9 +4075,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "254.0",
-    CEO: "Michael Goettler",
-    Website: "https://www.viatris.com",
-    Ticker: "VTRS",
+    ceo: "Michael Goettler",
+    website: "https://www.viatris.com",
+    ticker: "VTRS",
     market_cap: "13160.2"
   },
   {
@@ -4095,9 +4095,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "197.0",
-    CEO: "W. Erik Carlson",
-    Website: "https://www.dish.com",
-    Ticker: "DISH",
+    ceo: "W. Erik Carlson",
+    website: "https://www.dish.com",
+    ticker: "DISH",
     market_cap: "16743.1"
   },
   {
@@ -4115,9 +4115,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "163.0",
-    CEO: "Christopher E. Kubasik",
-    Website: "https://www.l3harris.com",
-    Ticker: "LHX",
+    ceo: "Christopher E. Kubasik",
+    website: "https://www.l3harris.com",
+    ticker: "LHX",
     market_cap: "47969.6"
   },
   {
@@ -4135,9 +4135,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "152.0",
-    CEO: "Michael J. Salvino",
-    Website: "https://www.dxc.technology",
-    Ticker: "DXC",
+    ceo: "Michael J. Salvino",
+    website: "https://www.dxc.technology",
+    ticker: "DXC",
     market_cap: "7977.3"
   },
   {
@@ -4155,9 +4155,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "323.0",
-    CEO: "Jack Dorsey",
-    Website: "https://www.block.xyz",
-    Ticker: "SQ",
+    ceo: "Jack Dorsey",
+    website: "https://www.block.xyz",
+    ticker: "SQ",
     market_cap: "78655.9"
   },
   {
@@ -4175,9 +4175,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "246.0",
-    CEO: "Richard J. Kramer",
-    Website: "https://www.goodyear.com",
-    Ticker: "GT",
+    ceo: "Richard J. Kramer",
+    website: "https://www.goodyear.com",
+    ticker: "GT",
     market_cap: "4029.3"
   },
   {
@@ -4195,9 +4195,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "281.0",
-    CEO: "Dara Khosrowshahi",
-    Website: "https://www.uber.com",
-    Ticker: "UBER",
+    ceo: "Dara Khosrowshahi",
+    website: "https://www.uber.com",
+    ticker: "UBER",
     market_cap: "69753"
   },
   {
@@ -4215,9 +4215,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "188.0",
-    CEO: "Noel R. Wallace",
-    Website: "https://www.colgatepalmolive.com",
-    Ticker: "CL",
+    ceo: "Noel R. Wallace",
+    website: "https://www.colgatepalmolive.com",
+    ticker: "CL",
     market_cap: "63742.2"
   },
   {
@@ -4235,9 +4235,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "209.0",
-    CEO: "Donald Allan Jr.",
-    Website: "https://www.stanleyblackanddecker.com",
-    Ticker: "SWK",
+    ceo: "Donald Allan Jr.",
+    website: "https://www.stanleyblackanddecker.com",
+    ticker: "SWK",
     market_cap: "22843.3"
   },
   {
@@ -4255,9 +4255,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "144.0",
-    CEO: "Edward D. Breen",
-    Website: "https://www.dupont.com",
-    Ticker: "DD",
+    ceo: "Edward D. Breen",
+    website: "https://www.dupont.com",
+    ticker: "DD",
     market_cap: "37739.7"
   },
   {
@@ -4275,9 +4275,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "212.0",
-    CEO: "Kevin A. Lobo",
-    Website: "https://www.stryker.com",
-    Ticker: "SYK",
+    ceo: "Kevin A. Lobo",
+    website: "https://www.stryker.com",
+    ticker: "SYK",
     market_cap: "100978.1"
   },
   {
@@ -4295,9 +4295,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "166.0",
-    CEO: "John W. Ketchum",
-    Website: "https://www.nexteraenergy.com",
-    Ticker: "NEE",
+    ceo: "John W. Ketchum",
+    website: "https://www.nexteraenergy.com",
+    ticker: "NEE",
     market_cap: "166264.1"
   },
   {
@@ -4315,9 +4315,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "364.0",
-    CEO: "Matthew J. Meloy",
-    Website: "https://www.targaresources.com",
-    Ticker: "TRGP",
+    ceo: "Matthew J. Meloy",
+    website: "https://www.targaresources.com",
+    ticker: "TRGP",
     market_cap: "17243.8"
   },
   {
@@ -4335,9 +4335,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "182.0",
-    CEO: "David V. Goeckeler",
-    Website: "https://www.westerndigital.com",
-    Ticker: "WDC",
+    ceo: "David V. Goeckeler",
+    website: "https://www.westerndigital.com",
+    ticker: "WDC",
     market_cap: "15536.4"
   },
   {
@@ -4355,9 +4355,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "220.0",
-    CEO: "Michael H. McGarry",
-    Website: "https://www.ppg.com",
-    Ticker: "PPG",
+    ceo: "Michael H. McGarry",
+    website: "https://www.ppg.com",
+    ticker: "PPG",
     market_cap: "30951.9"
   },
   {
@@ -4375,9 +4375,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "204.0",
-    CEO: "Nicholas K. Akins",
-    Website: "https://www.aep.com",
-    Ticker: "AEP",
+    ceo: "Nicholas K. Akins",
+    website: "https://www.aep.com",
+    ticker: "AEP",
     market_cap: "50338.6"
   },
   {
@@ -4395,9 +4395,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "221.0",
-    CEO: "Bobby L. Martin",
-    Website: "https://www.gapinc.com",
-    Ticker: "GPS",
+    ceo: "Bobby L. Martin",
+    website: "https://www.gapinc.com",
+    ticker: "GPS",
     market_cap: "5206.6"
   },
   {
@@ -4415,9 +4415,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "198.0",
-    CEO: "Robert W. Eddy",
-    Website: "https://www.bjs.com",
-    Ticker: "BJ",
+    ceo: "Robert W. Eddy",
+    website: "https://www.bjs.com",
+    ticker: "BJ",
     market_cap: "9146.9"
   },
   {
@@ -4435,9 +4435,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "207.0",
-    CEO: "Anna Manning",
-    Website: "https://www.rgare.com",
-    Ticker: "RGA",
+    ceo: "Anna Manning",
+    website: "https://www.rgare.com",
+    ticker: "RGA",
     market_cap: "7354.6"
   },
   {
@@ -4455,9 +4455,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "262.0",
-    CEO: "Steven J. Kean",
-    Website: "https://www.kindermorgan.com",
-    Ticker: "KMI",
+    ceo: "Steven J. Kean",
+    website: "https://www.kindermorgan.com",
+    ticker: "KMI",
     market_cap: "42878.1"
   },
   {
@@ -4475,9 +4475,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "351.0",
-    CEO: "Pierce H. Norton II",
-    Website: "https://www.oneok.com",
-    Ticker: "OKE",
+    ceo: "Pierce H. Norton II",
+    website: "https://www.oneok.com",
+    ticker: "OKE",
     market_cap: "31516"
   },
   {
@@ -4495,9 +4495,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "299.0",
-    CEO: "Jeffrey Musser",
-    Website: "https://www.expeditors.com",
-    Ticker: "EXPD",
+    ceo: "Jeffrey Musser",
+    website: "https://www.expeditors.com",
+    ticker: "EXPD",
     market_cap: "15051"
   },
   {
@@ -4515,9 +4515,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "309.0",
-    CEO: "Lisa Su",
-    Website: "https://www.amd.com",
-    Ticker: "AMD",
+    ceo: "Lisa Su",
+    website: "https://www.amd.com",
+    ticker: "AMD",
     market_cap: "93566"
   },
   {
@@ -4535,9 +4535,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "205.0",
-    CEO: "Frank J. Bisignano",
-    Website: "https://www.fiserv.com",
-    Ticker: "FISV",
+    ceo: "Frank J. Bisignano",
+    website: "https://www.fiserv.com",
+    ticker: "FISV",
     market_cap: "66132.8"
   },
   {
@@ -4555,9 +4555,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "213.0",
-    CEO: "Fabrizio Freda",
-    Website: "https://www.elcompanies.com",
-    Ticker: "EL",
+    ceo: "Fabrizio Freda",
+    website: "https://www.elcompanies.com",
+    ticker: "EL",
     market_cap: "97672.1"
   },
   {
@@ -4575,9 +4575,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "180.0",
-    CEO: "Robin Vince",
-    Website: "https://www.bnymellon.com",
-    Ticker: "BK",
+    ceo: "Robin Vince",
+    website: "https://www.bnymellon.com",
+    ticker: "BK",
     market_cap: "40056.7"
   },
   {
@@ -4595,9 +4595,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "218.0",
-    CEO: "Adam H. Schechter",
-    Website: "https://www.labcorp.com",
-    Ticker: "LH",
+    ceo: "Adam H. Schechter",
+    website: "https://www.labcorp.com",
+    ticker: "LH",
     market_cap: "24625.8"
   },
   {
@@ -4615,9 +4615,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "354.0",
-    CEO: "Leonard Schleifer",
-    Website: "https://www.regeneron.com",
-    Ticker: "REGN",
+    ceo: "Leonard Schleifer",
+    website: "https://www.regeneron.com",
+    ticker: "REGN",
     market_cap: "80226"
   },
   {
@@ -4635,9 +4635,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "219.0",
-    CEO: "Beth E. Ford",
-    Website: "https://www.landolakesinc.com",
-    Ticker: "",
+    ceo: "Beth E. Ford",
+    website: "https://www.landolakesinc.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -4655,9 +4655,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "328.0",
-    CEO: "Jack A. Fusco",
-    Website: "https://www.cheniere.com",
-    Ticker: "LNG",
+    ceo: "Jack A. Fusco",
+    website: "https://www.cheniere.com",
+    ticker: "LNG",
     market_cap: "35272.3"
   },
   {
@@ -4675,9 +4675,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "336.0",
-    CEO: "Robert E. Jordan",
-    Website: "https://www.southwest.com",
-    Ticker: "LUV",
+    ceo: "Robert E. Jordan",
+    website: "https://www.southwest.com",
+    ticker: "LUV",
     market_cap: "27129.3"
   },
   {
@@ -4695,9 +4695,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "234.0",
-    CEO: "Shantanu Narayen",
-    Website: "https://www.adobe.com",
-    Ticker: "ADBE",
+    ceo: "Shantanu Narayen",
+    website: "https://www.adobe.com",
+    ticker: "ADBE",
     market_cap: "215280.5"
   },
   {
@@ -4715,9 +4715,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "187.0",
-    CEO: "Brian D. Doubles",
-    Website: "https://www.synchronyfinancial.com",
-    Ticker: "SYF",
+    ceo: "Brian D. Doubles",
+    website: "https://www.synchronyfinancial.com",
+    ticker: "SYF",
     market_cap: "18145.5"
   },
   {
@@ -4735,9 +4735,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "214.0",
-    CEO: "Charles V. Magro",
-    Website: "https://www.corteva.com",
-    Ticker: "CTVA",
+    ceo: "Charles V. Magro",
+    website: "https://www.corteva.com",
+    ticker: "CTVA",
     market_cap: "41774.9"
   },
   {
@@ -4755,9 +4755,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "288.0",
-    CEO: "Michael Nolan",
-    Website: "https://www.fnf.com",
-    Ticker: "FNF",
+    ceo: "Michael Nolan",
+    website: "https://www.fnf.com",
+    ticker: "FNF",
     market_cap: "10569"
   },
   {
@@ -4775,9 +4775,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "250.0",
-    CEO: "Gerardo Norcia",
-    Website: "https://www.dteenergy.com",
-    Ticker: "DTE",
+    ceo: "Gerardo Norcia",
+    website: "https://www.dteenergy.com",
+    ticker: "DTE",
     market_cap: "25614.6"
   },
   {
@@ -4795,9 +4795,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "322.0",
-    CEO: "R. Andrew Clyde",
-    Website: "https://www.murphyusa.com",
-    Ticker: "MUSA",
+    ceo: "R. Andrew Clyde",
+    website: "https://www.murphyusa.com",
+    ticker: "MUSA",
     market_cap: "4888.6"
   },
   {
@@ -4815,9 +4815,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "211.0",
-    CEO: "Jeffrey A. Miller",
-    Website: "https://www.halliburton.com",
-    Ticker: "HAL",
+    ceo: "Jeffrey A. Miller",
+    website: "https://www.halliburton.com",
+    ticker: "HAL",
     market_cap: "34028.9"
   },
   {
@@ -4835,9 +4835,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "208.0",
-    CEO: "Carlos A. Rodriguez",
-    Website: "https://www.adp.com",
-    Ticker: "ADP",
+    ceo: "Carlos A. Rodriguez",
+    website: "https://www.adp.com",
+    ticker: "ADP",
     market_cap: "95577.1"
   },
   {
@@ -4855,9 +4855,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "226.0",
-    CEO: "Pedro J. Pizarro",
-    Website: "https://www.edisoninvestor.com",
-    Ticker: "EIX",
+    ceo: "Pedro J. Pizarro",
+    website: "https://www.edisoninvestor.com",
+    ticker: "EIX",
     market_cap: "26693.8"
   },
   {
@@ -4875,9 +4875,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "295.0",
-    CEO: "Frederic B. Lissalde",
-    Website: "https://www.borgwarner.com",
-    Ticker: "BWA",
+    ceo: "Frederic B. Lissalde",
+    website: "https://www.borgwarner.com",
+    ticker: "BWA",
     market_cap: "9335"
   },
   {
@@ -4895,9 +4895,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "289.0",
-    CEO: "Erik B. Nordstrom",
-    Website: "https://www.nordstrom.com",
-    Ticker: "JWN",
+    ceo: "Erik B. Nordstrom",
+    website: "https://www.nordstrom.com",
+    ticker: "JWN",
     market_cap: "4321.3"
   },
   {
@@ -4915,9 +4915,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "239.0",
-    CEO: "James S. Tisch",
-    Website: "https://www.loews.com",
-    Ticker: "L",
+    ceo: "James S. Tisch",
+    website: "https://www.loews.com",
+    ticker: "L",
     market_cap: "15971.3"
   },
   {
@@ -4935,9 +4935,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "227.0",
-    CEO: "Andrew J. McMahon",
-    Website: "https://www.guardianlife.com",
-    Ticker: "",
+    ceo: "Andrew J. McMahon",
+    website: "https://www.guardianlife.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -4955,9 +4955,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "428.0",
-    CEO: "Scott D. Sheffield",
-    Website: "https://www.pxd.com",
-    Ticker: "PXD",
+    ceo: "Scott D. Sheffield",
+    website: "https://www.pxd.com",
+    ticker: "PXD",
     market_cap: "60728.3"
   },
   {
@@ -4975,9 +4975,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "238.0",
-    CEO: "William C. Rhodes III",
-    Website: "https://www.autozone.com",
-    Ticker: "AZO",
+    ceo: "William C. Rhodes III",
+    website: "https://www.autozone.com",
+    ticker: "AZO",
     market_cap: "40582.6"
   },
   {
@@ -4995,9 +4995,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "304.0",
-    CEO: "Timothy M. Archer",
-    Website: "https://www.lamresearch.com",
-    Ticker: "LRCX",
+    ceo: "Timothy M. Archer",
+    website: "https://www.lamresearch.com",
+    ticker: "LRCX",
     market_cap: "74996.7"
   },
   {
@@ -5015,9 +5015,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "232.0",
-    CEO: "William Westrate",
-    Website: "https://www.amfam.com",
-    Ticker: "",
+    ceo: "William Westrate",
+    website: "https://www.amfam.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -5035,9 +5035,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "240.0",
-    CEO: "E. Scott Santi",
-    Website: "https://www.itw.com",
-    Ticker: "ITW",
+    ceo: "E. Scott Santi",
+    website: "https://www.itw.com",
+    ticker: "ITW",
     market_cap: "65311.9"
   },
   {
@@ -5055,9 +5055,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "223.0",
-    CEO: "Thomas L. Williams",
-    Website: "https://www.parker.com",
-    Ticker: "PH",
+    ceo: "Thomas L. Williams",
+    website: "https://www.parker.com",
+    ticker: "PH",
     market_cap: "36456.8"
   },
   {
@@ -5075,9 +5075,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "236.0",
-    CEO: "Judith F. Marks",
-    Website: "https://www.otis.com",
-    Ticker: "OTIS",
+    ceo: "Judith F. Marks",
+    website: "https://www.otis.com",
+    ticker: "OTIS",
     market_cap: "32700.9"
   },
   {
@@ -5095,9 +5095,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "229.0",
-    CEO: "John D. Wren",
-    Website: "https://www.omnicomgroup.com",
-    Ticker: "OMC",
+    ceo: "John D. Wren",
+    website: "https://www.omnicomgroup.com",
+    ticker: "OMC",
     market_cap: "17565.7"
   },
   {
@@ -5115,9 +5115,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "206.0",
-    CEO: "Daniel J. Houston",
-    Website: "https://www.principal.com",
-    Ticker: "PFG",
+    ceo: "Daniel J. Houston",
+    website: "https://www.principal.com",
+    ticker: "PFG",
     market_cap: "19176.7"
   },
   {
@@ -5135,9 +5135,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "193.0",
-    CEO: "Robert M. Blue",
-    Website: "https://www.dominionenergy.com",
-    Ticker: "D",
+    ceo: "Robert M. Blue",
+    website: "https://www.dominionenergy.com",
+    ticker: "D",
     market_cap: "68883"
   },
   {
@@ -5155,9 +5155,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "222.0",
-    CEO: "Steven A. Cahillane",
-    Website: "https://www.kelloggcompany.com",
-    Ticker: "K",
+    ceo: "Steven A. Cahillane",
+    website: "https://www.kelloggcompany.com",
+    ticker: "K",
     market_cap: "21890.2"
   },
   {
@@ -5175,9 +5175,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "196.0",
-    CEO: "David E. Constable",
-    Website: "https://www.fluor.com",
-    Ticker: "FLR",
+    ceo: "David E. Constable",
+    website: "https://www.fluor.com",
+    ticker: "FLR",
     market_cap: "4051.7"
   },
   {
@@ -5195,9 +5195,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "189.0",
-    CEO: "W. Troy Rudd",
-    Website: "https://www.aecom.com",
-    Ticker: "ACM",
+    ceo: "W. Troy Rudd",
+    website: "https://www.aecom.com",
+    ticker: "ACM",
     market_cap: "10856.5"
   },
   {
@@ -5215,9 +5215,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "343.0",
-    CEO: "James D. Hoffman",
-    Website: "https://www.rsac.com",
-    Ticker: "RS",
+    ceo: "James D. Hoffman",
+    website: "https://www.rsac.com",
+    ticker: "RS",
     market_cap: "11313.5"
   },
   {
@@ -5235,9 +5235,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "225.0",
-    CEO: "Steven J. Demetriou",
-    Website: "https://www.jacobs.com",
-    Ticker: "J",
+    ceo: "Steven J. Demetriou",
+    website: "https://www.jacobs.com",
+    ticker: "J",
     market_cap: "17807.4"
   },
   {
@@ -5255,9 +5255,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "277.0",
-    CEO: "Wendell P. Weeks",
-    Website: "https://www.corning.com",
-    Ticker: "GLW",
+    ceo: "Wendell P. Weeks",
+    website: "https://www.corning.com",
+    ticker: "GLW",
     market_cap: "31212.8"
   },
   {
@@ -5275,9 +5275,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "256.0",
-    CEO: "Jeffrey J. Dailey",
-    Website: "https://www.farmers.com",
-    Ticker: "",
+    ceo: "Jeffrey J. Dailey",
+    website: "https://www.farmers.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -5295,9 +5295,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "216.0",
-    CEO: "David L. Rawlinson II",
-    Website: "https://www.qurateretail.com",
-    Ticker: "QRTEA",
+    ceo: "David L. Rawlinson II",
+    website: "https://www.qurateretail.com",
+    ticker: "QRTEA",
     market_cap: "1807.4"
   },
   {
@@ -5315,9 +5315,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "303.0",
-    CEO: "Darryl Button",
-    Website: "https://www.pacificlife.com",
-    Ticker: "",
+    ceo: "Darryl Button",
+    website: "https://www.pacificlife.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -5335,9 +5335,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "284.0",
-    CEO: "Ryan R. Marshall",
-    Website: "https://www.pultegroupinc.com",
-    Ticker: "PHM",
+    ceo: "Ryan R. Marshall",
+    website: "https://www.pultegroupinc.com",
+    ticker: "PHM",
     market_cap: "10115.7"
   },
   {
@@ -5355,9 +5355,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "241.0",
-    CEO: "Gary A. Norcross",
-    Website: "https://www.fisglobal.com",
-    Ticker: "FIS",
+    ceo: "Gary A. Norcross",
+    website: "https://www.fisglobal.com",
+    ticker: "FIS",
     market_cap: "61215.1"
   },
   {
@@ -5375,9 +5375,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "275.0",
-    CEO: "Ari Bousbib",
-    Website: "https://www.iqvia.com",
-    Ticker: "IQV",
+    ceo: "Ari Bousbib",
+    website: "https://www.iqvia.com",
+    ticker: "IQV",
     market_cap: "44140.8"
   },
   {
@@ -5395,9 +5395,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "293.0",
-    CEO: "Anthony G. Capuano",
-    Website: "https://www.marriott.com",
-    Ticker: "MAR",
+    ceo: "Anthony G. Capuano",
+    website: "https://www.marriott.com",
+    ticker: "MAR",
     market_cap: "57514.9"
   },
   {
@@ -5415,9 +5415,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "261.0",
-    CEO: "Thomas E. Salmon",
-    Website: "https://www.berryglobal.com",
-    Ticker: "BERY",
+    ceo: "Thomas E. Salmon",
+    website: "https://www.berryglobal.com",
+    ticker: "BERY",
     market_cap: "7832.4"
   },
   {
@@ -5435,9 +5435,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "260.0",
-    CEO: "Daniel W. Fisher",
-    Website: "https://www.ball.com",
-    Ticker: "BLL",
+    ceo: "Daniel W. Fisher",
+    website: "https://www.ball.com",
+    ticker: "BLL",
     market_cap: "28909.1"
   },
   {
@@ -5455,9 +5455,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "286.0",
-    CEO: "Earl J. Hesterberg",
-    Website: "https://www.group1auto.com",
-    Ticker: "GPI",
+    ceo: "Earl J. Hesterberg",
+    website: "https://www.group1auto.com",
+    ticker: "GPI",
     market_cap: "2859.9"
   },
   {
@@ -5475,9 +5475,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "248.0",
-    CEO: "Roger A. Krone",
-    Website: "https://www.leidos.com",
-    Ticker: "LDOS",
+    ceo: "Roger A. Krone",
+    website: "https://www.leidos.com",
+    ticker: "LDOS",
     market_cap: "14727.7"
   },
   {
@@ -5495,9 +5495,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "217.0",
-    CEO: "Niraj S. Shah",
-    Website: "https://www.wayfair.com",
-    Ticker: "W",
+    ceo: "Niraj S. Shah",
+    website: "https://www.wayfair.com",
+    ticker: "W",
     market_cap: "11641.6"
   },
   {
@@ -5515,9 +5515,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "249.0",
-    CEO: "Timothy P. Cawley",
-    Website: "https://www.conedison.com",
-    Ticker: "ED",
+    ceo: "Timothy P. Cawley",
+    website: "https://www.conedison.com",
+    ticker: "ED",
     market_cap: "33525.3"
   },
   {
@@ -5535,9 +5535,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "253.0",
-    CEO: "James M. Cracchiolo",
-    Website: "https://www.ameriprise.com",
-    Ticker: "AMP",
+    ceo: "James M. Cracchiolo",
+    website: "https://www.ameriprise.com",
+    ticker: "AMP",
     market_cap: "33213"
   },
   {
@@ -5555,9 +5555,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "272.0",
-    CEO: "Robert C. Frenzel",
-    Website: "https://www.xcelenergy.com",
-    Ticker: "XEL",
+    ceo: "Robert C. Frenzel",
+    website: "https://www.xcelenergy.com",
+    ticker: "XEL",
     market_cap: "39275.9"
   },
   {
@@ -5575,9 +5575,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "268.0",
-    CEO: "Gregory D. Johnson",
-    Website: "https://www.oreillyauto.com",
-    Ticker: "ORLY",
+    ceo: "Gregory D. Johnson",
+    website: "https://www.oreillyauto.com",
+    ticker: "ORLY",
     market_cap: "45410.4"
   },
   {
@@ -5595,9 +5595,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "361.0",
-    CEO: "Eric Slifka",
-    Website: "https://www.globalp.com",
-    Ticker: "GLP",
+    ceo: "Eric Slifka",
+    website: "https://www.globalp.com",
+    ticker: "GLP",
     market_cap: "927.1"
   },
   {
@@ -5615,9 +5615,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "233.0",
-    CEO: "Roger C. Hochschild",
-    Website: "https://www.discover.com",
-    Ticker: "DFS",
+    ceo: "Roger C. Hochschild",
+    website: "https://www.discover.com",
+    ticker: "DFS",
     market_cap: "31076.7"
   },
   {
@@ -5635,9 +5635,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "194.0",
-    CEO: "Jay D. Farner",
-    Website: "https://www.rocketcompanies.com",
-    Ticker: "RKT",
+    ceo: "Jay D. Farner",
+    website: "https://www.rocketcompanies.com",
+    ticker: "RKT",
     market_cap: "21905.9"
   },
   {
@@ -5655,9 +5655,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "266.0",
-    CEO: "Dominick P. Zarcone",
-    Website: "https://www.lkqcorp.com",
-    Ticker: "LKQ",
+    ceo: "Dominick P. Zarcone",
+    website: "https://www.lkqcorp.com",
+    ticker: "LKQ",
     market_cap: "12941.4"
   },
   {
@@ -5675,9 +5675,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "258.0",
-    CEO: "D.G. Macpherson",
-    Website: "https://www.grainger.com",
-    Ticker: "GWW",
+    ceo: "D.G. Macpherson",
+    website: "https://www.grainger.com",
+    ticker: "GWW",
     market_cap: "26358"
   },
   {
@@ -5695,9 +5695,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "278.0",
-    CEO: "Earl C. Austin Jr.",
-    Website: "https://www.quantaservices.com",
-    Ticker: "PWR",
+    ceo: "Earl C. Austin Jr.",
+    website: "https://www.quantaservices.com",
+    ticker: "PWR",
     market_cap: "18779.5"
   },
   {
@@ -5715,9 +5715,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "269.0",
-    CEO: "Timothy J. Donahue",
-    Website: "https://www.crowncork.com",
-    Ticker: "CCK",
+    ceo: "Timothy J. Donahue",
+    website: "https://www.crowncork.com",
+    ticker: "CCK",
     market_cap: "15460.6"
   },
   {
@@ -5735,9 +5735,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "247.0",
-    CEO: "Lachlan K. Murdoch",
-    Website: "https://www.foxcorporation.com",
-    Ticker: "FOXA",
+    ceo: "Lachlan K. Murdoch",
+    website: "https://www.foxcorporation.com",
+    ticker: "FOXA",
     market_cap: "21423.2"
   },
   {
@@ -5755,9 +5755,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "255.0",
-    CEO: "Jeffrey W. Martin",
-    Website: "https://www.sempra.com",
-    Ticker: "SRE",
+    ceo: "Jeffrey W. Martin",
+    website: "https://www.sempra.com",
+    ticker: "SRE",
     market_cap: "53087.6"
   },
   {
@@ -5775,9 +5775,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "311.0",
-    CEO: "Thomas S. Gayner/Richard R. Whitt III",
-    Website: "https://www.markel.com",
-    Ticker: "MKL",
+    ceo: "Thomas S. Gayner/Richard R. Whitt III",
+    website: "https://www.markel.com",
+    ticker: "MKL",
     market_cap: "20037.5"
   },
   {
@@ -5795,9 +5795,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "483.0",
-    CEO: "Ernest C. Garcia III",
-    Website: "https://www.carvana.com",
-    Ticker: "CVNA",
+    ceo: "Ernest C. Garcia III",
+    website: "https://www.carvana.com",
+    ticker: "CVNA",
     market_cap: "19549.5"
   },
   {
@@ -5815,9 +5815,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "190.0",
-    CEO: "Brad Jacobs",
-    Website: "https://www.xpo.com",
-    Ticker: "XPO",
+    ceo: "Brad Jacobs",
+    website: "https://www.xpo.com",
+    ticker: "XPO",
     market_cap: "8356.9"
   },
   {
@@ -5835,9 +5835,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "264.0",
-    CEO: "JosÃ© E. Almeida",
-    Website: "https://www.baxter.com",
-    Ticker: "BAX",
+    ceo: "JosÃ© E. Almeida",
+    website: "https://www.baxter.com",
+    ticker: "BAX",
     market_cap: "39017.9"
   },
   {
@@ -5855,9 +5855,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "237.0",
-    CEO: "Christophe Beck",
-    Website: "https://www.ecolab.com",
-    Ticker: "ECL",
+    ceo: "Christophe Beck",
+    website: "https://www.ecolab.com",
+    ticker: "ECL",
     market_cap: "50548.4"
   },
   {
@@ -5875,9 +5875,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "291.0",
-    CEO: "Harry A. Lawton III",
-    Website: "https://www.tractorsupply.com",
-    Ticker: "TSCO",
+    ceo: "Harry A. Lawton III",
+    website: "https://www.tractorsupply.com",
+    ticker: "TSCO",
     market_cap: "26171.6"
   },
   {
@@ -5895,9 +5895,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "366.0",
-    CEO: "Patrick Bowe",
-    Website: "https://andersonsinc.com",
-    Ticker: "ANDE",
+    ceo: "Patrick Bowe",
+    website: "https://andersonsinc.com",
+    ticker: "ANDE",
     market_cap: "1151"
   },
   {
@@ -5915,9 +5915,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "267.0",
-    CEO: "Ozan Dokmecioglu",
-    Website: "https://www.keurigdrpepper.com",
-    Ticker: "KDP",
+    ceo: "Ozan Dokmecioglu",
+    website: "https://www.keurigdrpepper.com",
+    ticker: "KDP",
     market_cap: "53748.2"
   },
   {
@@ -5935,9 +5935,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "270.0",
-    CEO: "Marc D. Miller",
-    Website: "https://www.uhsinc.com",
-    Ticker: "UHS",
+    ceo: "Marc D. Miller",
+    website: "https://www.uhsinc.com",
+    ticker: "UHS",
     market_cap: "10843.1"
   },
   {
@@ -5955,9 +5955,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "292.0",
-    CEO: "Joseph R. Hinrichs",
-    Website: "https://www.csx.com",
-    Ticker: "CSX",
+    ceo: "Joseph R. Hinrichs",
+    website: "https://www.csx.com",
+    ticker: "CSX",
     market_cap: "81587.8"
   },
   {
@@ -5975,9 +5975,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "298.0",
-    CEO: "Stanley Bergman",
-    Website: "https://www.henryschein.com",
-    Ticker: "HSIC",
+    ceo: "Stanley Bergman",
+    website: "https://www.henryschein.com",
+    ticker: "HSIC",
     market_cap: "8952"
   },
   {
@@ -5995,9 +5995,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "308.0",
-    CEO: "David Bruton Smith",
-    Website: "https://www.sonicautomotive.com",
-    Ticker: "SAH",
+    ceo: "David Bruton Smith",
+    website: "https://www.sonicautomotive.com",
+    ticker: "SAH",
     market_cap: "1728.8"
   },
   {
@@ -6015,9 +6015,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "276.0",
-    CEO: "Jamie Iannone",
-    Website: "https://www.ebay.com",
-    Ticker: "EBAY",
+    ceo: "Jamie Iannone",
+    website: "https://www.ebay.com",
+    ticker: "EBAY",
     market_cap: "33641.9"
   },
   {
@@ -6035,9 +6035,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "265.0",
-    CEO: "Scott C. Donnelly",
-    Website: "https://www.textron.com",
-    Ticker: "TXT",
+    ceo: "Scott C. Donnelly",
+    website: "https://www.textron.com",
+    ticker: "TXT",
     market_cap: "16090.6"
   },
   {
@@ -6055,9 +6055,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "295.0",
-    CEO: "Penny Pennington",
-    Website: "https://www.edwardjones.com",
-    Ticker: "",
+    ceo: "Penny Pennington",
+    website: "https://www.edwardjones.com",
+    ticker: "",
     market_cap: "-"
   },
   {
@@ -6075,9 +6075,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "259.0",
-    CEO: "Tim L. Hingtgen",
-    Website: "https://www.chs.net",
-    Ticker: "CYH",
+    ceo: "Tim L. Hingtgen",
+    website: "https://www.chs.net",
+    ticker: "CYH",
     market_cap: "1598.6"
   },
   {
@@ -6095,9 +6095,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "346.0",
-    CEO: "James C. O&#039;Rourke",
-    Website: "https://www.mosaicco.com",
-    Ticker: "MOS",
+    ceo: "James C. O&#039;Rourke",
+    website: "https://www.mosaicco.com",
+    ticker: "MOS",
     market_cap: "24492.6"
   },
   {
@@ -6115,9 +6115,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "368.0",
-    CEO: "Robert Martin",
-    Website: "https://www.thorindustries.com",
-    Ticker: "THO",
+    ceo: "Robert Martin",
+    website: "https://www.thorindustries.com",
+    ticker: "THO",
     market_cap: "4273"
   },
   {
@@ -6135,9 +6135,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "320.0",
-    CEO: "Lauren R. Hobart",
-    Website: "https://www.dickssportinggoods.com",
-    Ticker: "DKS",
+    ceo: "Lauren R. Hobart",
+    website: "https://www.dickssportinggoods.com",
+    ticker: "DKS",
     market_cap: "7986.6"
   },
   {
@@ -6155,9 +6155,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "273.0",
-    CEO: "Thomas R. Palmer",
-    Website: "https://www.newmont.com",
-    Ticker: "NEM",
+    ceo: "Thomas R. Palmer",
+    website: "https://www.newmont.com",
+    ticker: "NEM",
     market_cap: "62968.1"
   },
   {
@@ -6175,9 +6175,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Richard E. Muncrief",
-    Website: "https://www.devonenergy.com",
-    Ticker: "DVN",
+    ceo: "Richard E. Muncrief",
+    website: "https://www.devonenergy.com",
+    ticker: "DVN",
     market_cap: "39274.1"
   },
   {
@@ -6195,9 +6195,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "290.0",
-    CEO: "David M. Zaslav",
-    Website: "https://https://wbd.com",
-    Ticker: "WBD",
+    ceo: "David M. Zaslav",
+    website: "https://https://wbd.com",
+    ticker: "WBD",
     market_cap: "12700.5"
   },
   {
@@ -6215,9 +6215,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "315.0",
-    CEO: "John N. Roberts III",
-    Website: "https://www.jbhunt.com",
-    Ticker: "JBHT",
+    ceo: "John N. Roberts III",
+    website: "https://www.jbhunt.com",
+    ticker: "JBHT",
     market_cap: "21052.9"
   },
   {
@@ -6235,9 +6235,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "330.0",
-    CEO: "Roy C. Harvey",
-    Website: "https://www.alcoa.com",
-    Ticker: "AA",
+    ceo: "Roy C. Harvey",
+    website: "https://www.alcoa.com",
+    ticker: "AA",
     market_cap: "16603.4"
   },
   {
@@ -6255,9 +6255,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "243.0",
-    CEO: "Rick Lanoha",
-    Website: "https://www.kiewit.com",
-    Ticker: "",
+    ceo: "Rick Lanoha",
+    website: "https://www.kiewit.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -6275,9 +6275,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "235.0",
-    CEO: "John J. Zillmer",
-    Website: "https://www.aramark.com",
-    Ticker: "ARMK",
+    ceo: "John J. Zillmer",
+    website: "https://www.aramark.com",
+    ticker: "ARMK",
     market_cap: "9655.5"
   },
   {
@@ -6295,9 +6295,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "274.0",
-    CEO: "James A. Burke",
-    Website: "https://www.vistracorp.com",
-    Ticker: "VST",
+    ceo: "James A. Burke",
+    website: "https://www.vistracorp.com",
+    ticker: "VST",
     market_cap: "10434.7"
   },
   {
@@ -6315,9 +6315,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "252.0",
-    CEO: "Ronald P. O&#039;Hanley",
-    Website: "https://www.statestreet.com",
-    Ticker: "STT",
+    ceo: "Ronald P. O&#039;Hanley",
+    website: "https://www.statestreet.com",
+    ticker: "STT",
     market_cap: "31891.8"
   },
   {
@@ -6335,9 +6335,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "230.0",
-    CEO: "Richard P. McKenney",
-    Website: "https://www.unum.com",
-    Ticker: "UNM",
+    ceo: "Richard P. McKenney",
+    website: "https://www.unum.com",
+    ticker: "UNM",
     market_cap: "6382.8"
   },
   {
@@ -6355,9 +6355,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "339.0",
-    CEO: "Joseph P. Brandon",
-    Website: "https://www.alleghany.com",
-    Ticker: "Y",
+    ceo: "Joseph P. Brandon",
+    website: "https://www.alleghany.com",
+    ticker: "Y",
     market_cap: "11396.1"
   },
   {
@@ -6375,9 +6375,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "305.0",
-    CEO: "Michael F. Mahoney",
-    Website: "https://www.bostonscientific.com",
-    Ticker: "BSX",
+    ceo: "Michael F. Mahoney",
+    website: "https://www.bostonscientific.com",
+    ticker: "BSX",
     market_cap: "63310.2"
   },
   {
@@ -6395,9 +6395,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "388.0",
-    CEO: "Albert Yuan Chao",
-    Website: "https://www.westlake.com",
-    Ticker: "WLK",
+    ceo: "Albert Yuan Chao",
+    website: "https://www.westlake.com",
+    ticker: "WLK",
     market_cap: "15785.4"
   },
   {
@@ -6415,9 +6415,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "300.0",
-    CEO: "Andrew S. Marsh",
-    Website: "https://www.entergy.com",
-    Ticker: "ETR",
+    ceo: "Andrew S. Marsh",
+    website: "https://www.entergy.com",
+    ticker: "ETR",
     market_cap: "23760.4"
   },
   {
@@ -6435,9 +6435,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Franklin K. Clyburn Jr.",
-    Website: "https://www.iff.com",
-    Ticker: "IFF",
+    ceo: "Franklin K. Clyburn Jr.",
+    website: "https://www.iff.com",
+    ticker: "IFF",
     market_cap: "33455.6"
   },
   {
@@ -6455,9 +6455,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "271.0",
-    CEO: "Javier J. Rodriguez",
-    Website: "https://www.davita.com",
-    Ticker: "DVA",
+    ceo: "Javier J. Rodriguez",
+    website: "https://www.davita.com",
+    ticker: "DVA",
     market_cap: "10892.5"
   },
   {
@@ -6475,9 +6475,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "282.0",
-    CEO: "James T. Blackledge",
-    Website: "https://www.mutualofomaha.com",
-    Ticker: "",
+    ceo: "James T. Blackledge",
+    website: "https://www.mutualofomaha.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -6495,9 +6495,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "302.0",
-    CEO: "Keith W. Demmings",
-    Website: "https://www.assurant.com",
-    Ticker: "AIZ",
+    ceo: "Keith W. Demmings",
+    website: "https://www.assurant.com",
+    ticker: "AIZ",
     market_cap: "10493.1"
   },
   {
@@ -6515,9 +6515,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "326.0",
-    CEO: "Gregory B. Maffei",
-    Website: "https://www.libertymedia.com",
-    Ticker: "LSXMA",
+    ceo: "Gregory B. Maffei",
+    website: "https://www.libertymedia.com",
+    ticker: "LSXMA",
     market_cap: "15239.1"
   },
   {
@@ -6535,9 +6535,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "317.0",
-    CEO: "James P. Snee",
-    Website: "https://www.hormelfoods.com",
-    Ticker: "HRL",
+    ceo: "James P. Snee",
+    website: "https://www.hormelfoods.com",
+    ticker: "HRL",
     market_cap: "28089.2"
   },
   {
@@ -6555,9 +6555,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "453.0",
-    CEO: "David Willetts",
-    Website: "https://www.ielp.com",
-    Ticker: "IEP",
+    ceo: "David Willetts",
+    website: "https://www.ielp.com",
+    ticker: "IEP",
     market_cap: "15237.1"
   },
   {
@@ -6575,9 +6575,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "297.0",
-    CEO: "Jon Vander Ark",
-    Website: "https://www.republicservices.com",
-    Ticker: "RSG",
+    ceo: "Jon Vander Ark",
+    website: "https://www.republicservices.com",
+    ticker: "RSG",
     market_cap: "41841.7"
   },
   {
@@ -6595,9 +6595,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "321.0",
-    CEO: "Jeffrey S. Lorberbaum",
-    Website: "https://www.mohawkind.com",
-    Ticker: "MHK",
+    ceo: "Jeffrey S. Lorberbaum",
+    website: "https://www.mohawkind.com",
+    ticker: "MHK",
     market_cap: "8081.8"
   },
   {
@@ -6615,9 +6615,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "283.0",
-    CEO: "Sean M. Connolly",
-    Website: "https://www.conagrabrands.com",
-    Ticker: "CAG",
+    ceo: "Sean M. Connolly",
+    website: "https://www.conagrabrands.com",
+    ticker: "CAG",
     market_cap: "16103.5"
   },
   {
@@ -6635,9 +6635,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "307.0",
-    CEO: "Alan H. Shaw",
-    Website: "https://www.norfolksouthern.com",
-    Ticker: "NSC",
+    ceo: "Alan H. Shaw",
+    website: "https://www.norfolksouthern.com",
+    ticker: "NSC",
     market_cap: "68389.3"
   },
   {
@@ -6655,9 +6655,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "313.0",
-    CEO: "AndrÃ©s R. Gluski",
-    Website: "https://www.aes.com",
-    Ticker: "AES",
+    ceo: "AndrÃ©s R. Gluski",
+    website: "https://www.aes.com",
+    ticker: "AES",
     market_cap: "17172.1"
   },
   {
@@ -6675,9 +6675,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "331.0",
-    CEO: "Eric P. Hansotia",
-    Website: "https://www.agcocorp.com",
-    Ticker: "AGCO",
+    ceo: "Eric P. Hansotia",
+    website: "https://www.agcocorp.com",
+    ticker: "AGCO",
     market_cap: "10885.3"
   },
   {
@@ -6695,9 +6695,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Thomas R. Reeg",
-    Website: "https://www.caesars.com",
-    Ticker: "CZR",
+    ceo: "Thomas R. Reeg",
+    website: "https://www.caesars.com",
+    ticker: "CZR",
     market_cap: "16564.6"
   },
   {
@@ -6715,9 +6715,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "244.0",
-    CEO: "Mark Pearson",
-    Website: "https://www.equitableholdings.com",
-    Ticker: "EQH",
+    ceo: "Mark Pearson",
+    website: "https://www.equitableholdings.com",
+    ticker: "EQH",
     market_cap: "12041.2"
   },
   {
@@ -6735,9 +6735,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "301.0",
-    CEO: "Thomas R. Greco",
-    Website: "https://www.advanceautoparts.com",
-    Ticker: "AAP",
+    ceo: "Thomas R. Greco",
+    website: "https://www.advanceautoparts.com",
+    ticker: "AAP",
     market_cap: "12644.8"
   },
   {
@@ -6755,9 +6755,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "228.0",
-    CEO: "Michel Vounatsos",
-    Website: "https://www.biogen.com",
-    Ticker: "BIIB",
+    ceo: "Michel Vounatsos",
+    website: "https://www.biogen.com",
+    ticker: "BIIB",
     market_cap: "30950.4"
   },
   {
@@ -6775,9 +6775,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "341.0",
-    CEO: "Jeffrey S. Tagsold",
-    Website: "https://www.auto-owners.com",
-    Ticker: "",
+    ceo: "Jeffrey S. Tagsold",
+    website: "https://www.auto-owners.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -6795,9 +6795,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "424.0",
-    CEO: "Glenn D. Fogel",
-    Website: "https://www.bookingholdings.com",
-    Ticker: "BKNG",
+    ceo: "Glenn D. Fogel",
+    website: "https://www.bookingholdings.com",
+    ticker: "BKNG",
     market_cap: "96022.7"
   },
   {
@@ -6815,9 +6815,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "349.0",
-    CEO: "R. Adam Norwitt",
-    Website: "https://www.amphenol.com",
-    Ticker: "APH",
+    ceo: "R. Adam Norwitt",
+    website: "https://www.amphenol.com",
+    ticker: "APH",
     market_cap: "45130.1"
   },
   {
@@ -6835,9 +6835,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "324.0",
-    CEO: "James E. Davis",
-    Website: "https://www.questdiagnostics.com",
-    Ticker: "DGX",
+    ceo: "James E. Davis",
+    website: "https://www.questdiagnostics.com",
+    ticker: "DGX",
     market_cap: "16348.6"
   },
   {
@@ -6855,9 +6855,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "294.0",
-    CEO: "John W. Somerhalder II",
-    Website: "https://www.firstenergycorp.com",
-    Ticker: "FE",
+    ceo: "John W. Somerhalder II",
+    website: "https://www.firstenergycorp.com",
+    ticker: "FE",
     market_cap: "26181.6"
   },
   {
@@ -6875,9 +6875,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "442.0",
-    CEO: "Wouter T. van Kempen",
-    Website: "https://www.dcpmidstream.com",
-    Ticker: "DCP",
+    ceo: "Wouter T. van Kempen",
+    website: "https://www.dcpmidstream.com",
+    ticker: "DCP",
     market_cap: "6993.2"
   },
   {
@@ -6895,9 +6895,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "287.0",
-    CEO: "Jeffrey J. Brown",
-    Website: "https://www.ally.com",
-    Ticker: "ALLY",
+    ceo: "Jeffrey J. Brown",
+    website: "https://www.ally.com",
+    ticker: "ALLY",
     market_cap: "14411.6"
   },
   {
@@ -6915,9 +6915,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "397.0",
-    CEO: "Avigal Soreq",
-    Website: "https://www.delekus.com",
-    Ticker: "DK",
+    ceo: "Avigal Soreq",
+    website: "https://www.delekus.com",
+    ticker: "DK",
     market_cap: "1500.2"
   },
   {
@@ -6935,9 +6935,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "379.0",
-    CEO: "Alan S. Armstrong",
-    Website: "https://www.williams.com",
-    Ticker: "WMB",
+    ceo: "Alan S. Armstrong",
+    website: "https://www.williams.com",
+    ticker: "WMB",
     market_cap: "40670.4"
   },
   {
@@ -6955,9 +6955,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "325.0",
-    CEO: "Ravichandra K. Saligram",
-    Website: "https://www.newellbrands.com",
-    Ticker: "NWL",
+    ceo: "Ravichandra K. Saligram",
+    website: "https://www.newellbrands.com",
+    ticker: "NWL",
     market_cap: "8902.4"
   },
   {
@@ -6975,9 +6975,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "355.0",
-    CEO: "Mark J. Costa",
-    Website: "https://www.eastman.com",
-    Ticker: "EMN",
+    ceo: "Mark J. Costa",
+    website: "https://www.eastman.com",
+    ticker: "EMN",
     market_cap: "14450.1"
   },
   {
@@ -6995,9 +6995,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "340.0",
-    CEO: "Seifi Ghasemi",
-    Website: "https://www.airproducts.com",
-    Ticker: "APD",
+    ceo: "Seifi Ghasemi",
+    website: "https://www.airproducts.com",
+    ticker: "APD",
     market_cap: "55409.4"
   },
   {
@@ -7015,9 +7015,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "369.0",
-    CEO: "Teresa J. Rasmussen",
-    Website: "https://www.thrivent.com",
-    Ticker: "",
+    ceo: "Teresa J. Rasmussen",
+    website: "https://www.thrivent.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -7035,9 +7035,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "314.0",
-    CEO: "Gavin D.K. Hattersley",
-    Website: "https://www.molsoncoors.com",
-    Ticker: "TAP",
+    ceo: "Gavin D.K. Hattersley",
+    website: "https://www.molsoncoors.com",
+    ticker: "TAP",
     market_cap: "11631.8"
   },
   {
@@ -7055,9 +7055,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "334.0",
-    CEO: "Daryl Lee",
-    Website: "https://www.interpublic.com",
-    Ticker: "IPG",
+    ceo: "Daryl Lee",
+    website: "https://www.interpublic.com",
+    ticker: "IPG",
     market_cap: "13965.9"
   },
   {
@@ -7075,9 +7075,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "387.0",
-    CEO: "Devin W. Stockfish",
-    Website: "https://www.weyerhaeuser.com",
-    Ticker: "WY",
+    ceo: "Devin W. Stockfish",
+    website: "https://www.weyerhaeuser.com",
+    ticker: "WY",
     market_cap: "28315"
   },
   {
@@ -7095,9 +7095,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "306.0",
-    CEO: "Dennis Mathew",
-    Website: "https://www.alticeusa.com",
-    Ticker: "ATUS",
+    ceo: "Dennis Mathew",
+    website: "https://www.alticeusa.com",
+    ticker: "ATUS",
     market_cap: "5674.1"
   },
   {
@@ -7115,9 +7115,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "367.0",
-    CEO: "Paul C. Reilly",
-    Website: "https://www.raymondjames.com",
-    Ticker: "RJF",
+    ceo: "Paul C. Reilly",
+    website: "https://www.raymondjames.com",
+    ticker: "RJF",
     market_cap: "22817.5"
   },
   {
@@ -7135,9 +7135,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "344.0",
-    CEO: "Anthony J. Guzzi",
-    Website: "https://www.emcorgroup.com",
-    Ticker: "EME",
+    ceo: "Anthony J. Guzzi",
+    website: "https://www.emcorgroup.com",
+    ticker: "EME",
     market_cap: "5931.8"
   },
   {
@@ -7155,9 +7155,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "338.0",
-    CEO: "Joseph R. Nolan Jr.",
-    Website: "https://www.eversource.com",
-    Ticker: "ES",
+    ceo: "Joseph R. Nolan Jr.",
+    website: "https://www.eversource.com",
+    ticker: "ES",
     market_cap: "30403.2"
   },
   {
@@ -7175,9 +7175,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "363.0",
-    CEO: "Joey Wat",
-    Website: "https://ir.yumchina.com",
-    Ticker: "YUMC",
+    ceo: "Joey Wat",
+    website: "https://ir.yumchina.com",
+    ticker: "YUMC",
     market_cap: "17679"
   },
   {
@@ -7195,9 +7195,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "405.0",
-    CEO: "David W. Hult",
-    Website: "https://www.asburyauto.com",
-    Ticker: "ABG",
+    ceo: "David W. Hult",
+    website: "https://www.asburyauto.com",
+    ticker: "ABG",
     market_cap: "3714.8"
   },
   {
@@ -7215,9 +7215,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "345.0",
-    CEO: "Edward A. Pesicka",
-    Website: "https://www.owens-minor.com",
-    Ticker: "OMI",
+    ceo: "Edward A. Pesicka",
+    website: "https://www.owens-minor.com",
+    ticker: "OMI",
     market_cap: "3375.6"
   },
   {
@@ -7235,9 +7235,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "318.0",
-    CEO: "Ralph A. LaRossa",
-    Website: "https://www.pseg.com",
-    Ticker: "PEG",
+    ceo: "Ralph A. LaRossa",
+    website: "https://www.pseg.com",
+    ticker: "PEG",
     market_cap: "35145.5"
   },
   {
@@ -7255,9 +7255,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "352.0",
-    CEO: "Matthew J. Flannery",
-    Website: "https://www.unitedrentals.com",
-    Ticker: "URI",
+    ceo: "Matthew J. Flannery",
+    website: "https://www.unitedrentals.com",
+    ticker: "URI",
     market_cap: "25643.3"
   },
   {
@@ -7275,9 +7275,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "William J. Hornbuckle",
-    Website: "https://www.mgmresorts.com",
-    Ticker: "MGM",
+    ceo: "William J. Hornbuckle",
+    website: "https://www.mgmresorts.com",
+    ticker: "MGM",
     market_cap: "18257.9"
   },
   {
@@ -7295,9 +7295,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "357.0",
-    CEO: "Robert E. Sanchez",
-    Website: "https://www.ryder.com",
-    Ticker: "R",
+    ceo: "Robert E. Sanchez",
+    website: "https://www.ryder.com",
+    ticker: "R",
     market_cap: "4055.4"
   },
   {
@@ -7315,9 +7315,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "380.0",
-    CEO: "Sasan K. Goodarzi",
-    Website: "https://www.intuit.com",
-    Ticker: "INTU",
+    ceo: "Sasan K. Goodarzi",
+    website: "https://www.intuit.com",
+    ticker: "INTU",
     market_cap: "135987.6"
   },
   {
@@ -7335,9 +7335,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "386.0",
-    CEO: "Steven J. Johnston",
-    Website: "https://www.cinfin.com",
-    Ticker: "CINF",
+    ceo: "Steven J. Johnston",
+    website: "https://www.cinfin.com",
+    ticker: "CINF",
     market_cap: "21813.3"
   },
   {
@@ -7355,9 +7355,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "347.0",
-    CEO: "Timothy G. NeCastro",
-    Website: "https://www.erieinsurance.com",
-    Ticker: "",
+    ceo: "Timothy G. NeCastro",
+    website: "https://www.erieinsurance.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -7375,9 +7375,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "362.0",
-    CEO: "David C. Jukes",
-    Website: "https://www.univarsolutions.com",
-    Ticker: "UNVR",
+    ceo: "David C. Jukes",
+    website: "https://www.univarsolutions.com",
+    ticker: "UNVR",
     market_cap: "5459.8"
   },
   {
@@ -7395,9 +7395,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "327.0",
-    CEO: "Christopher D. Kastner",
-    Website: "https://www.huntingtoningalls.com",
-    Ticker: "HII",
+    ceo: "Christopher D. Kastner",
+    website: "https://www.huntingtoningalls.com",
+    ticker: "HII",
     market_cap: "7991"
   },
   {
@@ -7415,9 +7415,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "372.0",
-    CEO: "W. Robert Berkley Jr.",
-    Website: "https://www.berkley.com",
-    Ticker: "WRB",
+    ceo: "W. Robert Berkley Jr.",
+    website: "https://www.berkley.com",
+    ticker: "WRB",
     market_cap: "17658.8"
   },
   {
@@ -7435,9 +7435,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "374.0",
-    CEO: "John F. Barrett",
-    Website: "https://www.westernsouthern.com",
-    Ticker: "",
+    ceo: "John F. Barrett",
+    website: "https://www.westernsouthern.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -7455,9 +7455,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "360.0",
-    CEO: "Joyce A. Mullen",
-    Website: "https://www.insight.com",
-    Ticker: "NSIT",
+    ceo: "Joyce A. Mullen",
+    website: "https://www.insight.com",
+    ticker: "NSIT",
     market_cap: "3745.1"
   },
   {
@@ -7475,9 +7475,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "337.0",
-    CEO: "Robert J. Thomson",
-    Website: "https://www.newscorp.com",
-    Ticker: "NWSA",
+    ceo: "Robert J. Thomson",
+    website: "https://www.newscorp.com",
+    ticker: "NWSA",
     market_cap: "13127.7"
   },
   {
@@ -7495,9 +7495,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "375.0",
-    CEO: "Thomas A. Bartlett",
-    Website: "https://www.americantower.com",
-    Ticker: "AMT",
+    ceo: "Thomas A. Bartlett",
+    website: "https://www.americantower.com",
+    ticker: "AMT",
     market_cap: "114527.4"
   },
   {
@@ -7515,9 +7515,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "401.0",
-    CEO: "Craig R. Smiddy",
-    Website: "https://www.oldrepublic.com",
-    Ticker: "ORI",
+    ceo: "Craig R. Smiddy",
+    website: "https://www.oldrepublic.com",
+    ticker: "ORI",
     market_cap: "7972.8"
   },
   {
@@ -7535,9 +7535,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "471.0",
-    CEO: "Michael B. O?Sullivan",
-    Website: "https://www.burlingtoninvestors.com",
-    Ticker: "BURL",
+    ceo: "Michael B. O?Sullivan",
+    website: "https://www.burlingtoninvestors.com",
+    ticker: "BURL",
     market_cap: "12112.8"
   },
   {
@@ -7555,9 +7555,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "498.0",
-    CEO: "Joseph A. Ferraro",
-    Website: "https://www.avisbudgetgroup.com",
-    Ticker: "CAR",
+    ceo: "Joseph A. Ferraro",
+    website: "https://www.avisbudgetgroup.com",
+    ticker: "CAR",
     market_cap: "14157"
   },
   {
@@ -7575,9 +7575,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "312.0",
-    CEO: "Gerry P. Smith",
-    Website: "https://www.officedepot.com",
-    Ticker: "ODP",
+    ceo: "Gerry P. Smith",
+    website: "https://www.officedepot.com",
+    ticker: "ODP",
     market_cap: "2222.2"
   },
   {
@@ -7595,9 +7595,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "263.0",
-    CEO: "Steven Rendle",
-    Website: "https://www.vfc.com",
-    Ticker: "VFC",
+    ceo: "Steven Rendle",
+    website: "https://www.vfc.com",
+    ticker: "VFC",
     market_cap: "11620"
   },
   {
@@ -7615,9 +7615,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "no",
     prev_rank: "280.0",
-    CEO: "Sue Gove",
-    Website: "https://www.bedbathandbeyond.com",
-    Ticker: "BBBY",
+    ceo: "Sue Gove",
+    website: "https://www.bedbathandbeyond.com",
+    ticker: "BBBY",
     market_cap: "2170.5"
   },
   {
@@ -7635,9 +7635,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "406.0",
-    CEO: "Robert L. Steer",
-    Website: "https://www.seaboardcorp.com",
-    Ticker: "SEB",
+    ceo: "Robert L. Steer",
+    website: "https://www.seaboardcorp.com",
+    ticker: "SEB",
     market_cap: "4881.6"
   },
   {
@@ -7655,9 +7655,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "409.0",
-    CEO: "Kenneth D. DeGiorgio",
-    Website: "https://www.firstam.com",
-    Ticker: "FAF",
+    ceo: "Kenneth D. DeGiorgio",
+    website: "https://www.firstam.com",
+    ticker: "FAF",
     market_cap: "7087.2"
   },
   {
@@ -7675,9 +7675,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "365.0",
-    CEO: "Jeffrey C. Sprecher",
-    Website: "https://www.ice.com",
-    Ticker: "ICE",
+    ceo: "Jeffrey C. Sprecher",
+    website: "https://www.ice.com",
+    ticker: "ICE",
     market_cap: "74044.8"
   },
   {
@@ -7695,9 +7695,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "404.0",
-    CEO: "Stefan Larsson",
-    Website: "https://www.pvh.com",
-    Ticker: "PVH",
+    ceo: "Stefan Larsson",
+    website: "https://www.pvh.com",
+    ticker: "PVH",
     market_cap: "5210"
   },
   {
@@ -7715,9 +7715,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Marc Rowan",
-    Website: "https://www.apollo.com",
-    Ticker: "APO",
+    ceo: "Marc Rowan",
+    website: "https://www.apollo.com",
+    ticker: "APO",
     market_cap: "37194"
   },
   {
@@ -7735,9 +7735,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "419.0",
-    CEO: "Richard Handler",
-    Website: "https://www.jefferies.com",
-    Ticker: "JEF",
+    ceo: "Richard Handler",
+    website: "https://www.jefferies.com",
+    ticker: "JEF",
     market_cap: "7248"
   },
   {
@@ -7755,9 +7755,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "370.0",
-    CEO: "Michele G. Buck",
-    Website: "https://www.thehersheycompany.com",
-    Ticker: "HSY",
+    ceo: "Michele G. Buck",
+    website: "https://www.thehersheycompany.com",
+    ticker: "HSY",
     market_cap: "44461.5"
   },
   {
@@ -7775,9 +7775,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "383.0",
-    CEO: "Eugene J. Bredow",
-    Website: "https://www.nvrinc.com",
-    Ticker: "NVR",
+    ceo: "Eugene J. Bredow",
+    website: "https://www.nvrinc.com",
+    ticker: "NVR",
     market_cap: "15010.5"
   },
   {
@@ -7795,9 +7795,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "385.0",
-    CEO: "Mary N. Dillon",
-    Website: "https://www.footlocker.com/corp",
-    Ticker: "FL",
+    ceo: "Mary N. Dillon",
+    website: "https://www.footlocker.com/corp",
+    ticker: "FL",
     market_cap: "2850"
   },
   {
@@ -7815,9 +7815,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "408.0",
-    CEO: "James K. Kamsickas",
-    Website: "https://www.dana.com",
-    Ticker: "DAN",
+    ceo: "James K. Kamsickas",
+    website: "https://www.dana.com",
+    ticker: "DAN",
     market_cap: "2544.4"
   },
   {
@@ -7835,9 +7835,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "329.0",
-    CEO: "Tony B. Sarsam",
-    Website: "https://www.spartannash.com",
-    Ticker: "SPTN",
+    ceo: "Tony B. Sarsam",
+    website: "https://www.spartannash.com",
+    ticker: "SPTN",
     market_cap: "1185.1"
   },
   {
@@ -7855,9 +7855,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "472.0",
-    CEO: "Scott M. Sutton",
-    Website: "https://www.olin.com",
-    Ticker: "OLN",
+    ceo: "Scott M. Sutton",
+    website: "https://www.olin.com",
+    ticker: "OLN",
     market_cap: "8062"
   },
   {
@@ -7875,9 +7875,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "403.0",
-    CEO: "Sumit Singh",
-    Website: "https://www.chewy.com",
-    Ticker: "CHWY",
+    ceo: "Sumit Singh",
+    website: "https://www.chewy.com",
+    ticker: "CHWY",
     market_cap: "17147.3"
   },
   {
@@ -7895,9 +7895,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Laura L. Prieskorn",
-    Website: "https://www.jackson.com",
-    Ticker: "JXN",
+    ceo: "Laura L. Prieskorn",
+    website: "https://www.jackson.com",
+    ticker: "JXN",
     market_cap: "3895.1"
   },
   {
@@ -7915,9 +7915,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "373.0",
-    CEO: "Robert A. Kotick",
-    Website: "https://www.activisionblizzard.com",
-    Ticker: "ATVI",
+    ceo: "Robert A. Kotick",
+    website: "https://www.activisionblizzard.com",
+    ticker: "ATVI",
     market_cap: "62559.7"
   },
   {
@@ -7935,9 +7935,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "411.0",
-    CEO: "Douglas C. Yearley Jr.",
-    Website: "https://www.tollbrothers.com",
-    Ticker: "TOL",
+    ceo: "Douglas C. Yearley Jr.",
+    website: "https://www.tollbrothers.com",
+    ticker: "TOL",
     market_cap: "5515.4"
   },
   {
@@ -7955,9 +7955,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "William Conway Jr.",
-    Website: "https://www.carlyle.com",
-    Ticker: "CG",
+    ceo: "William Conway Jr.",
+    website: "https://www.carlyle.com",
+    ticker: "CG",
     market_cap: "9539"
   },
   {
@@ -7975,9 +7975,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "399.0",
-    CEO: "Kathleen M. Mazzarella",
-    Website: "https://www.graybar.com",
-    Ticker: "",
+    ceo: "Kathleen M. Mazzarella",
+    website: "https://www.graybar.com",
+    ticker: "",
     market_cap: "-"
   },
   {
@@ -7995,9 +7995,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "458.0",
-    CEO: "Brendan M. McCracken",
-    Website: "https://www.ovintiv.com",
-    Ticker: "OVV",
+    ceo: "Brendan M. McCracken",
+    website: "https://www.ovintiv.com",
+    ticker: "OVV",
     market_cap: "13987.5"
   },
   {
@@ -8015,9 +8015,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Matthew Missad",
-    Website: "https://www.ufpi.com",
-    Ticker: "UFPI",
+    ceo: "Matthew Missad",
+    website: "https://www.ufpi.com",
+    ticker: "UFPI",
     market_cap: "4471"
   },
   {
@@ -8035,9 +8035,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "451.0",
-    CEO: "David C. Kimbell",
-    Website: "https://www.ulta.com",
-    Ticker: "ULTA",
+    ceo: "David C. Kimbell",
+    website: "https://www.ulta.com",
+    ticker: "ULTA",
     market_cap: "20837.8"
   },
   {
@@ -8055,9 +8055,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "359.0",
-    CEO: "William A. Newlands",
-    Website: "https://www.cbrands.com",
-    Ticker: "STZ",
+    ceo: "William A. Newlands",
+    website: "https://www.cbrands.com",
+    ticker: "STZ",
     market_cap: "43763.5"
   },
   {
@@ -8075,9 +8075,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Peter M. Kern",
-    Website: "https://www.expediagroup.com",
-    Ticker: "EXPE",
+    ceo: "Peter M. Kern",
+    website: "https://www.expediagroup.com",
+    ticker: "EXPE",
     market_cap: "30476.5"
   },
   {
@@ -8095,9 +8095,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "356.0",
-    CEO: "Charles L. Treadway",
-    Website: "https://www.commscope.com",
-    Ticker: "COMM",
+    ceo: "Charles L. Treadway",
+    website: "https://www.commscope.com",
+    ticker: "COMM",
     market_cap: "1629.7"
   },
   {
@@ -8115,9 +8115,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "477.0",
-    CEO: "Lori J. Ryerkerk",
-    Website: "https://www.celanese.com",
-    Ticker: "CE",
+    ceo: "Lori J. Ryerkerk",
+    website: "https://www.celanese.com",
+    ticker: "CE",
     market_cap: "15434.1"
   },
   {
@@ -8135,9 +8135,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "394.0",
-    CEO: "Jeffrey S. Sloan",
-    Website: "https://www.globalpayments.com",
-    Ticker: "GPN",
+    ceo: "Jeffrey S. Sloan",
+    website: "https://www.globalpayments.com",
+    ticker: "GPN",
     market_cap: "38545.6"
   },
   {
@@ -8155,9 +8155,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "413.0",
-    CEO: "Brian D. Chambers",
-    Website: "https://www.owenscorning.com",
-    Ticker: "OC",
+    ceo: "Brian D. Chambers",
+    website: "https://www.owenscorning.com",
+    ticker: "OC",
     market_cap: "9064.7"
   },
   {
@@ -8175,9 +8175,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "335.0",
-    CEO: "Mark A. Clouse",
-    Website: "https://www.campbellsoupcompany.com",
-    Ticker: "CPB",
+    ceo: "Mark A. Clouse",
+    website: "https://www.campbellsoupcompany.com",
+    ticker: "CPB",
     market_cap: "13446.9"
   },
   {
@@ -8195,9 +8195,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "460.0",
-    CEO: "Peter R. Huntsman",
-    Website: "https://www.huntsman.com",
-    Ticker: "HUN",
+    ceo: "Peter R. Huntsman",
+    website: "https://www.huntsman.com",
+    ticker: "HUN",
     market_cap: "8046.9"
   },
   {
@@ -8215,9 +8215,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "484.0",
-    CEO: "Jennifer M. Johnson",
-    Website: "https://www.franklinresources.com",
-    Ticker: "BEN",
+    ceo: "Jennifer M. Johnson",
+    website: "https://www.franklinresources.com",
+    ticker: "BEN",
     market_cap: "14019.3"
   },
   {
@@ -8235,9 +8235,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "417.0",
-    CEO: "Mitchell R. Butier",
-    Website: "https://www.averydennison.com",
-    Ticker: "AVY",
+    ceo: "Mitchell R. Butier",
+    website: "https://www.averydennison.com",
+    ticker: "AVY",
     market_cap: "14327.4"
   },
   {
@@ -8255,9 +8255,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "398.0",
-    CEO: "Keith J. Allman",
-    Website: "https://www.masco.com",
-    Ticker: "MAS",
+    ceo: "Keith J. Allman",
+    website: "https://www.masco.com",
+    ticker: "MAS",
     market_cap: "12062.7"
   },
   {
@@ -8275,9 +8275,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "342.0",
-    CEO: "David J. Lesar",
-    Website: "https://www.centerpointenergy.com",
-    Ticker: "CNP",
+    ceo: "David J. Lesar",
+    website: "https://www.centerpointenergy.com",
+    ticker: "CNP",
     market_cap: "19285.8"
   },
   {
@@ -8295,9 +8295,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "358.0",
-    CEO: "Timothy N. Spence",
-    Website: "https://www.53.com",
-    Ticker: "FITB",
+    ceo: "Timothy N. Spence",
+    website: "https://www.53.com",
+    ticker: "FITB",
     market_cap: "29511.3"
   },
   {
@@ -8315,9 +8315,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "400.0",
-    CEO: "Scott J. Lauber",
-    Website: "https://www.wecenergygroup.com",
-    Ticker: "WEC",
+    ceo: "Scott J. Lauber",
+    website: "https://www.wecenergygroup.com",
+    ticker: "WEC",
     market_cap: "31483.5"
   },
   {
@@ -8335,9 +8335,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "393.0",
-    CEO: "Douglas L. Peterson",
-    Website: "https://www.spglobal.com",
-    Ticker: "SPGI",
+    ceo: "Douglas L. Peterson",
+    website: "https://www.spglobal.com",
+    ticker: "SPGI",
     market_cap: "142343.5"
   },
   {
@@ -8355,9 +8355,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "423.0",
-    CEO: "Malcolm C. Roberts",
-    Website: "https://www.fmglobal.com",
-    Ticker: "",
+    ceo: "Malcolm C. Roberts",
+    website: "https://www.fmglobal.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -8375,9 +8375,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "407.0",
-    CEO: "Michael T. Speetzen",
-    Website: "https://www.polaris.com",
-    Ticker: "PII",
+    ceo: "Michael T. Speetzen",
+    website: "https://www.polaris.com",
+    ticker: "PII",
     market_cap: "6264.1"
   },
   {
@@ -8395,9 +8395,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "425.0",
-    CEO: "Laura J. Alber",
-    Website: "https://www.williams-sonomainc.com",
-    Ticker: "WSM",
+    ceo: "Laura J. Alber",
+    website: "https://www.williams-sonomainc.com",
+    ticker: "WSM",
     market_cap: "10376"
   },
   {
@@ -8415,9 +8415,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "392.0",
-    CEO: "Mikael Bratt",
-    Website: "https://www.autoliv.com",
-    Ticker: "ALV",
+    ceo: "Mikael Bratt",
+    website: "https://www.autoliv.com",
+    ticker: "ALV",
     market_cap: "6691.1"
   },
   {
@@ -8435,9 +8435,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "416.0",
-    CEO: "J. Patrick Gallagher Jr.",
-    Website: "https://www.ajg.com",
-    Ticker: "AJG",
+    ceo: "J. Patrick Gallagher Jr.",
+    website: "https://www.ajg.com",
+    ticker: "AJG",
     market_cap: "36598.6"
   },
   {
@@ -8455,9 +8455,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "395.0",
-    CEO: "Gregory Q. Brown",
-    Website: "https://www.motorolasolutions.com",
-    Ticker: "MSI",
+    ceo: "Gregory Q. Brown",
+    website: "https://www.motorolasolutions.com",
+    ticker: "MSI",
     market_cap: "40555.9"
   },
   {
@@ -8475,9 +8475,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Richard N. Barton",
-    Website: "https://www.zillowgroup.com",
-    Ticker: "ZG",
+    ceo: "Richard N. Barton",
+    website: "https://www.zillowgroup.com",
+    ticker: "ZG",
     market_cap: "12287.1"
   },
   {
@@ -8495,9 +8495,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Eric Wu",
-    Website: "https://www.opendoor.com",
-    Ticker: "OPEN",
+    ceo: "Eric Wu",
+    website: "https://www.opendoor.com",
+    ticker: "OPEN",
     market_cap: "5364.1"
   },
   {
@@ -8515,9 +8515,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "378.0",
-    CEO: "Mark T. Smucker",
-    Website: "https://www.jmsmucker.com",
-    Ticker: "SJM",
+    ceo: "Mark T. Smucker",
+    website: "https://www.jmsmucker.com",
+    ticker: "SJM",
     market_cap: "14686.4"
   },
   {
@@ -8535,9 +8535,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "445.0",
-    CEO: "Ryan M. Schneider",
-    Website: "https://www.realogy.com",
-    Ticker: "HOUS",
+    ceo: "Ryan M. Schneider",
+    website: "https://www.realogy.com",
+    ticker: "HOUS",
     market_cap: "1852.1"
   },
   {
@@ -8555,9 +8555,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "422.0",
-    CEO: "John C. Pfeifer",
-    Website: "https://www.oshkoshcorp.com",
-    Ticker: "OSK",
+    ceo: "John C. Pfeifer",
+    website: "https://www.oshkoshcorp.com",
+    ticker: "OSK",
     market_cap: "6703.7"
   },
   {
@@ -8575,9 +8575,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "441.0",
-    CEO: "JosÃ© R. Mas",
-    Website: "https://www.mastec.com",
-    Ticker: "MTZ",
+    ceo: "JosÃ© R. Mas",
+    website: "https://www.mastec.com",
+    ticker: "MTZ",
     market_cap: "6657"
   },
   {
@@ -8595,9 +8595,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Malcolm Wilson",
-    Website: "https://www.gxo.com",
-    Ticker: "GXO",
+    ceo: "Malcolm Wilson",
+    website: "https://www.gxo.com",
+    ticker: "GXO",
     market_cap: "8193"
   },
   {
@@ -8615,9 +8615,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "John J. Christmann IV",
-    Website: "https://www.apacorp.com",
-    Ticker: "APA",
+    ceo: "John J. Christmann IV",
+    website: "https://www.apacorp.com",
+    ticker: "APA",
     market_cap: "14332.3"
   },
   {
@@ -8635,9 +8635,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "493.0",
-    CEO: "Nathan Jorgensen",
-    Website: "https://www.bc.com",
-    Ticker: "BCC",
+    ceo: "Nathan Jorgensen",
+    website: "https://www.bc.com",
+    ticker: "BCC",
     market_cap: "2405"
   },
   {
@@ -8655,9 +8655,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "429.0",
-    CEO: "Richard J. Tobin",
-    Website: "https://www.dovercorporation.com",
-    Ticker: "DOV",
+    ceo: "Richard J. Tobin",
+    website: "https://www.dovercorporation.com",
+    ticker: "DOV",
     market_cap: "22610.3"
   },
   {
@@ -8675,9 +8675,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "348.0",
-    CEO: "Thomas J. McInerney",
-    Website: "https://www.genworth.com",
-    Ticker: "GNW",
+    ceo: "Thomas J. McInerney",
+    website: "https://www.genworth.com",
+    ticker: "GNW",
     market_cap: "1917.9"
   },
   {
@@ -8695,9 +8695,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "257.0",
-    CEO: "Sarah E. Nash",
-    Website: "https://www.bbwinc.com",
-    Ticker: "BBWI",
+    ceo: "Sarah E. Nash",
+    website: "https://www.bbwinc.com",
+    ticker: "BBWI",
     market_cap: "11419.9"
   },
   {
@@ -8715,9 +8715,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "391.0",
-    CEO: "Horacio D. Rozanski",
-    Website: "https://www.boozallen.com",
-    Ticker: "BAH",
+    ceo: "Horacio D. Rozanski",
+    website: "https://www.boozallen.com",
+    ticker: "BAH",
     market_cap: "11705.4"
   },
   {
@@ -8735,9 +8735,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Brian Armstrong",
-    Website: "https://www.coinbase.com",
-    Ticker: "COIN",
+    ceo: "Brian Armstrong",
+    website: "https://www.coinbase.com",
+    ticker: "COIN",
     market_cap: "41670.4"
   },
   {
@@ -8755,9 +8755,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "414.0",
-    CEO: "Bryan C. Hanson",
-    Website: "https://www.zimmerbiomet.com",
-    Ticker: "ZBH",
+    ceo: "Bryan C. Hanson",
+    website: "https://www.zimmerbiomet.com",
+    ticker: "ZBH",
     market_cap: "26772.3"
   },
   {
@@ -8775,9 +8775,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "384.0",
-    CEO: "Rafael O. Santana",
-    Website: "https://www.wabteccorp.com",
-    Ticker: "WAB",
+    ceo: "Rafael O. Santana",
+    website: "https://www.wabteccorp.com",
+    ticker: "WAB",
     market_cap: "17819.4"
   },
   {
@@ -8795,9 +8795,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "431.0",
-    CEO: "Kristin Peck",
-    Website: "https://www.zoetis.com",
-    Ticker: "ZTS",
+    ceo: "Kristin Peck",
+    website: "https://www.zoetis.com",
+    ticker: "ZTS",
     market_cap: "69420"
   },
   {
@@ -8815,9 +8815,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "433.0",
-    CEO: "Mark W. Kowlzan",
-    Website: "https://www.packagingcorp.com",
-    Ticker: "PKG",
+    ceo: "Mark W. Kowlzan",
+    website: "https://www.packagingcorp.com",
+    ticker: "PKG",
     market_cap: "14628.1"
   },
   {
@@ -8835,9 +8835,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "466.0",
-    CEO: "Dan H. Arnold",
-    Website: "https://www.lpl.com",
-    Ticker: "LPLA",
+    ceo: "Dan H. Arnold",
+    website: "https://www.lpl.com",
+    ticker: "LPLA",
     market_cap: "14608.8"
   },
   {
@@ -8855,9 +8855,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "447.0",
-    CEO: "Robert W. Sharps",
-    Website: "https://www.troweprice.com",
-    Ticker: "TROW",
+    ceo: "Robert W. Sharps",
+    website: "https://www.troweprice.com",
+    ticker: "TROW",
     market_cap: "34442.6"
   },
   {
@@ -8875,9 +8875,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "456.0",
-    CEO: "Nicholas I. Fink",
-    Website: "https://www.fbhs.com",
-    Ticker: "FBHS",
+    ceo: "Nicholas I. Fink",
+    website: "https://www.fbhs.com",
+    ticker: "FBHS",
     market_cap: "9830.7"
   },
   {
@@ -8895,9 +8895,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "371.0",
-    CEO: "Darren M. Rebelez",
-    Website: "https://www.caseys.com",
-    Ticker: "CASY",
+    ceo: "Darren M. Rebelez",
+    website: "https://www.caseys.com",
+    ticker: "CASY",
     market_cap: "7354.4"
   },
   {
@@ -8915,9 +8915,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "495.0",
-    CEO: "Gregory N. Roberts",
-    Website: "https://www.amark.com",
-    Ticker: "AMRK",
+    ceo: "Gregory N. Roberts",
+    website: "https://www.amark.com",
+    ticker: "AMRK",
     market_cap: "890.5"
   },
   {
@@ -8935,9 +8935,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "John B. Hess",
-    Website: "https://www.hess.com",
-    Ticker: "HES",
+    ceo: "John B. Hess",
+    website: "https://www.hess.com",
+    ticker: "HES",
     market_cap: "33155.2"
   },
   {
@@ -8955,9 +8955,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "448.0",
-    CEO: "Reshma Kewalramani",
-    Website: "https://www.vrtx.com",
-    Ticker: "VRTX",
+    ceo: "Reshma Kewalramani",
+    website: "https://www.vrtx.com",
+    ticker: "VRTX",
     market_cap: "66436.9"
   },
   {
@@ -8975,9 +8975,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "396.0",
-    CEO: "Christopher M. Gorman",
-    Website: "https://www.key.com",
-    Ticker: "KEY",
+    ceo: "Christopher M. Gorman",
+    website: "https://www.key.com",
+    ticker: "KEY",
     market_cap: "20592.5"
   },
   {
@@ -8995,9 +8995,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "464.0",
-    CEO: "Brian Niccol",
-    Website: "https://www.chipotle.com",
-    Ticker: "CMG",
+    ceo: "Brian Niccol",
+    website: "https://www.chipotle.com",
+    ticker: "CMG",
     market_cap: "41724"
   },
   {
@@ -9015,9 +9015,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "430.0",
-    CEO: "Garrick J. Rochow",
-    Website: "https://www.cmsenergy.com",
-    Ticker: "CMS",
+    ceo: "Garrick J. Rochow",
+    website: "https://www.cmsenergy.com",
+    ticker: "CMS",
     market_cap: "20292.2"
   },
   {
@@ -9035,9 +9035,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "476.0",
-    CEO: "Timothy D. Myers",
-    Website: "https://www.arconic.com",
-    Ticker: "ARNC",
+    ceo: "Timothy D. Myers",
+    website: "https://www.arconic.com",
+    ticker: "ARNC",
     market_cap: "2690.7"
   },
   {
@@ -9055,9 +9055,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "452.0",
-    CEO: "Sheryl D. Palmer",
-    Website: "https://www.taylormorrison.com",
-    Ticker: "TMHC",
+    ceo: "Sheryl D. Palmer",
+    website: "https://www.taylormorrison.com",
+    ticker: "TMHC",
     market_cap: "3301.6"
   },
   {
@@ -9075,9 +9075,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "376.0",
-    CEO: "Carl H. Lindner lll/S. Craig Lindner",
-    Website: "https://www.afginc.com",
-    Ticker: "AFG",
+    ceo: "Carl H. Lindner lll/S. Craig Lindner",
+    website: "https://www.afginc.com",
+    ticker: "AFG",
     market_cap: "12367.8"
   },
   {
@@ -9095,9 +9095,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "436.0",
-    CEO: "Roger Perreault",
-    Website: "https://www.ugicorp.com",
-    Ticker: "UGI",
+    ceo: "Roger Perreault",
+    website: "https://www.ugicorp.com",
+    ticker: "UGI",
     market_cap: "7599.1"
   },
   {
@@ -9115,9 +9115,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "412.0",
-    CEO: "Nazzic S. Keene",
-    Website: "https://www.saic.com",
-    Ticker: "SAIC",
+    ceo: "Nazzic S. Keene",
+    website: "https://www.saic.com",
+    ticker: "SAIC",
     market_cap: "5166.1"
   },
   {
@@ -9135,9 +9135,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "438.0",
-    CEO: "Michael Stubblefield",
-    Website: "https://www.avantorsciences.com",
-    Ticker: "AVTR",
+    ceo: "Michael Stubblefield",
+    website: "https://www.avantorsciences.com",
+    ticker: "AVTR",
     market_cap: "20629.1"
   },
   {
@@ -9155,9 +9155,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "432.0",
-    CEO: "Stephen B. Bratspies",
-    Website: "https://www.hanes.com",
-    Ticker: "HBI",
+    ceo: "Stephen B. Bratspies",
+    website: "https://www.hanes.com",
+    ticker: "HBI",
     market_cap: "5191.4"
   },
   {
@@ -9175,9 +9175,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "427.0",
-    CEO: "Linda Rendle",
-    Website: "https://www.thecloroxcompany.com",
-    Ticker: "CLX",
+    ceo: "Linda Rendle",
+    website: "https://www.thecloroxcompany.com",
+    ticker: "CLX",
     market_cap: "17108.7"
   },
   {
@@ -9195,9 +9195,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "470.0",
-    CEO: "Stuart J.B. Bradie",
-    Website: "https://www.kbr.com",
-    Ticker: "KBR",
+    ceo: "Stuart J.B. Bradie",
+    website: "https://www.kbr.com",
+    ticker: "KBR",
     market_cap: "7634.9"
   },
   {
@@ -9215,9 +9215,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jonathan M. Pertchik",
-    Website: "https://www.ta-petro.com",
-    Ticker: "TA",
+    ceo: "Jonathan M. Pertchik",
+    website: "https://www.ta-petro.com",
+    ticker: "TA",
     market_cap: "637.5"
   },
   {
@@ -9235,9 +9235,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Stephen M. Scherr",
-    Website: "https://www.hertz.com",
-    Ticker: "HTZ",
+    ceo: "Stephen M. Scherr",
+    website: "https://www.hertz.com",
+    ticker: "HTZ",
     market_cap: "9508.9"
   },
   {
@@ -9255,9 +9255,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "481.0",
-    CEO: "Vincent T. Roche",
-    Website: "https://www.analog.com",
-    Ticker: "ADI",
+    ceo: "Vincent T. Roche",
+    website: "https://www.analog.com",
+    ticker: "ADI",
     market_cap: "86441.2"
   },
   {
@@ -9275,9 +9275,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "421.0",
-    CEO: "Christopher M. Hilger",
-    Website: "https://www.securian.com",
-    Ticker: "",
+    ceo: "Christopher M. Hilger",
+    website: "https://www.securian.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -9295,9 +9295,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "377.0",
-    CEO: "Ricardo Cardenas",
-    Website: "https://www.darden.com",
-    Ticker: "DRI",
+    ceo: "Ricardo Cardenas",
+    website: "https://www.darden.com",
+    ticker: "DRI",
     market_cap: "16980.9"
   },
   {
@@ -9315,9 +9315,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "446.0",
-    CEO: "Michael D. Hayford",
-    Website: "https://www.ncr.com",
-    Ticker: "NCR",
+    ceo: "Michael D. Hayford",
+    website: "https://www.ncr.com",
+    ticker: "NCR",
     market_cap: "5474.7"
   },
   {
@@ -9335,9 +9335,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "435.0",
-    CEO: "Michael P. Doss",
-    Website: "https://www.graphicpkg.com",
-    Ticker: "GPK",
+    ceo: "Michael P. Doss",
+    website: "https://www.graphicpkg.com",
+    ticker: "GPK",
     market_cap: "6154.4"
   },
   {
@@ -9355,9 +9355,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "353.0",
-    CEO: "Eric T. Steigerwalt",
-    Website: "https://www.brighthousefinancial.com",
-    Ticker: "BHF",
+    ceo: "Eric T. Steigerwalt",
+    website: "https://www.brighthousefinancial.com",
+    ticker: "BHF",
     market_cap: "3958.7"
   },
   {
@@ -9375,9 +9375,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "382.0",
-    CEO: "Vincent Sorgi",
-    Website: "https://www.pplweb.com",
-    Ticker: "PPL",
+    ceo: "Vincent Sorgi",
+    website: "https://www.pplweb.com",
+    ticker: "PPL",
     market_cap: "21001.9"
   },
   {
@@ -9395,9 +9395,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "410.0",
-    CEO: "Todd M. Schneider",
-    Website: "https://www.cintas.com",
-    Ticker: "CTAS",
+    ceo: "Todd M. Schneider",
+    website: "https://www.cintas.com",
+    ticker: "CTAS",
     market_cap: "43566.7"
   },
   {
@@ -9415,9 +9415,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "415.0",
-    CEO: "Steve Bandrowczak",
-    Website: "https://www.xerox.com",
-    Ticker: "XRX",
+    ceo: "Steve Bandrowczak",
+    website: "https://www.xerox.com",
+    ticker: "XRX",
     market_cap: "3123.3"
   },
   {
@@ -9435,9 +9435,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "440.0",
-    CEO: "Blake D. Moret",
-    Website: "https://www.rockwellautomation.com",
-    Ticker: "ROK",
+    ceo: "Blake D. Moret",
+    website: "https://www.rockwellautomation.com",
+    ticker: "ROK",
     market_cap: "32538.4"
   },
   {
@@ -9455,9 +9455,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "381.0",
-    CEO: "Bruce W. Van Saun",
-    Website: "https://www.citizensbank.com",
-    Ticker: "CFG",
+    ceo: "Bruce W. Van Saun",
+    website: "https://www.citizensbank.com",
+    ticker: "CFG",
     market_cap: "19135.7"
   },
   {
@@ -9475,9 +9475,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "468.0",
-    CEO: "Richard P. Wallace",
-    Website: "https://www.kla.com",
-    Ticker: "KLAC",
+    ceo: "Richard P. Wallace",
+    website: "https://www.kla.com",
+    ticker: "KLAC",
     market_cap: "55170.9"
   },
   {
@@ -9495,9 +9495,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "496.0",
-    CEO: "Marcus A. Lemonis",
-    Website: "https://www.campingworld.com",
-    Ticker: "CWH",
+    ceo: "Marcus A. Lemonis",
+    website: "https://www.campingworld.com",
+    ticker: "CWH",
     market_cap: "2664.6"
   },
   {
@@ -9515,9 +9515,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "463.0",
-    CEO: "James P. Zallie",
-    Website: "https://www.ingredion.com",
-    Ticker: "INGR",
+    ceo: "James P. Zallie",
+    website: "https://www.ingredion.com",
+    ticker: "INGR",
     market_cap: "5814.2"
   },
   {
@@ -9535,9 +9535,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "439.0",
-    CEO: "Salvatore A. Abbate",
-    Website: "https://www.veritivcorp.com",
-    Ticker: "VRTV",
+    ceo: "Salvatore A. Abbate",
+    website: "https://www.veritivcorp.com",
+    ticker: "VRTV",
     market_cap: "2008"
   },
   {
@@ -9555,9 +9555,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "420.0",
-    CEO: "Julian G. Francis",
-    Website: "https://www.becn.com",
-    Ticker: "BECN",
+    ceo: "Julian G. Francis",
+    website: "https://www.becn.com",
+    ticker: "BECN",
     market_cap: "4175.9"
   },
   {
@@ -9575,9 +9575,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Travis D. Stice",
-    Website: "https://www.diamondbackenergy.com",
-    Ticker: "FANG",
+    ceo: "Travis D. Stice",
+    website: "https://www.diamondbackenergy.com",
+    ticker: "FANG",
     market_cap: "24320"
   },
   {
@@ -9595,9 +9595,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Martin P. Waters",
-    Website: "https://www.victoriassecretandco.com",
-    Ticker: "VSCO",
+    ceo: "Martin P. Waters",
+    website: "https://www.victoriassecretandco.com",
+    ticker: "VSCO",
     market_cap: "4330.4"
   },
   {
@@ -9615,9 +9615,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "475.0",
-    CEO: "Ken C. Hicks",
-    Website: "https://www.academy.com",
-    Ticker: "ASO",
+    ceo: "Ken C. Hicks",
+    website: "https://www.academy.com",
+    ticker: "ASO",
     market_cap: "3433.5"
   },
   {
@@ -9635,9 +9635,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "418.0",
-    CEO: "Jure Sola",
-    Website: "https://www.sanmina.com",
-    Ticker: "SANM",
+    ceo: "Jure Sola",
+    website: "https://www.sanmina.com",
+    ticker: "SANM",
     market_cap: "2569"
   },
   {
@@ -9655,9 +9655,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Hassane S. El-Khoury",
-    Website: "https://www.onsemi.com",
-    Ticker: "ON",
+    ceo: "Hassane S. El-Khoury",
+    website: "https://www.onsemi.com",
+    ticker: "ON",
     market_cap: "27078.7"
   },
   {
@@ -9675,9 +9675,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: "492.0",
-    CEO: "Barbara R. Smith",
-    Website: "https://www.cmc.com",
-    Ticker: "CMC",
+    ceo: "Barbara R. Smith",
+    website: "https://www.cmc.com",
+    ticker: "CMC",
     market_cap: "5056.7"
   },
   {
@@ -9695,9 +9695,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jesse Arenivas",
-    Website: "https://www.enlink.com",
-    Ticker: "ENLC",
+    ceo: "Jesse Arenivas",
+    website: "https://www.enlink.com",
+    ticker: "ENLC",
     market_cap: "4670.6"
   },
   {
@@ -9715,9 +9715,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "William J. Way",
-    Website: "https://www.swn.com",
-    Ticker: "SWN",
+    ceo: "William J. Way",
+    website: "https://www.swn.com",
+    ticker: "SWN",
     market_cap: "7989.7"
   },
   {
@@ -9735,9 +9735,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "461.0",
-    CEO: "Charles J. Meyers",
-    Website: "https://www.equinix.com",
-    Ticker: "EQIX",
+    ceo: "Charles J. Meyers",
+    website: "https://www.equinix.com",
+    ticker: "EQIX",
     market_cap: "67280.5"
   },
   {
@@ -9755,9 +9755,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "William T. Dillard II",
-    Website: "https://www.dillards.com",
-    Ticker: "DDS",
+    ceo: "William T. Dillard II",
+    website: "https://www.dillards.com",
+    ticker: "DDS",
     market_cap: "4928.2"
   },
   {
@@ -9775,9 +9775,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "434.0",
-    CEO: "John M. Turner Jr.",
-    Website: "https://www.regions.com",
-    Ticker: "RF",
+    ceo: "John M. Turner Jr.",
+    website: "https://www.regions.com",
+    ticker: "RF",
     market_cap: "20860.9"
   },
   {
@@ -9795,9 +9795,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "478.0",
-    CEO: "David W. Gibbs",
-    Website: "https://www.yum.com",
-    Ticker: "YUM",
+    ceo: "David W. Gibbs",
+    website: "https://www.yum.com",
+    ticker: "YUM",
     market_cap: "34252.9"
   },
   {
@@ -9815,9 +9815,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "James B. Gattoni",
-    Website: "https://www.landstar.com",
-    Ticker: "LSTR",
+    ceo: "James B. Gattoni",
+    website: "https://www.landstar.com",
+    ticker: "LSTR",
     market_cap: "5600"
   },
   {
@@ -9835,9 +9835,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "W. Anthony Will",
-    Website: "https://www.cfindustries.com",
-    Ticker: "CF",
+    ceo: "W. Anthony Will",
+    website: "https://www.cfindustries.com",
+    ticker: "CF",
     market_cap: "21551.3"
   },
   {
@@ -9855,9 +9855,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "443.0",
-    CEO: "Michael G. O&#039;Grady",
-    Website: "https://www.northerntrust.com",
-    Ticker: "NTRS",
+    ceo: "Michael G. O&#039;Grady",
+    website: "https://www.northerntrust.com",
+    ticker: "NTRS",
     market_cap: "24215.1"
   },
   {
@@ -9875,9 +9875,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "M. Keith Waddell",
-    Website: "https://www.roberthalf.com",
-    Ticker: "RHI",
+    ceo: "M. Keith Waddell",
+    website: "https://www.roberthalf.com",
+    ticker: "RHI",
     market_cap: "12638.1"
   },
   {
@@ -9895,9 +9895,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Robert L. Reffkin",
-    Website: "https://www.compass.com",
-    Ticker: "COMP",
+    ceo: "Robert L. Reffkin",
+    website: "https://www.compass.com",
+    ticker: "COMP",
     market_cap: "3358.8"
   },
   {
@@ -9915,9 +9915,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "494.0",
-    CEO: "Christian Cocks",
-    Website: "https://www.hasbro.com",
-    Ticker: "HAS",
+    ceo: "Christian Cocks",
+    website: "https://www.hasbro.com",
+    ticker: "HAS",
     market_cap: "11383.6"
   },
   {
@@ -9935,9 +9935,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: "488.0",
-    CEO: "L. Neil Hunn",
-    Website: "https://www.ropertech.com",
-    Ticker: "ROP",
+    ceo: "L. Neil Hunn",
+    website: "https://www.ropertech.com",
+    ticker: "ROP",
     market_cap: "49868.8"
   },
   {
@@ -9955,9 +9955,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Arie Kotler",
-    Website: "https://www.arkocorp.com",
-    Ticker: "ARKO",
+    ceo: "Arie Kotler",
+    website: "https://www.arkocorp.com",
+    ticker: "ARKO",
     market_cap: "1133.9"
   },
   {
@@ -9975,9 +9975,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: "402.0",
-    CEO: "Nick Jeffery",
-    Website: "https://www.frontier.com",
-    Ticker: "FYBR",
+    ceo: "Nick Jeffery",
+    website: "https://www.frontier.com",
+    ticker: "FYBR",
     market_cap: "6763.1"
   },
   {
@@ -9995,9 +9995,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Martin J. Lyons Jr.",
-    Website: "https://www.ameren.com",
-    Ticker: "AEE",
+    ceo: "Martin J. Lyons Jr.",
+    website: "https://www.ameren.com",
+    ticker: "AEE",
     market_cap: "24198.7"
   },
   {
@@ -10015,9 +10015,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Andres A. Lopez",
-    Website: "https://www.o-i.com",
-    Ticker: "OI",
+    ceo: "Andres A. Lopez",
+    website: "https://www.o-i.com",
+    ticker: "OI",
     market_cap: "2058"
   },
   {
@@ -10035,9 +10035,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Mark E. Newman",
-    Website: "https://www.chemours.com",
-    Ticker: "CC",
+    ceo: "Mark E. Newman",
+    website: "https://www.chemours.com",
+    ticker: "CC",
     market_cap: "5015"
   },
   {
@@ -10055,9 +10055,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jay A. Brown",
-    Website: "https://www.crowncastle.com",
-    Ticker: "CCI",
+    ceo: "Jay A. Brown",
+    website: "https://www.crowncastle.com",
+    ticker: "CCI",
     market_cap: "79937.3"
   },
   {
@@ -10075,9 +10075,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Michael R. McMullen",
-    Website: "https://www.agilent.com",
-    Ticker: "A",
+    ceo: "Michael R. McMullen",
+    website: "https://www.agilent.com",
+    ticker: "A",
     market_cap: "39714"
   },
   {
@@ -10095,9 +10095,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Lawrence Kurzius",
-    Website: "https://www.mccormickcorporation.com",
-    Ticker: "MKC",
+    ceo: "Lawrence Kurzius",
+    website: "https://www.mccormickcorporation.com",
+    ticker: "MKC",
     market_cap: "19156"
   },
   {
@@ -10115,9 +10115,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Robert Greenberg",
-    Website: "https://www.skechers.com",
-    Ticker: "SKX",
+    ceo: "Robert Greenberg",
+    website: "https://www.skechers.com",
+    ticker: "SKX",
     market_cap: "6360.4"
   },
   {
@@ -10135,9 +10135,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Albert H. Nahmad",
-    Website: "https://www.watsco.com",
-    Ticker: "WSO",
+    ceo: "Albert H. Nahmad",
+    website: "https://www.watsco.com",
+    ticker: "WSO",
     market_cap: "11842.6"
   },
   {
@@ -10155,9 +10155,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Michael Rapino",
-    Website: "https://www.livenationentertainment.com",
-    Ticker: "LYV",
+    ceo: "Michael Rapino",
+    website: "https://www.livenationentertainment.com",
+    ticker: "LYV",
     market_cap: "26425"
   },
   {
@@ -10175,9 +10175,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Calvin McDonald",
-    Website: "https://www.lululemon.com",
-    Ticker: "LULU",
+    ceo: "Calvin McDonald",
+    website: "https://www.lululemon.com",
+    ticker: "LULU",
     market_cap: "46717.8"
   },
   {
@@ -10195,9 +10195,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Scott B. Salmirs",
-    Website: "https://www.abm.com",
-    Ticker: "ABM",
+    ceo: "Scott B. Salmirs",
+    website: "https://www.abm.com",
+    ticker: "ABM",
     market_cap: "3078.7"
   },
   {
@@ -10215,9 +10215,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Robert V. Vitale",
-    Website: "https://www.postholdings.com",
-    Ticker: "POST",
+    ceo: "Robert V. Vitale",
+    website: "https://www.postholdings.com",
+    ticker: "POST",
     market_cap: "4284.4"
   },
   {
@@ -10235,9 +10235,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Robert S. Fauber",
-    Website: "https://www.moodys.com",
-    Ticker: "MCO",
+    ceo: "Robert S. Fauber",
+    website: "https://www.moodys.com",
+    ticker: "MCO",
     market_cap: "62548.1"
   },
   {
@@ -10255,9 +10255,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David S. Chernow",
-    Website: "https://www.selectmedicalholdings.com",
-    Ticker: "SEM",
+    ceo: "David S. Chernow",
+    website: "https://www.selectmedicalholdings.com",
+    ticker: "SEM",
     market_cap: "3208.6"
   },
   {
@@ -10275,9 +10275,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Benito Minicucci",
-    Website: "https://www.alaskaair.com",
-    Ticker: "ALK",
+    ceo: "Benito Minicucci",
+    website: "https://www.alaskaair.com",
+    ticker: "ALK",
     market_cap: "7314.3"
   },
   {
@@ -10295,9 +10295,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Bruce K. Thorn",
-    Website: "https://www.biglots.com",
-    Ticker: "BIG",
+    ceo: "Bruce K. Thorn",
+    website: "https://www.biglots.com",
+    ticker: "BIG",
     market_cap: "988.1"
   },
   {
@@ -10315,9 +10315,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Guillaume Marie Jean Rutten",
-    Website: "https://www.amkor.com",
-    Ticker: "AMKR",
+    ceo: "Guillaume Marie Jean Rutten",
+    website: "https://www.amkor.com",
+    ticker: "AMKR",
     market_cap: "5313"
   },
   {
@@ -10335,9 +10335,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Christopher S. Ripley",
-    Website: "https://www.sbgi.net",
-    Ticker: "SBGI",
+    ceo: "Christopher S. Ripley",
+    website: "https://www.sbgi.net",
+    ticker: "SBGI",
     market_cap: "2008.1"
   },
   {
@@ -10355,9 +10355,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Frank C. Sullivan",
-    Website: "https://www.rpminc.com",
-    Ticker: "RPM",
+    ceo: "Frank C. Sullivan",
+    website: "https://www.rpminc.com",
+    ticker: "RPM",
     market_cap: "10560.8"
   },
   {
@@ -10375,9 +10375,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "RenÃ© F. Jones",
-    Website: "https://www.mtb.com",
-    Ticker: "MTB",
+    ceo: "RenÃ© F. Jones",
+    website: "https://www.mtb.com",
+    ticker: "MTB",
     market_cap: "21875"
   },
   {
@@ -10395,9 +10395,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jack L. Sinclair",
-    Website: "https://www.sprouts.com",
-    Ticker: "SFM",
+    ceo: "Jack L. Sinclair",
+    website: "https://www.sprouts.com",
+    ticker: "SFM",
     market_cap: "3546.8"
   },
   {
@@ -10415,9 +10415,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Stephen D. Steinour",
-    Website: "https://www.huntington.com",
-    Ticker: "HBAN",
+    ceo: "Stephen D. Steinour",
+    website: "https://www.huntington.com",
+    ticker: "HBAN",
     market_cap: "21123.4"
   },
   {
@@ -10435,9 +10435,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "John S. Mengucci",
-    Website: "https://www.caci.com",
-    Ticker: "CACI",
+    ceo: "John S. Mengucci",
+    website: "https://www.caci.com",
+    ticker: "CACI",
     market_cap: "7051.2"
   },
   {
@@ -10455,9 +10455,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Robin Hayes",
-    Website: "https://www.jetblue.com",
-    Ticker: "JBLU",
+    ceo: "Robin Hayes",
+    website: "https://www.jetblue.com",
+    ticker: "JBLU",
     market_cap: "4786.9"
   },
   {
@@ -10475,9 +10475,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Gregory W. Becker",
-    Website: "https://www.svb.com",
-    Ticker: "SIVB",
+    ceo: "Gregory W. Becker",
+    website: "https://www.svb.com",
+    ticker: "SIVB",
     market_cap: "32901"
   },
   {
@@ -10495,9 +10495,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Daniel L. Florness",
-    Website: "https://www.fastenal.com",
-    Ticker: "FAST",
+    ceo: "Daniel L. Florness",
+    website: "https://www.fastenal.com",
+    ticker: "FAST",
     market_cap: "34187.9"
   },
   {
@@ -10515,9 +10515,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Matthew Furlong",
-    Website: "https://www.gamestop.com",
-    Ticker: "GME",
+    ceo: "Matthew Furlong",
+    website: "https://www.gamestop.com",
+    ticker: "GME",
     market_cap: "12716.6"
   },
   {
@@ -10535,9 +10535,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David A. Jackson",
-    Website: "https://www.knighttrans.com",
-    Ticker: "KNX",
+    ceo: "David A. Jackson",
+    website: "https://www.knighttrans.com",
+    ticker: "KNX",
     market_cap: "8386"
   },
   {
@@ -10555,9 +10555,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Brian Chesky",
-    Website: "https://www.airbnb.com",
-    Ticker: "ABNB",
+    ceo: "Brian Chesky",
+    website: "https://www.airbnb.com",
+    ticker: "ABNB",
     market_cap: "110419.9"
   },
   {
@@ -10575,9 +10575,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Mark S. Walchirk",
-    Website: "https://www.pattersoncompanies.com",
-    Ticker: "PDCO",
+    ceo: "Mark S. Walchirk",
+    website: "https://www.pattersoncompanies.com",
+    ticker: "PDCO",
     market_cap: "3160"
   },
   {
@@ -10595,9 +10595,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jay A. Snowden",
-    Website: "https://www.pennentertainment.com",
-    Ticker: "PENN",
+    ceo: "Jay A. Snowden",
+    website: "https://www.pennentertainment.com",
+    ticker: "PENN",
     market_cap: "7140.2"
   },
   {
@@ -10615,9 +10615,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "William McDermott",
-    Website: "https://www.servicenow.com",
-    Ticker: "NOW",
+    ceo: "William McDermott",
+    website: "https://www.servicenow.com",
+    ticker: "NOW",
     market_cap: "70419"
   },
   {
@@ -10635,9 +10635,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Adena T. Friedman",
-    Website: "https://www.nasdaq.com",
-    Ticker: "NDAQ",
+    ceo: "Adena T. Friedman",
+    website: "https://www.nasdaq.com",
+    ticker: "NDAQ",
     market_cap: "29298.2"
   },
   {
@@ -10655,9 +10655,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David M. Foulkes",
-    Website: "https://www.brunswick.com",
-    Ticker: "BC",
+    ceo: "David M. Foulkes",
+    website: "https://www.brunswick.com",
+    ticker: "BC",
     market_cap: "6197.3"
   },
   {
@@ -10675,9 +10675,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jay L. Geldmacher",
-    Website: "https://www.resideo.com",
-    Ticker: "REZI",
+    ceo: "Jay L. Geldmacher",
+    website: "https://www.resideo.com",
+    ticker: "REZI",
     market_cap: "3455.8"
   },
   {
@@ -10695,9 +10695,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Domenic J. Dell&#039;Osso Jr.",
-    Website: "https://www.chk.com",
-    Ticker: "CHK",
+    ceo: "Domenic J. Dell&#039;Osso Jr.",
+    website: "https://www.chk.com",
+    ticker: "CHK",
     market_cap: "11135.9"
   },
   {
@@ -10715,9 +10715,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Ronald Coughlin Jr.",
-    Website: "https://www.petco.com",
-    Ticker: "WOOF",
+    ceo: "Ronald Coughlin Jr.",
+    website: "https://www.petco.com",
+    ticker: "WOOF",
     market_cap: "5930.2"
   },
   {
@@ -10735,9 +10735,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Joseph P. Lacher Jr.",
-    Website: "https://www.kemper.com",
-    Ticker: "KMPR",
+    ceo: "Joseph P. Lacher Jr.",
+    website: "https://www.kemper.com",
+    ticker: "KMPR",
     market_cap: "3606"
   },
   {
@@ -10755,9 +10755,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Christopher J. Nassetta",
-    Website: "https://www.hilton.com",
-    Ticker: "HLT",
+    ceo: "Christopher J. Nassetta",
+    website: "https://www.hilton.com",
+    ticker: "HLT",
     market_cap: "42356.6"
   },
   {
@@ -10775,9 +10775,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David T. Feinberg",
-    Website: "https://www.cerner.com",
-    Ticker: "",
+    ceo: "David T. Feinberg",
+    website: "https://www.cerner.com",
+    ticker: "",
     market_cap: "27492.2"
   },
   {
@@ -10795,9 +10795,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Charles Bergh",
-    Website: "https://www.levistrauss.com",
-    Ticker: "LEVI",
+    ceo: "Charles Bergh",
+    website: "https://www.levistrauss.com",
+    ticker: "LEVI",
     market_cap: "5740"
   },
   {
@@ -10815,9 +10815,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Joanne C. Crevoiserat",
-    Website: "https://www.tapestry.com",
-    Ticker: "TPR",
+    ceo: "Joanne C. Crevoiserat",
+    website: "https://www.tapestry.com",
+    ticker: "TPR",
     market_cap: "9807.2"
   },
   {
@@ -10835,9 +10835,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "George Kurian",
-    Website: "https://www.netapp.com",
-    Ticker: "NTAP",
+    ceo: "George Kurian",
+    website: "https://www.netapp.com",
+    ticker: "NTAP",
     market_cap: "18470.5"
   },
   {
@@ -10855,9 +10855,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jeffrey T. Mezger",
-    Website: "https://www.kbhome.com",
-    Ticker: "KBH",
+    ceo: "Jeffrey T. Mezger",
+    website: "https://www.kbhome.com",
+    ticker: "KBH",
     market_cap: "2858.1"
   },
   {
@@ -10875,9 +10875,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "William B. Berry",
-    Website: "https://www.clr.com",
-    Ticker: "CLR",
+    ceo: "William B. Berry",
+    website: "https://www.clr.com",
+    ticker: "CLR",
     market_cap: "22342.4"
   },
   {
@@ -10895,9 +10895,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Gary S. Guthart",
-    Website: "https://www.intuitive.com",
-    Ticker: "ISRG",
+    ceo: "Gary S. Guthart",
+    website: "https://www.intuitive.com",
+    ticker: "ISRG",
     market_cap: "108361.9"
   },
   {
@@ -10915,9 +10915,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Colin Browne",
-    Website: "https://https://about.underarmour.com",
-    Ticker: "UAA",
+    ceo: "Colin Browne",
+    website: "https://https://about.underarmour.com",
+    ticker: "UAA",
     market_cap: "7712.4"
   },
   {
@@ -10935,9 +10935,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David L. Goodin",
-    Website: "https://www.mdu.com",
-    Ticker: "MDU",
+    ceo: "David L. Goodin",
+    website: "https://www.mdu.com",
+    ticker: "MDU",
     market_cap: "5419.3"
   },
   {
@@ -10955,9 +10955,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Adam J. Greenlee",
-    Website: "https://www.silganholdings.com",
-    Ticker: "SLGN",
+    ceo: "Adam J. Greenlee",
+    website: "https://www.silganholdings.com",
+    ticker: "SLGN",
     market_cap: "5104.3"
   },
   {
@@ -10975,9 +10975,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Edward J. Lehner",
-    Website: "https://www.ryerson.com",
-    Ticker: "RYI",
+    ceo: "Edward J. Lehner",
+    website: "https://www.ryerson.com",
+    ticker: "RYI",
     market_cap: "1344.6"
   },
   {
@@ -10995,9 +10995,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Vicente Reynal",
-    Website: "https://www.irco.com",
-    Ticker: "IR",
+    ceo: "Vicente Reynal",
+    website: "https://www.irco.com",
+    ticker: "IR",
     market_cap: "20541.2"
   },
   {
@@ -11015,9 +11015,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Stephen MacMillan",
-    Website: "https://www.hologic.com",
-    Ticker: "HOLX",
+    ceo: "Stephen MacMillan",
+    website: "https://www.hologic.com",
+    ticker: "HOLX",
     market_cap: "16063"
   },
   {
@@ -11035,9 +11035,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Andrew Wilson",
-    Website: "https://www.ea.com",
-    Ticker: "EA",
+    ceo: "Andrew Wilson",
+    website: "https://www.ea.com",
+    ticker: "EA",
     market_cap: "35577.4"
   },
   {
@@ -11055,9 +11055,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Anders Gustafsson",
-    Website: "https://www.zebra.com",
-    Ticker: "ZBRA",
+    ceo: "Anders Gustafsson",
+    website: "https://www.zebra.com",
+    ticker: "ZBRA",
     market_cap: "21959.1"
   },
   {
@@ -11075,9 +11075,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Sue Y. Nabi",
-    Website: "https://www.coty.com",
-    Ticker: "COTY",
+    ceo: "Sue Y. Nabi",
+    website: "https://www.coty.com",
+    ticker: "COTY",
     market_cap: "7540.6"
   },
   {
@@ -11095,9 +11095,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Mark B. Rourke",
-    Website: "https://www.schneider.com",
-    Ticker: "SNDR",
+    ceo: "Mark B. Rourke",
+    website: "https://www.schneider.com",
+    ticker: "SNDR",
     market_cap: "4551.6"
   },
   {
@@ -11115,9 +11115,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "R. Howard Coker",
-    Website: "https://www.sonoco.com",
-    Ticker: "SON",
+    ceo: "R. Howard Coker",
+    website: "https://www.sonoco.com",
+    ticker: "SON",
     market_cap: "6099.1"
   },
   {
@@ -11135,9 +11135,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Christopher A. Caldwell",
-    Website: "https://www.concentrix.com",
-    Ticker: "CNXC",
+    ceo: "Christopher A. Caldwell",
+    website: "https://www.concentrix.com",
+    ticker: "CNXC",
     market_cap: "8605.2"
   },
   {
@@ -11155,9 +11155,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David A. Campbell",
-    Website: "https://http://investors.evergy.com",
-    Ticker: "EVRG",
+    ceo: "David A. Campbell",
+    website: "https://http://investors.evergy.com",
+    ticker: "EVRG",
     market_cap: "15512.7"
   },
   {
@@ -11175,9 +11175,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Rose Lee",
-    Website: "https://www.cornerstonebuildingbrands.com",
-    Ticker: "",
+    ceo: "Rose Lee",
+    website: "https://www.cornerstonebuildingbrands.com",
+    ticker: "",
     market_cap: "3088.7"
   },
   {
@@ -11195,9 +11195,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "J. Frank Harrison III",
-    Website: "https://www.cokeconsolidated.com",
-    Ticker: "COKE",
+    ceo: "J. Frank Harrison III",
+    website: "https://www.cokeconsolidated.com",
+    ticker: "COKE",
     market_cap: "4657.3"
   },
   {
@@ -11215,9 +11215,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Ole Rosgaard",
-    Website: "https://www.greif.com",
-    Ticker: "GEF",
+    ceo: "Ole Rosgaard",
+    website: "https://www.greif.com",
+    ticker: "GEF",
     market_cap: "3134"
   },
   {
@@ -11235,9 +11235,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "J. Thomas Hill",
-    Website: "https://www.vulcanmaterials.com",
-    Ticker: "VMC",
+    ceo: "J. Thomas Hill",
+    website: "https://www.vulcanmaterials.com",
+    ticker: "VMC",
     market_cap: "24412.7"
   },
   {
@@ -11255,9 +11255,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David A. Zapico",
-    Website: "https://www.ametek.com",
-    Ticker: "AME",
+    ceo: "David A. Zapico",
+    website: "https://www.ametek.com",
+    ticker: "AME",
     market_cap: "30787.3"
   },
   {
@@ -11275,9 +11275,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "#REF!",
-    Website: "https://www.monsterbevcorp.com",
-    Ticker: "MNST",
+    ceo: "#REF!",
+    website: "https://www.monsterbevcorp.com",
+    ticker: "MNST",
     market_cap: "42295.8"
   },
   {
@@ -11295,9 +11295,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Edward L. Doheny II",
-    Website: "https://www.sealedair.com",
-    Ticker: "SEE",
+    ceo: "Edward L. Doheny II",
+    website: "https://www.sealedair.com",
+    ticker: "SEE",
     market_cap: "9920.7"
   },
   {
@@ -11315,9 +11315,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Clay C. Williams",
-    Website: "https://www.nov.com",
-    Ticker: "NOV",
+    ceo: "Clay C. Williams",
+    website: "https://www.nov.com",
+    ticker: "NOV",
     market_cap: "7700.2"
   },
   {
@@ -11335,9 +11335,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Robert G. Goldstein",
-    Website: "https://www.sands.com",
-    Ticker: "LVS",
+    ceo: "Robert G. Goldstein",
+    website: "https://www.sands.com",
+    ticker: "LVS",
     market_cap: "29696.4"
   },
   {
@@ -11355,9 +11355,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "C. Howard Nye",
-    Website: "https://www.martinmarietta.com",
-    Ticker: "MLM",
+    ceo: "C. Howard Nye",
+    website: "https://www.martinmarietta.com",
+    ticker: "MLM",
     market_cap: "24015.1"
   },
   {
@@ -11375,9 +11375,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Lee M. Tillman",
-    Website: "https://www.marathonoil.com",
-    Ticker: "MRO",
+    ceo: "Lee M. Tillman",
+    website: "https://www.marathonoil.com",
+    ticker: "MRO",
     market_cap: "18349.5"
   },
   {
@@ -11395,9 +11395,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Ynon Kreiz",
-    Website: "https://www.mattel.com",
-    Ticker: "MAT",
+    ceo: "Ynon Kreiz",
+    website: "https://www.mattel.com",
+    ticker: "MAT",
     market_cap: "7823.3"
   },
   {
@@ -11415,9 +11415,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Ganesh Moorthy",
-    Website: "https://www.microchip.com",
-    Ticker: "MCHP",
+    ceo: "Ganesh Moorthy",
+    website: "https://www.microchip.com",
+    ticker: "MCHP",
     market_cap: "41777.1"
   },
   {
@@ -11435,9 +11435,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jochen Zeitz",
-    Website: "https://www.harley-davidson.com",
-    Ticker: "HOG",
+    ceo: "Jochen Zeitz",
+    website: "https://www.harley-davidson.com",
+    ticker: "HOG",
     market_cap: "6062.9"
   },
   {
@@ -11455,9 +11455,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "LeRoy T. Carlson Jr.",
-    Website: "https://www.tdsinc.com",
-    Ticker: "TDS",
+    ceo: "LeRoy T. Carlson Jr.",
+    website: "https://www.tdsinc.com",
+    ticker: "TDS",
     market_cap: "2163.4"
   },
   {
@@ -11475,9 +11475,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "James D. DeVries",
-    Website: "https://www.adt.com",
-    Ticker: "ADT",
+    ceo: "James D. DeVries",
+    website: "https://www.adt.com",
+    ticker: "ADT",
     market_cap: "6843"
   },
   {
@@ -11495,9 +11495,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Michael J. Roffler",
-    Website: "https://www.firstrepublic.com",
-    Ticker: "FRC",
+    ceo: "Michael J. Roffler",
+    website: "https://www.firstrepublic.com",
+    ticker: "FRC",
     market_cap: "29113.6"
   },
   {
@@ -11515,9 +11515,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Stephen F. Cooper",
-    Website: "https://www.wmg.com",
-    Ticker: "WMG",
+    ceo: "Stephen F. Cooper",
+    website: "https://www.wmg.com",
+    ticker: "WMG",
     market_cap: "19485.7"
   },
   {
@@ -11535,9 +11535,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Peter Arvan",
-    Website: "https://www.poolcorp.com",
-    Ticker: "POOL",
+    ceo: "Peter Arvan",
+    website: "https://www.poolcorp.com",
+    ticker: "POOL",
     market_cap: "12608"
   },
   {
@@ -11555,9 +11555,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Greg C. Gantt",
-    Website: "https://www.odfl.com",
-    Ticker: "ODFL",
+    ceo: "Greg C. Gantt",
+    website: "https://www.odfl.com",
+    ticker: "ODFL",
     market_cap: "34307.5"
   },
   {
@@ -11575,9 +11575,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "James A. Lico",
-    Website: "https://www.fortive.com",
-    Ticker: "FTV",
+    ceo: "James A. Lico",
+    website: "https://www.fortive.com",
+    ticker: "FTV",
     market_cap: "21877.9"
   },
   {
@@ -11595,9 +11595,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David D. Mandarich",
-    Website: "https://www.mdcholdings.com",
-    Ticker: "MDC",
+    ceo: "David D. Mandarich",
+    website: "https://www.mdcholdings.com",
+    ticker: "MDC",
     market_cap: "2692.7"
   },
   {
@@ -11615,9 +11615,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "H. Michael Krimbill",
-    Website: "https://www.nglenergypartners.com",
-    Ticker: "NGL",
+    ceo: "H. Michael Krimbill",
+    website: "https://www.nglenergypartners.com",
+    ticker: "NGL",
     market_cap: "288.6"
   },
   {
@@ -11635,9 +11635,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Michael A. Mussallem",
-    Website: "https://www.edwards.com",
-    Ticker: "EW",
+    ceo: "Michael A. Mussallem",
+    website: "https://www.edwards.com",
+    ticker: "EW",
     market_cap: "73141.4"
   },
   {
@@ -11655,9 +11655,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "John C. Roche",
-    Website: "https://www.hanover.com",
-    Ticker: "THG",
+    ceo: "John C. Roche",
+    website: "https://www.hanover.com",
+    ticker: "THG",
     market_cap: "5317.9"
   },
   {
@@ -11675,9 +11675,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Michelle Keefe",
-    Website: "https://www.syneoshealth.com",
-    Ticker: "SYNH",
+    ceo: "Michelle Keefe",
+    website: "https://www.syneoshealth.com",
+    ticker: "SYNH",
     market_cap: "8436.7"
   },
   {
@@ -11695,9 +11695,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Patrick K. Decker",
-    Website: "https://www.xylem.com",
-    Ticker: "XYL",
+    ceo: "Patrick K. Decker",
+    website: "https://www.xylem.com",
+    ticker: "XYL",
     market_cap: "15354.7"
   },
   {
@@ -11715,9 +11715,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Matthew T. Farrell",
-    Website: "https://www.churchdwight.com",
-    Ticker: "CHD",
+    ceo: "Matthew T. Farrell",
+    website: "https://www.churchdwight.com",
+    ticker: "CHD",
     market_cap: "24119.1"
   },
   {
@@ -11735,9 +11735,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David C. Dauch",
-    Website: "https://www.aam.com",
-    Ticker: "AXL",
+    ceo: "David C. Dauch",
+    website: "https://www.aam.com",
+    ticker: "AXL",
     market_cap: "888.3"
   },
   {
@@ -11755,9 +11755,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Phillippe Lord",
-    Website: "https://www.meritagehomes.com",
-    Ticker: "MTH",
+    ceo: "Phillippe Lord",
+    website: "https://www.meritagehomes.com",
+    ticker: "MTH",
     market_cap: "2907.3"
   },
   {
@@ -11775,9 +11775,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "#REF!",
-    Website: "https://www.workday.com",
-    Ticker: "WDAY",
+    ceo: "#REF!",
+    website: "https://www.workday.com",
+    ticker: "WDAY",
     market_cap: "60583.4"
   },
   {
@@ -11795,9 +11795,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "W. M. Rush",
-    Website: "https://www.rushenterprises.com",
-    Ticker: "RUSHB",
+    ceo: "W. M. Rush",
+    website: "https://www.rushenterprises.com",
+    ticker: "RUSHB",
     market_cap: "2788.5"
   },
   {
@@ -11815,9 +11815,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Darren D. Hawkins",
-    Website: "https://www.myyellow.com",
-    Ticker: "YELL",
+    ceo: "Darren D. Hawkins",
+    website: "https://www.myyellow.com",
+    ticker: "YELL",
     market_cap: "360.3"
   },
   {
@@ -11835,9 +11835,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Mark J. Tarr",
-    Website: "https://www.encompasshealth.com",
-    Ticker: "EHC",
+    ceo: "Mark J. Tarr",
+    website: "https://www.encompasshealth.com",
+    ticker: "EHC",
     market_cap: "7071.1"
   },
   {
@@ -11855,9 +11855,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David E. Simon",
-    Website: "https://www.simon.com",
-    Ticker: "SPG",
+    ceo: "David E. Simon",
+    website: "https://www.simon.com",
+    ticker: "SPG",
     market_cap: "43197.8"
   },
   {
@@ -11875,9 +11875,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "#REF!",
-    Website: "https://www.globelifeinsurance.com",
-    Ticker: "GL",
+    ceo: "#REF!",
+    website: "https://www.globelifeinsurance.com",
+    ticker: "GL",
     market_cap: "9977.3"
   },
   {
@@ -11895,9 +11895,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Liam K. Griffin",
-    Website: "https://www.skyworksinc.com",
-    Ticker: "SWKS",
+    ceo: "Liam K. Griffin",
+    website: "https://www.skyworksinc.com",
+    ticker: "SWKS",
     market_cap: "21547.5"
   },
   {
@@ -11915,9 +11915,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Ariel Emanuel",
-    Website: "https://www.endeavorco.com",
-    Ticker: "EDR",
+    ceo: "Ariel Emanuel",
+    website: "https://www.endeavorco.com",
+    ticker: "EDR",
     market_cap: "20363.1"
   },
   {
@@ -11935,9 +11935,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Elon Musk",
-    Website: "https://www.twitter.com",
-    Ticker: "",
+    ceo: "Elon Musk",
+    website: "https://www.twitter.com",
+    ticker: "",
     market_cap: "30976.8"
   },
   {
@@ -11955,9 +11955,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "J. Mitchell Dolloff",
-    Website: "https://www.leggett.com",
-    Ticker: "LEG",
+    ceo: "J. Mitchell Dolloff",
+    website: "https://www.leggett.com",
+    ticker: "LEG",
     market_cap: "4659"
   },
   {
@@ -11975,9 +11975,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Devin B. McGranahan",
-    Website: "https://www.westernunion.com",
-    Ticker: "WU",
+    ceo: "Devin B. McGranahan",
+    website: "https://www.westernunion.com",
+    ticker: "WU",
     market_cap: "7374.7"
   },
   {
@@ -11995,9 +11995,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Prahlad Singh",
-    Website: "https://www.perkinelmer.com",
-    Ticker: "PKI",
+    ceo: "Prahlad Singh",
+    website: "https://www.perkinelmer.com",
+    ticker: "PKI",
     market_cap: "15984"
   },
   {
@@ -12015,9 +12015,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "William C. Stone",
-    Website: "https://www.ssctech.com",
-    Ticker: "SSNC",
+    ceo: "William C. Stone",
+    website: "https://www.ssctech.com",
+    ticker: "SSNC",
     market_cap: "19235.1"
   },
   {
@@ -12035,9 +12035,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Robert N. Trunzo",
-    Website: "https://www.cunamutual.com",
-    Ticker: "",
+    ceo: "Robert N. Trunzo",
+    website: "https://www.cunamutual.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -12055,9 +12055,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Mark A. Douglas",
-    Website: "https://www.fmc.com",
-    Ticker: "FMC",
+    ceo: "Mark A. Douglas",
+    website: "https://www.fmc.com",
+    ticker: "FMC",
     market_cap: "16563.8"
   },
   {
@@ -12075,9 +12075,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "D. Christian Koch",
-    Website: "https://www.carlisle.com",
-    Ticker: "CSL",
+    ceo: "D. Christian Koch",
+    website: "https://www.carlisle.com",
+    ticker: "CSL",
     market_cap: "12804.5"
   },
   {
@@ -12095,9 +12095,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jay L. Schottenstein",
-    Website: "https://www.aeo-inc.com",
-    Ticker: "AEO",
+    ceo: "Jay L. Schottenstein",
+    website: "https://www.aeo-inc.com",
+    ticker: "AEO",
     market_cap: "2836.6"
   },
   {
@@ -12115,9 +12115,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Stephen O. LeClair",
-    Website: "https://www.coreandmain.com",
-    Ticker: "CNM",
+    ceo: "Stephen O. LeClair",
+    website: "https://www.coreandmain.com",
+    ticker: "CNM",
     market_cap: "5948.8"
   },
   {
@@ -12135,9 +12135,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Robert J. Johnson",
-    Website: "https://www.vertiv.com",
-    Ticker: "VRT",
+    ceo: "Robert J. Johnson",
+    website: "https://www.vertiv.com",
+    ticker: "VRT",
     market_cap: "5263.9"
   },
   {
@@ -12155,9 +12155,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Timothy C. Gokey",
-    Website: "https://www.broadridge.com",
-    Ticker: "BR",
+    ceo: "Timothy C. Gokey",
+    website: "https://www.broadridge.com",
+    ticker: "BR",
     market_cap: "18182.7"
   },
   {
@@ -12175,9 +12175,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "James W. Lanning",
-    Website: "https://www.ingles-markets.com",
-    Ticker: "IMKTA",
+    ceo: "James W. Lanning",
+    website: "https://www.ingles-markets.com",
+    ticker: "IMKTA",
     market_cap: "1691.4"
   },
   {
@@ -12195,9 +12195,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jon Winkelried",
-    Website: "https://www.tpg.com",
-    Ticker: "TPG",
+    ceo: "Jon Winkelried",
+    website: "https://www.tpg.com",
+    ticker: "TPG",
     market_cap: "9304.9"
   },
   {
@@ -12215,9 +12215,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Paul J. Sarvadi",
-    Website: "https://www.insperity.com",
-    Ticker: "NSP",
+    ceo: "Paul J. Sarvadi",
+    website: "https://www.insperity.com",
+    ticker: "NSP",
     market_cap: "3849.8"
   },
   {
@@ -12235,9 +12235,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "John C. Plant",
-    Website: "https://www.howmet.com",
-    Ticker: "HWM",
+    ceo: "John C. Plant",
+    website: "https://www.howmet.com",
+    ticker: "HWM",
     market_cap: "15055.4"
   },
   {
@@ -12255,9 +12255,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Thomas J. Quinlan III",
-    Website: "https://www.rrd.com",
-    Ticker: "RRD",
+    ceo: "Thomas J. Quinlan III",
+    website: "https://www.rrd.com",
+    ticker: "RRD",
     market_cap: "289.9"
   },
   {
@@ -12275,9 +12275,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Satish Dhanasekaran",
-    Website: "https://www.keysight.com",
-    Ticker: "KEYS",
+    ceo: "Satish Dhanasekaran",
+    website: "https://www.keysight.com",
+    ticker: "KEYS",
     market_cap: "28746.6"
   },
   {
@@ -12295,9 +12295,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Scott Thompson",
-    Website: "https://www.tempursealy.com",
-    Ticker: "TPX",
+    ceo: "Scott Thompson",
+    website: "https://www.tempursealy.com",
+    ticker: "TPX",
     market_cap: "4506"
   },
   {
@@ -12315,9 +12315,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "James S. Hagedorn",
-    Website: "https://www.scotts.com",
-    Ticker: "SMG",
+    ceo: "James S. Hagedorn",
+    website: "https://www.scotts.com",
+    ticker: "SMG",
     market_cap: "6834.6"
   },
   {
@@ -12335,9 +12335,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Mark W. Begor",
-    Website: "https://www.equifax.com",
-    Ticker: "EFX",
+    ceo: "Mark W. Begor",
+    website: "https://www.equifax.com",
+    ticker: "EFX",
     market_cap: "29141.8"
   },
   {
@@ -12355,9 +12355,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Peter W. Quigley",
-    Website: "https://www.kellyservices.com",
-    Ticker: "KELYA",
+    ceo: "Peter W. Quigley",
+    website: "https://www.kellyservices.com",
+    ticker: "KELYA",
     market_cap: "856"
   },
   {
@@ -12375,9 +12375,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Lloyd M. Yates",
-    Website: "https://www.nisource.com",
-    Ticker: "NI",
+    ceo: "Lloyd M. Yates",
+    website: "https://www.nisource.com",
+    ticker: "NI",
     market_cap: "12891.2"
   },
   {
@@ -12395,9 +12395,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Douglas H. Shulman",
-    Website: "https://www.omf.com",
-    Ticker: "OMF",
+    ceo: "Douglas H. Shulman",
+    website: "https://www.omf.com",
+    ticker: "OMF",
     market_cap: "6042.8"
   },
   {
@@ -12415,9 +12415,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Tony Xu",
-    Website: "https://https://ir.doordash.com",
-    Ticker: "DASH",
+    ceo: "Tony Xu",
+    website: "https://https://ir.doordash.com",
+    ticker: "DASH",
     market_cap: "40830.3"
   },
   {
@@ -12435,9 +12435,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Robert M. Patterson",
-    Website: "https://www.avient.com",
-    Ticker: "AVNT",
+    ceo: "Robert M. Patterson",
+    website: "https://www.avient.com",
+    ticker: "AVNT",
     market_cap: "4388.4"
   },
   {
@@ -12455,9 +12455,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Joe F. Sanderson Jr.",
-    Website: "https://www.sandersonfarms.com",
-    Ticker: "",
+    ceo: "Joe F. Sanderson Jr.",
+    website: "https://www.sandersonfarms.com",
+    ticker: "",
     market_cap: "4185.4"
   },
   {
@@ -12475,9 +12475,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Kevin M. Stein",
-    Website: "https://www.transdigm.com",
-    Ticker: "TDG",
+    ceo: "Kevin M. Stein",
+    website: "https://www.transdigm.com",
+    ticker: "TDG",
     market_cap: "36135.8"
   },
   {
@@ -12495,9 +12495,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Ronald J. Kruszewski",
-    Website: "https://www.stifel.com",
-    Ticker: "SF",
+    ceo: "Ronald J. Kruszewski",
+    website: "https://www.stifel.com",
+    ticker: "SF",
     market_cap: "7226"
   },
   {
@@ -12515,9 +12515,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Kevin C. Lilly",
-    Website: "https://www.jeld-wen.com",
-    Ticker: "JELD",
+    ceo: "Kevin C. Lilly",
+    website: "https://www.jeld-wen.com",
+    ticker: "JELD",
     market_cap: "1826"
   },
   {
@@ -12535,9 +12535,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Michael Arougheti",
-    Website: "https://www.aresmgmt.com",
-    Ticker: "ARES",
+    ceo: "Michael Arougheti",
+    website: "https://www.aresmgmt.com",
+    ticker: "ARES",
     market_cap: "18940"
   },
   {
@@ -12555,9 +12555,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Jeffrey N. Simmons",
-    Website: "https://www.elanco.com",
-    Ticker: "ELAN",
+    ceo: "Jeffrey N. Simmons",
+    website: "https://www.elanco.com",
+    ticker: "ELAN",
     market_cap: "12345.4"
   },
   {
@@ -12575,9 +12575,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Hamid R. Moghadam",
-    Website: "https://www.prologis.com",
-    Ticker: "PLD",
+    ceo: "Hamid R. Moghadam",
+    website: "https://www.prologis.com",
+    ticker: "PLD",
     market_cap: "119524.5"
   },
   {
@@ -12595,9 +12595,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Shankh S. Mitra",
-    Website: "https://www.welltower.com",
-    Ticker: "WELL",
+    ceo: "Shankh S. Mitra",
+    website: "https://www.welltower.com",
+    ticker: "WELL",
     market_cap: "43001.5"
   },
   {
@@ -12615,9 +12615,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Randall C. Stuewe",
-    Website: "https://www.darlingii.com",
-    Ticker: "DAR",
+    ceo: "Randall C. Stuewe",
+    website: "https://www.darlingii.com",
+    ticker: "DAR",
     market_cap: "12987.4"
   },
   {
@@ -12635,9 +12635,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Rami Rahim",
-    Website: "https://www.juniper.net",
-    Ticker: "JNPR",
+    ceo: "Rami Rahim",
+    website: "https://www.juniper.net",
+    ticker: "JNPR",
     market_cap: "11986.6"
   },
   {
@@ -12655,9 +12655,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Eugene A. Hall",
-    Website: "https://www.gartner.com",
-    Ticker: "IT",
+    ceo: "Eugene A. Hall",
+    website: "https://www.gartner.com",
+    ticker: "IT",
     market_cap: "24477.2"
   },
   {
@@ -12675,9 +12675,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "William C. Pate",
-    Website: "https://www.parpacific.com",
-    Ticker: "PARR",
+    ceo: "William C. Pate",
+    website: "https://www.parpacific.com",
+    ticker: "PARR",
     market_cap: "783.3"
   },
   {
@@ -12695,9 +12695,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Gerben W. Bakker",
-    Website: "https://www.hubbell.com",
-    Ticker: "HUBB",
+    ceo: "Gerben W. Bakker",
+    website: "https://www.hubbell.com",
+    ticker: "HUBB",
     market_cap: "9959.6"
   },
   {
@@ -12715,9 +12715,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Terrence A. Duffy",
-    Website: "https://www.cmegroup.com",
-    Ticker: "CME",
+    ceo: "Terrence A. Duffy",
+    website: "https://www.cmegroup.com",
+    ticker: "CME",
     market_cap: "85492.3"
   },
   {
@@ -12735,9 +12735,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Perry Sook",
-    Website: "https://www.nexstar.tv",
-    Ticker: "NXST",
+    ceo: "Perry Sook",
+    website: "https://www.nexstar.tv",
+    ticker: "NXST",
     market_cap: "6883"
   },
   {
@@ -12755,9 +12755,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Ronald N. Tutor",
-    Website: "https://www.tutorperini.com",
-    Ticker: "TPC",
+    ceo: "Ronald N. Tutor",
+    website: "https://www.tutorperini.com",
+    ticker: "TPC",
     market_cap: "551.8"
   },
   {
@@ -12775,9 +12775,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Paul M. Rady",
-    Website: "https://www.anteroresources.com",
-    Ticker: "AR",
+    ceo: "Paul M. Rady",
+    website: "https://www.anteroresources.com",
+    ticker: "AR",
     market_cap: "9608"
   },
   {
@@ -12795,9 +12795,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Robert Mehrabian",
-    Website: "https://www.teledyne.com",
-    Ticker: "TDY",
+    ceo: "Robert Mehrabian",
+    website: "https://www.teledyne.com",
+    ticker: "TDY",
     market_cap: "22102.9"
   },
   {
@@ -12815,9 +12815,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Nicholas T. Pinchuk",
-    Website: "https://www.snapon.com",
-    Ticker: "SNA",
+    ceo: "Nicholas T. Pinchuk",
+    website: "https://www.snapon.com",
+    ticker: "SNA",
     market_cap: "10976.1"
   },
   {
@@ -12835,9 +12835,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Mitchell E. Fadel",
-    Website: "https://www.rentacenter.com",
-    Ticker: "RCII",
+    ceo: "Mitchell E. Fadel",
+    website: "https://www.rentacenter.com",
+    ticker: "RCII",
     market_cap: "1486.9"
   },
   {
@@ -12855,9 +12855,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Benjamin Wolin",
-    Website: "https://https://covetrus.com/",
-    Ticker: "CVET",
+    ceo: "Benjamin Wolin",
+    website: "https://https://covetrus.com/",
+    ticker: "CVET",
     market_cap: "2319.3"
   },
   {
@@ -12875,9 +12875,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Robert G Phillips",
-    Website: "https://www.crestwoodlp.com",
-    Ticker: "CEQP",
+    ceo: "Robert G Phillips",
+    website: "https://www.crestwoodlp.com",
+    ticker: "CEQP",
     market_cap: "2931.5"
   },
   {
@@ -12895,9 +12895,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "W. Bradley Southern",
-    Website: "https://www.lpcorp.com",
-    Ticker: "LPX",
+    ceo: "W. Bradley Southern",
+    website: "https://www.lpcorp.com",
+    ticker: "LPX",
     market_cap: "4071"
   },
   {
@@ -12915,9 +12915,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Richard A. Hayne",
-    Website: "https://www.urbn.com",
-    Ticker: "URBN",
+    ceo: "Richard A. Hayne",
+    website: "https://www.urbn.com",
+    ticker: "URBN",
     market_cap: "2421.4"
   },
   {
@@ -12935,9 +12935,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David M. O&#039;Malley",
-    Website: "https://www.pennmutual.com",
-    Ticker: "",
+    ceo: "David M. O&#039;Malley",
+    website: "https://www.pennmutual.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -12955,9 +12955,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Edward J. Shoen",
-    Website: "https://www.amerco.com",
-    Ticker: "UHAL",
+    ceo: "Edward J. Shoen",
+    website: "https://www.amerco.com",
+    ticker: "UHAL",
     market_cap: "11704.7"
   },
   {
@@ -12975,9 +12975,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Burton M. Goldfield",
-    Website: "https://www.trinet.com",
-    Ticker: "TNET",
+    ceo: "Burton M. Goldfield",
+    website: "https://www.trinet.com",
+    ticker: "TNET",
     market_cap: "6482.5"
   },
   {
@@ -12995,9 +12995,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Peter G. McPartland",
-    Website: "https://www.sentry.com",
-    Ticker: "",
+    ceo: "Peter G. McPartland",
+    website: "https://www.sentry.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -13015,9 +13015,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Francis A. deSouza",
-    Website: "https://www.illumina.com",
-    Ticker: "ILMN",
+    ceo: "Francis A. deSouza",
+    website: "https://www.illumina.com",
+    ticker: "ILMN",
     market_cap: "54855.8"
   },
   {
@@ -13035,9 +13035,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "William L. Meaney",
-    Website: "https://www.ironmountain.com",
-    Ticker: "IRM",
+    ceo: "William L. Meaney",
+    website: "https://www.ironmountain.com",
+    ticker: "IRM",
     market_cap: "16059.5"
   },
   {
@@ -13055,9 +13055,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jason D. Lippert",
-    Website: "https://www.lci1.com",
-    Ticker: "LCII",
+    ceo: "Jason D. Lippert",
+    website: "https://www.lci1.com",
+    ticker: "LCII",
     market_cap: "2624.5"
   },
   {
@@ -13075,9 +13075,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Matthew J. Murphy",
-    Website: "https://www.marvell.com",
-    Ticker: "MRVL",
+    ceo: "Matthew J. Murphy",
+    website: "https://www.marvell.com",
+    ticker: "MRVL",
     market_cap: "60795.7"
   },
   {
@@ -13095,9 +13095,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David Spector",
-    Website: "https://ir.pennymacfinancial.com",
-    Ticker: "PFSI",
+    ceo: "David Spector",
+    website: "https://ir.pennymacfinancial.com",
+    ticker: "PFSI",
     market_cap: "2368"
   },
   {
@@ -13115,9 +13115,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "A. William Stein",
-    Website: "https://www.digitalrealty.com",
-    Ticker: "DLR",
+    ceo: "A. William Stein",
+    website: "https://www.digitalrealty.com",
+    ticker: "DLR",
     market_cap: "40337.7"
   },
   {
@@ -13135,9 +13135,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Steven T. Oakland",
-    Website: "https://www.treehousefoods.com",
-    Ticker: "THS",
+    ceo: "Steven T. Oakland",
+    website: "https://www.treehousefoods.com",
+    ticker: "THS",
     market_cap: "1800"
   },
   {
@@ -13155,9 +13155,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Patrice Louvet",
-    Website: "https://www.ralphlauren.com",
-    Ticker: "RL",
+    ceo: "Patrice Louvet",
+    website: "https://www.ralphlauren.com",
+    ticker: "RL",
     market_cap: "8073.2"
   },
   {
@@ -13175,9 +13175,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "John W. Eck",
-    Website: "https://www.mattressfirm.com",
-    Ticker: "",
+    ceo: "John W. Eck",
+    website: "https://www.mattressfirm.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -13195,9 +13195,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "James E. Pozzi",
-    Website: "https://www.americannational.com",
-    Ticker: "",
+    ceo: "James E. Pozzi",
+    website: "https://www.americannational.com",
+    ticker: "",
     market_cap: "5084.1"
   },
   {
@@ -13215,9 +13215,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Andrew Anagnost",
-    Website: "https://www.autodesk.com",
-    Ticker: "ADSK",
+    ceo: "Andrew Anagnost",
+    website: "https://www.autodesk.com",
+    ticker: "ADSK",
     market_cap: "46580"
   },
   {
@@ -13235,9 +13235,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Russell J. Weiner",
-    Website: "https://www.dominos.com",
-    Ticker: "DPZ",
+    ceo: "Russell J. Weiner",
+    website: "https://www.dominos.com",
+    ticker: "DPZ",
     market_cap: "14665.9"
   },
   {
@@ -13255,9 +13255,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Theodore S. Hanson",
-    Website: "https://www.asgn.com",
-    Ticker: "ASGN",
+    ceo: "Theodore S. Hanson",
+    website: "https://www.asgn.com",
+    ticker: "ASGN",
     market_cap: "6022.2"
   },
   {
@@ -13275,9 +13275,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "A. Ryals McMullian",
-    Website: "https://www.flowersfoods.com",
-    Ticker: "FLO",
+    ceo: "A. Ryals McMullian",
+    website: "https://www.flowersfoods.com",
+    ticker: "FLO",
     market_cap: "5438.6"
   },
   {
@@ -13295,9 +13295,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Dwight A.K. Gibson",
-    Website: "https://www.bluelinxco.com",
-    Ticker: "BXC",
+    ceo: "Dwight A.K. Gibson",
+    website: "https://www.bluelinxco.com",
+    ticker: "BXC",
     market_cap: "699.5"
   },
   {
@@ -13315,9 +13315,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Nikesh Arora",
-    Website: "https://www.paloaltonetworks.com",
-    Ticker: "PANW",
+    ceo: "Nikesh Arora",
+    website: "https://www.paloaltonetworks.com",
+    ticker: "PANW",
     market_cap: "61307.5"
   },
   {
@@ -13335,9 +13335,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Bruce L. Caswell",
-    Website: "https://www.maximus.com",
-    Ticker: "MMS",
+    ceo: "Bruce L. Caswell",
+    website: "https://www.maximus.com",
+    ticker: "MMS",
     market_cap: "4641.1"
   },
   {
@@ -13355,9 +13355,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Simon D. Campion",
-    Website: "https://www.dentsplysirona.com",
-    Ticker: "XRAY",
+    ceo: "Simon D. Campion",
+    website: "https://www.dentsplysirona.com",
+    ticker: "XRAY",
     market_cap: "10708"
   },
   {
@@ -13375,9 +13375,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David P. Yeager",
-    Website: "https://www.hubgroup.com",
-    Ticker: "HUBG",
+    ceo: "David P. Yeager",
+    website: "https://www.hubgroup.com",
+    ticker: "HUBG",
     market_cap: "2678.5"
   },
   {
@@ -13395,9 +13395,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Ralph J. Andretta",
-    Website: "https://www.breadfinancial.com",
-    Ticker: "BFH",
+    ceo: "Ralph J. Andretta",
+    website: "https://www.breadfinancial.com",
+    ticker: "BFH",
     market_cap: "2804.6"
   },
   {
@@ -13415,9 +13415,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Rodney O. Martin Jr.",
-    Website: "https://www.voya.com",
-    Ticker: "VOYA",
+    ceo: "Rodney O. Martin Jr.",
+    website: "https://www.voya.com",
+    ticker: "VOYA",
     market_cap: "7042.2"
   },
   {
@@ -13435,9 +13435,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jonathan H. Weis",
-    Website: "https://www.weismarkets.com",
-    Ticker: "WMK",
+    ceo: "Jonathan H. Weis",
+    website: "https://www.weismarkets.com",
+    ticker: "WMK",
     market_cap: "1921.1"
   },
   {
@@ -13455,9 +13455,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Dale Francescon/Robert Francescon",
-    Website: "https://www.centurycommunities.com",
-    Ticker: "CCS",
+    ceo: "Dale Francescon/Robert Francescon",
+    website: "https://www.centurycommunities.com",
+    ticker: "CCS",
     market_cap: "1388"
   },
   {
@@ -13475,9 +13475,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Aart J. de Geus",
-    Website: "https://www.synopsys.com",
-    Ticker: "SNPS",
+    ceo: "Aart J. de Geus",
+    website: "https://www.synopsys.com",
+    ticker: "SNPS",
     market_cap: "51023.2"
   },
   {
@@ -13495,9 +13495,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Mark Eubanks",
-    Website: "https://www.brinks.com",
-    Ticker: "BCO",
+    ceo: "Mark Eubanks",
+    website: "https://www.brinks.com",
+    ticker: "BCO",
     market_cap: "3234.4"
   },
   {
@@ -13515,9 +13515,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Alok Maskara",
-    Website: "https://www.lennoxinternational.com",
-    Ticker: "LII",
+    ceo: "Alok Maskara",
+    website: "https://www.lennoxinternational.com",
+    ticker: "LII",
     market_cap: "9447.2"
   },
   {
@@ -13535,9 +13535,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Thomas L. Ryan",
-    Website: "https://www.sci-corp.com",
-    Ticker: "SCI",
+    ceo: "Thomas L. Ryan",
+    website: "https://www.sci-corp.com",
+    ticker: "SCI",
     market_cap: "10581.3"
   },
   {
@@ -13555,9 +13555,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Clifford A. Skelton",
-    Website: "https://www.conduent.com",
-    Ticker: "CNDT",
+    ceo: "Clifford A. Skelton",
+    website: "https://www.conduent.com",
+    ticker: "CNDT",
     market_cap: "1111.6"
   },
   {
@@ -13575,9 +13575,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Richard G. Kyle",
-    Website: "https://www.timken.com",
-    Ticker: "TKR",
+    ceo: "Richard G. Kyle",
+    website: "https://www.timken.com",
+    ticker: "TKR",
     market_cap: "4539.6"
   },
   {
@@ -13595,9 +13595,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "John D. Williams",
-    Website: "https://www.domtar.com",
-    Ticker: "",
+    ceo: "John D. Williams",
+    website: "https://www.domtar.com",
+    ticker: "",
     market_cap: "1856.2"
   },
   {
@@ -13615,9 +13615,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David J. Deno",
-    Website: "https://www.bloominbrands.com",
-    Ticker: "BLMN",
+    ceo: "David J. Deno",
+    website: "https://www.bloominbrands.com",
+    ticker: "BLMN",
     market_cap: "1966.6"
   },
   {
@@ -13635,9 +13635,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Gary C. Bhojwani",
-    Website: "https://www.cnoinc.com",
-    Ticker: "CNO",
+    ceo: "Gary C. Bhojwani",
+    website: "https://www.cnoinc.com",
+    ticker: "CNO",
     market_cap: "2945.7"
   },
   {
@@ -13655,9 +13655,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Evan Spiegel",
-    Website: "https://www.snap.com",
-    Ticker: "SNAP",
+    ceo: "Evan Spiegel",
+    website: "https://www.snap.com",
+    ticker: "SNAP",
     market_cap: "58458.4"
   },
   {
@@ -13675,9 +13675,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Eric Yuan",
-    Website: "https://www.zoom.us",
-    Ticker: "ZM",
+    ceo: "Eric Yuan",
+    website: "https://www.zoom.us",
+    ticker: "ZM",
     market_cap: "22826"
   },
   {
@@ -13695,9 +13695,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Andy L. Nemeth",
-    Website: "https://www.patrickind.com",
-    Ticker: "PATK",
+    ceo: "Andy L. Nemeth",
+    website: "https://www.patrickind.com",
+    ticker: "PATK",
     market_cap: "1408.2"
   },
   {
@@ -13715,9 +13715,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "John B. Gibson",
-    Website: "https://www.paychex.com",
-    Ticker: "PAYX",
+    ceo: "John B. Gibson",
+    website: "https://www.paychex.com",
+    ticker: "PAYX",
     market_cap: "49268"
   },
   {
@@ -13735,9 +13735,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "John W. Dietrich",
-    Website: "https://www.atlasairworldwide.com",
-    Ticker: "AAWW",
+    ceo: "John W. Dietrich",
+    website: "https://www.atlasairworldwide.com",
+    ticker: "AAWW",
     market_cap: "2523.4"
   },
   {
@@ -13755,9 +13755,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "G. Mike Mikan",
-    Website: "https://www.brighthealthcare.com",
-    Ticker: "BHG",
+    ceo: "G. Mike Mikan",
+    website: "https://www.brighthealthcare.com",
+    ticker: "BHG",
     market_cap: "1213.5"
   },
   {
@@ -13775,9 +13775,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Barry McCarthy",
-    Website: "https://www.onepeloton.com",
-    Ticker: "PTON",
+    ceo: "Barry McCarthy",
+    website: "https://www.onepeloton.com",
+    ticker: "PTON",
     market_cap: "8760.9"
   },
   {
@@ -13795,9 +13795,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jim Jacobs",
-    Website: "https://www.countryfinancial.com",
-    Ticker: "",
+    ceo: "Jim Jacobs",
+    website: "https://www.countryfinancial.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -13815,9 +13815,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Robert A. Bruggeworth",
-    Website: "https://www.qorvo.com",
-    Ticker: "QRVO",
+    ceo: "Robert A. Bruggeworth",
+    website: "https://www.qorvo.com",
+    ticker: "QRVO",
     market_cap: "13456.4"
   },
   {
@@ -13835,9 +13835,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Alessandro Maselli",
-    Website: "https://www.catalent.com",
-    Ticker: "CTLT",
+    ceo: "Alessandro Maselli",
+    website: "https://www.catalent.com",
+    ticker: "CTLT",
     market_cap: "13377"
   },
   {
@@ -13855,9 +13855,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Gabriel Tirador",
-    Website: "https://www.mercuryinsurance.com",
-    Ticker: "MCY",
+    ceo: "Gabriel Tirador",
+    website: "https://www.mercuryinsurance.com",
+    ticker: "MCY",
     market_cap: "3045.4"
   },
   {
@@ -13875,9 +13875,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Susan Salka",
-    Website: "https://www.amnhealthcare.com",
-    Ticker: "AMN",
+    ceo: "Susan Salka",
+    website: "https://www.amnhealthcare.com",
+    ticker: "AMN",
     market_cap: "4867"
   },
   {
@@ -13895,9 +13895,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Douglas F. Bauer",
-    Website: "https://www.tripointehomes.com",
-    Ticker: "TPH",
+    ceo: "Douglas F. Bauer",
+    website: "https://www.tripointehomes.com",
+    ticker: "TPH",
     market_cap: "2160.1"
   },
   {
@@ -13915,9 +13915,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Judy R. McReynolds",
-    Website: "https://www.arcb.com",
-    Ticker: "ARCB",
+    ceo: "Judy R. McReynolds",
+    website: "https://www.arcb.com",
+    ticker: "ARCB",
     market_cap: "1979.7"
   },
   {
@@ -13935,9 +13935,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Richard M. Olson",
-    Website: "https://www.thetorocompany.com",
-    Ticker: "TTC",
+    ceo: "Richard M. Olson",
+    website: "https://www.thetorocompany.com",
+    ticker: "TTC",
     market_cap: "8936.9"
   },
   {
@@ -13955,9 +13955,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Thomas C. Gentile III",
-    Website: "https://www.spiritaero.com",
-    Ticker: "SPR",
+    ceo: "Thomas C. Gentile III",
+    website: "https://www.spiritaero.com",
+    ticker: "SPR",
     market_cap: "5130.6"
   },
   {
@@ -13975,9 +13975,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Joseph M. Hogan",
-    Website: "https://www.aligntech.com",
-    Ticker: "ALGN",
+    ceo: "Joseph M. Hogan",
+    website: "https://www.aligntech.com",
+    ticker: "ALGN",
     market_cap: "34354.8"
   },
   {
@@ -13995,9 +13995,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Frank Martell",
-    Website: "https://www.loandepot.com",
-    Ticker: "LDI",
+    ceo: "Frank Martell",
+    website: "https://www.loandepot.com",
+    ticker: "LDI",
     market_cap: "1290.3"
   },
   {
@@ -14015,9 +14015,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Russell A. Becker",
-    Website: "https://www.apigroupcorp.com",
-    Ticker: "APG",
+    ceo: "Russell A. Becker",
+    website: "https://www.apigroupcorp.com",
+    ticker: "APG",
     market_cap: "4891.1"
   },
   {
@@ -14035,9 +14035,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "M. Susan Hardwick",
-    Website: "https://www.amwater.com",
-    Ticker: "AWK",
+    ceo: "M. Susan Hardwick",
+    website: "https://www.amwater.com",
+    ticker: "AWK",
     market_cap: "30085.5"
   },
   {
@@ -14055,9 +14055,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Matthew J. Cox",
-    Website: "https://www.matson.com",
-    Ticker: "MATX",
+    ceo: "Matthew J. Cox",
+    website: "https://www.matson.com",
+    ticker: "MATX",
     market_cap: "2740"
   },
   {
@@ -14075,9 +14075,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Octavio Marquez",
-    Website: "https://www.dieboldnixdorf.com",
-    Ticker: "DBD",
+    ceo: "Octavio Marquez",
+    website: "https://www.dieboldnixdorf.com",
+    ticker: "DBD",
     market_cap: "531.2"
   },
   {
@@ -14095,9 +14095,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Stephen P. Weisz",
-    Website: "https://www.marriottvacationsworldwide.com",
-    Ticker: "VAC",
+    ceo: "Stephen P. Weisz",
+    website: "https://www.marriottvacationsworldwide.com",
+    ticker: "VAC",
     market_cap: "6620"
   },
   {
@@ -14115,9 +14115,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "John L. Garrison Jr.",
-    Website: "https://www.terex.com",
-    Ticker: "TEX",
+    ceo: "John L. Garrison Jr.",
+    website: "https://www.terex.com",
+    ticker: "TEX",
     market_cap: "2485.5"
   },
   {
@@ -14135,9 +14135,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Denise A. Paulonis",
-    Website: "https://www.sallybeautyholdings.com",
-    Ticker: "SBH",
+    ceo: "Denise A. Paulonis",
+    website: "https://www.sallybeautyholdings.com",
+    ticker: "SBH",
     market_cap: "1720.5"
   },
   {
@@ -14155,9 +14155,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Matthew L. Trerotola",
-    Website: "https://www.enovis.com",
-    Ticker: "ENOV",
+    ceo: "Matthew L. Trerotola",
+    website: "https://www.enovis.com",
+    ticker: "ENOV",
     market_cap: "6419.3"
   },
   {
@@ -14175,9 +14175,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Joseph M. Levin",
-    Website: "https://www.iac.com",
-    Ticker: "IAC",
+    ceo: "Joseph M. Levin",
+    website: "https://www.iac.com",
+    ticker: "IAC",
     market_cap: "9001.4"
   },
   {
@@ -14195,9 +14195,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Chris Villavarayan",
-    Website: "https://www.meritor.com",
-    Ticker: "",
+    ceo: "Chris Villavarayan",
+    website: "https://www.meritor.com",
+    ticker: "",
     market_cap: "2519.4"
   },
   {
@@ -14215,9 +14215,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Debra A. Cafaro",
-    Website: "https://www.ventasreit.com",
-    Ticker: "VTR",
+    ceo: "Debra A. Cafaro",
+    website: "https://www.ventasreit.com",
+    ticker: "VTR",
     market_cap: "24676.2"
   },
   {
@@ -14235,9 +14235,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Aman Bhutani",
-    Website: "https://www.godaddy.com",
-    Ticker: "GDDY",
+    ceo: "Aman Bhutani",
+    website: "https://www.godaddy.com",
+    ticker: "GDDY",
     market_cap: "14018.7"
   },
   {
@@ -14255,9 +14255,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Louis V. Pinkham",
-    Website: "https://www.regalrexnord.com",
-    Ticker: "RRX",
+    ceo: "Louis V. Pinkham",
+    website: "https://www.regalrexnord.com",
+    ticker: "RRX",
     market_cap: "10002.1"
   },
   {
@@ -14275,9 +14275,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Mary E. Kipp",
-    Website: "https://www.pugetenergy.com",
-    Ticker: "",
+    ceo: "Mary E. Kipp",
+    website: "https://www.pugetenergy.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -14295,9 +14295,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Alan S. McKim",
-    Website: "https://www.cleanharbors.com",
-    Ticker: "CLH",
+    ceo: "Alan S. McKim",
+    website: "https://www.cleanharbors.com",
+    ticker: "CLH",
     market_cap: "6073.8"
   },
   {
@@ -14315,9 +14315,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jeffrey B Guldner",
-    Website: "https://www.pinnaclewest.com",
-    Ticker: "PNW",
+    ceo: "Jeffrey B Guldner",
+    website: "https://www.pinnaclewest.com",
+    ticker: "PNW",
     market_cap: "8820"
   },
   {
@@ -14335,9 +14335,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Glenn Sanford",
-    Website: "https://www.expworldholdings.com",
-    Ticker: "EXPI",
+    ceo: "Glenn Sanford",
+    website: "https://www.expworldholdings.com",
+    ticker: "EXPI",
     market_cap: "3149.3"
   },
   {
@@ -14355,9 +14355,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Gregory L. Christopher",
-    Website: "https://www.muellerindustries.com",
-    Ticker: "MLI",
+    ceo: "Gregory L. Christopher",
+    website: "https://www.muellerindustries.com",
+    ticker: "MLI",
     market_cap: "3100.4"
   },
   {
@@ -14375,9 +14375,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Craig S. Billings",
-    Website: "https://www.wynnresorts.com",
-    Ticker: "WYNN",
+    ceo: "Craig S. Billings",
+    website: "https://www.wynnresorts.com",
+    ticker: "WYNN",
     market_cap: "9243.3"
   },
   {
@@ -14395,9 +14395,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Gary G. Friedman",
-    Website: "https://www.rh.com",
-    Ticker: "RH",
+    ceo: "Gary G. Friedman",
+    website: "https://www.rh.com",
+    ticker: "RH",
     market_cap: "7079"
   },
   {
@@ -14415,9 +14415,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Arkadiy Dobkin",
-    Website: "https://www.epam.com",
-    Ticker: "EPAM",
+    ceo: "Arkadiy Dobkin",
+    website: "https://www.epam.com",
+    ticker: "EPAM",
     market_cap: "16870.7"
   },
   {
@@ -14435,9 +14435,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Robert H. Schottenstein",
-    Website: "https://www.mihomes.com",
-    Ticker: "MHO",
+    ceo: "Robert H. Schottenstein",
+    website: "https://www.mihomes.com",
+    ticker: "MHO",
     market_cap: "1262.2"
   },
   {
@@ -14455,9 +14455,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Aaron Jagdfeld",
-    Website: "https://www.generac.com",
-    Ticker: "GNRC",
+    ceo: "Aaron Jagdfeld",
+    website: "https://www.generac.com",
+    ticker: "GNRC",
     market_cap: "9189"
   },
   {
@@ -14475,9 +14475,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Patrick Kaltenbach",
-    Website: "https://www.mt.com",
-    Ticker: "MTD",
+    ceo: "Patrick Kaltenbach",
+    website: "https://www.mt.com",
+    ticker: "MTD",
     market_cap: "31220.3"
   },
   {
@@ -14495,9 +14495,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Fran Horowitz",
-    Website: "https://www.abercrombie.com",
-    Ticker: "ANF",
+    ceo: "Fran Horowitz",
+    website: "https://www.abercrombie.com",
+    ticker: "ANF",
     market_cap: "1619.5"
   },
   {
@@ -14515,9 +14515,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Mark Jagiela",
-    Website: "https://www.teradyne.com",
-    Ticker: "TER",
+    ceo: "Mark Jagiela",
+    website: "https://www.teradyne.com",
+    ticker: "TER",
     market_cap: "11211"
   },
   {
@@ -14535,9 +14535,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Anant Bhalla",
-    Website: "https://www.american-equity.com",
-    Ticker: "AEL",
+    ceo: "Anant Bhalla",
+    website: "https://www.american-equity.com",
+    ticker: "AEL",
     market_cap: "3869.2"
   },
   {
@@ -14555,9 +14555,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Karen S. Haller",
-    Website: "https://www.swgasholdings.com",
-    Ticker: "SWX",
+    ceo: "Karen S. Haller",
+    website: "https://www.swgasholdings.com",
+    ticker: "SWX",
     market_cap: "5233.6"
   },
   {
@@ -14575,9 +14575,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Marc B. Lautenbach",
-    Website: "https://www.pitneybowes.com",
-    Ticker: "PBI",
+    ceo: "Marc B. Lautenbach",
+    website: "https://www.pitneybowes.com",
+    ticker: "PBI",
     market_cap: "900.1"
   },
   {
@@ -14595,9 +14595,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Thomas P. Werner",
-    Website: "https://www.lambweston.com",
-    Ticker: "LW",
+    ceo: "Thomas P. Werner",
+    website: "https://www.lambweston.com",
+    ticker: "LW",
     market_cap: "8699.1"
   },
   {
@@ -14615,9 +14615,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "John O. Larsen",
-    Website: "https://www.alliantenergy.com",
-    Ticker: "LNT",
+    ceo: "John O. Larsen",
+    website: "https://www.alliantenergy.com",
+    ticker: "LNT",
     market_cap: "15670.6"
   },
   {
@@ -14635,9 +14635,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Remi G. Lalonde",
-    Website: "https://www.resolutefp.com",
-    Ticker: "RFP",
+    ceo: "Remi G. Lalonde",
+    website: "https://www.resolutefp.com",
+    ticker: "RFP",
     market_cap: "991.7"
   },
   {
@@ -14655,9 +14655,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Carey A. Smith",
-    Website: "https://www.parsons.com",
-    Ticker: "PSN",
+    ceo: "Carey A. Smith",
+    website: "https://www.parsons.com",
+    ticker: "PSN",
     market_cap: "4012"
   },
   {
@@ -14675,9 +14675,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Robert G. Painter",
-    Website: "https://www.trimble.com",
-    Ticker: "TRMB",
+    ceo: "Robert G. Painter",
+    website: "https://www.trimble.com",
+    ticker: "TRMB",
     market_cap: "18122.7"
   },
   {
@@ -14695,9 +14695,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Sean Trauschke",
-    Website: "https://www.ogeenergy.com",
-    Ticker: "OGE",
+    ceo: "Sean Trauschke",
+    website: "https://www.ogeenergy.com",
+    ticker: "OGE",
     market_cap: "8164.2"
   },
   {
@@ -14715,9 +14715,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Olivier Rabiller",
-    Website: "https://www.garrettmotion.com",
-    Ticker: "GTX",
+    ceo: "Olivier Rabiller",
+    website: "https://www.garrettmotion.com",
+    ticker: "GTX",
     market_cap: "463.9"
   },
   {
@@ -14735,9 +14735,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Michael Happe",
-    Website: "https://www.winnebagoind.com",
-    Ticker: "WGO",
+    ceo: "Michael Happe",
+    website: "https://www.winnebagoind.com",
+    ticker: "WGO",
     market_cap: "1826"
   },
   {
@@ -14755,9 +14755,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Gary B. Smith",
-    Website: "https://www.ciena.com",
-    Ticker: "CIEN",
+    ceo: "Gary B. Smith",
+    website: "https://www.ciena.com",
+    ticker: "CIEN",
     market_cap: "9223.4"
   },
   {
@@ -14775,9 +14775,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Sherry S. Bahrambeygui",
-    Website: "https://www.pricesmart.com",
-    Ticker: "PSMT",
+    ceo: "Sherry S. Bahrambeygui",
+    website: "https://www.pricesmart.com",
+    ticker: "PSMT",
     market_cap: "2434.1"
   },
   {
@@ -14795,9 +14795,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jill Griffin",
-    Website: "https://www.advantagesolutions.net",
-    Ticker: "ADV",
+    ceo: "Jill Griffin",
+    website: "https://www.advantagesolutions.net",
+    ticker: "ADV",
     market_cap: "2029.6"
   },
   {
@@ -14815,9 +14815,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jeffrey J. Jones II",
-    Website: "https://www.hrblock.com",
-    Ticker: "HRB",
+    ceo: "Jeffrey J. Jones II",
+    website: "https://www.hrblock.com",
+    ticker: "HRB",
     market_cap: "4284.6"
   },
   {
@@ -14835,9 +14835,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Robert W. Pittman",
-    Website: "https://www.iheartmedia.com",
-    Ticker: "IHRT",
+    ceo: "Robert W. Pittman",
+    website: "https://www.iheartmedia.com",
+    ticker: "IHRT",
     market_cap: "2728.1"
   },
   {
@@ -14855,9 +14855,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Charles Liang",
-    Website: "https://www.supermicro.com",
-    Ticker: "SMCI",
+    ceo: "Charles Liang",
+    website: "https://www.supermicro.com",
+    ticker: "SMCI",
     market_cap: "1963"
   },
   {
@@ -14875,9 +14875,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "R. Scott Rowe",
-    Website: "https://www.flowserve.com",
-    Ticker: "FLS",
+    ceo: "R. Scott Rowe",
+    website: "https://www.flowserve.com",
+    ticker: "FLS",
     market_cap: "4681.4"
   },
   {
@@ -14895,9 +14895,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "James C. Foster",
-    Website: "https://www.criver.com",
-    Ticker: "CRL",
+    ceo: "James C. Foster",
+    website: "https://www.criver.com",
+    ticker: "CRL",
     market_cap: "14425.4"
   },
   {
@@ -14915,9 +14915,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Kevin J. Wheeler",
-    Website: "https://www.aosmith.com",
-    Ticker: "AOS",
+    ceo: "Kevin J. Wheeler",
+    website: "https://www.aosmith.com",
+    ticker: "AOS",
     market_cap: "10032.2"
   },
   {
@@ -14935,9 +14935,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Michael Nierenberg",
-    Website: "https://www.rithmcap.com",
-    Ticker: "RITM",
+    ceo: "Michael Nierenberg",
+    website: "https://www.rithmcap.com",
+    ticker: "RITM",
     market_cap: "5125"
   },
   {
@@ -14955,9 +14955,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Steven C. Glass",
-    Website: "https://www.medmutual.com",
-    Ticker: "",
+    ceo: "Steven C. Glass",
+    website: "https://www.medmutual.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -14975,9 +14975,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Kyle T. Larkin",
-    Website: "https://www.graniteconstruction.com",
-    Ticker: "GVA",
+    ceo: "Kyle T. Larkin",
+    website: "https://www.graniteconstruction.com",
+    ticker: "GVA",
     market_cap: "1504.7"
   },
   {
@@ -14995,9 +14995,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Stephen G. Kaniewski",
-    Website: "https://www.valmont.com",
-    Ticker: "VMI",
+    ceo: "Stephen G. Kaniewski",
+    website: "https://www.valmont.com",
+    ticker: "VMI",
     market_cap: "5083.4"
   },
   {
@@ -15015,9 +15015,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "David C. Glendon",
-    Website: "https://www.spragueenergy.com",
-    Ticker: "SRLP",
+    ceo: "David C. Glendon",
+    website: "https://www.spragueenergy.com",
+    ticker: "SRLP",
     market_cap: "433.7"
   },
   {
@@ -15035,9 +15035,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Thomas E. McCormick",
-    Website: "https://www.primoriscorp.com",
-    Ticker: "PRIM",
+    ceo: "Thomas E. McCormick",
+    website: "https://www.primoriscorp.com",
+    ticker: "PRIM",
     market_cap: "1269.8"
   },
   {
@@ -15055,9 +15055,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Edward T. Tilly",
-    Website: "https://www.cboe.com",
-    Ticker: "CBOE",
+    ceo: "Edward T. Tilly",
+    website: "https://www.cboe.com",
+    ticker: "CBOE",
     market_cap: "12148.2"
   },
   {
@@ -15075,9 +15075,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Michael D. Casey",
-    Website: "https://www.carters.com",
-    Ticker: "CRI",
+    ceo: "Michael D. Casey",
+    website: "https://www.carters.com",
+    ticker: "CRI",
     market_cap: "3763.4"
   },
   {
@@ -15095,9 +15095,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Robert M. Buck",
-    Website: "https://www.topbuild.com",
-    Ticker: "BLD",
+    ceo: "Robert M. Buck",
+    website: "https://www.topbuild.com",
+    ticker: "BLD",
     market_cap: "5987.1"
   },
   {
@@ -15115,9 +15115,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Doug Black",
-    Website: "https://www.siteone.com",
-    Ticker: "SITE",
+    ceo: "Doug Black",
+    website: "https://www.siteone.com",
+    ticker: "SITE",
     market_cap: "7255.5"
   },
   {
@@ -15135,9 +15135,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Gerald L. Morgan",
-    Website: "https://www.texasroadhouse.com",
-    Ticker: "TXRH",
+    ceo: "Gerald L. Morgan",
+    website: "https://www.texasroadhouse.com",
+    ticker: "TXRH",
     market_cap: "5787.8"
   },
   {
@@ -15155,9 +15155,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "F. Thomson Leighton",
-    Website: "https://www.akamai.com",
-    Ticker: "AKAM",
+    ceo: "F. Thomson Leighton",
+    website: "https://www.akamai.com",
+    ticker: "AKAM",
     market_cap: "19210"
   },
   {
@@ -15175,9 +15175,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Lawson E. Whiting",
-    Website: "https://www.brown-forman.com",
-    Ticker: "BFB",
+    ceo: "Lawson E. Whiting",
+    website: "https://www.brown-forman.com",
+    ticker: "BFB",
     market_cap: "31376.6"
   },
   {
@@ -15195,9 +15195,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Neil M. Ashe",
-    Website: "https://www.acuitybrands.com",
-    Ticker: "AYI",
+    ceo: "Neil M. Ashe",
+    website: "https://www.acuitybrands.com",
+    ticker: "AYI",
     market_cap: "6628.9"
   },
   {
@@ -15215,9 +15215,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "John F. Remondi",
-    Website: "https://www.navient.com",
-    Ticker: "NAVI",
+    ceo: "John F. Remondi",
+    website: "https://www.navient.com",
+    ticker: "NAVI",
     market_cap: "2592.3"
   },
   {
@@ -15235,9 +15235,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Thomas E. Jorden",
-    Website: "https://www.coterra.com",
-    Ticker: "CTRA",
+    ceo: "Thomas E. Jorden",
+    website: "https://www.coterra.com",
+    ticker: "CTRA",
     market_cap: "21872.1"
   },
   {
@@ -15255,9 +15255,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "John C. Rademacher",
-    Website: "https://www.optioncarehealth.com",
-    Ticker: "OPCH",
+    ceo: "John C. Rademacher",
+    website: "https://www.optioncarehealth.com",
+    ticker: "OPCH",
     market_cap: "5139"
   },
   {
@@ -15275,9 +15275,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Thomas Taylor",
-    Website: "https://www.flooranddecor.com",
-    Ticker: "FND",
+    ceo: "Thomas Taylor",
+    website: "https://www.flooranddecor.com",
+    ticker: "FND",
     market_cap: "7490"
   },
   {
@@ -15295,9 +15295,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Joseph D. Russell Jr.",
-    Website: "https://www.publicstorage.com",
-    Ticker: "PSA",
+    ceo: "Joseph D. Russell Jr.",
+    website: "https://www.publicstorage.com",
+    ticker: "PSA",
     market_cap: "68438.2"
   },
   {
@@ -15315,9 +15315,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Sean D. Keohane",
-    Website: "https://www.cabotcorp.com",
-    Ticker: "CBT",
+    ceo: "Sean D. Keohane",
+    website: "https://www.cabotcorp.com",
+    ticker: "CBT",
     market_cap: "3871.1"
   },
   {
@@ -15335,9 +15335,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Max H. Mitchell",
-    Website: "https://www.craneco.com",
-    Ticker: "CR",
+    ceo: "Max H. Mitchell",
+    website: "https://www.craneco.com",
+    ticker: "CR",
     market_cap: "6158.9"
   },
   {
@@ -15355,9 +15355,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "John K. Akers",
-    Website: "https://www.atmosenergy.com",
-    Ticker: "ATO",
+    ceo: "John K. Akers",
+    website: "https://www.atmosenergy.com",
+    ticker: "ATO",
     market_cap: "16182.8"
   },
   {
@@ -15375,9 +15375,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "John J. Marchioni",
-    Website: "https://www.selective.com",
-    Ticker: "SIGI",
+    ceo: "John J. Marchioni",
+    website: "https://www.selective.com",
+    ticker: "SIGI",
     market_cap: "5391.5"
   },
   {
@@ -15395,9 +15395,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Strauss H. Zelnick",
-    Website: "https://www.take2games.com",
-    Ticker: "TTWO",
+    ceo: "Strauss H. Zelnick",
+    website: "https://www.take2games.com",
+    ticker: "TTWO",
     market_cap: "17744.1"
   },
   {
@@ -15415,9 +15415,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Keith E. Smith",
-    Website: "https://www.boydgaming.com",
-    Ticker: "BYD",
+    ceo: "Keith E. Smith",
+    website: "https://www.boydgaming.com",
+    ticker: "BYD",
     market_cap: "7234"
   },
   {
@@ -15435,9 +15435,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Todd P. Kelsey",
-    Website: "https://www.plexus.com",
-    Ticker: "PLXS",
+    ceo: "Todd P. Kelsey",
+    website: "https://www.plexus.com",
+    ticker: "PLXS",
     market_cap: "2298.6"
   },
   {
@@ -15455,9 +15455,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Michael L. Baur",
-    Website: "https://www.scansource.com",
-    Ticker: "SCSC",
+    ceo: "Michael L. Baur",
+    website: "https://www.scansource.com",
+    ticker: "SCSC",
     market_cap: "890.8"
   },
   {
@@ -15475,9 +15475,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Brian R. Kahn",
-    Website: "https://www.franchisegrp.com",
-    Ticker: "FRG",
+    ceo: "Brian R. Kahn",
+    website: "https://www.franchisegrp.com",
+    ticker: "FRG",
     market_cap: "1669.6"
   },
   {
@@ -15495,9 +15495,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Mehran Assadi",
-    Website: "https://www.nationallife.com",
-    Ticker: "",
+    ceo: "Mehran Assadi",
+    website: "https://www.nationallife.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -15515,9 +15515,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Charles M. Nifong Jr.",
-    Website: "https://www.crossamericapartners.com",
-    Ticker: "CAPL",
+    ceo: "Charles M. Nifong Jr.",
+    website: "https://www.crossamericapartners.com",
+    ticker: "CAPL",
     market_cap: "826.5"
   },
   {
@@ -15535,9 +15535,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jay Bray",
-    Website: "https://www.mrcoopergroup.com",
-    Ticker: "COOP",
+    ceo: "Jay Bray",
+    website: "https://www.mrcoopergroup.com",
+    ticker: "COOP",
     market_cap: "3369.4"
   },
   {
@@ -15555,9 +15555,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Ken Xie",
-    Website: "https://www.fortinet.com",
-    Ticker: "FTNT",
+    ceo: "Ken Xie",
+    website: "https://www.fortinet.com",
+    ticker: "FTNT",
     market_cap: "39789"
   },
   {
@@ -15575,9 +15575,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Kevin Hochman",
-    Website: "https://www.brinker.com",
-    Ticker: "EAT",
+    ceo: "Kevin Hochman",
+    website: "https://www.brinker.com",
+    ticker: "EAT",
     market_cap: "1701.9"
   },
   {
@@ -15595,9 +15595,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "J. Kent Masters",
-    Website: "https://www.albemarle.com",
-    Ticker: "ALB",
+    ceo: "J. Kent Masters",
+    website: "https://www.albemarle.com",
+    ticker: "ALB",
     market_cap: "25899.4"
   },
   {
@@ -15615,9 +15615,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "James C. Grech",
-    Website: "https://www.peabodyenergy.com",
-    Ticker: "BTU",
+    ceo: "James C. Grech",
+    website: "https://www.peabodyenergy.com",
+    ticker: "BTU",
     market_cap: "3391.5"
   },
   {
@@ -15635,9 +15635,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Matt Wilson",
-    Website: "https://www.lnw.com",
-    Ticker: "LNW",
+    ceo: "Matt Wilson",
+    website: "https://www.lnw.com",
+    ticker: "LNW",
     market_cap: "5679.7"
   },
   {
@@ -15655,9 +15655,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "John S. Weinberg",
-    Website: "https://www.evercore.com",
-    Ticker: "EVR",
+    ceo: "John S. Weinberg",
+    website: "https://www.evercore.com",
+    ticker: "EVR",
     market_cap: "4275.1"
   },
   {
@@ -15675,9 +15675,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Frederick Eppinger",
-    Website: "https://www.stewart.com",
-    Ticker: "STC",
+    ceo: "Frederick Eppinger",
+    website: "https://www.stewart.com",
+    ticker: "STC",
     market_cap: "1181"
   },
   {
@@ -15695,9 +15695,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Timothy P. Cofer",
-    Website: "https://www.central.com",
-    Ticker: "CENT",
+    ceo: "Timothy P. Cofer",
+    website: "https://www.central.com",
+    ticker: "CENT",
     market_cap: "2286.5"
   },
   {
@@ -15715,9 +15715,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "John C. Turner Jr.",
-    Website: "https://www.gms.com",
-    Ticker: "GMS",
+    ceo: "John C. Turner Jr.",
+    website: "https://www.gms.com",
+    ticker: "GMS",
     market_cap: "2142.1"
   },
   {
@@ -15735,9 +15735,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "James J. Owens",
-    Website: "https://www.hbfuller.com",
-    Ticker: "FUL",
+    ceo: "James J. Owens",
+    website: "https://www.hbfuller.com",
+    ticker: "FUL",
     market_cap: "3505.2"
   },
   {
@@ -15755,9 +15755,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Timothy J. FitzGerald",
-    Website: "https://www.middleby.com",
-    Ticker: "MIDD",
+    ceo: "Timothy J. FitzGerald",
+    website: "https://www.middleby.com",
+    ticker: "MIDD",
     market_cap: "8961.1"
   },
   {
@@ -15775,9 +15775,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Kevin E. Lucke",
-    Website: "https://www.regi.com",
-    Ticker: "",
+    ceo: "Kevin E. Lucke",
+    website: "https://www.regi.com",
+    ticker: "",
     market_cap: "3056.2"
   },
   {
@@ -15795,9 +15795,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Erik Gershwind",
-    Website: "https://www.mscdirect.com",
-    Ticker: "MSM",
+    ceo: "Erik Gershwind",
+    website: "https://www.mscdirect.com",
+    ticker: "MSM",
     market_cap: "4758.3"
   },
   {
@@ -15815,9 +15815,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Gerald Paul",
-    Website: "https://www.vishay.com",
-    Ticker: "VSH",
+    ceo: "Gerald Paul",
+    website: "https://www.vishay.com",
+    ticker: "VSH",
     market_cap: "2840.1"
   },
   {
@@ -15835,9 +15835,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Neil A. Schrimsher",
-    Website: "https://www.applied.com",
-    Ticker: "AIT",
+    ceo: "Neil A. Schrimsher",
+    website: "https://www.applied.com",
+    ticker: "AIT",
     market_cap: "3947.9"
   },
   {
@@ -15855,9 +15855,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Christopher L. Mapes",
-    Website: "https://www.lincolnelectric.com",
-    Ticker: "LECO",
+    ceo: "Christopher L. Mapes",
+    website: "https://www.lincolnelectric.com",
+    ticker: "LECO",
     market_cap: "8079.1"
   },
   {
@@ -15875,9 +15875,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "D. Bryan Jordan",
-    Website: "https://www.firsthorizon.com",
-    Ticker: "FHN",
+    ceo: "D. Bryan Jordan",
+    website: "https://www.firsthorizon.com",
+    ticker: "FHN",
     market_cap: "12542.9"
   },
   {
@@ -15895,9 +15895,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Edward M. Christie III",
-    Website: "https://www.spirit.com",
-    Ticker: "SAVE",
+    ceo: "Edward M. Christie III",
+    website: "https://www.spirit.com",
+    ticker: "SAVE",
     market_cap: "2375.4"
   },
   {
@@ -15915,9 +15915,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Stephan B. Tanda",
-    Website: "https://www.aptar.com",
-    Ticker: "ATR",
+    ceo: "Stephan B. Tanda",
+    website: "https://www.aptar.com",
+    ticker: "ATR",
     market_cap: "7702.9"
   },
   {
@@ -15935,9 +15935,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Robert M. Calderoni",
-    Website: "https://www.citrix.com",
-    Ticker: "CTXS",
+    ceo: "Robert M. Calderoni",
+    website: "https://www.citrix.com",
+    ticker: "CTXS",
     market_cap: "12704.6"
   },
   {
@@ -15955,9 +15955,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jonathan J. Mazelsky",
-    Website: "https://www.idexx.com",
-    Ticker: "IDXX",
+    ceo: "Jonathan J. Mazelsky",
+    website: "https://www.idexx.com",
+    ticker: "IDXX",
     market_cap: "46089.3"
   },
   {
@@ -15975,9 +15975,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Dan L. Batrack",
-    Website: "https://www.tetratech.com",
-    Ticker: "TTEK",
+    ceo: "Dan L. Batrack",
+    website: "https://www.tetratech.com",
+    ticker: "TTEK",
     market_cap: "8906.7"
   },
   {
@@ -15995,9 +15995,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Logan Green",
-    Website: "https://www.lyft.com",
-    Ticker: "LYFT",
+    ceo: "Logan Green",
+    website: "https://www.lyft.com",
+    ticker: "LYFT",
     market_cap: "13384.6"
   },
   {
@@ -16015,9 +16015,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Michael E. Reed",
-    Website: "https://www.gannett.com",
-    Ticker: "GCI",
+    ceo: "Michael E. Reed",
+    website: "https://www.gannett.com",
+    ticker: "GCI",
     market_cap: "643.9"
   },
   {
@@ -16035,9 +16035,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Michael J. Farrell",
-    Website: "https://www.resmed.com",
-    Ticker: "RMD",
+    ceo: "Michael J. Farrell",
+    website: "https://www.resmed.com",
+    ticker: "RMD",
     market_cap: "35463.3"
   },
   {
@@ -16055,9 +16055,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Roger L. Rawlins",
-    Website: "https://www.designerbrands.com",
-    Ticker: "DBI",
+    ceo: "Roger L. Rawlins",
+    website: "https://www.designerbrands.com",
+    ticker: "DBI",
     market_cap: "991.4"
   },
   {
@@ -16075,9 +16075,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Timothy J. O?Shaughnessy",
-    Website: "https://www.ghco.com",
-    Ticker: "GHC",
+    ceo: "Timothy J. O?Shaughnessy",
+    website: "https://www.ghco.com",
+    ticker: "GHC",
     market_cap: "3000.6"
   },
   {
@@ -16095,9 +16095,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Thomas H. Shortt",
-    Website: "https://www.vroom.com",
-    Ticker: "VRM",
+    ceo: "Thomas H. Shortt",
+    website: "https://www.vroom.com",
+    ticker: "VRM",
     market_cap: "364.7"
   },
   {
@@ -16115,9 +16115,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "B. Andrew Rose",
-    Website: "https://www.worthingtonindustries.com",
-    Ticker: "WOR",
+    ceo: "B. Andrew Rose",
+    website: "https://www.worthingtonindustries.com",
+    ticker: "WOR",
     market_cap: "2537.8"
   },
   {
@@ -16135,9 +16135,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Stephen P. Mawer",
-    Website: "https://www.calumetspecialty.com",
-    Ticker: "CLMT",
+    ceo: "Stephen P. Mawer",
+    website: "https://www.calumetspecialty.com",
+    ticker: "CLMT",
     market_cap: "1070.8"
   },
   {
@@ -16155,9 +16155,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Lisa T. Su",
-    Website: "https://www.xilinx.com",
-    Ticker: "XLNX",
+    ceo: "Lisa T. Su",
+    website: "https://www.xilinx.com",
+    ticker: "XLNX",
     market_cap: "30450.5"
   },
   {
@@ -16175,9 +16175,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Christopher A. Cartwright",
-    Website: "https://www.transunion.com",
-    Ticker: "TRU",
+    ceo: "Christopher A. Cartwright",
+    website: "https://www.transunion.com",
+    ticker: "TRU",
     market_cap: "19882.6"
   },
   {
@@ -16195,9 +16195,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Michael D. Brown",
-    Website: "https://www.travelandleisureco.com",
-    Ticker: "TNL",
+    ceo: "Michael D. Brown",
+    website: "https://www.travelandleisureco.com",
+    ticker: "TNL",
     market_cap: "4966.2"
   },
   {
@@ -16215,9 +16215,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Oliver G. Brewer III",
-    Website: "https://www.callawaygolf.com",
-    Ticker: "ELY",
+    ceo: "Oliver G. Brewer III",
+    website: "https://www.callawaygolf.com",
+    ticker: "ELY",
     market_cap: "4337.1"
   },
   {
@@ -16235,9 +16235,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Steven E. Nielsen",
-    Website: "https://www.dycomind.com",
-    Ticker: "DY",
+    ceo: "Steven E. Nielsen",
+    website: "https://www.dycomind.com",
+    ticker: "DY",
     market_cap: "2821"
   },
   {
@@ -16255,9 +16255,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Timothy P. Boyle",
-    Website: "https://www.columbia.com",
-    Ticker: "COLM",
+    ceo: "Timothy P. Boyle",
+    website: "https://www.columbia.com",
+    ticker: "COLM",
     market_cap: "5840.4"
   },
   {
@@ -16275,9 +16275,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Vincent D. Mattera Jr.",
-    Website: "https://www.ii-vi.com",
-    Ticker: "COHR",
+    ceo: "Vincent D. Mattera Jr.",
+    website: "https://www.ii-vi.com",
+    ticker: "COHR",
     market_cap: "7708.2"
   },
   {
@@ -16295,9 +16295,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Heather Cianfrocco (Optum)",
-    Website: "https://www.changehealthcare.com",
-    Ticker: "",
+    ceo: "Heather Cianfrocco (Optum)",
+    website: "https://www.changehealthcare.com",
+    ticker: "",
     market_cap: "6799.3"
   },
   {
@@ -16315,9 +16315,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Eric J. Lindberg Jr.",
-    Website: "https://www.groceryoutlet.com",
-    Ticker: "GO",
+    ceo: "Eric J. Lindberg Jr.",
+    website: "https://www.groceryoutlet.com",
+    ticker: "GO",
     market_cap: "3148"
   },
   {
@@ -16335,9 +16335,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Christina Spade",
-    Website: "https://www.amcnetworks.com",
-    Ticker: "AMCX",
+    ceo: "Christina Spade",
+    website: "https://www.amcnetworks.com",
+    ticker: "AMCX",
     market_cap: "1721.7"
   },
   {
@@ -16355,9 +16355,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Alfred M. Rankin Jr.",
-    Website: "https://www.hyster-yale.com",
-    Ticker: "HY",
+    ceo: "Alfred M. Rankin Jr.",
+    website: "https://www.hyster-yale.com",
+    ticker: "HY",
     market_cap: "561.2"
   },
   {
@@ -16375,9 +16375,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Sivasankaran Somasundaram",
-    Website: "https://www.championx.com",
-    Ticker: "CHX",
+    ceo: "Sivasankaran Somasundaram",
+    website: "https://www.championx.com",
+    ticker: "CHX",
     market_cap: "4976.7"
   },
   {
@@ -16395,9 +16395,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Brian E. Lane",
-    Website: "https://www.comfortsystemsusa.com",
-    Ticker: "FIX",
+    ceo: "Brian E. Lane",
+    website: "https://www.comfortsystemsusa.com",
+    ticker: "FIX",
     market_cap: "3200.5"
   },
   {
@@ -16415,9 +16415,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Toby Z. Rice",
-    Website: "https://www.eqt.com",
-    Ticker: "EQT",
+    ceo: "Toby Z. Rice",
+    website: "https://www.eqt.com",
+    ticker: "EQT",
     market_cap: "12955.4"
   },
   {
@@ -16435,9 +16435,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "J. Powell Brown",
-    Website: "https://www.bbinsurance.com",
-    Ticker: "BRO",
+    ceo: "J. Powell Brown",
+    website: "https://www.bbinsurance.com",
+    ticker: "BRO",
     market_cap: "20395.7"
   },
   {
@@ -16455,9 +16455,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Eric Lipar",
-    Website: "https://www.lgihomes.com",
-    Ticker: "LGIH",
+    ceo: "Eric Lipar",
+    website: "https://www.lgihomes.com",
+    ticker: "LGIH",
     market_cap: "1884"
   },
   {
@@ -16475,9 +16475,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Mark S. Hoplamazian",
-    Website: "https://www.hyatt.com",
-    Ticker: "H",
+    ceo: "Mark S. Hoplamazian",
+    website: "https://www.hyatt.com",
+    ticker: "H",
     market_cap: "10498.3"
   },
   {
@@ -16495,9 +16495,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Curtis C. Farmer",
-    Website: "https://www.comerica.com",
-    Ticker: "CMA",
+    ceo: "Curtis C. Farmer",
+    website: "https://www.comerica.com",
+    ticker: "CMA",
     market_cap: "11854.4"
   },
   {
@@ -16515,9 +16515,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Mark S. LaVigne",
-    Website: "https://www.energizerholdings.com",
-    Ticker: "ENR",
+    ceo: "Mark S. LaVigne",
+    website: "https://www.energizerholdings.com",
+    ticker: "ENR",
     market_cap: "2191.7"
   },
   {
@@ -16535,9 +16535,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "John P. Groetelaars",
-    Website: "https://www.hillrom.com",
-    Ticker: "HRC",
+    ceo: "John P. Groetelaars",
+    website: "https://www.hillrom.com",
+    ticker: "HRC",
     market_cap: "7331.7"
   },
   {
@@ -16555,9 +16555,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Amar Maletira",
-    Website: "https://www.rackspace.com",
-    Ticker: "RXT",
+    ceo: "Amar Maletira",
+    website: "https://www.rackspace.com",
+    ticker: "RXT",
     market_cap: "2365.6"
   },
   {
@@ -16575,9 +16575,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Lee M. Shavel",
-    Website: "https://www.verisk.com",
-    Ticker: "VRSK",
+    ceo: "Lee M. Shavel",
+    website: "https://www.verisk.com",
+    ticker: "VRSK",
     market_cap: "34616.2"
   },
   {
@@ -16595,9 +16595,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David M. Maura",
-    Website: "https://www.spectrumbrands.com",
-    Ticker: "SPB",
+    ceo: "David M. Maura",
+    website: "https://www.spectrumbrands.com",
+    ticker: "SPB",
     market_cap: "3617.6"
   },
   {
@@ -16615,9 +16615,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Michael J. Brown",
-    Website: "https://www.euronetworldwide.com",
-    Ticker: "EEFT",
+    ceo: "Michael J. Brown",
+    website: "https://www.euronetworldwide.com",
+    ticker: "EEFT",
     market_cap: "6658.2"
   },
   {
@@ -16635,9 +16635,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David T. Lougee",
-    Website: "https://www.tegna.com",
-    Ticker: "TGNA",
+    ceo: "David T. Lougee",
+    website: "https://www.tegna.com",
+    ticker: "TGNA",
     market_cap: "4962.6"
   },
   {
@@ -16655,9 +16655,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Mark D. Morelli",
-    Website: "https://www.vontier.com",
-    Ticker: "VNT",
+    ceo: "Mark D. Morelli",
+    website: "https://www.vontier.com",
+    ticker: "VNT",
     market_cap: "4087.8"
   },
   {
@@ -16675,9 +16675,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Anirudh Devgan",
-    Website: "https://www.cadence.com",
-    Ticker: "CDNS",
+    ceo: "Anirudh Devgan",
+    website: "https://www.cadence.com",
+    ticker: "CDNS",
     market_cap: "45781.7"
   },
   {
@@ -16695,9 +16695,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "HervÃ© Hoppenot",
-    Website: "https://www.incyte.com",
-    Ticker: "INCY",
+    ceo: "HervÃ© Hoppenot",
+    website: "https://www.incyte.com",
+    ticker: "INCY",
     market_cap: "17577.6"
   },
   {
@@ -16715,9 +16715,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Bernard Kim",
-    Website: "https://www.mtch.com",
-    Ticker: "MTCH",
+    ceo: "Bernard Kim",
+    website: "https://www.mtch.com",
+    ticker: "MTCH",
     market_cap: "31007"
   },
   {
@@ -16735,9 +16735,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Samuel J. Mitchell Jr.",
-    Website: "https://www.valvoline.com",
-    Ticker: "VVV",
+    ceo: "Samuel J. Mitchell Jr.",
+    website: "https://www.valvoline.com",
+    ticker: "VVV",
     market_cap: "5660.5"
   },
   {
@@ -16755,9 +16755,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David M. Shaffer",
-    Website: "https://www.enersys.com",
-    Ticker: "ENS",
+    ceo: "David M. Shaffer",
+    website: "https://www.enersys.com",
+    ticker: "ENS",
     market_cap: "3076"
   },
   {
@@ -16775,9 +16775,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Alan Masarek",
-    Website: "https://www.avaya.com",
-    Ticker: "AVYA",
+    ceo: "Alan Masarek",
+    website: "https://www.avaya.com",
+    ticker: "AVYA",
     market_cap: "1076"
   },
   {
@@ -16795,9 +16795,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Mathew R. Ishbia",
-    Website: "https://www.uwm.com",
-    Ticker: "UWMC",
+    ceo: "Mathew R. Ishbia",
+    website: "https://www.uwm.com",
+    ticker: "UWMC",
     market_cap: "7223.5"
   },
   {
@@ -16815,9 +16815,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Harris H. Simmons",
-    Website: "https://www.zionsbancorporation.com",
-    Ticker: "ZION",
+    ceo: "Harris H. Simmons",
+    website: "https://www.zionsbancorporation.com",
+    ticker: "ZION",
     market_cap: "9958.2"
   },
   {
@@ -16835,9 +16835,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "J. Joel Quadracci",
-    Website: "https://www.quad.com",
-    Ticker: "QUAD",
+    ceo: "J. Joel Quadracci",
+    website: "https://www.quad.com",
+    ticker: "QUAD",
     market_cap: "388.5"
   },
   {
@@ -16855,9 +16855,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "John T.C. Lee",
-    Website: "https://www.mksinst.com",
-    Ticker: "MKSI",
+    ceo: "John T.C. Lee",
+    website: "https://www.mksinst.com",
+    ticker: "MKSI",
     market_cap: "8327.6"
   },
   {
@@ -16875,9 +16875,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jayshree V. Ullal",
-    Website: "https://www.arista.com",
-    Ticker: "ANET",
+    ceo: "Jayshree V. Ullal",
+    website: "https://www.arista.com",
+    ticker: "ANET",
     market_cap: "42773.4"
   },
   {
@@ -16895,9 +16895,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Milan Galik",
-    Website: "https://www.interactivebrokers.com",
-    Ticker: "IBKR",
+    ceo: "Milan Galik",
+    website: "https://www.interactivebrokers.com",
+    ticker: "IBKR",
     market_cap: "27961.7"
   },
   {
@@ -16915,9 +16915,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jeffrey L. Ventura",
-    Website: "https://www.rangeresources.com",
-    Ticker: "RRC",
+    ceo: "Jeffrey L. Ventura",
+    website: "https://www.rangeresources.com",
+    ticker: "RRC",
     market_cap: "7964"
   },
   {
@@ -16935,9 +16935,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "William E. Waltz",
-    Website: "https://www.atkore.com",
-    Ticker: "ATKR",
+    ceo: "William E. Waltz",
+    website: "https://www.atkore.com",
+    ticker: "ATKR",
     market_cap: "4415.6"
   },
   {
@@ -16955,9 +16955,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David M. Overton",
-    Website: "https://www.thecheesecakefactory.com",
-    Ticker: "CAKE",
+    ceo: "David M. Overton",
+    website: "https://www.thecheesecakefactory.com",
+    ticker: "CAKE",
     market_cap: "2098.6"
   },
   {
@@ -16975,9 +16975,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Mark R. Widmar",
-    Website: "https://www.firstsolar.com",
-    Ticker: "FSLR",
+    ceo: "Mark R. Widmar",
+    website: "https://www.firstsolar.com",
+    ticker: "FSLR",
     market_cap: "8904.4"
   },
   {
@@ -16995,9 +16995,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Norman D. Schwartz",
-    Website: "https://www.bio-rad.com",
-    Ticker: "BIO",
+    ceo: "Norman D. Schwartz",
+    website: "https://www.bio-rad.com",
+    ticker: "BIO",
     market_cap: "16982.2"
   },
   {
@@ -17015,9 +17015,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Albert G. White III",
-    Website: "https://www.coopercos.com",
-    Ticker: "COO",
+    ceo: "Albert G. White III",
+    website: "https://www.coopercos.com",
+    ticker: "COO",
     market_cap: "20587.8"
   },
   {
@@ -17035,9 +17035,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Amir Aghdaei",
-    Website: "https://www.envistaco.com",
-    Ticker: "NVST",
+    ceo: "Amir Aghdaei",
+    website: "https://www.envistaco.com",
+    ticker: "NVST",
     market_cap: "7882.5"
   },
   {
@@ -17055,9 +17055,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Stephan D. Scholl",
-    Website: "https://www.alight.com",
-    Ticker: "ALIT",
+    ceo: "Stephan D. Scholl",
+    website: "https://www.alight.com",
+    ticker: "ALIT",
     market_cap: "5542.2"
   },
   {
@@ -17075,9 +17075,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Barry M. Gosin",
-    Website: "https://www.nmrk.com",
-    Ticker: "NMRK",
+    ceo: "Barry M. Gosin",
+    website: "https://www.nmrk.com",
+    ticker: "NMRK",
     market_cap: "3009.9"
   },
   {
@@ -17095,9 +17095,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Timothy J. McGrath",
-    Website: "https://www.connection.com",
-    Ticker: "CNXN",
+    ceo: "Timothy J. McGrath",
+    website: "https://www.connection.com",
+    ticker: "CNXN",
     market_cap: "1375.8"
   },
   {
@@ -17115,9 +17115,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "James F. Risoleo",
-    Website: "https://www.hosthotels.com",
-    Ticker: "HST",
+    ceo: "James F. Risoleo",
+    website: "https://www.hosthotels.com",
+    ticker: "HST",
     market_cap: "13875.9"
   },
   {
@@ -17135,9 +17135,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Owen D. Thomas",
-    Website: "https://www.bxp.com",
-    Ticker: "BXP",
+    ceo: "Owen D. Thomas",
+    website: "https://www.bxp.com",
+    ticker: "BXP",
     market_cap: "20179.9"
   },
   {
@@ -17155,9 +17155,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "MIchael P. Ure",
-    Website: "https://www.westernmidstream.com",
-    Ticker: "WES",
+    ceo: "MIchael P. Ure",
+    website: "https://www.westernmidstream.com",
+    ticker: "WES",
     market_cap: "10177.4"
   },
   {
@@ -17175,9 +17175,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Aaron L. Milford",
-    Website: "https://www.magellanlp.com",
-    Ticker: "MMP",
+    ceo: "Aaron L. Milford",
+    website: "https://www.magellanlp.com",
+    ticker: "MMP",
     market_cap: "10422.1"
   },
   {
@@ -17195,9 +17195,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Kimberly K. Ryan",
-    Website: "https://www.hillenbrand.com",
-    Ticker: "HI",
+    ceo: "Kimberly K. Ryan",
+    website: "https://www.hillenbrand.com",
+    ticker: "HI",
     market_cap: "3216.2"
   },
   {
@@ -17215,9 +17215,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Tod E. Carpenter",
-    Website: "https://www.donaldson.com",
-    Ticker: "DCI",
+    ceo: "Tod E. Carpenter",
+    website: "https://www.donaldson.com",
+    ticker: "DCI",
     market_cap: "6416.4"
   },
   {
@@ -17235,9 +17235,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "John R. Scannell",
-    Website: "https://www.moog.com",
-    Ticker: "MOGA",
+    ceo: "John R. Scannell",
+    website: "https://www.moog.com",
+    ticker: "MOGA",
     market_cap: "2814.6"
   },
   {
@@ -17255,9 +17255,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Scott W.H. Seu",
-    Website: "https://www.hei.com",
-    Ticker: "HE",
+    ceo: "Scott W.H. Seu",
+    website: "https://www.hei.com",
+    ticker: "HE",
     market_cap: "4630"
   },
   {
@@ -17275,9 +17275,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Joel D. Anderson",
-    Website: "https://www.fivebelow.com",
-    Ticker: "FIVE",
+    ceo: "Joel D. Anderson",
+    website: "https://www.fivebelow.com",
+    ticker: "FIVE",
     market_cap: "8825"
   },
   {
@@ -17295,9 +17295,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Jeff Lawson",
-    Website: "https://www.twilio.com",
-    Ticker: "TWLO",
+    ceo: "Jeff Lawson",
+    website: "https://www.twilio.com",
+    ticker: "TWLO",
     market_cap: "29916.9"
   },
   {
@@ -17315,9 +17315,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Wade C. Davis",
-    Website: "https://https://corporate.televisaunivision.com",
-    Ticker: "",
+    ceo: "Wade C. Davis",
+    website: "https://https://corporate.televisaunivision.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -17335,9 +17335,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David L. Finkelstein",
-    Website: "https://www.annaly.com",
-    Ticker: "NLY",
+    ceo: "David L. Finkelstein",
+    website: "https://www.annaly.com",
+    ticker: "NLY",
     market_cap: "10281"
   },
   {
@@ -17355,9 +17355,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Ronald F. Clarke",
-    Website: "https://www.fleetcor.com",
-    Ticker: "FLT",
+    ceo: "Ronald F. Clarke",
+    website: "https://www.fleetcor.com",
+    ticker: "FLT",
     market_cap: "19398.4"
   },
   {
@@ -17375,9 +17375,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Eric M. Green",
-    Website: "https://www.westpharma.com",
-    Ticker: "WST",
+    ceo: "Eric M. Green",
+    website: "https://www.westpharma.com",
+    ticker: "WST",
     market_cap: "30508.2"
   },
   {
@@ -17395,9 +17395,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Todd A. Becker",
-    Website: "https://www.gpreinc.com",
-    Ticker: "GPRE",
+    ceo: "Todd A. Becker",
+    website: "https://www.gpreinc.com",
+    ticker: "GPRE",
     market_cap: "1662.5"
   },
   {
@@ -17415,9 +17415,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Sandra B. Cochran",
-    Website: "https://www.crackerbarrel.com",
-    Ticker: "CBRL",
+    ceo: "Sandra B. Cochran",
+    website: "https://www.crackerbarrel.com",
+    ticker: "CBRL",
     market_cap: "2757.6"
   },
   {
@@ -17435,9 +17435,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Douglas Cifu",
-    Website: "https://www.virtu.com",
-    Ticker: "VIRT",
+    ceo: "Douglas Cifu",
+    website: "https://www.virtu.com",
+    ticker: "VIRT",
     market_cap: "3674"
   },
   {
@@ -17455,9 +17455,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Liam J. Kelly",
-    Website: "https://www.teleflex.com",
-    Ticker: "TFX",
+    ceo: "Liam J. Kelly",
+    website: "https://www.teleflex.com",
+    ticker: "TFX",
     market_cap: "16642.1"
   },
   {
@@ -17475,9 +17475,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Frank D. Gibeau",
-    Website: "https://www.zynga.com",
-    Ticker: "",
+    ceo: "Frank D. Gibeau",
+    website: "https://www.zynga.com",
+    ticker: "",
     market_cap: "10463.5"
   },
   {
@@ -17495,9 +17495,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Robert S. Wetherbee",
-    Website: "https://www.atimaterials.com",
-    Ticker: "ATI",
+    ceo: "Robert S. Wetherbee",
+    website: "https://www.atimaterials.com",
+    ticker: "ATI",
     market_cap: "3350.8"
   },
   {
@@ -17515,9 +17515,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Adam Foroughi",
-    Website: "https://www.applovin.com",
-    Ticker: "APP",
+    ceo: "Adam Foroughi",
+    website: "https://www.applovin.com",
+    ticker: "APP",
     market_cap: "20696.8"
   },
   {
@@ -17535,9 +17535,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Udit Batra",
-    Website: "https://www.waters.com",
-    Ticker: "WAT",
+    ceo: "Udit Batra",
+    website: "https://www.waters.com",
+    ticker: "WAT",
     market_cap: "18783.4"
   },
   {
@@ -17555,9 +17555,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "John R. Greed",
-    Website: "https://www.mutualofamerica.com",
-    Ticker: "",
+    ceo: "John R. Greed",
+    website: "https://www.mutualofamerica.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -17575,9 +17575,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Ara K. Hovnanian",
-    Website: "https://www.khov.com",
-    Ticker: "HOV",
+    ceo: "Ara K. Hovnanian",
+    website: "https://www.khov.com",
+    ticker: "HOV",
     market_cap: "371.9"
   },
   {
@@ -17595,9 +17595,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Robert A. DiMuccio",
-    Website: "https://www.amica.com",
-    Ticker: "",
+    ceo: "Robert A. DiMuccio",
+    website: "https://www.amica.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -17615,9 +17615,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Diane M. Sullivan",
-    Website: "https://www.caleres.com",
-    Ticker: "CAL",
+    ceo: "Diane M. Sullivan",
+    website: "https://www.caleres.com",
+    ticker: "CAL",
     market_cap: "727.5"
   },
   {
@@ -17635,9 +17635,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Steven H. Gunby",
-    Website: "https://www.fticonsulting.com",
-    Ticker: "FCN",
+    ceo: "Steven H. Gunby",
+    website: "https://www.fticonsulting.com",
+    ticker: "FCN",
     market_cap: "5400.1"
   },
   {
@@ -17655,9 +17655,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jonathan E. Johnson III",
-    Website: "https://www.overstock.com",
-    Ticker: "OSTK",
+    ceo: "Jonathan E. Johnson III",
+    website: "https://www.overstock.com",
+    ticker: "OSTK",
     market_cap: "1897.8"
   },
   {
@@ -17675,9 +17675,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Sachin S. Lawande",
-    Website: "https://www.visteon.com",
-    Ticker: "VC",
+    ceo: "Sachin S. Lawande",
+    website: "https://www.visteon.com",
+    ticker: "VC",
     market_cap: "3056.1"
   },
   {
@@ -17695,9 +17695,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Morris Goldfarb",
-    Website: "https://www.giii.com",
-    Ticker: "GIII",
+    ceo: "Morris Goldfarb",
+    website: "https://www.giii.com",
+    ticker: "GIII",
     market_cap: "1296.1"
   },
   {
@@ -17715,9 +17715,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Luca Savi",
-    Website: "https://www.itt.com",
-    Ticker: "ITT",
+    ceo: "Luca Savi",
+    website: "https://www.itt.com",
+    ticker: "ITT",
     market_cap: "6415.4"
   },
   {
@@ -17735,9 +17735,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Eric D. Ashleman",
-    Website: "https://www.idexcorp.com",
-    Ticker: "IEX",
+    ceo: "Eric D. Ashleman",
+    website: "https://www.idexcorp.com",
+    ticker: "IEX",
     market_cap: "14591.6"
   },
   {
@@ -17755,9 +17755,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Ignacio Alvarez",
-    Website: "https://www.popular.com",
-    Ticker: "BPOP",
+    ceo: "Ignacio Alvarez",
+    website: "https://www.popular.com",
+    ticker: "BPOP",
     market_cap: "6252.3"
   },
   {
@@ -17775,9 +17775,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Anthony J. Wood",
-    Website: "https://www.roku.com",
-    Ticker: "ROKU",
+    ceo: "Anthony J. Wood",
+    website: "https://www.roku.com",
+    ticker: "ROKU",
     market_cap: "16949.3"
   },
   {
@@ -17795,9 +17795,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Tamara L. Lundgren",
-    Website: "https://www.schnitzersteel.com",
-    Ticker: "SCHN",
+    ceo: "Tamara L. Lundgren",
+    website: "https://www.schnitzersteel.com",
+    ticker: "SCHN",
     market_cap: "1445.2"
   },
   {
@@ -17815,9 +17815,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Lucinda M. Baier",
-    Website: "https://www.brookdale.com",
-    Ticker: "BKD",
+    ceo: "Lucinda M. Baier",
+    website: "https://www.brookdale.com",
+    ticker: "BKD",
     market_cap: "1308.3"
   },
   {
@@ -17835,9 +17835,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Derek J. Leathers",
-    Website: "https://www.werner.com",
-    Ticker: "WERN",
+    ceo: "Derek J. Leathers",
+    website: "https://www.werner.com",
+    ticker: "WERN",
     market_cap: "2697.9"
   },
   {
@@ -17855,9 +17855,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "George F. Chappelle Jr.",
-    Website: "https://www.americold.com",
-    Ticker: "COLD",
+    ceo: "George F. Chappelle Jr.",
+    website: "https://www.americold.com",
+    ticker: "COLD",
     market_cap: "7489.8"
   },
   {
@@ -17875,9 +17875,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Russell A. Childs",
-    Website: "https://www.skywest.com",
-    Ticker: "SKYW",
+    ceo: "Russell A. Childs",
+    website: "https://www.skywest.com",
+    ticker: "SKYW",
     market_cap: "1457.6"
   },
   {
@@ -17895,9 +17895,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Glenn J. Williams",
-    Website: "https://www.primerica.com",
-    Ticker: "PRI",
+    ceo: "Glenn J. Williams",
+    website: "https://www.primerica.com",
+    ticker: "PRI",
     market_cap: "5326.8"
   },
   {
@@ -17915,9 +17915,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Greg Johnson",
-    Website: "https://www.mcafee.com",
-    Ticker: "MCFE",
+    ceo: "Greg Johnson",
+    website: "https://www.mcafee.com",
+    ticker: "MCFE",
     market_cap: "9764.5"
   },
   {
@@ -17935,9 +17935,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Ryan S. Napierski",
-    Website: "https://www.nuskin.com",
-    Ticker: "NUS",
+    ceo: "Ryan S. Napierski",
+    website: "https://www.nuskin.com",
+    ticker: "NUS",
     market_cap: "2385.6"
   },
   {
@@ -17955,9 +17955,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "#REF!",
-    Website: "https://www.copart.com",
-    Ticker: "CPRT",
+    ceo: "#REF!",
+    website: "https://www.copart.com",
+    ticker: "CPRT",
     market_cap: "29798.8"
   },
   {
@@ -17975,9 +17975,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Steven A. Michaels",
-    Website: "https://www.progleasing.com",
-    Ticker: "PRG",
+    ceo: "Steven A. Michaels",
+    website: "https://www.progleasing.com",
+    ticker: "PRG",
     market_cap: "1586.9"
   },
   {
@@ -17995,9 +17995,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Gary Steele",
-    Website: "https://www.splunk.com",
-    Ticker: "SPLK",
+    ceo: "Gary Steele",
+    website: "https://www.splunk.com",
+    ticker: "SPLK",
     market_cap: "23881.6"
   },
   {
@@ -18015,9 +18015,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Robert J. Saltiel Jr.",
-    Website: "https://www.mrcglobal.com",
-    Ticker: "MRC",
+    ceo: "Robert J. Saltiel Jr.",
+    website: "https://www.mrcglobal.com",
+    ticker: "MRC",
     market_cap: "995.2"
   },
   {
@@ -18035,9 +18035,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Cindy J. Miller",
-    Website: "https://www.stericycle.com",
-    Ticker: "SRCL",
+    ceo: "Cindy J. Miller",
+    website: "https://www.stericycle.com",
+    ticker: "SRCL",
     market_cap: "5415.5"
   },
   {
@@ -18055,9 +18055,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Vincent T. Roche",
-    Website: "https://www.maximintegrated.com",
-    Ticker: "MXIM",
+    ceo: "Vincent T. Roche",
+    website: "https://www.maximintegrated.com",
+    ticker: "MXIM",
     market_cap: "24490.9"
   },
   {
@@ -18075,9 +18075,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Barry R. Port",
-    Website: "https://www.ensigngroup.net",
-    Ticker: "ENSG",
+    ceo: "Barry R. Port",
+    website: "https://www.ensigngroup.net",
+    ticker: "ENSG",
     market_cap: "4958.3"
   },
   {
@@ -18095,9 +18095,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Herbert S. Vogel",
-    Website: "https://www.sm-energy.com",
-    Ticker: "SM",
+    ceo: "Herbert S. Vogel",
+    website: "https://www.sm-energy.com",
+    ticker: "SM",
     market_cap: "4746.5"
   },
   {
@@ -18115,9 +18115,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Keith A. Harvey",
-    Website: "https://www.kaiseraluminum.com",
-    Ticker: "KALU",
+    ceo: "Keith A. Harvey",
+    website: "https://www.kaiseraluminum.com",
+    ticker: "KALU",
     market_cap: "1493.9"
   },
   {
@@ -18135,9 +18135,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Michael G. Kerr",
-    Website: "https://www.federatedinsurance.com",
-    Ticker: "",
+    ceo: "Michael G. Kerr",
+    website: "https://www.federatedinsurance.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -18155,9 +18155,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Fran?ois Locoh-Donou",
-    Website: "https://www.f5.com",
-    Ticker: "FFIV",
+    ceo: "Fran?ois Locoh-Donou",
+    website: "https://www.f5.com",
+    ticker: "FFIV",
     market_cap: "12691.2"
   },
   {
@@ -18175,9 +18175,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Sara E. Armbruster",
-    Website: "https://www.steelcase.com",
-    Ticker: "SCS",
+    ceo: "Sara E. Armbruster",
+    website: "https://www.steelcase.com",
+    ticker: "SCS",
     market_cap: "1339.5"
   },
   {
@@ -18195,9 +18195,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Daniel Jones",
-    Website: "https://www.encorewire.com",
-    Ticker: "WIRE",
+    ceo: "Daniel Jones",
+    website: "https://www.encorewire.com",
+    ticker: "WIRE",
     market_cap: "2405"
   },
   {
@@ -18215,9 +18215,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Carlos E. Alberini",
-    Website: "https://www.guess.com",
-    Ticker: "GES",
+    ceo: "Carlos E. Alberini",
+    website: "https://www.guess.com",
+    ticker: "GES",
     market_cap: "1305.5"
   },
   {
@@ -18235,9 +18235,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Robert Antokol",
-    Website: "https://www.playtika.com",
-    Ticker: "PLTK",
+    ceo: "Robert Antokol",
+    website: "https://www.playtika.com",
+    ticker: "PLTK",
     market_cap: "7965.8"
   },
   {
@@ -18255,9 +18255,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "William J. Ready",
-    Website: "https://https://investor.pinterestinc.com",
-    Ticker: "PINS",
+    ceo: "William J. Ready",
+    website: "https://https://investor.pinterestinc.com",
+    ticker: "PINS",
     market_cap: "16196.9"
   },
   {
@@ -18275,9 +18275,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Sandeep Mathrani",
-    Website: "https://www.wework.com",
-    Ticker: "WE",
+    ceo: "Sandeep Mathrani",
+    website: "https://www.wework.com",
+    ticker: "WE",
     market_cap: "4937.4"
   },
   {
@@ -18295,9 +18295,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Kevin M. Phillips",
-    Website: "https://www.mantech.com",
-    Ticker: "MANT",
+    ceo: "Kevin M. Phillips",
+    website: "https://www.mantech.com",
+    ticker: "MANT",
     market_cap: "3517.6"
   },
   {
@@ -18315,9 +18315,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Andrew V. Masterman",
-    Website: "https://www.brightview.com",
-    Ticker: "BV",
+    ceo: "Andrew V. Masterman",
+    website: "https://www.brightview.com",
+    ticker: "BV",
     market_cap: "1351.5"
   },
   {
@@ -18335,9 +18335,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Vincent Pilette",
-    Website: "https://www.nortonlifelock.com",
-    Ticker: "NLOK",
+    ceo: "Vincent Pilette",
+    website: "https://www.nortonlifelock.com",
+    ticker: "NLOK",
     market_cap: "15441.9"
   },
   {
@@ -18355,9 +18355,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David Powers",
-    Website: "https://www.deckers.com",
-    Ticker: "DECK",
+    ceo: "David Powers",
+    website: "https://www.deckers.com",
+    ticker: "DECK",
     market_cap: "7457.8"
   },
   {
@@ -18375,9 +18375,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Ronald J. Kramer",
-    Website: "https://www.griffon.com",
-    Ticker: "GFF",
+    ceo: "Ronald J. Kramer",
+    website: "https://www.griffon.com",
+    ticker: "GFF",
     market_cap: "1127.8"
   },
   {
@@ -18395,9 +18395,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Adam M. Aron",
-    Website: "https://www.amctheatres.com",
-    Ticker: "AMC",
+    ceo: "Adam M. Aron",
+    website: "https://www.amctheatres.com",
+    ticker: "AMC",
     market_cap: "12733.4"
   },
   {
@@ -18415,9 +18415,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Lynn M. Bamford",
-    Website: "https://www.curtisswright.com",
-    Ticker: "CW",
+    ceo: "Lynn M. Bamford",
+    website: "https://www.curtisswright.com",
+    ticker: "CW",
     market_cap: "5771"
   },
   {
@@ -18435,9 +18435,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Richard S. Swartz",
-    Website: "https://www.myrgroup.com",
-    Ticker: "MYRG",
+    ceo: "Richard S. Swartz",
+    website: "https://www.myrgroup.com",
+    ticker: "MYRG",
     market_cap: "1594.5"
   },
   {
@@ -18455,9 +18455,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Scott H. Baxter",
-    Website: "https://www.kontoorbrands.com",
-    Ticker: "KTB",
+    ceo: "Scott H. Baxter",
+    website: "https://www.kontoorbrands.com",
+    ticker: "KTB",
     market_cap: "2325.3"
   },
   {
@@ -18475,9 +18475,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Christopher A. Wright",
-    Website: "https://www.libertyfrac.com",
-    Ticker: "LBRT",
+    ceo: "Christopher A. Wright",
+    website: "https://www.libertyfrac.com",
+    ticker: "LBRT",
     market_cap: "2757.9"
   },
   {
@@ -18495,9 +18495,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Patrick E. Kelly",
-    Website: "https://www.kofc.org",
-    Ticker: "",
+    ceo: "Patrick E. Kelly",
+    website: "https://www.kofc.org",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -18515,9 +18515,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Stephen P. Griggs",
-    Website: "https://www.adapthealth.com",
-    Ticker: "AHCO",
+    ceo: "Stephen P. Griggs",
+    website: "https://www.adapthealth.com",
+    ticker: "AHCO",
     market_cap: "2146.6"
   },
   {
@@ -18535,9 +18535,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Andrea R. Owen",
-    Website: "https://www.millerknoll.com",
-    Ticker: "MLKN",
+    ceo: "Andrea R. Owen",
+    website: "https://www.millerknoll.com",
+    ticker: "MLKN",
     market_cap: "2617.7"
   },
   {
@@ -18555,9 +18555,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Mark J. Parrell",
-    Website: "https://www.equityapartments.com",
-    Ticker: "EQR",
+    ceo: "Mark J. Parrell",
+    website: "https://www.equityapartments.com",
+    ticker: "EQR",
     market_cap: "33802.5"
   },
   {
@@ -18575,9 +18575,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Kevin Sayer",
-    Website: "https://www.dexcom.com",
-    Ticker: "DXCM",
+    ceo: "Kevin Sayer",
+    website: "https://www.dexcom.com",
+    ticker: "DXCM",
     market_cap: "39152"
   },
   {
@@ -18595,9 +18595,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Gary W. Rollins",
-    Website: "https://www.rollins.com",
-    Ticker: "ROL",
+    ceo: "Gary W. Rollins",
+    website: "https://www.rollins.com",
+    ticker: "ROL",
     market_cap: "17260.7"
   },
   {
@@ -18615,9 +18615,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Mimi Eckel Vaughn",
-    Website: "https://www.genesco.com",
-    Ticker: "GCO",
+    ceo: "Mimi Eckel Vaughn",
+    website: "https://www.genesco.com",
+    ticker: "GCO",
     market_cap: "868.7"
   },
   {
@@ -18635,9 +18635,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Frank H. Laukien",
-    Website: "https://www.bruker.com",
-    Ticker: "BRKR",
+    ceo: "Frank H. Laukien",
+    website: "https://www.bruker.com",
+    ticker: "BRKR",
     market_cap: "9694.7"
   },
   {
@@ -18655,9 +18655,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Wade D. Miquelon",
-    Website: "https://www.joann.com",
-    Ticker: "JOAN",
+    ceo: "Wade D. Miquelon",
+    website: "https://www.joann.com",
+    ticker: "JOAN",
     market_cap: "463.2"
   },
   {
@@ -18675,9 +18675,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Brendan L. Hoffman",
-    Website: "https://www.wolverineworldwide.com",
-    Ticker: "WWW",
+    ceo: "Brendan L. Hoffman",
+    website: "https://www.wolverineworldwide.com",
+    ticker: "WWW",
     market_cap: "1836.1"
   },
   {
@@ -18695,9 +18695,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "#REF!",
-    Website: "https://www.gray.tv",
-    Ticker: "GTN",
+    ceo: "#REF!",
+    website: "https://www.gray.tv",
+    ticker: "GTN",
     market_cap: "2093.2"
   },
   {
@@ -18715,9 +18715,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jay C. Horgen",
-    Website: "https://www.amg.com",
-    Ticker: "AMG",
+    ceo: "Jay C. Horgen",
+    website: "https://www.amg.com",
+    ticker: "AMG",
     market_cap: "5606.8"
   },
   {
@@ -18735,9 +18735,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Anne P. Noonan",
-    Website: "https://www.summit-materials.com",
-    Ticker: "SUM",
+    ceo: "Anne P. Noonan",
+    website: "https://www.summit-materials.com",
+    ticker: "SUM",
     market_cap: "3687.8"
   },
   {
@@ -18755,9 +18755,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jonathan W. Witter",
-    Website: "https://www.salliemae.com",
-    Ticker: "SLM",
+    ceo: "Jonathan W. Witter",
+    website: "https://www.salliemae.com",
+    ticker: "SLM",
     market_cap: "5129.7"
   },
   {
@@ -18775,9 +18775,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Roel Vestjens",
-    Website: "https://www.belden.com",
-    Ticker: "BDC",
+    ceo: "Roel Vestjens",
+    website: "https://www.belden.com",
+    ticker: "BDC",
     market_cap: "2492.5"
   },
   {
@@ -18795,9 +18795,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David S. Graziosi",
-    Website: "https://www.allisontransmission.com",
-    Ticker: "ALSN",
+    ceo: "David S. Graziosi",
+    website: "https://www.allisontransmission.com",
+    ticker: "ALSN",
     market_cap: "3810.6"
   },
   {
@@ -18815,9 +18815,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Benjamin Gliklich",
-    Website: "https://www.elementsolutionsinc.com",
-    Ticker: "ESI",
+    ceo: "Benjamin Gliklich",
+    website: "https://www.elementsolutionsinc.com",
+    ticker: "ESI",
     market_cap: "5434.8"
   },
   {
@@ -18835,9 +18835,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Maria M. Pope",
-    Website: "https://www.portlandgeneral.com",
-    Ticker: "POR",
+    ceo: "Maria M. Pope",
+    website: "https://www.portlandgeneral.com",
+    ticker: "POR",
     market_cap: "4940"
   },
   {
@@ -18855,9 +18855,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Rodney N. Rushing",
-    Website: "https://www.revgroup.com",
-    Ticker: "REVG",
+    ceo: "Rodney N. Rushing",
+    website: "https://www.revgroup.com",
+    ticker: "REVG",
     market_cap: "843.4"
   },
   {
@@ -18875,9 +18875,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Christopher H. Hunter",
-    Website: "https://www.acadiahealthcare.com",
-    Ticker: "ACHC",
+    ceo: "Christopher H. Hunter",
+    website: "https://www.acadiahealthcare.com",
+    ticker: "ACHC",
     market_cap: "5891.3"
   },
   {
@@ -18895,9 +18895,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Peter M. Moglia",
-    Website: "https://www.are.com",
-    Ticker: "ARE",
+    ceo: "Peter M. Moglia",
+    website: "https://www.are.com",
+    ticker: "ARE",
     market_cap: "32188.6"
   },
   {
@@ -18915,9 +18915,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Sundaram Nagarajan",
-    Website: "https://www.nordson.com",
-    Ticker: "NDSN",
+    ceo: "Sundaram Nagarajan",
+    website: "https://www.nordson.com",
+    ticker: "NDSN",
     market_cap: "13157.1"
   },
   {
@@ -18935,9 +18935,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Thomas E. Gottwald",
-    Website: "https://www.newmarket.com",
-    Ticker: "NEU",
+    ceo: "Thomas E. Gottwald",
+    website: "https://www.newmarket.com",
+    ticker: "NEU",
     market_cap: "3346.7"
   },
   {
@@ -18955,9 +18955,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Barbara Turner",
-    Website: "https://www.ohionational.com",
-    Ticker: "",
+    ceo: "Barbara Turner",
+    website: "https://www.ohionational.com",
+    ticker: "",
     market_cap: ""
   },
   {
@@ -18975,9 +18975,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Scott R. Behrens",
-    Website: "https://www.stepan.com",
-    Ticker: "SCL",
+    ceo: "Scott R. Behrens",
+    website: "https://www.stepan.com",
+    ticker: "SCL",
     market_cap: "2215.6"
   },
   {
@@ -18995,9 +18995,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Robert D. Graham",
-    Website: "https://www.valhi.net",
-    Ticker: "VHI",
+    ceo: "Robert D. Graham",
+    website: "https://www.valhi.net",
+    ticker: "VHI",
     market_cap: "828.8"
   },
   {
@@ -19015,9 +19015,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Mark D. Wang",
-    Website: "https://www.hgv.com",
-    Ticker: "HGV",
+    ceo: "Mark D. Wang",
+    website: "https://www.hgv.com",
+    ticker: "HGV",
     market_cap: "6247.9"
   },
   {
@@ -19035,9 +19035,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Jeffrey S. Edwards",
-    Website: "https://www.cooperstandard.com",
-    Ticker: "CPS",
+    ceo: "Jeffrey S. Edwards",
+    website: "https://www.cooperstandard.com",
+    ticker: "CPS",
     market_cap: "149"
   },
   {
@@ -19055,9 +19055,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Josh Silverman",
-    Website: "https://www.etsy.com",
-    Ticker: "ETSY",
+    ceo: "Josh Silverman",
+    website: "https://www.etsy.com",
+    ticker: "ETSY",
     market_cap: "12423"
   },
   {
@@ -19075,9 +19075,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Andrew Rees",
-    Website: "https://www.crocs.com",
-    Ticker: "CROX",
+    ceo: "Andrew Rees",
+    website: "https://www.crocs.com",
+    ticker: "CROX",
     market_cap: "4811"
   },
   {
@@ -19095,9 +19095,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Richard T. Marabito",
-    Website: "https://www.olysteel.com",
-    Ticker: "ZEUS",
+    ceo: "Richard T. Marabito",
+    website: "https://www.olysteel.com",
+    ticker: "ZEUS",
     market_cap: "427.8"
   },
   {
@@ -19115,9 +19115,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Joseph J. DePaolo",
-    Website: "https://www.signatureny.com",
-    Ticker: "SBNY",
+    ceo: "Joseph J. DePaolo",
+    website: "https://www.signatureny.com",
+    ticker: "SBNY",
     market_cap: "18416.9"
   },
   {
@@ -19135,9 +19135,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jeffrey A. Stoops",
-    Website: "https://www.sbasite.com",
-    Ticker: "SBAC",
+    ceo: "Jeffrey A. Stoops",
+    website: "https://www.sbasite.com",
+    ticker: "SBAC",
     market_cap: "37168.7"
   },
   {
@@ -19155,9 +19155,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Roger W. Jenkins",
-    Website: "https://www.murphyoilcorp.com",
-    Ticker: "MUR",
+    ceo: "Roger W. Jenkins",
+    website: "https://www.murphyoilcorp.com",
+    ticker: "MUR",
     market_cap: "6275.3"
   },
   {
@@ -19175,9 +19175,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Bertrand Loy",
-    Website: "https://www.entegris.com",
-    Ticker: "ENTG",
+    ceo: "Bertrand Loy",
+    website: "https://www.entegris.com",
+    ticker: "ENTG",
     market_cap: "17830.9"
   },
   {
@@ -19195,9 +19195,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Benjamin W. Schall",
-    Website: "https://www.avalonbay.com",
-    Ticker: "AVB",
+    ceo: "Benjamin W. Schall",
+    website: "https://www.avalonbay.com",
+    ticker: "AVB",
     market_cap: "34710.3"
   },
   {
@@ -19215,9 +19215,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Frederick J. Holzgrefe III",
-    Website: "https://www.saia.com",
-    Ticker: "SAIA",
+    ceo: "Frederick J. Holzgrefe III",
+    website: "https://www.saia.com",
+    ticker: "SAIA",
     market_cap: "6438.4"
   },
   {
@@ -19235,9 +19235,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Adam Symson",
-    Website: "https://www.scripps.com",
-    Ticker: "SSP",
+    ceo: "Adam Symson",
+    website: "https://www.scripps.com",
+    ticker: "SSP",
     market_cap: "1154"
   },
   {
@@ -19255,9 +19255,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Kenneth D. Tuchman",
-    Website: "https://www.ttec.com",
-    Ticker: "TTEC",
+    ceo: "Kenneth D. Tuchman",
+    website: "https://www.ttec.com",
+    ticker: "TTEC",
     market_cap: "3878"
   },
   {
@@ -19275,9 +19275,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Gary A. Shiffman",
-    Website: "https://www.suncommunities.com",
-    Ticker: "SUI",
+    ceo: "Gary A. Shiffman",
+    website: "https://www.suncommunities.com",
+    ticker: "SUI",
     market_cap: "20372.8"
   },
   {
@@ -19295,9 +19295,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David J. Stetson",
-    Website: "https://www.alphametresources.com",
-    Ticker: "AMR",
+    ceo: "David J. Stetson",
+    website: "https://www.alphametresources.com",
+    ticker: "AMR",
     market_cap: "2447.5"
   },
   {
@@ -19315,9 +19315,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jose Gordo",
-    Website: "https://www.geogroup.com",
-    Ticker: "GEO",
+    ceo: "Jose Gordo",
+    website: "https://www.geogroup.com",
+    ticker: "GEO",
     market_cap: "809.8"
   },
   {
@@ -19335,9 +19335,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Mark D. Dankberg",
-    Website: "https://www.viasat.com",
-    Ticker: "VSAT",
+    ceo: "Mark D. Dankberg",
+    website: "https://www.viasat.com",
+    ticker: "VSAT",
     market_cap: "3630.4"
   },
   {
@@ -19355,9 +19355,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jeffrey W. Benck",
-    Website: "https://www.bench.com",
-    Ticker: "BHE",
+    ceo: "Jeffrey W. Benck",
+    website: "https://www.bench.com",
+    ticker: "BHE",
     market_cap: "881.4"
   },
   {
@@ -19375,9 +19375,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Peter J. Kelly",
-    Website: "https://www.karglobal.com",
-    Ticker: "KAR",
+    ceo: "Peter J. Kelly",
+    website: "https://www.karglobal.com",
+    ticker: "KAR",
     market_cap: "2187.3"
   },
   {
@@ -19395,9 +19395,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Thomas T. Edman",
-    Website: "https://www.ttm.com",
-    Ticker: "TTMI",
+    ceo: "Thomas T. Edman",
+    website: "https://www.ttm.com",
+    ticker: "TTMI",
     market_cap: "1506.2"
   },
   {
@@ -19415,9 +19415,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "David W. Grzebinski",
-    Website: "https://www.kirbycorp.com",
-    Ticker: "KEX",
+    ceo: "David W. Grzebinski",
+    website: "https://www.kirbycorp.com",
+    ticker: "KEX",
     market_cap: "4345.9"
   },
   {
@@ -19435,9 +19435,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Charles Blankenship Jr.",
-    Website: "https://www.woodward.com",
-    Ticker: "WWD",
+    ceo: "Charles Blankenship Jr.",
+    website: "https://www.woodward.com",
+    ticker: "WWD",
     market_cap: "7882.4"
   },
   {
@@ -19455,9 +19455,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Scott R. Wells",
-    Website: "https://www.clearchanneloutdoor.com",
-    Ticker: "CCO",
+    ceo: "Scott R. Wells",
+    website: "https://www.clearchanneloutdoor.com",
+    ticker: "CCO",
     market_cap: "1630.9"
   },
   {
@@ -19475,9 +19475,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Suzanne Sitherwood",
-    Website: "https://www.spireenergy.com",
-    Ticker: "SR",
+    ceo: "Suzanne Sitherwood",
+    website: "https://www.spireenergy.com",
+    ticker: "SR",
     market_cap: "3713.6"
   },
   {
@@ -19495,9 +19495,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Christopher T. Metz",
-    Website: "https://www.vistaoutdoor.com",
-    Ticker: "VSTO",
+    ceo: "Christopher T. Metz",
+    website: "https://www.vistaoutdoor.com",
+    ticker: "VSTO",
     market_cap: "2007.9"
   },
   {
@@ -19515,9 +19515,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "J. Eric Evans",
-    Website: "https://www.surgerypartners.com",
-    Ticker: "SGRY",
+    ceo: "J. Eric Evans",
+    website: "https://www.surgerypartners.com",
+    ticker: "SGRY",
     market_cap: "4919.1"
   },
   {
@@ -19535,9 +19535,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Keith G. Myers",
-    Website: "https://www.lhcgroup.com",
-    Ticker: "LHCG",
+    ceo: "Keith G. Myers",
+    website: "https://www.lhcgroup.com",
+    ticker: "LHCG",
     market_cap: "5229.6"
   },
   {
@@ -19555,9 +19555,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Christopher T. Gerard",
-    Website: "https://www.amedisys.com",
-    Ticker: "AMED",
+    ceo: "Christopher T. Gerard",
+    website: "https://www.amedisys.com",
+    ticker: "AMED",
     market_cap: "5603.9"
   },
   {
@@ -19575,9 +19575,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Jesse E. Gary",
-    Website: "https://www.centuryaluminum.com",
-    Ticker: "CENX",
+    ceo: "Jesse E. Gary",
+    website: "https://www.centuryaluminum.com",
+    ticker: "CENX",
     market_cap: "2400.3"
   },
   {
@@ -19595,9 +19595,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Paul A. Lang",
-    Website: "https://www.archrsc.com",
-    Ticker: "ARCH",
+    ceo: "Paul A. Lang",
+    website: "https://www.archrsc.com",
+    ticker: "ARCH",
     market_cap: "2126.2"
   },
   {
@@ -19615,9 +19615,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Eileen P. Drake",
-    Website: "https://www.aerojetrocketdyne.com",
-    Ticker: "AJRD",
+    ceo: "Eileen P. Drake",
+    website: "https://www.aerojetrocketdyne.com",
+    ticker: "AJRD",
     market_cap: "3169.4"
   },
   {
@@ -19635,9 +19635,9 @@ var array = [
     ceo_woman: "yes",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Shelly R. Ibach",
-    Website: "https://www.sleepnumber.com",
-    Ticker: "SNBR",
+    ceo: "Shelly R. Ibach",
+    website: "https://www.sleepnumber.com",
+    ticker: "SNBR",
     market_cap: "1123.7"
   },
   {
@@ -19655,9 +19655,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jeffrey D. Lorenger",
-    Website: "https://www.hnicorp.com",
-    Ticker: "HNI",
+    ceo: "Jeffrey D. Lorenger",
+    website: "https://www.hnicorp.com",
+    ticker: "HNI",
     market_cap: "1568.7"
   },
   {
@@ -19675,9 +19675,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Charles H. Giancarlo",
-    Website: "https://www.purestorage.com",
-    Ticker: "PSTG",
+    ceo: "Charles H. Giancarlo",
+    website: "https://www.purestorage.com",
+    ticker: "PSTG",
     market_cap: "10238"
   },
   {
@@ -19695,9 +19695,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Steven C. Cooper",
-    Website: "https://www.trueblue.com",
-    Ticker: "TBI",
+    ceo: "Steven C. Cooper",
+    website: "https://www.trueblue.com",
+    ticker: "TBI",
     market_cap: "995.6"
   },
   {
@@ -19715,9 +19715,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Brad Weston",
-    Website: "https://www.partycity.com",
-    Ticker: "PRTY",
+    ceo: "Brad Weston",
+    website: "https://www.partycity.com",
+    ticker: "PRTY",
     market_cap: "402.6"
   },
   {
@@ -19735,9 +19735,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Anthony M. Jabbour",
-    Website: "https://www.dnb.com",
-    Ticker: "DNB",
+    ceo: "Anthony M. Jabbour",
+    website: "https://www.dnb.com",
+    ticker: "DNB",
     market_cap: "7554"
   },
   {
@@ -19755,9 +19755,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Andrew W. Houston",
-    Website: "https://www.dropbox.com",
-    Ticker: "DBX",
+    ceo: "Andrew W. Houston",
+    website: "https://www.dropbox.com",
+    ticker: "DBX",
     market_cap: "8873.5"
   },
   {
@@ -19775,9 +19775,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Stephen D. Westhoven",
-    Website: "https://www.njresources.com",
-    Ticker: "NJR",
+    ceo: "Stephen D. Westhoven",
+    website: "https://www.njresources.com",
+    ticker: "NJR",
     market_cap: "4405.4"
   },
   {
@@ -19795,9 +19795,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "David Maher",
-    Website: "https://www.acushnetholdingscorp.com",
-    Ticker: "GOLF",
+    ceo: "David Maher",
+    website: "https://www.acushnetholdingscorp.com",
+    ticker: "GOLF",
     market_cap: "2914"
   },
   {
@@ -19815,9 +19815,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "F. Nicholas Grasberger III",
-    Website: "https://www.harsco.com",
-    Ticker: "HSC",
+    ceo: "F. Nicholas Grasberger III",
+    website: "https://www.harsco.com",
+    ticker: "HSC",
     market_cap: "969.7"
   },
   {
@@ -19835,9 +19835,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Allan P. Merrill",
-    Website: "https://www.beazer.com",
-    Ticker: "BZH",
+    ceo: "Allan P. Merrill",
+    website: "https://www.beazer.com",
+    ticker: "BZH",
     market_cap: "478.8"
   },
   {
@@ -19855,9 +19855,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Kevin J. McNamara",
-    Website: "https://www.chemed.com",
-    Ticker: "CHE",
+    ceo: "Kevin J. McNamara",
+    website: "https://www.chemed.com",
+    ticker: "CHE",
     market_cap: "7592.5"
   },
   {
@@ -19875,9 +19875,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Grant E. Sims",
-    Website: "https://www.genesisenergy.com",
-    Ticker: "GEL",
+    ceo: "Grant E. Sims",
+    website: "https://www.genesisenergy.com",
+    ticker: "GEL",
     market_cap: "1435.4"
   },
   {
@@ -19895,9 +19895,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Rex D. Geveden",
-    Website: "https://www.bwxt.com",
-    Ticker: "BWXT",
+    ceo: "Rex D. Geveden",
+    website: "https://www.bwxt.com",
+    ticker: "BWXT",
     market_cap: "4925.6"
   },
   {
@@ -19915,9 +19915,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "William W. Wang",
-    Website: "https://www.vizio.com",
-    Ticker: "VZIO",
+    ceo: "William W. Wang",
+    website: "https://www.vizio.com",
+    ticker: "VZIO",
     market_cap: "1705.1"
   },
   {
@@ -19935,9 +19935,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Christopher G. McCann",
-    Website: "https://www.1800flowers.com",
-    Ticker: "FLWS",
+    ceo: "Christopher G. McCann",
+    website: "https://www.1800flowers.com",
+    ticker: "FLWS",
     market_cap: "830"
   },
   {
@@ -19955,9 +19955,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Jeffrey Solomon",
-    Website: "https://www.cowen.com",
-    Ticker: "COWN",
+    ceo: "Jeffrey Solomon",
+    website: "https://www.cowen.com",
+    ticker: "COWN",
     market_cap: "1078"
   },
   {
@@ -19975,9 +19975,9 @@ var array = [
     ceo_woman: "no",
     profitable: "yes",
     prev_rank: " ",
-    CEO: "Guillermo Novo",
-    Website: "https://www.ashland.com",
-    Ticker: "ASH",
+    ceo: "Guillermo Novo",
+    website: "https://www.ashland.com",
+    ticker: "ASH",
     market_cap: "5601.9"
   },
   {
@@ -19995,9 +19995,9 @@ var array = [
     ceo_woman: "no",
     profitable: "no",
     prev_rank: " ",
-    CEO: "Allan C. Thygesen",
-    Website: "https://www.docusign.com",
-    Ticker: "DOCU",
+    ceo: "Allan C. Thygesen",
+    website: "https://www.docusign.com",
+    ticker: "DOCU",
     market_cap: "21302.8"
   }
 ]
@@ -20009,7 +20009,7 @@ function showtable(array) {
       <td>Company</td>
       <td>City</td>
       <td>State</td>
-      <td>Website</td>
+      <td>website</td>
     </tr>
   `;
 }
