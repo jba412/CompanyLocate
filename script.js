@@ -20047,7 +20047,7 @@ const searchField = document.querySelector('#search');
             console.log(element.city);
             console.log(element.state);
 
-            var url = 'https://maps.googleapis.com/maps/api/geocode/json?address='+element.city+',+'+element.state+'&key=AIzaSyDf9ff61TZXUQI6-UCq6VcGn9XA5fKyZvk';
+            var url = 'https://maps.googleapis.com/maps/api/geocode/json?address='+element.city+',+'+element.state+'&key=APIKEYHERE';
             var json_obj = JSON.parse(Get(url));
 
             var latt = json_obj['results'][0]['geometry']['location']['lat'];
@@ -20065,7 +20065,7 @@ const searchField = document.querySelector('#search');
             var mapContainer = document.getElementById("mapContainer");
             mapContainer.classList.remove("hidden");
             var script = document.createElement("script");
-            script.setAttribute("src", "https://maps.googleapis.com/maps/api/js?key=AIzaSyAJg3CF2w-CZS1_vtzCbrD6jIYWejcdavc&callback=initMap");
+            script.setAttribute("src", "https://maps.googleapis.com/maps/api/js?key=APIKEYHERE&callback=initMap");
             script.setAttribute("defer", "");
             mapContainer.append(script);
             script.onload = initMap;
